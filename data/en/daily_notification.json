@@ -982,5 +982,9 @@
     {
         "type": "hadith",
         "data": "<p>It was narrated that &#039;Aishah said:</p><p class=\"hadith\">مَا تَرَكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دِينَارًا وَلَا دِرْهَمًا وَلَا شَاةً وَلَا بَعِيرًا وَلَا أَوْصَى بِشَيْءٍ</p><p>The Messenger of Allah did not leave behind a Dinar or a Dirham, or a sheep or a camel, and he did not leave any will.</p><p class=\"reference\">Ibn Mazah: 2695</p>"
+    },
+    {
+        "type": "quran",
+        "data": "<p class=\"quran\"> اِهْدِنَا الصِّرَاطَ الْمُسْتَقِیْمَۙ۝۵ صِرَاطَ الَّذِیْنَ اَنْعَمْتَ عَلَیْهِمْ ۙ۬ۦ غَیْرِ الْمَغْضُوْبِ عَلَیْهِمْ وَ لَا الضَّآلِّیْنَ۠۝۷</p><p><strong>Meaning:</strong> (O Allah!) Guide us to the straight path. The path of those upon whom You have bestowed Your favor, who are not the object of anger, nor are they astray.</p><p class=\"reference\">Surah Al-Fatiha (1), Ayahs 5-7</p>"
     }
 ]
