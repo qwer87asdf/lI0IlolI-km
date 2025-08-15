@@ -1,0 +1,62 @@
+name: Update dua Timestamp
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - 'data/dua.json'
+    branches:
+      - master
+
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update dua updated_at
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const path = 'data/data_source.json';
+          const now = Math.floor(Date.now() / 1000);
+
+          const data = JSON.parse(fs.readFileSync(path, 'utf-8'));
+          for (const item of data) {
+            if (item.name === 'dua') {
+              item.updated_at = now;
+              break;
+            }
+          }
+          fs.writeFileSync(path, JSON.stringify(data, null, 2));
+          EOF
+
+      - name: Configure git
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "qwer87asdf"
+          git remote set-url origin https://qwer87asdf:${GH_PAT}@github.com/qwer87asdf/lI0IlolI-km.git
+
+      - name: Fetch and merge remote changes
+        run: |
+          git fetch origin master
+          git merge origin/master
+
+      - name: Commit changes
+        run: |
+          git add data/data_source.json
+          git commit -m "Update dua updated_at to $(date +%s)" || echo "No changes to commit"
+
+      - name: Push changes
+        run: |
+          git push origin master
