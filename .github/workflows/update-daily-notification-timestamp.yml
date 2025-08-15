@@ -3,7 +3,6 @@ name: Update daily_notification Timestamp
 on:
   push:
     paths:
-      - 'data/en/daily_notification.json'
       - 'data/daily_notification.json'
     branches:
       - master
