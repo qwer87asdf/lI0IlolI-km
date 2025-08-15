@@ -39,13 +39,24 @@ jobs:
           fs.writeFileSync(path, JSON.stringify(data, null, 2));
           EOF
 
-      - name: Commit and push changes
+      - name: Configure git
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "qwer87asdf"
           git remote set-url origin https://qwer87asdf:${GH_PAT}@github.com/qwer87asdf/lI0IlolI-km.git
+
+      - name: Fetch and merge remote changes
+        run: |
+          git fetch origin master
+          git merge origin/master
+
+      - name: Commit changes
+        run: |
           git add data/data_source.json
           git commit -m "Update daily_notification updated_at to $(date +%s)" || echo "No changes to commit"
+
+      - name: Push changes
+        run: |
           git push origin master
