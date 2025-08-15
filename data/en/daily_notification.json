@@ -966,5 +966,17 @@
     {
         "type": "quran",
         "data": "<p class=\"sanad\">Allah says in the Qur&#039;an:</p><p class=\"quran\">وَ اِذَا سَاَلَكَ عِبَادِیْ عَنِّیْ فَاِنِّیْ قَرِیْبٌ ؕ اُجِیْبُ دَعْوَةَ الدَّاعِ اِذَا دَعَانِ ۙ فَلْیَسْتَجِیْبُوْا لِیْ وَ لْیُؤْمِنُوْا بِیْ لَعَلَّهُمْ یَرْشُدُوْنَ۝۱۸۶</p><p>When My servants ask you about Me, I am indeed near. I respond to the call of the caller when he calls upon Me. So let them respond to Me and believe in Me that they may be rightly guided.</p><p class=\"reference\">(Surah Al-Baqarah, Ayah 186)</p>"
+    },
+    {
+        "type": "hadith",
+        "data": "<p class=\"sanad\">It was narrated that Ibn &#039;Abbas said: The Messenger of Allah said:</p><p class=\"hadith\">الْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَقِيءُ ثُمَّ يَعُودُ فِي قَيْئِهِ</p><p>The one who takes back his gift is like the dog which vomits then goes back to its vomit.</p><p class=\"reference\">Ibn-Mazah: 2383</p><h5>Fotnote:</h5><p>However, in certain cases, a gift may be taken back even after it has been given, such as:</p><p>If, at the time of giving the gift, a condition was stipulated and that condition is not fulfilled, the gift may be revoked.</p><p>If the recipient (the one who received the gift) obtained it through fraud or illegal means, the giver may seek the court’s assistance to have the gift annulled.</p><p>However, the act of a father reclaiming a gift from his son is supported by Islamic law, whereas in other cases, reclaiming a gift is generally discouraged.</p>"
+    },
+    {
+        "type": "hadith",
+        "data": "<p class=\"sanad\">It was narrated from Ibn &#039;Umar that the Messenger of Allah said:</p><p class=\"hadith\">مَا حَقُّ امْرِئٍ مُسْلِمٍ لَهُ شَيْءٌ يُوصَى فِيهِ يَبِيتُ لَيْلَتَيْنِ إِلَّا وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ</p><p>It is not befitting for a Muslim who has anything concerning which a will should be made, to abide for two nights without having a written will with him.</p><p class=\"reference\">Ibn Mazah: 2699</p>"
+    },
+    {
+        "type": "hadith",
+        "data": "<p class=\"sanad\">It was narrated that Anas said: The Messenger of Allah said:</p><p class=\"hadith\">حُبِّبَ إِلَيَّ مِنْ الدُّنْيَا النِّسَاءُ وَالطِّيبُ وَجُعِلَ قُرَّةُ عَيْنِي فِي الصَّلَاةِ</p><p>In this world, women and perfume have been made dear to me, and my comfort has been provided in prayer.</p><p class=\"reference\">Mishkat: 5261</p>"
     }
 ]
