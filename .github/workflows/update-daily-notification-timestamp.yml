@@ -1,0 +1,46 @@
+name: Update daily_notification Timestamp
+
+on:
+  push:
+    paths:
+      - 'data/en/daily_notification.json'
+      - 'data/daily_notification.json'
+    branches:
+      - main
+
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update daily_notification updated_at
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const path = 'data/data_source.json';
+          const now = Math.floor(Date.now() / 1000);
+
+          const data = JSON.parse(fs.readFileSync(path, 'utf-8'));
+          for (const item of data) {
+            if (item.name === 'daily_notification') {
+              item.updated_at = now;
+              break;
+            }
+          }
+          fs.writeFileSync(path, JSON.stringify(data, null, 2));
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add data/data_source.json
+          git commit -m "Update daily_notification updated_at to $(date +%s)" || echo "No changes to commit"
+          git push
