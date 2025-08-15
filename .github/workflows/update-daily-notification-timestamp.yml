@@ -41,7 +41,7 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name "qwer87asdf"
           git remote set-url origin https://qwer87asdf:${GH_PAT}@github.com/qwer87asdf/lI0IlolI-km.git
           git add data/data_source.json
           git commit -m "Update daily_notification updated_at to $(date +%s)" || echo "No changes to commit"
