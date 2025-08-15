@@ -6,7 +6,7 @@ on:
       - 'data/en/daily_notification.json'
       - 'data/daily_notification.json'
     branches:
-      - main
+      - master
 
 jobs:
   update-timestamp:
