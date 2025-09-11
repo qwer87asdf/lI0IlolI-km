@@ -38,6 +38,24 @@
         "placement": "a359bd948b0f30fcaf27ace4e5359281",
         "divId": "mahfil-feed"
       }
-    ]
+    ],
+    "adsMetaData": {
+      "bn": {
+        "whyThisAdButtonText": "কেন Ad দেখানো হয়?",
+        "closeAdButtonText": "Ad বন্ধ করুন",
+        "whyThisAdTitle": "মুসলিমস ডে অ্যাপে কেন Ad দেখানো হয়?",
+        "whyThisAdDescription": "<p>মুসলিমস ডে অ্যাপের নিয়মিত ডেভেলপমেন্ট চালাতে প্রতি মাসে কয়েক লক্ষ টাকা খরচ হয়। এই খরচের একটা অংশ আসে অ্যাপে হালাল বিজ্ঞাপন দেখিয়ে।</p><p>তবে আপনি চাইলে খুব সহজেই বিজ্ঞাপনমুক্ত অ্যাপ পেতে পারেন <strong>নিচের বাটনে ক্লিক</strong> করে। এটি আমাদের কার্যক্রম চালিয়ে নিতে সহযোগিতা করবে।</p>",
+        "buySubscriptionButtonText": "প্রিমিয়াম সাবস্ক্রিপশন কিনুন",
+        "closeButtonText": "ঠিক আছে, বুঝেছি"
+      },
+      "en": {
+        "whyThisAdButtonText": "Why is this ad shown?",
+        "closeAdButtonText": "Close Ad, buy premium",
+        "whyThisAdTitle": "Why are ads shown in the Muslims Day app?",
+        "whyThisAdDescription": "<p>The regular development of the Muslims Day app costs a significant amount of money each month. A portion of this cost is covered by showing halal advertisements in the app.</p><p>However, you can easily get an ad-free app by clicking the <strong>button below</strong>. This will help us to continue our operations.</p>",
+        "buySubscriptionButtonText": "Buy Premium Subscription",
+        "closeButtonText": "Okay, I understand"
+      }
+    }
   }
 }
