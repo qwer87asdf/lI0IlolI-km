@@ -6,7 +6,7 @@
     "publisher": "muslims-day",
     "format": "json",
     "campaign_types": "paid|house",
-    "refresh_rate_in_millis": 10000,
+    "refresh_rate_in_millis": 30000,
     "ads": [
       {
         "isEnable": true,
