@@ -35,64 +35,64 @@
     "order": 5,
     "name_en": "Jumadal Awwal",
     "name_bn": "জুমাদাল আউয়াল",
-    "start": "2024-11-04",
-    "end": "2024-12-03",
-    "hijri_year": "1446"
+    "start": "2025-10-24",
+    "end": "2025-11-22",
+    "hijri_year": "1447"
   },
   {
     "order": 6,
     "name_en": "Jumadas Sani",
     "name_bn": "জুমাদাস সানী",
-    "start": "2024-12-04",
-    "end": "2025-01-01",
-    "hijri_year": "1446"
+    "start": "2025-11-23",
+    "end": "2025-12-21",
+    "hijri_year": "1447"
   },
   {
     "order": 7,
     "name_en": "Rajab",
     "name_bn": "রজব",
-    "start": "2025-01-02",
-    "end": "2025-01-31",
-    "hijri_year": "1446"
+    "start": "2025-12-22",
+    "end": "2026-01-20",
+    "hijri_year": "1447"
   },
   {
     "order": 8,
     "name_en": "Shaban",
     "name_bn": "শাবান",
-    "start": "2025-02-01",
-    "end": "2025-03-01",
-    "hijri_year": "1446"
+    "start": "2026-01-21",
+    "end": "2026-02-18",
+    "hijri_year": "1447"
   },
   {
     "order": 9,
     "name_en": "Ramadan",
     "name_bn": "রমাদান",
-    "start": "2025-03-02",
-    "end": "2025-03-30",
-    "hijri_year": "1446"
+    "start": "2026-02-19",
+    "end": "2026-03-20",
+    "hijri_year": "1447"
   },
   {
     "order": 10,
     "name_en": "Shawwal",
     "name_bn": "শাওয়াল",
-    "start": "2025-03-31",
-    "end": "2025-04-29",
-    "hijri_year": "1446"
+    "start": "2026-03-21",
+    "end": "2026-04-19",
+    "hijri_year": "1447"
   },
   {
     "order": 11,
     "name_en": "Jilqad",
     "name_bn": "জিলকদ",
-    "start": "2025-04-30",
-    "end": "2025-05-28",
-    "hijri_year": "1446"
+    "start": "2026-04-20",
+    "end": "2026-05-18",
+    "hijri_year": "1447"
   },
   {
     "order": 12,
     "name_en": "Jilhajj",
     "name_bn": "জিলহজ্জ",
-    "start": "2025-05-29",
-    "end": "2025-06-26",
-    "hijri_year": "1446"
+    "start": "2026-05-19",
+    "end": "2026-06-16",
+    "hijri_year": "1447"
   }
 ]
