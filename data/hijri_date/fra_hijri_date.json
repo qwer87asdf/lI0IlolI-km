@@ -1,0 +1,86 @@
+[
+  {
+    "order": 1,
+    "name": "Muharram",
+    "start": "2025-06-26",
+    "end": "2025-07-25",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 2,
+    "name": "Safar",
+    "start": "2025-07-26",
+    "end": "2025-08-23",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 3,
+    "name": "Rabi Ul Awwal",
+    "start": "2025-08-24",
+    "end": "2025-09-22",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 4,
+    "name": "Rabi Us Sani",
+    "start": "2025-09-23",
+    "end": "2025-10-22",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 5,
+    "name": "Jumadal Awwal",
+    "start": "2025-10-23",
+    "end": "2025-11-21",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 6,
+    "name": "Jumadas Sani",
+    "start": "2025-11-22",
+    "end": "2025-12-20",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 7,
+    "name": "Rajab",
+    "start": "2025-12-21",
+    "end": "2026-01-19",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 8,
+    "name": "Shaban",
+    "start": "2026-01-20",
+    "end": "2026-02-17",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 9,
+    "name": "Ramadan",
+    "start": "2026-02-18",
+    "end": "2026-03-19",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 10,
+    "name": "Shawwal",
+    "start": "2026-03-20",
+    "end": "2026-04-18",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 11,
+    "name": "Jilqad",
+    "start": "2026-04-19",
+    "end": "2026-05-17",
+    "hijri_year": "1447"
+  },
+  {
+    "order": 12,
+    "name": "Jilhajj",
+    "start": "2026-05-18",
+    "end": "2026-06-15",
+    "hijri_year": "1447"
+  }
+]

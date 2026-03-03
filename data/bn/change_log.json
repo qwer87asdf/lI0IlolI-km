@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": 1767025350,
+    "versionName": "6.0.0-alpha-03",
+    "change": "নতুন UI এবং নতুন ফিচার যোগ করা হয়েছে।",
+    "versionCode": 171,
+    "isForceUpdate": true
+  },
+  {
+    "timestamp": 1759452289367,
+    "versionName": "2.0.3",
+    "change": "দুআ, দৈনিক আয়াত-হাদীস নোটিফিকেশন ও ইসলামিক রিমাইন্ডার নোটিফিকেশন যোগ করা হয়েছে।",
+    "versionCode": 100,
+    "isForceUpdate": false
+  },
+  {
+    "timestamp": 1759452289367,
+    "versionName": "0.0.1",
+    "change": "অ্যাপ স্টোরে এটা আমাদের প্রথম MVP (Minimal viable product) রিলিজ। ব্যাসিক কিছু ফিচার সহ এটি রিলিজ হয়েছে।",
+    "versionCode": 99,
+    "isForceUpdate": false
+  }
+]

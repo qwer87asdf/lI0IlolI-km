@@ -1,92 +1,96 @@
 [
   {
-    "name": "ad",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/ad.json",
-    "updated_at": 1740205888
-  },
-  {
     "name": "about_us",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/about_us.json",
-    "updated_at": 1618127655
+    "url": "appdata/data/{lang}/about_us.json",
+    "updated_at": 1767498887000
   },
   {
     "name": "change_log",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/change_log.json",
-    "updated_at": 1618127649
+    "url": "appdata/data/{lang}/change_log.json",
+    "updated_at": 1759452289367
   },
   {
-    "name": "ifa_time",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/ifa_time.json",
-    "updated_at": 1743338749066
-  },
-  {
-    "name": "donation",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/donation.json",
-    "updated_at": 1684639214
+    "name": "ifa_times",
+    "url": "appdata/data/ifa_times.json",
+    "updated_at": 1772407196000
   },
   {
     "name": "hijri_date",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/hijri_date.json",
+    "url": "appdata/data/hijri_date.json",
     "updated_at": 1759452289367
   },
   {
     "name": "salat_reference",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/salat_reference.json",
-    "updated_at": 1615798057
+    "url": "appdata/data/{lang}/salat_reference.json",
+    "updated_at": 1770949104584
   },
   {
     "name": "prohibited_time_reference",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/prohibited_time_reference.json",
-    "updated_at": 1615798060
+    "url": "appdata/data/{lang}/prohibited_time_reference.json",
+    "updated_at": 1759452289367
   },
   {
     "name": "daily_notification",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/daily_notification.json",
-    "updated_at": 1769312064
+    "url": "appdata/data/{lang}/daily_notification.json",
+    "updated_at": 1759452289367
   },
   {
     "name": "event_animations",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/event_animations.json",
-    "updated_at": 1690681584
-  },
-  {
-    "name": "blog_category_image",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/blog-category",
-    "updated_at": 1694435898
+    "url": "appdata/data/event_animations.json",
+    "updated_at": 1759452289367
   },
   {
     "name": "dua",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/dua.json",
-    "updated_at": 1772371576
-  },
-  {
-    "name": "qari",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/qari.json",
-    "updated_at": 1694435898
+    "url": "appdata/data/{lang}/dua.json",
+    "updated_at": 1759452289367
   },
   {
     "name": "selected_quran",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/selected_quran.json",
-    "updated_at": 1694435899
+    "url": "appdata/data/{lang}/selected_quran.json",
+    "updated_at": 1759452289367
   },
   {
     "name": "selected_hadith",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/selected_hadith.json",
-    "updated_at": 1694435898
+    "url": "appdata/data/{lang}/selected_hadith.json",
+    "updated_at": 1759452289367
+  },
+  {
+    "name": "asmaul_husna",
+    "url": "appdata/data/{lang}/asmaul_husna.json",
+    "updated_at": 1769387983000
   },
   {
     "name": "settings",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/settings.json",
-    "updated_at": 1694435904
+    "url": "appdata/data/settings.json",
+    "updated_at": 1771500505000
   },
   {
-    "name": "audio_quran",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/audio_quran.json",
-    "updated_at": 1722908208511
+    "name": "hijri_date_v2",
+    "url": "appdata/data/hijri_date/{code}_hijri_date.json",
+    "updated_at": 1772335363000,
+    "supported_hijri_date_codes": [
+      "bgd",
+      "fra",
+      "idn",
+      "ind",
+      "jpn",
+      "mys",
+      "pak",
+      "sau",
+      "sgp",
+      "aus",
+      "deu",
+      "rou"
+    ]
   },
   {
-    "name": "quran_reading",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/data/quran_reading/quran_reading.json",
-    "updated_at": 1694435900
+    "name": "app_banner",
+    "url": "appdata/data/{lang}/app_banner.json",
+    "updated_at": 1772471112000
+  },
+  {
+    "name": "home_cards",
+    "url": "appdata/data/{lang}/home_cards.json",
+    "updated_at": 1772471112000
   }
 ]

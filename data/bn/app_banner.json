@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": "vote_for_kahf_notice",
+      "icon": "https://data.muslimsday.com/appdata/image/vote.png",
+      "title": "গ্লোবাল সাদাকাহ এওয়ার্ডে কাহফকে ভোট দিন",
+      "description": "আপনার প্রিয় কাহফকে তুলে ধরুন সারা বিশ্বের কাছে!",
+      "startTime": 1772470698000,
+      "endTime": 1772643266000,
+      "isActive": true,
+      "priority": 120,
+      "action": {
+        "type": "web",
+        "url": "https://award.globalsadaqah.com/profiles/252"
+      }
+    },
+    {
+      "id": "ramadan_1447_quiz_1",
+      "icon": "https://data.muslimsday.com/appdata/image/quiz.png",
+      "title": "মুসলিমস ডে : রমযান কুইজ ২০২৬",
+      "description": "মাসআলা জানুন, কুইজে অংশ নিয়ে পুরস্কার জিতুন!",
+      "startTime": 1771757583000,
+      "endTime": 1772834400000,
+      "isActive": true,
+      "priority": 110,
+      "action": {
+        "type": "web",
+        "url": "https://hikmah.net/quiz/muslims-de-roza-oo-zakater-masayel-kuij-2026-4b2d68c3"
+      }
+    },
+    {
+      "id": "contribute_to_muslims_day",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "মুসলিমস ডে অ্যাপে কন্ট্রিবিউট করুন",
+      "description": "আপনার ছোট্ট একটু সাপোর্ট, অসংখ্য মানুষকে ইবাদতে সহযোগিতা করবে।",
+      "startTime": 1771757583000,
+      "endTime": 1772834400000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/support/muslimsday"
+      }
+    }
+  ]
+}

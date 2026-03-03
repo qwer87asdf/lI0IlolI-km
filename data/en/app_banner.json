@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "id": "vote_for_kahf_notice",
+      "icon": "https://data.muslimsday.com/appdata/image/vote.png",
+      "title": "Vote for Kahf in the Global Sadaqah Awards",
+      "description": "Present your favorite Kahf to the whole world!",
+      "startTime": 1772470698000,
+      "endTime": 1772643266000,
+      "isActive": true,
+      "priority": 120,
+      "action": {
+        "type": "web",
+        "url": "https://award.globalsadaqah.com/profiles/252"
+      }
+    },
+    {
+      "id": "contribute_to_muslims_day",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Contribute to the Muslims Day App",
+      "description": "Your little support will help countless people in their Ibadah.",
+      "startTime": 1771757583000,
+      "endTime": 1772834400000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/support/muslimsday"
+      }
+    }
+  ]
+}

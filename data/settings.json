@@ -1,42 +1,91 @@
 {
-  "isIfaEnable": false,
+  "isIfaEnable": true,
+  "isMahfilEnable": true,
   "adNetworkConfig": {
     "minDaysBeforeAdShown": 0,
     "isEnable": true,
     "publisher": "muslims-day",
-    "format": "json",
-    "campaign_types": "paid|house",
-    "refresh_rate_in_millis": 30000,
+    "refreshRateInMillis": 15000,
     "ads": [
       {
         "isEnable": true,
         "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "home-page-under-saalat-time"
+        "divId": "home-1st-banner"
       },
       {
         "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "saom-full-screen-under-saom-card"
-      },
-      {
-        "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "common-content-page-bottom"
-      },
-      {
-        "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "notification-details-page-bottom"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "mahfil-player-bottom"
+        "placement": "84b044816c9760abd87d6ae1d28016e3",
+        "divId": "home-feed-medium-rectangle"
       },
       {
         "isEnable": true,
         "placement": "a359bd948b0f30fcaf27ace4e5359281",
-        "divId": "mahfil-feed"
+        "divId": "home-feed-native-ad"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "saom-full-screen-under-saom-card"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "calendar-bottom-sticky"
+      },
+      {
+        "isEnable": true,
+        "placement": "84b044816c9760abd87d6ae1d28016e3",
+        "divId": "calendar-feed-medium-rectangle"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "qibla-compass"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "tasbeeh"
+      },
+      {
+        "isEnable": true,
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
+        "divId": "tools-feed-1"
+      },
+      {
+        "isEnable": true,
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
+        "divId": "habit-tracker-bottom-sticky"
+      },
+      {
+        "isEnable": true,
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
+        "divId": "dua-category-feed-1"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "dua-list-bottom-sticky"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "in-app-webview-bottom-sticky"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "dua-details-bottom-sticky"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "notification-list-bottom-sticky"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "notification-details-bottom-sticky"
       }
     ],
     "adsMetaData": {
