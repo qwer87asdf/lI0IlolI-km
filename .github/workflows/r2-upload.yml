@@ -107,7 +107,7 @@ jobs:
           echo "$files" | while IFS= read -r file; do
             if [ -n "$file" ]; then
               echo "Uploading $file..."
-              KEY="appdata/$REPO_NAME/$file"
+              KEY="appdata/$file"
               python3 scripts/r2_upload.py upload "$file" --key "$KEY"
             fi
           done
