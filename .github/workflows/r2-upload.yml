@@ -1,0 +1,113 @@
+name: Upload Changed Files to R2
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  upload-to-r2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install boto3 tqdm python-dotenv pathspec
+
+      - name: Get changed files
+        id: changed-files
+        run: |
+          # Disable quoting of paths to handle spaces correctly
+          git config --global core.quotePath false
+          
+          # Determine the base SHA for diff
+          BEFORE_SHA="${{ github.event.before }}"
+          if [ -z "$BEFORE_SHA" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
+            # Fallback to HEAD~1 if available, otherwise assume no previous commit (empty diff)
+            if git rev-parse HEAD~1 >/dev/null 2>&1; then
+              BEFORE_SHA="HEAD~1"
+            else
+              echo "No previous commit found. Assuming first push."
+              # For first push, we might want to list all files? 
+              # But user said 'push only changed files'. 
+              # If it's the first push, everything is changed relative to nothing.
+              # Let's use a special tree hash for empty tree
+              BEFORE_SHA="4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+            fi
+          fi
+          
+          echo "Comparing $BEFORE_SHA to ${{ github.sha }}"
+          
+          # Get changed files
+          git diff --name-only $BEFORE_SHA ${{ github.sha }} > raw_diff.txt || echo "Diff failed"
+          
+          echo "Filtering files..."
+          touch filtered_files.txt
+          
+          while IFS= read -r file; do
+            # Skip empty lines
+            if [ -z "$file" ]; then continue; fi
+            
+            # Skip if file was deleted
+            if [ ! -f "$file" ]; then 
+              echo "Skipping deleted file: $file"
+              continue 
+            fi
+            
+            # Skip .github folder (pipeline files)
+            if [[ "$file" == .github/* ]]; then 
+              echo "Skipping .github file: $file"
+              continue 
+            fi
+
+            # Skip scripts folder
+            if [[ "$file" == scripts/* ]]; then 
+              echo "Skipping scripts file: $file"
+              continue 
+            fi
+            
+            # Skip if ignored by .gitignore
+            if git check-ignore -q "$file"; then
+              echo "Skipping ignored file: $file"
+              continue
+            fi
+            
+            echo "$file" >> filtered_files.txt
+          done < raw_diff.txt
+          
+          # Output to GITHUB_OUTPUT
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          cat filtered_files.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Upload changed files to R2
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_S3_ENDPOINT: ${{ secrets.R2_S3_ENDPOINT }}
+        run: |
+          REPO_NAME=${{ github.event.repository.name }}
+          
+          # Read the files from the output
+          files="${{ steps.changed-files.outputs.files }}"
+          
+          # Iterate line by line
+          echo "$files" | while IFS= read -r file; do
+            if [ -n "$file" ]; then
+              echo "Uploading $file..."
+              KEY="appdata/$REPO_NAME/$file"
+              python3 scripts/r2_upload.py upload "$file" --key "$KEY"
+            fi
+          done
