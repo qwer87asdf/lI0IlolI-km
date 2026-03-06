@@ -1,9 +1,9 @@
 [
     {
-        "category_id": 1,
-        "category_name": "সালাত-নামাজ",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/salat.png",
-        "content_list": [
+        "categoryId": 1,
+        "categoryName": "সালাত-নামাজ",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/salat.png",
+        "contentList": [
             {
                 "id": 1,
                 "sortIndex": 1,
@@ -151,10 +151,10 @@
         ]
     },
     {
-        "category_id": 2,
-        "category_name": "দৈনন্দিন জীবন",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/daily-life.png",
-        "content_list": [
+        "categoryId": 2,
+        "categoryName": "দৈনন্দিন জীবন",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/daily-life.png",
+        "contentList": [
             {
                 "id": 19,
                 "sortIndex": 19,
@@ -358,10 +358,10 @@
         ]
     },
     {
-        "category_id": 3,
-        "category_name": "সাওম",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/saom.png",
-        "content_list": [
+        "categoryId": 3,
+        "categoryName": "সাওম",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/saom.png",
+        "contentList": [
             {
                 "id": 130,
                 "sortIndex": 1,
@@ -397,10 +397,10 @@
         ]
     },
     {
-        "category_id": 4,
-        "category_name": "সকাল-সন্ধ্যার যিক‍র",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/morning_evening_zikr.png",
-        "content_list": [
+        "categoryId": 4,
+        "categoryName": "সকাল-সন্ধ্যার যিক‍র",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/morning_evening_zikr.png",
+        "contentList": [
             {
                 "id": 47,
                 "sortIndex": 47,
@@ -572,10 +572,10 @@
         ]
     },
     {
-        "category_id": 5,
-        "category_name": "কুরআন থেকে",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/quran_dua.png",
-        "content_list": [
+        "categoryId": 5,
+        "categoryName": "কুরআন থেকে",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/quran_dua.png",
+        "contentList": [
             {
                 "id": 68,
                 "sortIndex": 68,
@@ -899,10 +899,10 @@
         ]
     },
     {
-        "category_id": 6,
-        "category_name": "বিবিধ",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/more.png",
-        "content_list": [
+        "categoryId": 6,
+        "categoryName": "বিবিধ",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/more.png",
+        "contentList": [
             {
                 "id": 108,
                 "sortIndex": 108,
