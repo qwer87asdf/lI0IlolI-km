@@ -26,7 +26,8 @@
       "supportedCountries": null,
       "notSupportedCountries": [],
       "visibleTo": [
-        "NON_AUTHORIZED"
+        "NON_AUTHORIZED",
+        "AUTHORIZED"
       ],
       "bannerConfig": {
         "title": "Go Premium",
@@ -36,7 +37,7 @@
         "iconId": "CROWN",
         "action": {
           "type": "url",
-          "url": "https://kahf.to/support-md-app"
+          "url": "https://id.kahf.co/pay/muslimsday"
         },
         "shouldPremiumUser": false
       }
