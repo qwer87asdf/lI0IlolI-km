@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "type": "image_card",
-      "id": "vote_for_kahf",
-      "priority": 90,
-      "isEnabled": true,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/vote_for_kahf.png",
-      "title": "গ্লোবাল সাদাকাহ এওয়ার্ডে কাহফকে ভোট দিন",
-      "action": {
-        "type": "url",
-        "url": "https://award.globalsadaqah.com/profiles/252",
-        "title": "Global Sadaqah Awards"
-      }
-    },
-    {
       "type": "banner",
       "id": "premium_upsell",
       "priority": 100,
