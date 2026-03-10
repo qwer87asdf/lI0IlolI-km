@@ -3,7 +3,7 @@
     {
       "type": "image_card",
       "id": "zakat_itiqaf",
-      "priority": 90,
+      "priority": 510,
       "isEnabled": true,
       "imageUrl": "https://data.muslimsday.com/appdata/image/zakat_itiqaf.png",
       "title": "যাকাত, ফিতরা ও ইতিকাফ বিষয়ক প্রশ্নোত্তর",
@@ -177,7 +177,7 @@
     {
       "type": "image_card",
       "id": "contribute_image_card",
-      "priority": 510,
+      "priority": 90,
       "isEnabled": true,
       "imageUrl": "https://data.muslimsday.com/appdata/image/contribute_2.jpeg",
       "title": "অ্যাপের কার্যক্রম চালিয়ে নিতে আপনিও এগিয়ে আসুন!",
