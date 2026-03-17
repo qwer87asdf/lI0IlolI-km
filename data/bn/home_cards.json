@@ -2,15 +2,15 @@
   "items": [
     {
       "type": "image_card",
-      "id": "zakat_itiqaf",
+      "id": "eid_prayer_guide",
       "priority": 90,
       "isEnabled": true,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/zakat_itiqaf.png",
-      "title": "যাকাত, ফিতরা ও ইতিকাফ বিষয়ক প্রশ্নোত্তর",
+      "imageUrl": "https://data.muslimsday.com/appdata/image/eid_prayer_rule.jpeg",
+      "title": "জেনে নিন ঈদের নামাজের নিয়ম",
       "action": {
         "type": "url",
-        "url": "https://mahfil.net/watch/FaHqCZlc9F9",
-        "title": "যাকাত, ফিতরা ও ইতিকাফ বিষয়ক প্রশ্নোত্তর"
+        "url": "https://muslimsday.com/blog/ঈদের-নামাজের-নিয়ম/",
+        "title": "জেনে নিন ঈদের নামাজের নিয়ম"
       }
     },
     {

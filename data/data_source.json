@@ -86,11 +86,11 @@
   {
     "name": "app_banner",
     "url": "appdata/data/{lang}/app_banner.json",
-    "updated_at": 1772471112000
+    "updated_at": 1773738593000
   },
   {
     "name": "home_cards",
     "url": "appdata/data/{lang}/home_cards.json",
-    "updated_at": 1772975522000
+    "updated_at": 1773738593000
   }
 ]

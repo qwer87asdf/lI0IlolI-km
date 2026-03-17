@@ -3,10 +3,10 @@
     {
       "id": "vote_for_kahf_notice",
       "icon": "https://data.muslimsday.com/appdata/image/vote.png",
-      "title": "গ্লোবাল সাদাকাহ এওয়ার্ডে কাহফকে ভোট দিন",
-      "description": "আপনার প্রিয় কাহফকে তুলে ধরুন সারা বিশ্বের কাছে!",
+      "title": "আখিরাতের জন্য বিনিয়োগ করুন!",
+      "description": "কুরআন ও দুয়া ফিচারের ডেভেলপমেন্টের জন্য কন্ট্রিবিউট করুন",
       "startTime": 1772470698000,
-      "endTime": 1772643266000,
+      "endTime": 1774076400000,
       "isActive": true,
       "priority": 120,
       "action": {
