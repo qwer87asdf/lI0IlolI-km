@@ -57,7 +57,7 @@
     },
     {
       "type": "image_card",
-      "id": "eid_ul_fitr_masnun",
+      "id": "ramadan_learning",
       "priority": 120,
       "isEnabled": true,
       "imageUrl": "https://data.muslimsday.com/appdata/image/ramadan_learning.jpeg",
@@ -70,7 +70,7 @@
     },
     {
       "type": "image_card",
-      "id": "eid_ul_fitr_masnun",
+      "id": "shawal_saom",
       "priority": 130,
       "isEnabled": true,
       "imageUrl": "https://data.muslimsday.com/appdata/image/shawal_saom.jpeg",
