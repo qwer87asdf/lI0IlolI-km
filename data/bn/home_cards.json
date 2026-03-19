@@ -43,6 +43,45 @@
       }
     },
     {
+      "type": "image_card",
+      "id": "eid_ul_fitr_masnun",
+      "priority": 110,
+      "isEnabled": true,
+      "imageUrl": "https://data.muslimsday.com/appdata/image/eid_ul_fitr_masnun.jpeg",
+      "title": "জেনে নিন ঈদের দিনের কয়েকটি আমল",
+      "action": {
+        "type": "url",
+        "url": "https://muslimsday.com/blog/ঈদ-উল-ফিতর-সুন্নত-আমল/",
+        "title": "জেনে নিন ঈদের দিনের কয়েকটি আমল"
+      }
+    },
+    {
+      "type": "image_card",
+      "id": "eid_ul_fitr_masnun",
+      "priority": 120,
+      "isEnabled": true,
+      "imageUrl": "https://data.muslimsday.com/appdata/image/ramadan_learning.jpeg",
+      "title": "আসুন রমযানের শিক্ষাকে সারা বছর চর্চা করি",
+      "action": {
+        "type": "url",
+        "url": "https://muslimsday.com/blog/ঈদের-আনন্দে-রমজানের-সংযম/",
+        "title": "আসুন রমযানের শিক্ষাকে সারা বছর চর্চা করি"
+      }
+    },
+    {
+      "type": "image_card",
+      "id": "eid_ul_fitr_masnun",
+      "priority": 130,
+      "isEnabled": true,
+      "imageUrl": "https://data.muslimsday.com/appdata/image/shawal_saom.jpeg",
+      "title": "শাওয়ালের ৬ রোজার ফজিলত সম্পর্কে জেনে নিন",
+      "action": {
+        "type": "url",
+        "url": "https://muslimsday.com/blog/ঈদের-আনন্দে-রমজানের-সংযম/",
+        "title": "শাওয়ালের ৬ রোজার ফজিলত সম্পর্কে জেনে নিন"
+      }
+    },
+    {
       "type": "shortcuts_card",
       "id": "shortcuts",
       "priority": 200,
