@@ -165,6 +165,19 @@
       }
     },
     {
+      "type": "image_card",
+      "id": "durud_reminder",
+      "priority": 400,
+      "isEnabled": true,
+      "imageUrl": "https://data.muslimsday.com/appdata/image/durud_reminder_card.jpeg",
+      "title": "দরূদ রিমাইন্ডার ফিচারটি চালু করুন। প্রতি বার দরূদ পড়ে অর্জন করুন সওয়াব ও রহমত",
+      "action": {
+        "type": "url",
+        "url": "https://link.muslimsday.com/settings/durud-reminder",
+        "title": "দরূদ রিমাইন্ডার ফিচারটি চালু করুন। প্রতি বার দরূদ পড়ে অর্জন করুন সওয়াব ও রহমত"
+      }
+    },
+    {
       "type": "last_read_ayah",
       "id": "last_read_ayah",
       "priority": 500,
