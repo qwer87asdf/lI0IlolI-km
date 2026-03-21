@@ -44,19 +44,6 @@
     },
     {
       "type": "image_card",
-      "id": "eid_ul_fitr_masnun",
-      "priority": 110,
-      "isEnabled": true,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/eid_ul_fitr_masnun.jpeg",
-      "title": "জেনে নিন ঈদের দিনের কয়েকটি আমল",
-      "action": {
-        "type": "url",
-        "url": "https://muslimsday.com/blog/ঈদ-উল-ফিতর-সুন্নত-আমল/",
-        "title": "জেনে নিন ঈদের দিনের কয়েকটি আমল"
-      }
-    },
-    {
-      "type": "image_card",
       "id": "ramadan_learning",
       "priority": 120,
       "isEnabled": true,
@@ -225,19 +212,6 @@
       "notSupportedLanguages": null,
       "supportedCountries": null,
       "notSupportedCountries": null
-    },
-    {
-      "type": "image_card",
-      "id": "eid_prayer_guide",
-      "priority": 90,
-      "isEnabled": true,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/eid_prayer_rule.jpeg",
-      "title": "জেনে নিন ঈদের নামাজের নিয়ম",
-      "action": {
-        "type": "url",
-        "url": "https://muslimsday.com/blog/ঈদের-নামাজের-নিয়ম/",
-        "title": "জেনে নিন ঈদের নামাজের নিয়ম"
-      }
     },
     {
       "type": "image_card",
