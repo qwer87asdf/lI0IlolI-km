@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "type": "image_card",
-      "id": "zakat_itiqaf",
-      "priority": 510,
-      "isEnabled": true,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/zakat_itiqaf.png",
-      "title": "যাকাত, ফিতরা ও ইতিকাফ বিষয়ক প্রশ্নোত্তর",
-      "action": {
-        "type": "url",
-        "url": "https://mahfil.net/watch/FaHqCZlc9F9",
-        "title": "যাকাত, ফিতরা ও ইতিকাফ বিষয়ক প্রশ্নোত্তর"
-      }
-    },
-    {
       "type": "banner",
       "id": "premium_upsell",
       "priority": 100,
@@ -212,19 +199,6 @@
       "notSupportedLanguages": null,
       "supportedCountries": null,
       "notSupportedCountries": null
-    },
-    {
-      "type": "image_card",
-      "id": "fitra_2026",
-      "priority": 520,
-      "isEnabled": true,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/fitra_2026.jpeg",
-      "title": "২০২৬ সালের ফিতরার পরিমাণ ও মাসআলা",
-      "action": {
-        "type": "url",
-        "url": "https://muslimsday.com/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE/?utm_source=muslimsdayapp&utm_medium=dynamic_card&utm_campaign=blog_reach",
-        "title": "২০২৬ সালের ফিতরার পরিমাণ ও মাসআলা"
-      }
     },
     {
       "type": "dynamic_ad",
