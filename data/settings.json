@@ -5,6 +5,7 @@
     "minDaysBeforeAdShown": 0,
     "isEnable": true,
     "publisher": "muslims-day",
+    "fallbackPublisher": "muslims-day",
     "refreshRateInMillis": 15000,
     "ads": [
       {
