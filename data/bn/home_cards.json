@@ -31,19 +31,6 @@
     },
     {
       "type": "image_card",
-      "id": "ramadan_learning",
-      "priority": 120,
-      "isEnabled": true,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/ramadan_learning.jpeg",
-      "title": "আসুন রমযানের শিক্ষাকে সারা বছর চর্চা করি",
-      "action": {
-        "type": "url",
-        "url": "https://muslimsday.com/blog/ঈদের-আনন্দে-রমজানের-সংযম/",
-        "title": "আসুন রমযানের শিক্ষাকে সারা বছর চর্চা করি"
-      }
-    },
-    {
-      "type": "image_card",
       "id": "shawal_saom",
       "priority": 130,
       "isEnabled": true,
