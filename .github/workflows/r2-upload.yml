@@ -111,3 +111,23 @@ jobs:
               python3 scripts/r2_upload.py upload "$file" --key "$KEY"
             fi
           done
+
+      - name: Purge Cloudflare cache
+        if: steps.changed-files.outputs.files != ''
+        env:
+          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          echo "Purging Cloudflare cache..."
+          response=$(curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID/purge_cache" \
+               -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+               -H "Content-Type: application/json" \
+               --data '{"purge_everything":true}')
+          
+          if echo "$response" | grep -q '"success":true'; then
+            echo "✓ Cloudflare cache purged successfully!"
+          else
+            echo "✗ Failed to purge Cloudflare cache:"
+            echo "$response"
+            exit 1
+          fi
