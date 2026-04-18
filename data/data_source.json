@@ -67,7 +67,7 @@
   {
     "name": "hijri_date_v2",
     "url": "appdata/data/hijri_date/{code}_hijri_date.json",
-    "updated_at": 1776504869000,
+    "updated_at": 1776511171000,
     "supported_hijri_date_codes": [
       "bgd",
       "fra",
