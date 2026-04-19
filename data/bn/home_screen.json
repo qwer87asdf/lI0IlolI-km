@@ -1,0 +1,273 @@
+{
+    "items": [
+        {
+            "type": "banner",
+            "id": "premium_upsell",
+            "priority": 100,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "en",
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "প্রিমিয়াম নিন",
+                "subtitle": "বিজ্ঞাপন মুক্ত, অফলাইন মোড এবং আরও অনেক কিছু",
+                "buttonText": "আপগ্রেড",
+                "bannerType": "WARNING",
+                "iconId": "CROWN",
+                "iconUrl": null,
+                "shouldPremiumUser": false,
+                "shouldLoggedIn": false,
+                "action": {
+                    "type": "url",
+                    "url": "https://id.kahf.co/pay/muslimsday"
+                }
+            }
+        },
+        {
+            "type": "shortcuts_card",
+            "id": "shortcuts",
+            "priority": 200,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "en",
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "shortcuts": [
+                {
+                    "id": "hadith",
+                    "title": "হাদিস",
+                    "iconId": "HADITH_SHORTCUT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/hadith.png",
+                    "action": {
+                        "type": "navigation",
+                        "route": {
+                            "type": "screen",
+                            "name": "selected-hadith"
+                        }
+                    },
+                    "isEnabled": true,
+                    "icon_type": null
+                },
+                {
+                    "id": "dua",
+                    "title": "u09a6u09cbu09afu09bcu09be",
+                    "iconId": "DUA_SHORTCUT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/dua.png",
+                    "action": {
+                        "type": "navigation",
+                        "route": {
+                            "type": "screen",
+                            "name": "dua"
+                        }
+                    },
+                    "isEnabled": true,
+                    "icon_type": null
+                },
+                {
+                    "id": "qibla",
+                    "title": "কিবলা",
+                    "iconId": "QURAN_SHORTCUT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/qibla.png",
+                    "action": {
+                        "type": "navigation",
+                        "route": {
+                            "type": "screen",
+                            "name": "qibla-compass"
+                        }
+                    },
+                    "isEnabled": true,
+                    "icon_type": null
+                },
+                {
+                    "id": "tasbeeh",
+                    "title": "তাসবীহ",
+                    "iconId": "TASBIH_SHORTCUT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/tasbeeh.png",
+                    "action": {
+                        "type": "navigation",
+                        "route": {
+                            "type": "screen",
+                            "name": "tasbeeh"
+                        }
+                    },
+                    "isEnabled": true,
+                    "icon_type": null
+                },
+                {
+                    "id": "zakat",
+                    "title": "যাকাত",
+                    "iconId": "ZAKAT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/zakat_calculator.png",
+                    "action": {
+                        "type": "url",
+                        "route": [],
+                        "url": "https://zakat.muslimsday.com"
+                    },
+                    "isEnabled": true,
+                    "icon_type": null
+                }
+            ]
+        },
+        {
+            "type": "banner",
+            "id": "premium_upsell_2",
+            "priority": 300,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "সিঙ্ক ও ব্যাকআপ",
+                "subtitle": "আপনার বুকমার্ক এবং অ্যাপ সেটিংস নিরাপদ রাখুন।",
+                "buttonText": "লগ ইন",
+                "bannerType": "PRIMARY",
+                "iconId": "LOGIN",
+                "iconUrl": null,
+                "shouldPremiumUser": false,
+                "shouldLoggedIn": false,
+                "action": {
+                    "type": "navigation",
+                    "route": {
+                        "type": "screen",
+                        "name": "profile"
+                    }
+                }
+            }
+        },
+        {
+            "type": "countdown_timer",
+            "id": "ramadan_timer",
+            "priority": 350,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [
+                "BD"
+            ],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "timerConfig": {
+                "eventType": "RAMADAN_START",
+                "title": "রমজান কাউন্টডাউন",
+                "subtitle": "পবিত্র মাস শুরু হতে আর কত দিন",
+                "showSeconds": true,
+                "compactMode": false
+            }
+        },
+        {
+            "type": "dua_of_the_moment",
+            "id": "dua_moment",
+            "priority": 350,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "duaContent": {
+                "id": 1,
+                "title": "u0998u09c1u09ae u09a5u09c7u0995u09c7 u0993u09a0u09beu09b0 u09a6u09cbu09afu09bcu09be",
+                "subtitle": "u09b8u0995u09beu09b2u09c7u09b0 u09a6u09cbu09afu09bcu09be",
+                "content": "u0986u09b2u09b9u09beu09aeu09a6u09c1u09b2u09bfu09b2u09cdu09b2u09beu09b9u09bfu09b2u09cdu09b2u09beu099cu09bf u0986u09b9u0987u09afu09bcu09beu09a8u09be u09acu09beu2019u09a6u09be u09aeu09be u0986u09aeu09beu09a4u09beu09a8u09be u0993u09afu09bcu09be u0987u09b2u09beu09b9u09bfu09a8 u09a8u09c1u09b6u09c1u09b0u0964",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audio/dua/1.mp3"
+                ]
+            }
+        },
+        {
+            "type": "image_card",
+            "id": "durud_reminder",
+            "priority": 400,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "title": "দরূদ রিমাইন্ডার ফিচারটি চালু করুন। প্রতি বার দরূদ পড়ে অর্জন করুন সওয়াব ও রহমত",
+            "action": {
+                "type": "url",
+                "url": "https://link.muslimsday.com/settings/durud-reminder"
+            },
+            "imageUrl": "https://data.muslimsday.com/appdata/image/01KMF4M518PW6R266XF55D0JH1.jpeg"
+        },
+        {
+            "type": "last_read_ayah",
+            "id": "last_ayah",
+            "priority": 500,
+            "isEnabled": true,
+            "supportedLanguages": null,
+            "notSupportedLanguages": null,
+            "supportedCountries": null,
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED",
+                "PREMIUM"
+            ],
+            "endTimestampInSecond": null
+        },
+        {
+            "type": "dynamic_ad",
+            "id": "pre_feed_ad",
+            "priority": 550,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "divId": "home-feed-native-ad",
+            "adType": "NATIVE"
+        },
+        {
+            "type": "feed",
+            "id": "home_feed",
+            "priority": 800,
+            "isEnabled": true,
+            "supportedLanguages": null,
+            "notSupportedLanguages": null,
+            "supportedCountries": null,
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PREMIUM"
+            ],
+            "endTimestampInSecond": null
+        }
+    ],
+    "lastUpdated": 1776642214000
+}
