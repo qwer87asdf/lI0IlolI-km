@@ -228,7 +228,7 @@
       "notSupportedCountries": [],
       "visibleTo": [
         "AUTHORIZED",
-        "PREMIUM"
+        "PAID"
       ],
       "endTimestampInSecond": null
     },
@@ -261,7 +261,7 @@
       "visibleTo": [
         "NON_AUTHORIZED",
         "AUTHORIZED",
-        "PREMIUM"
+        "PAID"
       ],
       "endTimestampInSecond": null
     }
