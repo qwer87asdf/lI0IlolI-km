@@ -13,7 +13,6 @@
       "supportedCountries": [],
       "notSupportedCountries": [],
       "visibleTo": [
-        "NON_AUTHORIZED",
         "AUTHORIZED"
       ],
       "endTimestampInSecond": null,
