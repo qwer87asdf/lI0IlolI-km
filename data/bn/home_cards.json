@@ -71,7 +71,6 @@
             "supportedCountries": [],
             "notSupportedCountries": [],
             "visibleTo": [
-                "NON_AUTHORIZED",
                 "AUTHORIZED"
             ],
             "endTimestampInSecond": null,
@@ -257,7 +256,7 @@
             "notSupportedCountries": [],
             "visibleTo": [
                 "AUTHORIZED",
-                "PREMIUM"
+                "PAID"
             ],
             "endTimestampInSecond": null
         },
