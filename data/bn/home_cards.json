@@ -27,41 +27,9 @@
             }
         },
         {
-            "type": "banner",
-            "id": "premium_upsell",
-            "priority": 2,
-            "isEnabled": true,
-            "supportedLanguages": [
-                "en",
-                "bn"
-            ],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "NON_AUTHORIZED",
-                "AUTHORIZED"
-            ],
-            "endTimestampInSecond": null,
-            "bannerConfig": {
-                "title": "প্রিমিয়াম নিন",
-                "subtitle": "বিজ্ঞাপন মুক্ত, অফলাইন মোড এবং আরও অনেক কিছু",
-                "buttonText": "আপগ্রেড",
-                "bannerType": "WARNING",
-                "iconId": "CROWN",
-                "iconUrl": null,
-                "shouldPremiumUser": false,
-                "shouldLoggedIn": false,
-                "action": {
-                    "type": "url",
-                    "url": "https://id.kahf.co/pay/muslimsday"
-                }
-            }
-        },
-        {
             "type": "shortcuts_card",
             "id": "shortcuts",
-            "priority": 3,
+            "priority": 2,
             "isEnabled": true,
             "supportedLanguages": [
                 "en",
@@ -152,8 +120,39 @@
         },
         {
             "type": "banner",
+            "id": "premium_upsell",
+            "priority": 3,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "en",
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "প্রিমিয়াম নিন",
+                "subtitle": "বিজ্ঞাপন মুক্ত, অফলাইন মোড এবং আরও অনেক কিছু",
+                "buttonText": "আপগ্রেড",
+                "bannerType": "WARNING",
+                "iconId": "CROWN",
+                "iconUrl": null,
+                "shouldPremiumUser": false,
+                "shouldLoggedIn": false,
+                "action": {
+                    "type": "url",
+                    "url": "https://id.kahf.co/pay/muslimsday"
+                }
+            }
+        },
+        {
+            "type": "banner",
             "id": "premium_upsell_2",
-            "priority": 4,
+            "priority": 7,
             "isEnabled": true,
             "supportedLanguages": [],
             "notSupportedLanguages": [],
@@ -184,7 +183,7 @@
         {
             "type": "countdown_timer",
             "id": "ramadan_timer",
-            "priority": 5,
+            "priority": 4,
             "isEnabled": true,
             "supportedLanguages": [
                 "bn"
@@ -207,7 +206,7 @@
         {
             "type": "dua_of_the_moment",
             "id": "dua_moment",
-            "priority": 6,
+            "priority": 4,
             "isEnabled": true,
             "supportedLanguages": [
                 "bn"
@@ -230,7 +229,7 @@
         {
             "type": "image_card",
             "id": "durud_reminder",
-            "priority": 7,
+            "priority": 5,
             "isEnabled": true,
             "supportedLanguages": [],
             "notSupportedLanguages": [],
