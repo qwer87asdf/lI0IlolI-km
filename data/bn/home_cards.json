@@ -1,32 +1,6 @@
 {
     "items": [
         {
-            "type": "banner",
-            "id": "changes_feedback",
-            "priority": 1,
-            "isEnabled": true,
-            "supportedLanguages": [],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [],
-            "endTimestampInSecond": 1777328279,
-            "bannerConfig": {
-                "title": "মুসলিমস ডে অ্যাপের জন্য আইডিয়া শেয়ার করুন",
-                "subtitle": "দারুণ সব আইডিয়া দিয়ে লুফে নিন সাদকায়ে জারিয়ার সওয়াব",
-                "buttonText": "পরামর্শ দিন",
-                "bannerType": "PRIMARY",
-                "iconId": "NOTIFICATION",
-                "iconUrl": null,
-                "shouldPremiumUser": false,
-                "shouldLoggedIn": false,
-                "action": {
-                    "type": "url",
-                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrVX3CxCIIcBWAkIxjhAIDTMWJhrR2S0NVuZmeS1XnsWWl_A/viewform?usp=dialog"
-                }
-            }
-        },
-        {
             "type": "shortcuts_card",
             "id": "shortcuts",
             "priority": 2,
