@@ -1,17 +1,17 @@
 {
     "events": [
         {
-            "id": "idea_feedback",
+            "id": "hajj_masayel",
             "icon": "https://data.muslimsday.com/appdata/image/01KQ41TAEKX1NZ3KJTVDFJFDXN.png",
-            "title": "মুসলিমস ডে অ্যাপের জন্য আইডিয়া শেয়ার করুন",
-            "description": "দারুণ সব আইডিয়া দিয়ে লুফে নিন সাদকায়ে জারিয়ার সওয়াব",
-            "startTime": 1777092576000,
-            "endTime": 1777333776000,
+            "title": "হাজী সাহেবদের জন্য মাসআলা সাপোর্ট!",
+            "description": "হজের সফরে হজ-ওমরা বিষয়ক মাসআলা জানতে মুসলিমস ডে’র টেলিগ্রাম গ্রুপে জয়েন করুন",
+            "startTime": 1777355210000,
+            "endTime": 1775004410000,
             "isActive": true,
             "priority": 100,
             "action": {
                 "type": "web",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrVX3CxCIIcBWAkIxjhAIDTMWJhrR2S0NVuZmeS1XnsWWl_A/viewform?usp=dialog"
+                "url": "https://t.me/muslimsday_hajj_support"
             }
         }
     ]
