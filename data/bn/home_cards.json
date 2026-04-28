@@ -41,7 +41,7 @@
                         "type": "navigation",
                         "route": {
                             "type": "screen",
-                            "name": "dua"
+                            "name": "dua-category"
                         }
                     },
                     "isEnabled": true,
