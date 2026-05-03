@@ -25,6 +25,21 @@
       },
       {
         "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "dua-bottom-sticky-banner"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "tools-bottom-sticky-banner"
+      },
+      {
+        "isEnable": true,
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+        "divId": "more-bottom-sticky-banner"
+      },
+      {
+        "isEnable": true,
         "placement": "84b044816c9760abd87d6ae1d28016e3",
         "divId": "home-feed-medium-rectangle"
       },
