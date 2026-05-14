@@ -1,17 +1,59 @@
 {
     "events": [
         {
-            "id": "aiyame_beez",
-            "icon": "https://data.muslimsday.com/appdata/image/saom.png",
-            "title": "আইয়ামে বীজের রোজা রাখছেন তো?",
-            "description": "এমাসের রোজা ২-৩-৪ মে, শনি-রবি-সোমবার",
+            "id": "ansar_1",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "লক্ষ্য এবার কোটি মানুেষর হৃদয়",
+            "description": "১ কোটি মানুষের কাছে কুরআনের আলো ছড়াতে আনসার হোন",
             "startTime": 1777355210000,
-            "endTime": 1777899151000,
+            "endTime": 1779257633000,
             "isActive": false,
             "priority": 110,
             "action": {
                 "type": "web",
-                "url": "https://muslimsday.com/blog/আইয়ামে-বীজ-রোজার-ফজিলত/"
+                "url": "https://id.kahf.co/ansar/muslimsday"
+            }
+        },
+        {
+            "id": "ansar_2",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "আমলনামায় যোগ হোক অফুরন্ত সওয়াব",
+            "description": "কোটি মানুষের ইবাদেতর অংশ সাদকায়ে জারিয়া হিসাবে পান",
+            "startTime": 1777355210000,
+            "endTime": 1779257633000,
+            "isActive": false,
+            "priority": 100,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/ansar/muslimsday"
+            }
+        },
+        {
+            "id": "ansar_3",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "আনসার হওয়ার সুযযোগ পাবেন মাত্র ২০০০ জন!",
+            "description": "অসংখ্য ভাল কাজের অংশীদার হতে সুযোগটি এখনই গ্রহন করুন",
+            "startTime": 1777355210000,
+            "endTime": 1779257633000,
+            "isActive": false,
+            "priority": 90,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/ansar/muslimsday"
+            }
+        },
+        {
+            "id": "ansar_4",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "আজই মুসিলমস ডে আনসার হোন!",
+            "description": "প্রতি মাসে মাত্র ৫০০ টাকা! সওয়ােবর সাথে পাওয়া যােব ৮টি প্রিমিয়াম",
+            "startTime": 1777355210000,
+            "endTime": 1779257633000,
+            "isActive": false,
+            "priority": 80,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/ansar/muslimsday"
             }
         }
     ]
