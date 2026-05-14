@@ -7,7 +7,7 @@
             "description": "১ কোটি মানুষের কাছে কুরআনের আলো ছড়াতে আনসার হোন",
             "startTime": 1777355210000,
             "endTime": 1779257633000,
-            "isActive": false,
+            "isActive": true,
             "priority": 110,
             "action": {
                 "type": "web",
@@ -21,7 +21,7 @@
             "description": "কোটি মানুষের ইবাদেতর অংশ সাদকায়ে জারিয়া হিসাবে পান",
             "startTime": 1777355210000,
             "endTime": 1779257633000,
-            "isActive": false,
+            "isActive": true,
             "priority": 100,
             "action": {
                 "type": "web",
@@ -35,7 +35,7 @@
             "description": "অসংখ্য ভাল কাজের অংশীদার হতে সুযোগটি এখনই গ্রহন করুন",
             "startTime": 1777355210000,
             "endTime": 1779257633000,
-            "isActive": false,
+            "isActive": true,
             "priority": 90,
             "action": {
                 "type": "web",
@@ -49,7 +49,7 @@
             "description": "প্রতি মাসে মাত্র ৫০০ টাকা! সওয়ােবর সাথে পাওয়া যােব ৮টি প্রিমিয়াম",
             "startTime": 1777355210000,
             "endTime": 1779257633000,
-            "isActive": false,
+            "isActive": true,
             "priority": 80,
             "action": {
                 "type": "web",

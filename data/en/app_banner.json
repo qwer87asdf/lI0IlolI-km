@@ -1,17 +1,59 @@
 {
     "events": [
         {
-            "id": "idea_feedback",
-            "icon": "https://data.muslimsday.com/appdata/image/01KQ41TAEKX1NZ3KJTVDFJFDXN.png",
-            "title": "Share ideas for Muslim Day app",
-            "description": "Gather the rewards of continuous charity with great ideas",
-            "startTime": 1777092576000,
-            "endTime": 1777333776000,
+            "id": "ansar_1",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "Reach 1 crore Hearts",
+            "description": "Become an Ansar to spread the light of Quran to 1 crore people",
+            "startTime": 1777355210000,
+            "endTime": 1779257633000,
+            "isActive": true,
+            "priority": 110,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/ansar/muslimsday"
+            }
+        },
+        {
+            "id": "ansar_2",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "Earn Endless Rewards Forever",
+            "description": "Receive the deeds of 1 crore people as continuous Sadaqah Jariyah",
+            "startTime": 1777355210000,
+            "endTime": 1779257633000,
             "isActive": true,
             "priority": 100,
             "action": {
                 "type": "web",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrVX3CxCIIcBWAkIxjhAIDTMWJhrR2S0NVuZmeS1XnsWWl_A/viewform?usp=dialog"
+                "url": "https://id.kahf.co/ansar/muslimsday"
+            }
+        },
+        {
+            "id": "ansar_3",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "Only 2000 Spots Available!",
+            "description": "Grab this opportunity now to be part of countless good deeds",
+            "startTime": 1777355210000,
+            "endTime": 1779257633000,
+            "isActive": true,
+            "priority": 90,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/ansar/muslimsday"
+            }
+        },
+        {
+            "id": "ansar_4",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "Become an Ansar Today!",
+            "description": "Just 500 BDT/month - earn rewards plus get 8 premium subscriptions",
+            "startTime": 1777355210000,
+            "endTime": 1779257633000,
+            "isActive": true,
+            "priority": 80,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/ansar/muslimsday"
             }
         }
     ]
