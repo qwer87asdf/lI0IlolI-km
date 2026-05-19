@@ -2,7 +2,7 @@
   "isIfaEnable": true,
   "isMahfilEnable": true,
   "adNetworkConfig": {
-    "minDaysBeforeAdShown": 0,
+    "minDaysBeforeAdShown": 3,
     "isEnable": true,
     "publisher": "muslims-day",
     "fallbackPublisher": "muslims-day",
