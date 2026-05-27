@@ -1,59 +1,45 @@
 {
     "events": [
         {
-            "id": "ansar_1",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "লক্ষ্য এবার কোটি মানুেষর হৃদয়",
-            "description": "১ কোটি মানুষের কাছে কুরআনের আলো ছড়াতে আনসার হোন",
+            "id": "eid_1",
+            "icon": "https://data.muslimsday.com/appdata/image/mosque.png",
+            "title": "ঈদের নামাজের নিয়ম",
+            "description": "অতিরিক্ত ৬ তাকবীরের সাথে ঈদের নামাজের নিয়ম জেনে নিন",
             "startTime": 1777355210000,
-            "endTime": 1779257633000,
+            "endTime": 1779987600000,
             "isActive": true,
             "priority": 110,
             "action": {
                 "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
+                "url": "https://muslimsday.com/blog/ঈদের-নামাজের-নিয়ম/"
             }
         },
         {
-            "id": "ansar_2",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "আমলনামায় যোগ হোক অফুরন্ত সওয়াব",
-            "description": "কোটি মানুষের ইবাদেতর অংশ সাদকায়ে জারিয়া হিসাবে পান",
+            "id": "eid_2",
+            "icon": "https://data.muslimsday.com/appdata/image/mosque.png",
+            "title": "ঈদুল আযহার ১২টি সুন্নত আমল",
+            "description": "জেনে নিন ঈদের দিনের করণীয় ১২টি মাসনূন আমল",
             "startTime": 1777355210000,
-            "endTime": 1779257633000,
+            "endTime": 1779987600000,
             "isActive": true,
             "priority": 100,
             "action": {
                 "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
+                "url": "https://muslimsday.com/blog/ঈদুল-আযহার-সুন্নত-আমল/"
             }
         },
         {
-            "id": "ansar_3",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "আনসার হওয়ার সুযযোগ পাবেন মাত্র ২০০০ জন!",
-            "description": "অসংখ্য ভাল কাজের অংশীদার হতে সুযোগটি এখনই গ্রহন করুন",
+            "id": "eid_3",
+            "icon": "https://data.muslimsday.com/appdata/image/mosque.png",
+            "title": "তাকবীরে তাশরীক ওয়াজিব আমল",
+            "description": "৩১ মে আসর পর্যন্ত প্রতি ফরজ নামাজের পর তাকবীর",
             "startTime": 1777355210000,
-            "endTime": 1779257633000,
+            "endTime": 1780228800000,
             "isActive": true,
             "priority": 90,
             "action": {
                 "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
-            }
-        },
-        {
-            "id": "ansar_4",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "আজই মুসিলমস ডে আনসার হোন!",
-            "description": "প্রতি মাসে মাত্র ৫০০ টাকা! সওয়ােবর সাথে পাওয়া যােব ৮টি প্রিমিয়াম",
-            "startTime": 1777355210000,
-            "endTime": 1779257633000,
-            "isActive": true,
-            "priority": 80,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
+                "url": "https://muslimsday.com/blog/তাকবীরে-তাশরীক-মাসআলা/"
             }
         }
     ]
