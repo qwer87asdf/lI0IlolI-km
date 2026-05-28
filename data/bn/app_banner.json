@@ -7,7 +7,7 @@
             "description": "অতিরিক্ত ৬ তাকবীরের সাথে ঈদের নামাজের নিয়ম জেনে নিন",
             "startTime": 1777355210000,
             "endTime": 1779987600000,
-            "isActive": true,
+            "isActive": false,
             "priority": 110,
             "action": {
                 "type": "web",
