@@ -1,6 +1,6 @@
 {
-  "isEnable": false,
-  "message": "আপনাদের এই অ্যাপের ডেভেলপমেন্টের জন্য সাদাকা দিন",
+  "isEnable": true,
+  "message": "মুসলিমস ডে অ্যাপের ডেভেলপমেন্ট চালিয়ে নিতে কন্ট্রিবিউট করুন",
   "url": "https://id.kahf.co/support/muslimsday",
   "buttonText": "সহায়তা করুন"
 }
