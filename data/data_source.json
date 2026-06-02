@@ -97,5 +97,10 @@
     "name": "donation",
     "url": "appdata/data/{lang}/donation.json",
     "updated_at": 1776820229000
+  },
+  {
+    "name": "ruqyah",
+    "url": "appdata/data/{lang}/ruqyah.json",
+    "updated_at": 1773013355000
   }
 ]
