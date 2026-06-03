@@ -102,5 +102,10 @@
     "name": "ruqyah",
     "url": "appdata/data/{lang}/ruqyah.json",
     "updated_at": 1773013355000
+  },
+  {
+    "name": "helpful_apps",
+    "url": "appdata/data/helpful_apps.json",
+    "updated_at": 1780488000000
   }
 ]
