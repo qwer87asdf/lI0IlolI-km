@@ -1,0 +1,36 @@
+{
+    "isEnabled": true,
+    "campaigns": [
+      {
+        "id": "ramadan-2026-promo",
+        "isActive": true,
+        "priority": 10,
+        "frequency": "ONCE",
+        "startAt": "2026-03-01T00:00:00Z",
+        "expireAt": "2026-03-31T23:59:59Z",
+        "dismissible": true,
+        "cards": [
+          {
+            "id": "card-1",
+            "type": "IMAGE",
+            "aspectRatio": 0.75,
+            "imageUrl": "https://cdn.kahf.co/promo/ramadan-hero.png",
+            "html": null,
+            "action": {
+              "type": "WEB",
+              "value": "https://kahf.to/donate",
+              "label": "Donate now"
+            }
+          },
+          {
+            "id": "card-2",
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<h2 class=\"reference\">Eid Mubarak</h2><p>...</p>",
+            "action": { "type": "NONE", "value": null, "label": null }
+          }
+        ]
+      }
+    ]
+  }

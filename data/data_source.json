@@ -107,5 +107,10 @@
     "name": "helpful_apps",
     "url": "appdata/data/helpful_apps.json",
     "updated_at": 1780488000000
+  },
+  {
+    "name": "promotional_cards",
+    "url": "appdata/data/{lang}/promotional_cards.json",
+    "updated_at": 1780488000000
   }
 ]
