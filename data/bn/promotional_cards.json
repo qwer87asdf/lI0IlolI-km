@@ -6,8 +6,8 @@
         "isActive": true,
         "priority": 10,
         "frequency": "ONCE",
-        "startAt": "2026-03-01T00:00:00Z",
-        "expireAt": "2026-03-31T23:59:59Z",
+        "startAt": 1772323200000,
+        "expireAt": 1781507922000,
         "dismissible": true,
         "cards": [
           {
