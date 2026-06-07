@@ -11,7 +11,7 @@
       "platforms": ["ANDROID", "IOS"],
       "minAndroidVersionCode": 1,
       "minIosVersionCode": null,
-      "maxAndroidVersionCode": 220,
+      "maxAndroidVersionCode": 221,
       "maxIosVersionCode": null,
       "type": "IMAGE",
       "aspectRatio": 0.75,
