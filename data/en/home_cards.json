@@ -1,9 +1,27 @@
 {
   "items": [
     {
+      "type": "image_card",
+      "id": "ansar",
+      "priority": 100,
+      "isEnabled": true,
+      "supportedLanguages": [],
+      "notSupportedLanguages": [],
+      "supportedCountries": [],
+      "notSupportedCountries": [],
+      "visibleTo": [],
+      "endTimestampInSecond": null,
+      "title": "May Allah accept the Muslims Day Ansar members",
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/ansar/muslimsday"
+      },
+      "imageUrl": "https://data.muslimsday.com/appdata/image/ansar-update-en.png"
+    },
+    {
       "type": "banner",
       "id": "premium_upsell",
-      "priority": 100,
+      "priority": 101,
       "isEnabled": true,
       "supportedLanguages": [
         "en",

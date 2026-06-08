@@ -11,12 +11,12 @@
             "notSupportedCountries": [],
             "visibleTo": [],
             "endTimestampInSecond": null,
-            "title": "মুসলিমস ডে আনসার হয়ে অংশীদার হোন লক্ষ লক্ষ মানুষের ইবাদতের অংশীদার",
+            "title": "Muslims Day আনসার মেম্বারদেরকে আল্লাহ কবুল করুন",
             "action": {
                 "type": "url",
                 "url": "https://id.kahf.co/ansar/muslimsday"
             },
-            "imageUrl": "https://data.muslimsday.com/appdata/image/ansar-update.jpg"
+            "imageUrl": "https://data.muslimsday.com/appdata/image/ansar-update.jpeg"
         },
         {
             "type": "shortcuts_card",
