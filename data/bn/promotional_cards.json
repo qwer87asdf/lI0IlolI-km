@@ -1,6 +1,7 @@
 {
   "isEnabled": true,
   "dismissible": true,
+  "showAfterInstallHours:": 2,
   "cards": [
     {
       "id": "img-web-everylaunch",
