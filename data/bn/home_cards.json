@@ -257,7 +257,7 @@
             "notSupportedCountries": [],
             "visibleTo": [
                 "AUTHORIZED",
-                "PREMIUM"
+                "PAID"
             ],
             "endTimestampInSecond": null
         },
@@ -290,10 +290,10 @@
             "visibleTo": [
                 "NON_AUTHORIZED",
                 "AUTHORIZED",
-                "PREMIUM"
+                "PAID"
             ],
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781630342000
+    "lastUpdated": 1781631650000
 }
