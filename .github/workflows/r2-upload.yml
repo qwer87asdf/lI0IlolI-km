@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - dev
 
 jobs:
   upload-to-r2:
@@ -93,7 +94,7 @@ jobs:
       - name: Upload changed files to R2
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_BUCKET_NAME: ${{ github.ref_name == 'dev' && 'muslims-day-dev' || secrets.R2_BUCKET_NAME }}
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           R2_S3_ENDPOINT: ${{ secrets.R2_S3_ENDPOINT }}
