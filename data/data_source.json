@@ -2,7 +2,7 @@
   {
     "name": "about_us",
     "url": "appdata/data/{lang}/about_us.json",
-    "updated_at": 1767498887000
+    "updated_at": 1781578085000
   },
   {
     "name": "change_log",
@@ -22,12 +22,12 @@
   {
     "name": "salat_reference",
     "url": "appdata/data/{lang}/salat_reference.json",
-    "updated_at": 1770949104584
+    "updated_at": 1781578085000
   },
   {
     "name": "prohibited_time_reference",
     "url": "appdata/data/{lang}/prohibited_time_reference.json",
-    "updated_at": 1759452289367
+    "updated_at": 1781578085000
   },
   {
     "name": "daily_notification",
@@ -42,7 +42,7 @@
   {
     "name": "dua",
     "url": "appdata/data/{lang}/dua.json",
-    "updated_at": 1773013355000
+    "updated_at": 1781578085000
   },
   {
     "name": "selected_quran",
@@ -52,12 +52,12 @@
   {
     "name": "selected_hadith",
     "url": "appdata/data/{lang}/selected_hadith.json",
-    "updated_at": 1759452289367
+    "updated_at": 1781578085000
   },
   {
     "name": "asmaul_husna",
     "url": "appdata/data/{lang}/asmaul_husna.json",
-    "updated_at": 1780224316644
+    "updated_at": 1781578085000
   },
   {
     "name": "settings",
