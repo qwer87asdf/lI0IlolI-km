@@ -1,9 +1,9 @@
 [
     {
-        "category_id": 1,
-        "category_name": "সালাত-নামাজ",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/salat.png",
-        "content_list": [
+        "categoryId": 1,
+        "categoryName": "সালাত-নামাজ",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/salat.png",
+        "contentList": [
             {
                 "id": 1,
                 "title": "আজানের পর পড়ার দুআ",
@@ -183,10 +183,10 @@
         ]
     },
     {
-        "category_id": 2,
-        "category_name": "দৈনন্দিন জীবন",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/daily-life.png",
-        "content_list": [
+        "categoryId": 2,
+        "categoryName": "দৈনন্দিন জীবন",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/daily-life.png",
+        "contentList": [
             {
                 "id": 19,
                 "title": "ঘুমাতে যাওয়ার আগের দুআ",
@@ -421,10 +421,10 @@
         ]
     },
     {
-        "category_id": 3,
-        "category_name": "সাওম",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/image/sawm-rHLnS5i1.jpg",
-        "content_list": [
+        "categoryId": 3,
+        "categoryName": "সাওম",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/image/sawm-rHLnS5i1.jpg",
+        "contentList": [
             {
                 "id": 44,
                 "title": "সাওমের নিয়ত",
@@ -460,10 +460,10 @@
         ]
     },
     {
-        "category_id": 4,
-        "category_name": "সকাল-সন্ধ্যার যিক‍র",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/morning_evening_zikr.png",
-        "content_list": [
+        "categoryId": 4,
+        "categoryName": "সকাল-সন্ধ্যার যিক‍র",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/morning_evening_zikr.png",
+        "contentList": [
             {
                 "id": 48,
                 "title": "আয়াতুল কুরসী - জিন ও শয়তান থেকে নিরাপত্তা",
@@ -654,10 +654,10 @@
         ]
     },
     {
-        "category_id": 5,
-        "category_name": "কুরআন থেকে",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/quran_dua.png",
-        "content_list": [
+        "categoryId": 5,
+        "categoryName": "কুরআন থেকে",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/quran_dua.png",
+        "contentList": [
             {
                 "id": 69,
                 "title": "আমল কবুলের জন্য দুআ",
@@ -1007,10 +1007,10 @@
         ]
     },
     {
-        "category_id": 6,
-        "category_name": "বিবিধ",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/more.png",
-        "content_list": [
+        "categoryId": 6,
+        "categoryName": "বিবিধ",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/more.png",
+        "contentList": [
             {
                 "id": 109,
                 "title": "ইসতিখারার নামাজের দুআ",

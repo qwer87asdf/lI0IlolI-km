@@ -1,9 +1,9 @@
 [
     {
-        "category_id": 1,
-        "category_name": "Salat-Prayer",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/salat.png",
-        "content_list": [
+        "categoryId": 1,
+        "categoryName": "Salat-Prayer",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/salat.png",
+        "contentList": [
             {
                 "id": 1,
                 "title": "Dua after Azan",
@@ -183,10 +183,10 @@
         ]
     },
     {
-        "category_id": 2,
-        "category_name": "Daily Life",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/daily-life.png",
-        "content_list": [
+        "categoryId": 2,
+        "categoryName": "Daily Life",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/daily-life.png",
+        "contentList": [
             {
                 "id": 19,
                 "title": "Dua before going to sleep",
@@ -421,10 +421,10 @@
         ]
     },
     {
-        "category_id": 3,
-        "category_name": "Sawm",
-        "category_image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/image/sawm-rHLnS5i1.jpg",
-        "content_list": [
+        "categoryId": 3,
+        "categoryName": "Sawm",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/image/sawm-rHLnS5i1.jpg",
+        "contentList": [
             {
                 "id": 44,
                 "title": "Intention of Sawm",
@@ -460,10 +460,10 @@
         ]
     },
     {
-        "category_id": 4,
-        "category_name": "Morning-Evening Zikr",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/morning_evening_zikr.png",
-        "content_list": [
+        "categoryId": 4,
+        "categoryName": "Morning-Evening Zikr",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/morning_evening_zikr.png",
+        "contentList": [
             {
                 "id": 48,
                 "title": "Ayatul Kursi - Protection from Jinn and Satan",
@@ -654,10 +654,10 @@
         ]
     },
     {
-        "category_id": 5,
-        "category_name": "From the Quran",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/quran_dua.png",
-        "content_list": [
+        "categoryId": 5,
+        "categoryName": "From the Quran",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/quran_dua.png",
+        "contentList": [
             {
                 "id": 69,
                 "title": "Dua for acceptance of deeds",
@@ -1007,10 +1007,10 @@
         ]
     },
     {
-        "category_id": 6,
-        "category_name": "Miscellaneous",
-        "category_image": "https://data.muslimsday.com/appdata/image/{theme}/more.png",
-        "content_list": [
+        "categoryId": 6,
+        "categoryName": "Miscellaneous",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/more.png",
+        "contentList": [
             {
                 "id": 109,
                 "title": "Dua of Istikhara prayer",
