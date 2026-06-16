@@ -1,6 +1,9 @@
 {
   "isIfaEnable": true,
   "isMahfilEnable": true,
+  "appReviewDaysAfterOnboarding": 3,
+  "appReviewRepeatBaseDays": 2,
+  "appReviewRepeatMaxDays": 30,
   "adNetworkConfig": {
     "minDaysBeforeAdShown": 3,
     "isEnable": true,
