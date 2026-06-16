@@ -21,7 +21,8 @@
                 "shouldPremiumUser": false,
                 "shouldLoggedIn": false,
                 "action": {
-                    "type": "url"
+                    "type": "url",
+                    "url": "https://dev.data.muslimsday.com/appdata/data/bn/home_cards.json"
                 }
             }
         },
@@ -294,5 +295,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781629541000
+    "lastUpdated": 1781630342000
 }
