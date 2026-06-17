@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "type": "countdown_timer",
+            "type": "banner",
             "id": "premium_upsells",
             "priority": 100,
             "isEnabled": true,
@@ -15,12 +15,17 @@
                 "AUTHORIZED"
             ],
             "endTimestampInSecond": null,
-            "timerConfig": {
-                "eventType": "ASHURA",
-                "title": "Ashura",
-                "subtitle": "10th day of Muharram",
-                "showSeconds": true,
-                "compactMode": false
+            "bannerConfig": {
+                "title": "Support Muslims Day App",
+                "subtitle": "Your contributions help countless Muslims in their Ibadah",
+                "buttonText": "Try Now",
+                "bannerType": "PRIMARY",
+                "iconId": "CROWN",
+                "iconUrl": null,
+                "action": {
+                    "type": "url",
+                    "url": "https://id.kahf.co/pay/muslimsday"
+                }
             }
         },
         {
@@ -33,7 +38,9 @@
             "supportedCountries": [],
             "notSupportedCountries": [],
             "visibleTo": [
-                "NON_AUTHORIZED"
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
             ],
             "endTimestampInSecond": null,
             "shortcuts": [
@@ -222,5 +229,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781692369000
+    "lastUpdated": 1781693178000
 }
