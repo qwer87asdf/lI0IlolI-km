@@ -26,8 +26,7 @@
                 "action": {
                     "type": "url",
                     "url": "https://id.kahf.co/pay/muslimsday"
-                },
-                "shouldPremiumUser": false
+                }
             }
         },
         {
@@ -35,18 +34,19 @@
             "id": "shortcuts",
             "priority": 200,
             "isEnabled": true,
-            "supportedLanguages": null,
-            "notSupportedLanguages": null,
-            "supportedCountries": null,
-            "notSupportedCountries": null,
-            "visibleTo": null,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
             "endTimestampInSecond": null,
             "shortcuts": [
                 {
                     "id": "hadith",
                     "title": "Hadith",
                     "iconId": "HADITH_SHORTCUT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/hadith.png",
+                    "icon_type": "single",
+                    "isEnabled": true,
                     "action": {
                         "type": "navigation",
                         "route": {
@@ -54,13 +54,15 @@
                             "name": "selected-hadith"
                         }
                     },
-                    "isEnabled": true
+                    "icon": "image/a209ec8e-160a-44b5-8ff0-95eb1940c4b2-U7hb2MpJ.jpg",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/a209ec8e-160a-44b5-8ff0-95eb1940c4b2-U7hb2MpJ.jpg"
                 },
                 {
                     "id": "qibla",
                     "title": "Qibla",
                     "iconId": "QIBLA_SHORTCUT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/qibla.png",
+                    "icon_type": "single",
+                    "isEnabled": true,
                     "action": {
                         "type": "navigation",
                         "route": {
@@ -68,13 +70,15 @@
                             "name": "qibla-compass"
                         }
                     },
-                    "isEnabled": true
+                    "icon": "image/result-xM3wg8Dm.jpg",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/result-xM3wg8Dm.jpg"
                 },
                 {
                     "id": "hadith",
                     "title": "Tasbeeh",
                     "iconId": "TASBIH_SHORTCUT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/tasbeeh.png",
+                    "icon_type": "single",
+                    "isEnabled": true,
                     "action": {
                         "type": "navigation",
                         "route": {
@@ -82,18 +86,21 @@
                             "name": "tasbeeh"
                         }
                     },
-                    "isEnabled": true
+                    "icon": "image/sawm-XFJgRJdd.jpg",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/sawm-XFJgRJdd.jpg"
                 },
                 {
                     "id": "zakat",
                     "title": "Zakat",
                     "iconId": "ZAKAT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/zakat_calculator.png",
+                    "icon_type": "single",
+                    "isEnabled": true,
                     "action": {
                         "type": "url",
                         "url": "https://zakat.muslimsday.com"
                     },
-                    "isEnabled": true
+                    "icon": "image/result-hLievsCg.jpg",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/result-hLievsCg.jpg"
                 }
             ]
         },
@@ -125,8 +132,7 @@
                         "type": "screen",
                         "name": "profile"
                     }
-                },
-                "shouldPremiumUser": false
+                }
             }
         },
         {
@@ -209,5 +215,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781631649000
+    "lastUpdated": 1781666305000
 }
