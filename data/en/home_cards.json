@@ -32,7 +32,9 @@
             "notSupportedLanguages": [],
             "supportedCountries": [],
             "notSupportedCountries": [],
-            "visibleTo": [],
+            "visibleTo": [
+                "NON_AUTHORIZED"
+            ],
             "endTimestampInSecond": null,
             "shortcuts": [
                 {
@@ -95,6 +97,17 @@
                     },
                     "icon": "image/sawm-pfjZRkE3.jpg",
                     "iconUrl": "https://dev.data.muslimsday.com/appdata/image/sawm-pfjZRkE3.jpg"
+                },
+                {
+                    "id": "support",
+                    "title": "Support",
+                    "iconId": "CROWN",
+                    "icon_type": "single",
+                    "isEnabled": true,
+                    "action": {
+                        "type": "url",
+                        "url": "https://id.kahf.co/support/muslimsday"
+                    }
                 }
             ]
         },
@@ -209,5 +222,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781691295000
+    "lastUpdated": 1781691941000
 }
