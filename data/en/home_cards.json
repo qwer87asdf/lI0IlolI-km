@@ -90,7 +90,7 @@
                     "title": "Zakat",
                     "iconId": "ZAKAT",
                     "icon_type": "single",
-                    "isEnabled": true,
+                    "isEnabled": false,
                     "action": {
                         "type": "url",
                         "url": "https://zakat.muslimsday.com"
@@ -222,5 +222,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781691941000
+    "lastUpdated": 1781692369000
 }
