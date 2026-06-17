@@ -1,12 +1,12 @@
 {
     "events": [
         {
-            "id": "kids_mental_health_awareness",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/ChatGPT_Image_Jun_16_2026_08_35_03_PM_1-oH1lwFiw.png",
-            "title": "Kids Mental Health Awareness - 2",
-            "description": "Every child deserves support, care, and understanding.",
+            "id": "kahf_kids",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-GtRxH26J.png",
+            "title": "Kahf Kids",
+            "description": "Kahf Kids helps parents manage screen time, block harmful apps, and games.",
             "startTime": 1780972560000,
-            "endTime": 1781750160000,
+            "endTime": 1781698800000,
             "isActive": true,
             "priority": 100,
             "action": {
