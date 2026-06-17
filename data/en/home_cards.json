@@ -54,8 +54,8 @@
                             "name": "selected-hadith"
                         }
                     },
-                    "icon": "image/a209ec8e-160a-44b5-8ff0-95eb1940c4b2-U7hb2MpJ.jpg",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/a209ec8e-160a-44b5-8ff0-95eb1940c4b2-U7hb2MpJ.jpg"
+                    "icon": "image/result-d89ZbeDC.jpg",
+                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/result-d89ZbeDC.jpg"
                 },
                 {
                     "id": "qibla",
@@ -70,8 +70,8 @@
                             "name": "qibla-compass"
                         }
                     },
-                    "icon": "image/result-xM3wg8Dm.jpg",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/result-xM3wg8Dm.jpg"
+                    "icon": "image/sawm-KCV7BXx4.jpg",
+                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/sawm-KCV7BXx4.jpg"
                 },
                 {
                     "id": "hadith",
@@ -86,8 +86,8 @@
                             "name": "tasbeeh"
                         }
                     },
-                    "icon": "image/sawm-XFJgRJdd.jpg",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/sawm-XFJgRJdd.jpg"
+                    "icon": "image/result-09FEdBQc.jpg",
+                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/result-09FEdBQc.jpg"
                 },
                 {
                     "id": "zakat",
@@ -99,8 +99,8 @@
                         "type": "url",
                         "url": "https://zakat.muslimsday.com"
                     },
-                    "icon": "image/result-hLievsCg.jpg",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/result-hLievsCg.jpg"
+                    "icon": "image/sawm-pfjZRkE3.jpg",
+                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/sawm-pfjZRkE3.jpg"
                 }
             ]
         },
@@ -215,5 +215,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781666305000
+    "lastUpdated": 1781667071000
 }
