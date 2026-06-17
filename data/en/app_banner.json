@@ -8,7 +8,7 @@
             "startTime": 1781699400000,
             "endTime": 1781700300000,
             "isActive": true,
-            "priority": 100,
+            "priority": 101,
             "action": {
                 "type": "web",
                 "url": "https://kahfguard.com/"
