@@ -1,6 +1,20 @@
 {
     "events": [
         {
+            "id": "kahf_guard",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kg-CjLP2kdj.png",
+            "title": "Kahf Guard: Shield up against Online Harm",
+            "description": "You are protected from Millions Of Harmful websites",
+            "startTime": 1781699400000,
+            "endTime": 1781700300000,
+            "isActive": true,
+            "priority": 100,
+            "action": {
+                "type": "web",
+                "url": "https://kahfguard.com/"
+            }
+        },
+        {
             "id": "kahf_kids",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-GtRxH26J.png",
             "title": "Kahf Kids",
