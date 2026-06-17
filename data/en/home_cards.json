@@ -1,32 +1,26 @@
 {
     "items": [
         {
-            "type": "banner",
-            "id": "premium_upsell",
+            "type": "countdown_timer",
+            "id": "premium_upsells",
             "priority": 100,
             "isEnabled": true,
             "supportedLanguages": [
-                "en",
-                "bn"
+                "en"
             ],
-            "notSupportedLanguages": null,
-            "supportedCountries": null,
-            "notSupportedCountries": null,
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
             "visibleTo": [
-                "NON_AUTHORIZED",
                 "AUTHORIZED"
             ],
-            "endTimestampInSecond": null,
-            "bannerConfig": {
-                "title": "Go Premium",
-                "subtitle": "No Ads, Offline Mode & More",
-                "buttonText": "Upgrade",
-                "bannerType": "WARNING",
-                "iconId": "CROWN",
-                "action": {
-                    "type": "url",
-                    "url": "https://id.kahf.co/pay/muslimsday"
-                }
+            "endTimestampInSecond": 1781712600,
+            "timerConfig": {
+                "eventType": "ASHURA",
+                "title": "Ashura",
+                "subtitle": "10th day of Muharram",
+                "showSeconds": true,
+                "compactMode": true
             }
         },
         {
@@ -215,5 +209,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781667071000
+    "lastUpdated": 1781689521000
 }
