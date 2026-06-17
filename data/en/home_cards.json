@@ -1,6 +1,27 @@
 {
     "items": [
         {
+            "type": "countdown_timer",
+            "id": "ashura_timer",
+            "priority": 100,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED"
+            ],
+            "endTimestampInSecond": 1782798660,
+            "timerConfig": {
+                "eventType": "ASHURA",
+                "title": null,
+                "subtitle": "10th day of Muharram",
+                "showSeconds": true,
+                "compactMode": false
+            }
+        },
+        {
             "type": "banner",
             "id": "premium_upsells",
             "priority": 100,
@@ -229,5 +250,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781693178000
+    "lastUpdated": 1781740337000
 }
