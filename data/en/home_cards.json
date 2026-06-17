@@ -14,13 +14,13 @@
             "visibleTo": [
                 "AUTHORIZED"
             ],
-            "endTimestampInSecond": 1781712600,
+            "endTimestampInSecond": null,
             "timerConfig": {
                 "eventType": "ASHURA",
                 "title": "Ashura",
                 "subtitle": "10th day of Muharram",
                 "showSeconds": true,
-                "compactMode": true
+                "compactMode": false
             }
         },
         {
@@ -209,5 +209,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781689521000
+    "lastUpdated": 1781691295000
 }
