@@ -135,7 +135,9 @@
                     "action": {
                         "type": "url",
                         "url": "https://id.kahf.co/support/muslimsday"
-                    }
+                    },
+                    "icon": "image/ChatGPT_Image_Jun_16_2026_08_35_03_PM-wX4j3k4e.png",
+                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/ChatGPT_Image_Jun_16_2026_08_35_03_PM-wX4j3k4e.png"
                 }
             ]
         },
@@ -250,5 +252,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1781740337000
+    "lastUpdated": 1781741063000
 }
