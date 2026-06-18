@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": 1781776549,
-    "versionName": "6.1.1",
-    "change": "Bug fixes and performance improvements.",
-    "versionCode": 255,
-    "isForceUpdate": true
-  },
-  {
     "timestamp": 1767025350,
     "versionName": "6.0.0-alpha-03",
     "change": "Fresh UI with new design and new features added.",
