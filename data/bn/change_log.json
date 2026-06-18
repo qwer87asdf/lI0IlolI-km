@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": 1781776549,
+    "versionName": "6.1.1",
+    "change": "বাগ ফিক্স এবং পারফরম্যান্স উন্নয়ন।",
+    "versionCode": 255,
+    "isForceUpdate": true
+  },
+  {
     "timestamp": 1767025350,
     "versionName": "6.0.0-alpha-03",
     "change": "নতুন UI এবং নতুন ফিচার যোগ করা হয়েছে।",
