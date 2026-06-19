@@ -1,45 +1,31 @@
 {
     "events": [
         {
-            "id": "eid_1",
-            "icon": "https://data.muslimsday.com/appdata/image/mosque.png",
-            "title": "ঈদের নামাজের নিয়ম",
-            "description": "অতিরিক্ত ৬ তাকবীরের সাথে ঈদের নামাজের নিয়ম জেনে নিন",
-            "startTime": 1777355210000,
-            "endTime": 1779987600000,
-            "isActive": false,
-            "priority": 110,
+            "id": "muharram-2026-quiz",
+            "icon": "https://data.muslimsday.com/appdata/image/01KVEWHPEPSYMAF9Z0J0M8JQXP.png",
+            "title": "মুহাররম কুইজ ২০২৬",
+            "description": "রেজিস্ট্রেশন করুন, PDF পড়ুন, পুরস্কার জিতুন",
+            "startTime": 1781837478000,
+            "endTime": 1782496740000,
+            "isActive": true,
+            "priority": 101,
             "action": {
                 "type": "web",
-                "url": "https://muslimsday.com/blog/ঈদের-নামাজের-নিয়ম/"
+                "url": "https://kahf.to/muharram-quiz-26"
             }
         },
         {
-            "id": "eid_2",
-            "icon": "https://data.muslimsday.com/appdata/image/mosque.png",
-            "title": "ঈদুল আযহার ১২টি সুন্নত আমল",
-            "description": "জেনে নিন ঈদের দিনের করণীয় ১২টি মাসনূন আমল",
-            "startTime": 1777355210000,
-            "endTime": 1779987600000,
+            "id": "report-problem",
+            "icon": "https://data.muslimsday.com/appdata/image/01KVEWCTZEYTQ383CSXE97HX7V.png",
+            "title": "অ্যাপের যে কোনো সমস্যা জানান",
+            "description": "যে কোনো বাগ বা অসুবিধার কথা রিপোর্ট করুন",
+            "startTime": 1781837478000,
+            "endTime": 1782323940000,
             "isActive": true,
             "priority": 100,
             "action": {
                 "type": "web",
-                "url": "https://muslimsday.com/blog/ঈদুল-আযহার-সুন্নত-আমল/"
-            }
-        },
-        {
-            "id": "eid_3",
-            "icon": "https://data.muslimsday.com/appdata/image/mosque.png",
-            "title": "তাকবীরে তাশরীক ওয়াজিব আমল",
-            "description": "৩১ মে আসর পর্যন্ত প্রতি ফরজ নামাজের পর তাকবীর",
-            "startTime": 1777355210000,
-            "endTime": 1780228800000,
-            "isActive": true,
-            "priority": 90,
-            "action": {
-                "type": "web",
-                "url": "https://muslimsday.com/blog/তাকবীরে-তাশরীক-মাসআলা/"
+                "url": "https://forms.gle/JL66MKoRKgAaqY8W8"
             }
         }
     ]
