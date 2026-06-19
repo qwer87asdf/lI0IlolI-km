@@ -8,7 +8,7 @@
             "startTime": 1781837478000,
             "endTime": 1782496740000,
             "isActive": true,
-            "priority": 101,
+            "priority": 100,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/muharram-quiz-26"
@@ -22,7 +22,7 @@
             "startTime": 1781837478000,
             "endTime": 1782323940000,
             "isActive": true,
-            "priority": 100,
+            "priority": 101,
             "action": {
                 "type": "web",
                 "url": "https://forms.gle/JL66MKoRKgAaqY8W8"
