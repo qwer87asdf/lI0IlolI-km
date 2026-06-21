@@ -1,35 +1,6 @@
 {
     "items": [
         {
-            "type": "banner",
-            "id": "premium_upsells",
-            "priority": 100,
-            "isEnabled": true,
-            "supportedLanguages": [
-                "en"
-            ],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "AUTHORIZED",
-                "NON_AUTHORIZED"
-            ],
-            "endTimestampInSecond": null,
-            "bannerConfig": {
-                "title": "Support Muslims Day App",
-                "subtitle": "Your contributions help countless Muslims in their Ibadah",
-                "buttonText": "Try Now",
-                "bannerType": "PRIMARY",
-                "iconId": "CROWN",
-                "iconUrl": null,
-                "action": {
-                    "type": "url",
-                    "url": "https://id.kahf.co/pay/muslimsday"
-                }
-            }
-        },
-        {
             "type": "countdown_timer",
             "id": "ashura_timer",
             "priority": 100,
@@ -50,6 +21,36 @@
                 "subtitle": "10th day of Muharram",
                 "showSeconds": true,
                 "compactMode": false
+            }
+        },
+        {
+            "type": "banner",
+            "id": "premium_upsells",
+            "priority": 100,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "en"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED",
+                "NON_AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "Support Muslims Day App",
+                "subtitle": "Your contributions help countless Muslims in their Ibadah",
+                "buttonText": "Try Now",
+                "bannerType": "PRIMARY",
+                "iconId": "CROWN",
+                "iconUrl": null,
+                "action": {
+                    "type": "url",
+                    "url": "https://id.kahf.co/pay/muslimsday"
+                }
             }
         },
         {
@@ -180,11 +181,15 @@
             "id": "ramadan_countdown",
             "priority": 350,
             "isEnabled": true,
-            "supportedLanguages": null,
-            "notSupportedLanguages": null,
-            "supportedCountries": null,
-            "notSupportedCountries": null,
-            "visibleTo": null,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
             "endTimestampInSecond": null,
             "timerConfig": {
                 "eventType": "RAMADAN_START",
@@ -199,11 +204,15 @@
             "id": "daily_dua",
             "priority": 350,
             "isEnabled": true,
-            "supportedLanguages": null,
-            "notSupportedLanguages": null,
-            "supportedCountries": null,
-            "notSupportedCountries": null,
-            "visibleTo": null,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
             "endTimestampInSecond": null,
             "duaContent": {
                 "id": 1,
@@ -234,13 +243,14 @@
             "id": "pre_feed_ad",
             "priority": 550,
             "isEnabled": true,
-            "supportedLanguages": null,
-            "notSupportedLanguages": null,
-            "supportedCountries": null,
-            "notSupportedCountries": null,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
             "visibleTo": [
                 "NON_AUTHORIZED",
-                "AUTHORIZED"
+                "AUTHORIZED",
+                "PAID"
             ],
             "endTimestampInSecond": null,
             "divId": "home-feed-native-ad",
@@ -259,5 +269,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1782034009000
+    "lastUpdated": 1782038223000
 }
