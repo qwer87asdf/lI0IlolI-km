@@ -1,20 +1,6 @@
 {
     "events": [
         {
-            "id": "kahf_guard",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kg-CjLP2kdj.png",
-            "title": "Kahf Guard: Shield up against Online Harm",
-            "description": "You are protected from Millions Of Harmful websites",
-            "startTime": 1781699400000,
-            "endTime": 1781700300000,
-            "isActive": true,
-            "priority": 101,
-            "action": {
-                "type": "web",
-                "url": "https://kahfguard.com/"
-            }
-        },
-        {
             "id": "kahf_kids",
             "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kk-kPSYj9F7.jpg",
             "title": "Kahf Kids",
@@ -26,6 +12,20 @@
             "action": {
                 "type": "web",
                 "url": "https://kahfkids.com/"
+            }
+        },
+        {
+            "id": "kahf_guard",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kg-tB35vKsC.png",
+            "title": "Kahf Guard: Shield up against Online Harm",
+            "description": "You are protected from Millions Of Harmful websites",
+            "startTime": 1780489800000,
+            "endTime": 1782218700000,
+            "isActive": true,
+            "priority": 10,
+            "action": {
+                "type": "web",
+                "url": "https://kahfguard.com/"
             }
         }
     ]
