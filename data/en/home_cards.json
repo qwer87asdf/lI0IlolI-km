@@ -1,29 +1,6 @@
 {
     "items": [
         {
-            "type": "countdown_timer",
-            "id": "ashura_timer",
-            "priority": 100,
-            "isEnabled": true,
-            "supportedLanguages": [],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "AUTHORIZED",
-                "PAID",
-                "NON_AUTHORIZED"
-            ],
-            "endTimestampInSecond": 1782798660,
-            "timerConfig": {
-                "eventType": "ASHURA",
-                "title": null,
-                "subtitle": "10th day of Muharram",
-                "showSeconds": true,
-                "compactMode": false
-            }
-        },
-        {
             "type": "banner",
             "id": "premium_upsells",
             "priority": 100,
@@ -50,6 +27,29 @@
                     "type": "url",
                     "url": "https://id.kahf.co/pay/muslimsday"
                 }
+            }
+        },
+        {
+            "type": "countdown_timer",
+            "id": "ashura_timer",
+            "priority": 100,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED",
+                "PAID",
+                "NON_AUTHORIZED"
+            ],
+            "endTimestampInSecond": 1782798660,
+            "timerConfig": {
+                "eventType": "ASHURA",
+                "title": null,
+                "subtitle": "10th day of Muharram",
+                "showSeconds": true,
+                "compactMode": false
             }
         },
         {
@@ -218,11 +218,15 @@
             "id": "last_read_ayah",
             "priority": 500,
             "isEnabled": true,
-            "supportedLanguages": null,
-            "notSupportedLanguages": null,
-            "supportedCountries": null,
-            "notSupportedCountries": null,
-            "visibleTo": null,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
             "endTimestampInSecond": null
         },
         {
@@ -255,5 +259,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1782033471000
+    "lastUpdated": 1782034009000
 }
