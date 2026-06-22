@@ -54,99 +54,6 @@
             }
         },
         {
-            "type": "shortcuts_card",
-            "id": "shortcuts",
-            "priority": 3,
-            "isEnabled": true,
-            "supportedLanguages": [
-                "en",
-                "bn"
-            ],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "NON_AUTHORIZED",
-                "AUTHORIZED"
-            ],
-            "endTimestampInSecond": null,
-            "shortcuts": [
-                {
-                    "id": "hadith",
-                    "title": "হাদিস",
-                    "iconId": "HADITH_SHORTCUT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/hadith.png",
-                    "action": {
-                        "type": "navigation",
-                        "route": {
-                            "type": "screen",
-                            "name": "selected-hadith"
-                        }
-                    },
-                    "isEnabled": true,
-                    "icon_type": null
-                },
-                {
-                    "id": "dua",
-                    "title": "u09a6u09cbu09afu09bcu09be",
-                    "iconId": "DUA_SHORTCUT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/dua.png",
-                    "action": {
-                        "type": "navigation",
-                        "route": {
-                            "type": "screen",
-                            "name": "dua"
-                        }
-                    },
-                    "isEnabled": true,
-                    "icon_type": null
-                },
-                {
-                    "id": "qibla",
-                    "title": "কিবলা",
-                    "iconId": "QURAN_SHORTCUT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/qibla.png",
-                    "action": {
-                        "type": "navigation",
-                        "route": {
-                            "type": "screen",
-                            "name": "qibla-compass"
-                        }
-                    },
-                    "isEnabled": true,
-                    "icon_type": null
-                },
-                {
-                    "id": "tasbeeh",
-                    "title": "তাসবীহ",
-                    "iconId": "TASBIH_SHORTCUT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/tasbeeh.png",
-                    "action": {
-                        "type": "navigation",
-                        "route": {
-                            "type": "screen",
-                            "name": "tasbeeh"
-                        }
-                    },
-                    "isEnabled": true,
-                    "icon_type": null
-                },
-                {
-                    "id": "zakat",
-                    "title": "যাকাত",
-                    "iconId": "ZAKAT",
-                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/zakat_calculator.png",
-                    "action": {
-                        "type": "url",
-                        "route": [],
-                        "url": "https://zakat.muslimsday.com"
-                    },
-                    "isEnabled": true,
-                    "icon_type": null
-                }
-            ]
-        },
-        {
             "type": "banner",
             "id": "premium_upsell_2",
             "priority": 4,
@@ -288,5 +195,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1782038224000
+    "lastUpdated": 1782118234000
 }
