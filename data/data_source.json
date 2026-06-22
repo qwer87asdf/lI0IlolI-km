@@ -42,7 +42,7 @@
   {
     "name": "dua",
     "url": "appdata/data/{lang}/dua.json",
-    "updated_at": 1781984171000
+    "updated_at": 1782097380000
   },
   {
     "name": "selected_quran",
@@ -91,7 +91,7 @@
   {
     "name": "home_cards",
     "url": "appdata/data/{lang}/home_cards.json",
-    "updated_at": 1780912387000
+    "updated_at": 1782097380000
   },
   {
     "name": "donation",
