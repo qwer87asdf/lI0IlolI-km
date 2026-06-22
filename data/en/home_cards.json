@@ -54,98 +54,6 @@
             }
         },
         {
-            "type": "shortcuts_card",
-            "id": "shortcuts",
-            "priority": 200,
-            "isEnabled": true,
-            "supportedLanguages": [],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "NON_AUTHORIZED",
-                "AUTHORIZED",
-                "PAID"
-            ],
-            "endTimestampInSecond": null,
-            "shortcuts": [
-                {
-                    "id": "hadith",
-                    "title": "Hadith",
-                    "iconId": "HADITH_SHORTCUT",
-                    "icon_type": "single",
-                    "isEnabled": true,
-                    "action": {
-                        "type": "navigation",
-                        "route": {
-                            "type": "screen",
-                            "name": "selected-hadith"
-                        }
-                    },
-                    "icon": "image/result-d89ZbeDC.jpg",
-                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/result-d89ZbeDC.jpg"
-                },
-                {
-                    "id": "qibla",
-                    "title": "Qibla",
-                    "iconId": "QIBLA_SHORTCUT",
-                    "icon_type": "single",
-                    "isEnabled": true,
-                    "action": {
-                        "type": "navigation",
-                        "route": {
-                            "type": "screen",
-                            "name": "qibla-compass"
-                        }
-                    },
-                    "icon": "image/sawm-KCV7BXx4.jpg",
-                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/sawm-KCV7BXx4.jpg"
-                },
-                {
-                    "id": "hadith",
-                    "title": "Tasbeeh",
-                    "iconId": "TASBIH_SHORTCUT",
-                    "icon_type": "single",
-                    "isEnabled": true,
-                    "action": {
-                        "type": "navigation",
-                        "route": {
-                            "type": "screen",
-                            "name": "tasbeeh"
-                        }
-                    },
-                    "icon": "image/result-09FEdBQc.jpg",
-                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/result-09FEdBQc.jpg"
-                },
-                {
-                    "id": "zakat",
-                    "title": "Zakat",
-                    "iconId": "ZAKAT",
-                    "icon_type": "single",
-                    "isEnabled": false,
-                    "action": {
-                        "type": "url",
-                        "url": "https://zakat.muslimsday.com"
-                    },
-                    "icon": "image/sawm-pfjZRkE3.jpg",
-                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/sawm-pfjZRkE3.jpg"
-                },
-                {
-                    "id": "support",
-                    "title": "Support",
-                    "iconId": "CROWN",
-                    "icon_type": "single",
-                    "isEnabled": true,
-                    "action": {
-                        "type": "url",
-                        "url": "https://id.kahf.co/support/muslimsday"
-                    },
-                    "icon": "image/ChatGPT_Image_Jun_16_2026_08_35_03_PM-wX4j3k4e.png",
-                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/ChatGPT_Image_Jun_16_2026_08_35_03_PM-wX4j3k4e.png"
-                }
-            ]
-        },
-        {
             "type": "banner",
             "id": "premium_upsell_2",
             "priority": 300,
@@ -269,5 +177,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1782038223000
+    "lastUpdated": 1782118233000
 }
