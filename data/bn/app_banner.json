@@ -1,3 +1,18 @@
 {
-    "events": []
+    "events": [
+        {
+            "id": "BD_k_kidz",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-K8h3gCSd.jpg",
+            "title": "BD K Kidz",
+            "description": "Halal and Safe",
+            "startTime": 1782214200000,
+            "endTime": 1782300600000,
+            "isActive": true,
+            "priority": 100,
+            "action": {
+                "type": "internal",
+                "url": "https://kahfkids.com/"
+            }
+        }
+    ]
 }
