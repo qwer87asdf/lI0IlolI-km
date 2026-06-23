@@ -10,7 +10,7 @@
             "isActive": true,
             "priority": 100,
             "action": {
-                "type": "internal",
+                "type": "web",
                 "url": "https://kahfkids.com/"
             }
         }
