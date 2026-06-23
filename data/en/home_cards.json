@@ -1,29 +1,6 @@
 {
     "items": [
         {
-            "type": "countdown_timer",
-            "id": "ashura_timer",
-            "priority": 100,
-            "isEnabled": true,
-            "supportedLanguages": [],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "AUTHORIZED",
-                "PAID",
-                "NON_AUTHORIZED"
-            ],
-            "endTimestampInSecond": 1782798660,
-            "timerConfig": {
-                "eventType": "ASHURA",
-                "title": null,
-                "subtitle": "10th day of Muharram",
-                "showSeconds": true,
-                "compactMode": false
-            }
-        },
-        {
             "type": "banner",
             "id": "premium_upsells",
             "priority": 100,
@@ -51,6 +28,32 @@
                     "type": "url",
                     "url": "https://id.kahf.co/pay/muslimsday"
                 }
+            }
+        },
+        {
+            "type": "countdown_timer",
+            "id": "ashura_timer",
+            "priority": 100,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "en",
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED",
+                "PAID",
+                "NON_AUTHORIZED"
+            ],
+            "endTimestampInSecond": 1782798660,
+            "timerConfig": {
+                "eventType": "ASHURA",
+                "title": null,
+                "subtitle": "10th day of Muharram",
+                "showSeconds": true,
+                "compactMode": true
             }
         },
         {
@@ -177,5 +180,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1782118233000
+    "lastUpdated": 1782192824000
 }
