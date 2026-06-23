@@ -8,7 +8,7 @@
             "startTime": 1782214200000,
             "endTime": 1782300600000,
             "isActive": true,
-            "priority": 100,
+            "priority": 99,
             "action": {
                 "type": "web",
                 "url": "https://kahfkids.com/"
