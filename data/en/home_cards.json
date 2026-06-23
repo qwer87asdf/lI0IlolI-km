@@ -1,36 +1,6 @@
 {
     "items": [
         {
-            "type": "banner",
-            "id": "premium_upsells",
-            "priority": 100,
-            "isEnabled": true,
-            "supportedLanguages": [
-                "en"
-            ],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "AUTHORIZED",
-                "NON_AUTHORIZED",
-                "PAID"
-            ],
-            "endTimestampInSecond": null,
-            "bannerConfig": {
-                "title": "Support Muslims Day App",
-                "subtitle": "Your contributions help countless Muslims in their Ibadah",
-                "buttonText": "Try Now",
-                "bannerType": "PRIMARY",
-                "iconId": "CROWN",
-                "iconUrl": null,
-                "action": {
-                    "type": "url",
-                    "url": "https://id.kahf.co/pay/muslimsday"
-                }
-            }
-        },
-        {
             "type": "countdown_timer",
             "id": "ashura_timer",
             "priority": 100,
@@ -54,6 +24,37 @@
                 "subtitle": "10th day of Muharram",
                 "showSeconds": true,
                 "compactMode": true
+            }
+        },
+        {
+            "type": "banner",
+            "id": "premium_upsells",
+            "priority": 100,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "en",
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED",
+                "NON_AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "Support Muslims Day App",
+                "subtitle": "Your contributions help countless Muslims in their Ibadah",
+                "buttonText": "Try Now",
+                "bannerType": "PRIMARY",
+                "iconId": "CROWN",
+                "iconUrl": null,
+                "action": {
+                    "type": "url",
+                    "url": "https://id.kahf.co/pay/muslimsday"
+                }
             }
         },
         {
@@ -180,5 +181,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1782192824000
+    "lastUpdated": 1782193109000
 }
