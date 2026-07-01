@@ -8,7 +8,7 @@
             {
                 "id": 9,
                 "sortIndex": 1,
-                "title": "Ruqyah - Dua",
+                "title": "রুকইয়া - দু'আ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -18,7 +18,7 @@
             {
                 "id": 10,
                 "sortIndex": 2,
-                "title": "Ruqyah-Luhaidan",
+                "title": "শাইখ লুহাইদান",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -28,7 +28,7 @@
             {
                 "id": 11,
                 "sortIndex": 3,
-                "title": "Ruqyah - Sudais",
+                "title": "শাইখ আস-সুদাইস",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -38,7 +38,7 @@
             {
                 "id": 12,
                 "sortIndex": 4,
-                "title": "Ruqyah - Shuraim",
+                "title": "শাইখ আশ-শুরাইম",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -58,7 +58,7 @@
             {
                 "id": 14,
                 "sortIndex": 6,
-                "title": "Ruqyah - Ikhlas Falaq Nas",
+                "title": "তিনকুল এর রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -68,7 +68,7 @@
             {
                 "id": 15,
                 "sortIndex": 7,
-                "title": "Ruqyah - 8 surah",
+                "title": "আট সুরার রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -78,7 +78,7 @@
             {
                 "id": 16,
                 "sortIndex": 8,
-                "title": "Ruqyah-Ayatul Kursi",
+                "title": "আয়াতুল কুরসির রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -88,7 +88,7 @@
             {
                 "id": 17,
                 "sortIndex": 9,
-                "title": "Ruqyah - AhmadAjmy",
+                "title": "শাইখ আহমাদ আজমি",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -98,7 +98,7 @@
             {
                 "id": 18,
                 "sortIndex": 10,
-                "title": "Ruqyah - Evil Eye",
+                "title": "বদনজর (Evil Eye) | বদনজরের রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -108,7 +108,7 @@
             {
                 "id": 19,
                 "sortIndex": 11,
-                "title": "Ruqyah - Eye & Hasad (Hibshi)",
+                "title": "বদনজর (Eye Hasad)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -118,7 +118,7 @@
             {
                 "id": 20,
                 "sortIndex": 12,
-                "title": "Ruqyah - Sihr & Mass",
+                "title": "জাদু ও জিন (Sihr-Mass) | সিহরের রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -128,7 +128,7 @@
             {
                 "id": 21,
                 "sortIndex": 13,
-                "title": "Ruqyah - Sihr (Hibshi)",
+                "title": "বদনজর (Eye Hasad)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -148,7 +148,7 @@
             {
                 "id": 23,
                 "sortIndex": 15,
-                "title": "Ruqyah - Zina & Fahisha",
+                "title": "যিনা ফাহিশা বিষয়ক (ruqyah zina)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -168,7 +168,7 @@
             {
                 "id": 25,
                 "sortIndex": 17,
-                "title": "Ruqyah - Azan",
+                "title": "আযান রুকইয়াহ (পুনরাবৃত্তি)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -178,7 +178,7 @@
             {
                 "id": 26,
                 "sortIndex": 18,
-                "title": "Ruqyah - Harq",
+                "title": "আয়াতুল হারক",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -208,7 +208,7 @@
             {
                 "id": 29,
                 "sortIndex": 21,
-                "title": "Ruqyah - Jinn Possession",
+                "title": "জিনের আছর এর রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -218,7 +218,7 @@
             {
                 "id": 30,
                 "sortIndex": 22,
-                "title": "Ruqyah - Khuruj",
+                "title": "রুকইয়াহ খুরুজ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -238,7 +238,7 @@
             {
                 "id": 32,
                 "sortIndex": 24,
-                "title": "Ruqyah - Ghamidi (short)",
+                "title": "সা'দ আল-গামিদী",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -268,7 +268,7 @@
             {
                 "id": 35,
                 "sortIndex": 27,
-                "title": "Ruqya - Hudyfi",
+                "title": "শাইখ হুজাইফি",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -278,7 +278,7 @@
             {
                 "id": 36,
                 "sortIndex": 28,
-                "title": "Ruqyah - Khalid Hibshi",
+                "title": "খালিদ আল হিবশী",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -288,7 +288,7 @@
             {
                 "id": 37,
                 "sortIndex": 29,
-                "title": "Ruqyah - Mufti Junaid CD-1",
+                "title": "মুফতি জুনাইদের সিডি থেকে",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -298,7 +298,7 @@
             {
                 "id": 38,
                 "sortIndex": 30,
-                "title": "Ruqyah - Idrees Abkar",
+                "title": "শাইখ ইদরীস আবকার",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -308,7 +308,7 @@
             {
                 "id": 39,
                 "sortIndex": 31,
-                "title": "Ruqyah - Nasser Al Qatami",
+                "title": "নাসের আল কাতামি",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -328,7 +328,7 @@
             {
                 "id": 41,
                 "sortIndex": 33,
-                "title": "Ruqyah - Majid Az-Zamil",
+                "title": "মাজিদ আয-যামিল",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -338,7 +338,7 @@
             {
                 "id": 42,
                 "sortIndex": 34,
-                "title": "Ruqyah - Mishary",
+                "title": "মিশারী রাশেদ আল-আফাসী",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -368,7 +368,7 @@
             {
                 "id": 45,
                 "sortIndex": 37,
-                "title": "Surah Al-Baqara - by sudais",
+                "title": "সুরা বাকারা - শাইখ সুদাইস",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -388,7 +388,7 @@
             {
                 "id": 47,
                 "sortIndex": 39,
-                "title": "Ruqyah - Shifa Sakinah",
+                "title": "শিফা - সাকিনাহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -428,7 +428,7 @@
             {
                 "id": 51,
                 "sortIndex": 43,
-                "title": "Ruqyah - Sura Fatiha (100x times)",
+                "title": "সুরা ফাতিহার রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -458,7 +458,7 @@
             {
                 "id": 54,
                 "sortIndex": 46,
-                "title": "Curse Against Magician",
+                "title": "যাদুকরদের প্রতি অভিশাপ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
