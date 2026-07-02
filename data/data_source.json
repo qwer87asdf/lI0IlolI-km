@@ -105,7 +105,7 @@
   },
   {
     "name": "helpful_apps",
-    "url": "appdata/data/helpful_apps.json",
+    "url": "appdata/data/{lang}/helpful_apps.json",
     "updated_at": 1780488000000
   },
   {

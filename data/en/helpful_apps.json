@@ -1,0 +1,23 @@
+{
+  "title": "Helpful Apps",
+  "apps": [
+    {
+      "id": 1,
+      "sortIndex": 1,
+      "name": "Muslims Day",
+      "iconUrl": "https://muslimsday.com/favicon.ico",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.muslimsday.app",
+      "iosUrl": "https://apps.apple.com/app/muslims-day/id1492320295",
+      "webUrl": "https://muslimsday.com"
+    },
+    {
+      "id": 2,
+      "sortIndex": 2,
+      "name": "Hikmah",
+      "iconUrl": null,
+      "playStoreUrl": null,
+      "iosUrl": null,
+      "webUrl": "https://hikmah.net"
+    }
+  ]
+}
