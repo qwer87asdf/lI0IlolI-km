@@ -1,32 +1,18 @@
 {
     "events": [
-        {
-            "id": "muharram-2026-quiz",
-            "icon": "https://data.muslimsday.com/appdata/image/01KVEWHPEPSYMAF9Z0J0M8JQXP.png",
-            "title": "Muharram Quiz 2026",
-            "description": "Register, Read PDF, Win Prizes",
-            "startTime": 1781837478000,
-            "endTime": 1782496740000,
-            "isActive": true,
-            "priority": 100,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/muharram-quiz-26"
-            }
-        },
-        {
-            "id": "report-problem",
-            "icon": "https://data.muslimsday.com/appdata/image/01KVEWCTZEYTQ383CSXE97HX7V.png",
-            "title": "Report any issues with the app.",
-            "description": "Report any bugs or issues.",
-            "startTime": 1781837478000,
-            "endTime": 1782323940000,
-            "isActive": true,
-            "priority": 101,
-            "action": {
-                "type": "web",
-                "url": "https://forms.gle/JL66MKoRKgAaqY8W8"
-            }
+      {
+        "id": "prayer-alarm-settings",
+        "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
+        "title": "Go to Prayer Alarm Settings",
+        "description": "Turn prayer alarms on or off as needed.",
+        "startTime": 1783691011141,
+        "endTime": 1783965000000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://link.muslimsday.com/settings/prayer-reminders"
         }
+      }
     ]
 }

@@ -1,32 +1,18 @@
 {
     "events": [
-        {
-            "id": "muharram-2026-quiz-started",
-            "icon": "https://data.muslimsday.com/appdata/image/01KVEWHPEPSYMAF9Z0J0M8JQXP.png",
-            "title": "[LIVE 🔴] মুহাররম কুইজে অংশ নিন",
-            "description": "কুইজ চলবে ২৬ জুন রাত ১১:৫৯ পর্যন্ত",
-            "startTime": 1781837478000,
-            "endTime": 1782453540000,
-            "isActive": true,
-            "priority": 100,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/muharram-quiz-26"
-            }
-        },
-        {
-            "id": "report-problem",
-            "icon": "https://data.muslimsday.com/appdata/image/01KVEWCTZEYTQ383CSXE97HX7V.png",
-            "title": "অ্যাপের যে কোনো সমস্যা জানান",
-            "description": "যে কোনো বাগ বা অসুবিধার কথা রিপোর্ট করুন",
-            "startTime": 1781837478000,
-            "endTime": 1782323940000,
-            "isActive": true,
-            "priority": 101,
-            "action": {
-                "type": "web",
-                "url": "https://forms.gle/JL66MKoRKgAaqY8W8"
-            }
+      {
+        "id": "prayer-alarm-settings",
+        "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
+        "title": "নামাজের অ্যালার্ম সেটিংসে যান",
+        "description": "প্রয়োজন অনুযায়ী অ্যালার্ম চালু বা বন্ধ করুন।",
+        "startTime": 1783691011141,
+        "endTime": 1783965000000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://link.muslimsday.com/settings/prayer-reminders"
         }
+      }
     ]
 }

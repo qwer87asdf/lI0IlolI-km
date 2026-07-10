@@ -1,60 +1,18 @@
 {
     "events": [
-        {
-            "id": "ansar_1",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "Reach 1 crore Hearts",
-            "description": "Become an Ansar to spread the light of Quran to 1 crore people",
-            "startTime": 1777355210000,
-            "endTime": 1779257633000,
-            "isActive": true,
-            "priority": 110,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
-            }
-        },
-        {
-            "id": "ansar_2",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "Earn Endless Rewards Forever",
-            "description": "Receive the deeds of 1 crore people as continuous Sadaqah Jariyah",
-            "startTime": 1777355210000,
-            "endTime": 1779257633000,
-            "isActive": true,
-            "priority": 100,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
-            }
-        },
-        {
-            "id": "ansar_3",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "Only 2000 Spots Available!",
-            "description": "Grab this opportunity now to be part of countless good deeds",
-            "startTime": 1777355210000,
-            "endTime": 1779257633000,
-            "isActive": true,
-            "priority": 90,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
-            }
-        },
-        {
-            "id": "ansar_4",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "Become an Ansar Today!",
-            "description": "Just 500 BDT/month - earn rewards plus get 8 premium subscriptions",
-            "startTime": 1777355210000,
-            "endTime": 1779257633000,
-            "isActive": true,
-            "priority": 80,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
-            }
+      {
+        "id": "prayer-alarm-settings",
+        "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
+        "title": "Buka Pengaturan Alarm Salat",
+        "description": "Nyalakan atau matikan alarm salat sesuai kebutuhan.",
+        "startTime": 1783691011141,
+        "endTime": 1783965000000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://link.muslimsday.com/settings/prayer-reminders"
         }
+      }
     ]
 }
