@@ -1,2 +1,602 @@
 [
+    {
+        "categoryId": 2,
+        "categoryName": "Ruqyah Audio",
+        "sortIndex": 1,
+        "categoryImage": "https://ruqyahbd.org/wp-content/uploads/2019/08/Ruqyah-Khuruj-Short-ruqyahbd-org_-mp3-image.png",
+        "contentList": [
+            {
+                "id": 9,
+                "sortIndex": 1,
+                "title": "Ruqyah - Du'a",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-dua-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 10,
+                "sortIndex": 2,
+                "title": "Sheikh Luhaidan",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Luhaidan-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 11,
+                "sortIndex": 3,
+                "title": "Sheikh As-Sudais",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Sudais-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 12,
+                "sortIndex": 4,
+                "title": "Sheikh Ash-Shuraim",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Shuraim-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 13,
+                "sortIndex": 5,
+                "title": "Ruqyah - with Bangla Translation",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-withBangla-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 14,
+                "sortIndex": 6,
+                "title": "Three Quls Ruqyah",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-3Kul-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 15,
+                "sortIndex": 7,
+                "title": "Eight Surahs Ruqyah",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-8surah-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 16,
+                "sortIndex": 8,
+                "title": "Ayatul Kursi Ruqyah",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-AyatulKursi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 17,
+                "sortIndex": 9,
+                "title": "Sheikh Ahmad Ajmi",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-AhmadAjmy-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 18,
+                "sortIndex": 10,
+                "title": "Evil Eye | Ruqyah for Evil Eye",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-EvilEye-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 19,
+                "sortIndex": 11,
+                "title": "Evil Eye (Eye Hasad)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-EyeHasad-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 20,
+                "sortIndex": 12,
+                "title": "Magic & Jinn (Sihr-Mass) | Ruqyah for Sihr",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Sihr-Mass-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 21,
+                "sortIndex": 13,
+                "title": "Evil Eye (Eye Hasad)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-EyeHasad-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 22,
+                "sortIndex": 14,
+                "title": "Ruqyah - Surah Zilzal to Nas",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Sura-Zilzal-to-Nas-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 23,
+                "sortIndex": 15,
+                "title": "Zina/Fornication Related (ruqyah zina)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Zina-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 24,
+                "sortIndex": 16,
+                "title": "Ruqyah - Zina - Short",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Zina-Short-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 25,
+                "sortIndex": 17,
+                "title": "Adhan Ruqyah (Repetition)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Azan-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 26,
+                "sortIndex": 18,
+                "title": "Ayatul Harq",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Harq-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 27,
+                "sortIndex": 19,
+                "title": "Ruqyah - Harq 2 - Shuraim",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Harq-Shuraim-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 28,
+                "sortIndex": 20,
+                "title": "Ruqyah - Harq 3 - Long",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Harq-long-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 29,
+                "sortIndex": 21,
+                "title": "Ruqyah for Jinn Possession",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Jinn-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 30,
+                "sortIndex": 22,
+                "title": "Ruqyah Khuruj",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Khuruj-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 31,
+                "sortIndex": 23,
+                "title": "Ruqyah - Khuruj - Short",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Khuruj-Short-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 32,
+                "sortIndex": 24,
+                "title": "Sa'ad Al-Ghamidi",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Ghamidi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 33,
+                "sortIndex": 25,
+                "title": "Ruqyah - Hashimi (short ruqyah)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Hashimi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 34,
+                "sortIndex": 26,
+                "title": "Ruqyah - Hibshi (mukhtasar)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Hibshi-Mukhtasar-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 35,
+                "sortIndex": 27,
+                "title": "Sheikh Hujaifi",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Hujaifi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 36,
+                "sortIndex": 28,
+                "title": "Khalid Al-Hibshi",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-KhalidHibshi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 37,
+                "sortIndex": 29,
+                "title": "From Mufti Junaid's CD",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-JunaidCD1-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 38,
+                "sortIndex": 30,
+                "title": "Sheikh Idrees Abkar",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-IdreesAbkar-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 39,
+                "sortIndex": 31,
+                "title": "Nasser Al-Qatami",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-NasserQatami-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 40,
+                "sortIndex": 32,
+                "title": "Ruqyah - Minshawi",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Manshawi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 41,
+                "sortIndex": 33,
+                "title": "Majid Al-Zamil",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-MajidZamil-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 42,
+                "sortIndex": 34,
+                "title": "Mishary Rashid Al-Afasy",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Mishary-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 43,
+                "sortIndex": 35,
+                "title": "Ruqyah - Muhaisini",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Muhaisini-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 44,
+                "sortIndex": 36,
+                "title": "Surat Taghabun - by Sheikh Sudais",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/SuraTaghabun-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 45,
+                "sortIndex": 37,
+                "title": "Surah Baqarah - Sheikh Sudais",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Surah-Baqara-by-Sudais-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 46,
+                "sortIndex": 38,
+                "title": "Surah Al-Baqara - by Hujaifi",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Surah-Baqara-by-Hujaifi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 47,
+                "sortIndex": 39,
+                "title": "Shifa - Sakinah",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Shifa-Sakina-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 48,
+                "sortIndex": 40,
+                "title": "Ruqyah - with Strong Force",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-WithStrongForce-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 49,
+                "sortIndex": 41,
+                "title": "Ruqyah - Furqan23",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Furqan23-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 50,
+                "sortIndex": 42,
+                "title": "Ruqyah - Ghamidi",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-ghamidi-long-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 51,
+                "sortIndex": 43,
+                "title": "Surah Fatihah Ruqyah",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-SuraFatiha-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 52,
+                "sortIndex": 44,
+                "title": "Ruqyah - Ayat Shifa Sakina - Repeat",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Ayat-ShifaSakina-combo-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 53,
+                "sortIndex": 45,
+                "title": "Ruqyah - Tadmir",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-tadmir-qital-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 54,
+                "sortIndex": 46,
+                "title": "Curse Against Magicians",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/curse-against-magician-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 55,
+                "sortIndex": 47,
+                "title": "Dua - Destroy Magic",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Dua-DestroyMagic-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 56,
+                "sortIndex": 48,
+                "title": "Dua 2 - Idrees Abkar",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Dua-by-idrees-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 57,
+                "sortIndex": 49,
+                "title": "Dua - Laa ilaha illallahu wahdahu... (100x times)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Dua-laa-ilaha-illallahu-wahdahu-100xtime-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 58,
+                "sortIndex": 50,
+                "title": "Ayatush Shifa - simple",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/ayat-shifa-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 59,
+                "sortIndex": 51,
+                "title": "Ayatus Sakinah - simple",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/ayatus-sakinah-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 60,
+                "sortIndex": 52,
+                "title": "Ayatul Ejaam - simple",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/ayat-ejam-ruqyahbd.org.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "categoryId": 1,
+        "categoryName": "Ruqyah Text",
+        "sortIndex": 2,
+        "categoryImage": "https://ruqyahbd.org/wp-content/uploads/2019/08/Ruqyah-Khuruj-Short-ruqyahbd-org_-mp3-image.png",
+        "contentList": [
+            {
+                "id": 1,
+                "sortIndex": 1,
+                "title": "Common Verses for Ruqyah",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>These verses can be recited for all types of Ruqyah. They are known as common Ruqyah verses, general Ruqyah verses, famous verses, etc. The person who will recite should first firmly establish their intention in mind regarding what they are seeking. Then begin recitation. Before or after reciting the Ruqyah verses, one should also perform Ruqyah through certain supplications (dua). There are many benefits to this. Therefore, some appropriate supplications for Ruqyah are mentioned at the end.</p>",
+                "audioUrls": []
+            },
+            {
+                "id": 2,
+                "sortIndex": 2,
+                "title": "Verses for Evil Eye Ruqyah",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>If you want to perform long-term Ruqyah on a patient afflicted by the Evil Eye, you can recite these verses. However, usually reciting Ayatul Kursi, the Three Quls, and a few supplications is sufficient.</p>",
+                "audioUrls": []
+            },
+            {
+                "id": 3,
+                "sortIndex": 3,
+                "title": "Verses for Sihr/Magic (Brief)",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>Among the famous Ruqyah verses, these verses are especially beneficial for patients afflicted by magic/sorcery. In this case, if you wish to perform Ruqyah, along with other Ruqyah verses, you can repeatedly recite these verses and blow (on the patient), drink water two to three times daily, and perform ghusl (ritual bath).</p>",
+                "audioUrls": []
+            },
+            {
+                "id": 4,
+                "sortIndex": 4,
+                "title": "Ayatul Harq",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>Ayatul Harq refers to those verses that mention Hell, Fire, divine punishment, etc. Generally, these verses are recited with the intention of punishing or burning the jinn. They are used by blowing into water or oil. Additionally, these verses can be read as Ruqyah to remove the effects of jinn, magic, and the Evil Eye from the body. It is also beneficial to recite these verses seeking freedom from various types of waswas (whispers) and addiction to sins.</p>",
+                "audioUrls": []
+            },
+            {
+                "id": 5,
+                "sortIndex": 5,
+                "title": "Ayatush Shifa",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>Ayatush Shifa (Verses of Healing) are generally used for Ruqyah against physical and mental illnesses, but they can also be used for supernatural problems (jinn, magic, etc.) if desired. Additionally, it was a practice among the scholars to repeatedly recite the underlined portions for healing and pray for recovery. Therefore, you can either read the complete verses for Ruqyah or just the highlighted portions. For ease of recitation, the brief portions are provided separately below.</p>",
+                "audioUrls": []
+            },
+            {
+                "id": 6,
+                "sortIndex": 6,
+                "title": "Ayatus Sakinah",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>'Sakinah' primarily refers to special mercy bestowed by Allah. Through Ayatus Sakinah, Ruqyah is performed for various types of mental problems and disorders, such as depression, anxiety, insomnia, etc. Additionally, for mental restlessness, worry, and other physical, mental, or supernatural problems caused by various environmental factors, these verses are recited seeking Allah's help.</p>",
+                "audioUrls": []
+            },
+            {
+                "id": 7,
+                "sortIndex": 7,
+                "title": "Supplications (Du'a) for Ruqyah",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>Before or after reciting the Ruqyah verses, one should also perform Ruqyah through certain supplications (dua). There are many benefits to this. Therefore, some appropriate supplications for Ruqyah are mentioned here. Additionally, many times one cannot recite the Quran, in such cases these supplications can be recited repeatedly for Ruqyah.</p>",
+                "audioUrls": []
+            },
+            {
+                "id": 8,
+                "sortIndex": 8,
+                "title": "Supplications (Du'a) for Ruqyah (Brief)",
+                "subtitle": "ruqyahbd.org",
+                "content": "<p>These simple and short supplications can be recited in all types of Ruqyah.</p>",
+                "audioUrls": []
+            }
+        ]
+    }
 ]
