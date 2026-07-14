@@ -6,98 +6,8 @@
         "categoryImage": "https://ruqyahbd.org/wp-content/uploads/2019/08/Ruqyah-Khuruj-Short-ruqyahbd-org_-mp3-image.png",
         "contentList": [
             {
-                "id": 9,
-                "sortIndex": 1,
-                "title": "রুকইয়া - দু'আ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-dua-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 10,
-                "sortIndex": 2,
-                "title": "শাইখ লুহাইদান",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Luhaidan-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 11,
-                "sortIndex": 3,
-                "title": "শাইখ আস-সুদাইস",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Sudais-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 12,
-                "sortIndex": 4,
-                "title": "শাইখ আশ-শুরাইম",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Shuraim-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 13,
-                "sortIndex": 5,
-                "title": "Ruqyah - বাংলা অনুবাদসহ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-withBangla-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 14,
-                "sortIndex": 6,
-                "title": "তিনকুল এর রুকইয়াহ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-3Kul-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 15,
-                "sortIndex": 7,
-                "title": "আট সুরার রুকইয়াহ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-8surah-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 16,
-                "sortIndex": 8,
-                "title": "আয়াতুল কুরসির রুকইয়াহ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-AyatulKursi-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 17,
-                "sortIndex": 9,
-                "title": "শাইখ আহমাদ আজমি",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-AhmadAjmy-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 18,
-                "sortIndex": 10,
+                "sortIndex": 1,
                 "title": "বদনজর (Evil Eye) | বদনজরের রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -107,7 +17,7 @@
             },
             {
                 "id": 19,
-                "sortIndex": 11,
+                "sortIndex": 2,
                 "title": "বদনজর (Eye Hasad)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -117,7 +27,7 @@
             },
             {
                 "id": 20,
-                "sortIndex": 12,
+                "sortIndex": 3,
                 "title": "জাদু ও জিন (Sihr-Mass) | সিহরের রুকইয়াহ",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -126,8 +36,278 @@
                 ]
             },
             {
-                "id": 21,
+                "id": 34,
+                "sortIndex": 4,
+                "title": "Ruqyah - Hibshi (mukhtasar)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Hibshi-Mukhtasar-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 26,
+                "sortIndex": 5,
+                "title": "আয়াতুল হারক",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Harq-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 29,
+                "sortIndex": 6,
+                "title": "জিনের আছর এর রুকইয়াহ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Jinn-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 14,
+                "sortIndex": 7,
+                "title": "তিনকুল এর রুকইয়াহ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-3Kul-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 15,
+                "sortIndex": 8,
+                "title": "আট সুরার রুকইয়াহ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-8surah-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 16,
+                "sortIndex": 9,
+                "title": "আয়াতুল কুরসির রুকইয়াহ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-AyatulKursi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 54,
+                "sortIndex": 10,
+                "title": "যাদুকরদের প্রতি অভিশাপ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/curse-against-magician-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 11,
+                "sortIndex": 11,
+                "title": "শাইখ আস-সুদাইস",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Sudais-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 35,
+                "sortIndex": 12,
+                "title": "শাইখ হুজাইফি",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Hujaifi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 12,
                 "sortIndex": 13,
+                "title": "শাইখ আশ-শুরাইম",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Shuraim-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 32,
+                "sortIndex": 14,
+                "title": "সা'দ আল-গামিদী",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Ghamidi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 42,
+                "sortIndex": 15,
+                "title": "মিশারী রাশেদ আল-আফাসী",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Mishary-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 17,
+                "sortIndex": 16,
+                "title": "শাইখ আহমাদ আজমি",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-AhmadAjmy-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 39,
+                "sortIndex": 17,
+                "title": "নাসের আল কাতামি",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-NasserQatami-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 38,
+                "sortIndex": 18,
+                "title": "শাইখ ইদরীস আবকার",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-IdreesAbkar-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 36,
+                "sortIndex": 19,
+                "title": "খালিদ আল হিবশী",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-KhalidHibshi-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 10,
+                "sortIndex": 20,
+                "title": "শাইখ লুহাইদান",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Luhaidan-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 37,
+                "sortIndex": 21,
+                "title": "মুফতি জুনাইদের সিডি থেকে",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-JunaidCD1-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 41,
+                "sortIndex": 22,
+                "title": "মাজিদ আয-যামিল",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-MajidZamil-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 9,
+                "sortIndex": 23,
+                "title": "রুকইয়া - দু'আ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-dua-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 25,
+                "sortIndex": 24,
+                "title": "আযান রুকইয়াহ (পুনরাবৃত্তি)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Azan-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 45,
+                "sortIndex": 25,
+                "title": "সুরা বাকারা - শাইখ সুদাইস",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Surah-Baqara-by-Sudais-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 51,
+                "sortIndex": 26,
+                "title": "সুরা ফাতিহার রুকইয়াহ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-SuraFatiha-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 23,
+                "sortIndex": 27,
+                "title": "যিনা ফাহিশা বিষয়ক (ruqyah zina)",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Zina-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 47,
+                "sortIndex": 28,
+                "title": "শিফা - সাকিনাহ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Shifa-Sakina-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 30,
+                "sortIndex": 29,
+                "title": "রুকইয়াহ খুরুজ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Khuruj-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 13,
+                "sortIndex": 30,
+                "title": "Ruqyah - বাংলা অনুবাদসহ",
+                "subtitle": "ruqyahbd.org",
+                "content": "",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-withBangla-ruqyahbd.org.mp3"
+                ]
+            },
+            {
+                "id": 21,
+                "sortIndex": 31,
                 "title": "বদনজর (Eye Hasad)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -137,7 +317,7 @@
             },
             {
                 "id": 22,
-                "sortIndex": 14,
+                "sortIndex": 32,
                 "title": "Ruqyah - Surah Zilzal to Nas",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -146,18 +326,8 @@
                 ]
             },
             {
-                "id": 23,
-                "sortIndex": 15,
-                "title": "যিনা ফাহিশা বিষয়ক (ruqyah zina)",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Zina-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 24,
-                "sortIndex": 16,
+                "sortIndex": 33,
                 "title": "Ruqyah - Zina - Short",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -166,28 +336,8 @@
                 ]
             },
             {
-                "id": 25,
-                "sortIndex": 17,
-                "title": "আযান রুকইয়াহ (পুনরাবৃত্তি)",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Azan-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 26,
-                "sortIndex": 18,
-                "title": "আয়াতুল হারক",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Harq-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 27,
-                "sortIndex": 19,
+                "sortIndex": 34,
                 "title": "Ruqyah - Harq 2 - Shuraim",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -197,7 +347,7 @@
             },
             {
                 "id": 28,
-                "sortIndex": 20,
+                "sortIndex": 35,
                 "title": "Ruqyah - Harq 3 - long",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -206,28 +356,8 @@
                 ]
             },
             {
-                "id": 29,
-                "sortIndex": 21,
-                "title": "জিনের আছর এর রুকইয়াহ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Jinn-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 30,
-                "sortIndex": 22,
-                "title": "রুকইয়াহ খুরুজ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Khuruj-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 31,
-                "sortIndex": 23,
+                "sortIndex": 36,
                 "title": "Ruqyah - Khuruj - Short",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -236,18 +366,8 @@
                 ]
             },
             {
-                "id": 32,
-                "sortIndex": 24,
-                "title": "সা'দ আল-গামিদী",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Ghamidi-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 33,
-                "sortIndex": 25,
+                "sortIndex": 37,
                 "title": "Ruqyah - Hashimi (short ruqyah)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -256,68 +376,8 @@
                 ]
             },
             {
-                "id": 34,
-                "sortIndex": 26,
-                "title": "Ruqyah - Hibshi (mukhtasar)",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Hibshi-Mukhtasar-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 35,
-                "sortIndex": 27,
-                "title": "শাইখ হুজাইফি",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Hujaifi-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 36,
-                "sortIndex": 28,
-                "title": "খালিদ আল হিবশী",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-KhalidHibshi-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 37,
-                "sortIndex": 29,
-                "title": "মুফতি জুনাইদের সিডি থেকে",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-JunaidCD1-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 38,
-                "sortIndex": 30,
-                "title": "শাইখ ইদরীস আবকার",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-IdreesAbkar-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 39,
-                "sortIndex": 31,
-                "title": "নাসের আল কাতামি",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-NasserQatami-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 40,
-                "sortIndex": 32,
+                "sortIndex": 38,
                 "title": "Ruqyah - Minshawi",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -326,28 +386,8 @@
                 ]
             },
             {
-                "id": 41,
-                "sortIndex": 33,
-                "title": "মাজিদ আয-যামিল",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-MajidZamil-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 42,
-                "sortIndex": 34,
-                "title": "মিশারী রাশেদ আল-আফাসী",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Mishary-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 43,
-                "sortIndex": 35,
+                "sortIndex": 39,
                 "title": "Ruqyah - Muhaisini",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -357,7 +397,7 @@
             },
             {
                 "id": 44,
-                "sortIndex": 36,
+                "sortIndex": 40,
                 "title": "Surat Taghabun - by Sheikh Sudais",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -366,18 +406,8 @@
                 ]
             },
             {
-                "id": 45,
-                "sortIndex": 37,
-                "title": "সুরা বাকারা - শাইখ সুদাইস",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Surah-Baqara-by-Sudais-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 46,
-                "sortIndex": 38,
+                "sortIndex": 41,
                 "title": "Surah Al-Baqara - by hujaifi",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -386,18 +416,8 @@
                 ]
             },
             {
-                "id": 47,
-                "sortIndex": 39,
-                "title": "শিফা - সাকিনাহ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-Shifa-Sakina-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 48,
-                "sortIndex": 40,
+                "sortIndex": 42,
                 "title": "Ruqyah - with Strong Force",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -407,7 +427,7 @@
             },
             {
                 "id": 49,
-                "sortIndex": 41,
+                "sortIndex": 43,
                 "title": "Ruqyah - Furqan23",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -417,7 +437,7 @@
             },
             {
                 "id": 50,
-                "sortIndex": 42,
+                "sortIndex": 44,
                 "title": "Ruqyah - Ghamidi",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -426,18 +446,8 @@
                 ]
             },
             {
-                "id": 51,
-                "sortIndex": 43,
-                "title": "সুরা ফাতিহার রুকইয়াহ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-SuraFatiha-ruqyahbd.org.mp3"
-                ]
-            },
-            {
                 "id": 52,
-                "sortIndex": 44,
+                "sortIndex": 45,
                 "title": "Ruqyah - Ayat Shifa Sakina - Repeat",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
@@ -447,22 +457,12 @@
             },
             {
                 "id": 53,
-                "sortIndex": 45,
+                "sortIndex": 46,
                 "title": "Ruqyah - Tadmir",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
                     "https://data.muslimsday.com/appdata/audios/ruqyah/Ruqyah-tadmir-qital-ruqyahbd.org.mp3"
-                ]
-            },
-            {
-                "id": 54,
-                "sortIndex": 46,
-                "title": "যাদুকরদের প্রতি অভিশাপ",
-                "subtitle": "ruqyahbd.org",
-                "content": "",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audios/ruqyah/curse-against-magician-ruqyahbd.org.mp3"
                 ]
             },
             {
