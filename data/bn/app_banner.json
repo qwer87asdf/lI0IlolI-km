@@ -25,7 +25,7 @@
         "priority": 90,
         "action": {
           "type": "web",
-          "url": "https://kahfid.non-production.kahf.co/daily-support/muslimsday"
+          "url": "https://id.kahf.co/daily-support/muslimsday"
         }
       }
     ]
