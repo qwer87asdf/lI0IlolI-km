@@ -13,6 +13,20 @@
           "type": "web",
           "url": "https://link.muslimsday.com/settings/prayer-reminders"
         }
+      },
+      {
+        "id": "daily-sadaqah-muslimsday",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "দশের লাঠি, একের বোঝা",
+        "description": "সকলের অংশগ্রহণেই এগিয়ে যাবে Muslims Day",
+        "startTime": 1783691011141,
+        "endTime": 1784397600000,
+        "isActive": false,
+        "priority": 90,
+        "action": {
+          "type": "web",
+          "url": "https://kahfid.non-production.kahf.co/daily-support/muslimsday"
+        }
       }
     ]
 }
