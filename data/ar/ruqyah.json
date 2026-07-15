@@ -1,14 +1,14 @@
 [
     {
         "categoryId": 2,
-        "categoryName": "Ruqyah Audio",
+        "categoryName": "صوتيات الرقية الشرعية",
         "sortIndex": 1,
         "categoryImage": "https://ruqyahbd.org/wp-content/uploads/2019/08/Ruqyah-Khuruj-Short-ruqyahbd-org_-mp3-image.png",
         "contentList": [
             {
                 "id": 18,
                 "sortIndex": 1,
-                "title": "Evil Eye | Ruqyah for Evil Eye",
+                "title": "العين والحسد | رقية العين",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -18,7 +18,7 @@
             {
                 "id": 19,
                 "sortIndex": 2,
-                "title": "Evil Eye (Eye Hasad)",
+                "title": "العين (حسد العين)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -28,7 +28,7 @@
             {
                 "id": 20,
                 "sortIndex": 3,
-                "title": "Magic & Jinn (Sihr-Mass) | Ruqyah for Sihr",
+                "title": "السحر والمس | رقية السحر",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -38,7 +38,7 @@
             {
                 "id": 34,
                 "sortIndex": 4,
-                "title": "Ruqyah - Hibshi (mukhtasar)",
+                "title": "رقية - الحبشي (مختصرة)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -48,7 +48,7 @@
             {
                 "id": 26,
                 "sortIndex": 5,
-                "title": "Ayatul Harq",
+                "title": "آيات الحرق",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -58,7 +58,7 @@
             {
                 "id": 29,
                 "sortIndex": 6,
-                "title": "Ruqyah for Jinn Possession",
+                "title": "رقية مس الجان",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -68,7 +68,7 @@
             {
                 "id": 14,
                 "sortIndex": 7,
-                "title": "Three Quls Ruqyah",
+                "title": "رقية المعوذات الثلاث",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -78,7 +78,7 @@
             {
                 "id": 15,
                 "sortIndex": 8,
-                "title": "Eight Surahs Ruqyah",
+                "title": "رقية ثماني سور",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -88,7 +88,7 @@
             {
                 "id": 16,
                 "sortIndex": 9,
-                "title": "Ayatul Kursi Ruqyah",
+                "title": "رقية آية الكرسي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -98,7 +98,7 @@
             {
                 "id": 54,
                 "sortIndex": 10,
-                "title": "Curse Against Magicians",
+                "title": "دعاء ولعنة على السحرة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -108,7 +108,7 @@
             {
                 "id": 11,
                 "sortIndex": 11,
-                "title": "Sheikh As-Sudais",
+                "title": "الشيخ عبد الرحمن السديس",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -118,7 +118,7 @@
             {
                 "id": 35,
                 "sortIndex": 12,
-                "title": "Sheikh Hujaifi",
+                "title": "الشيخ علي الحذيفي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -128,7 +128,7 @@
             {
                 "id": 12,
                 "sortIndex": 13,
-                "title": "Sheikh Ash-Shuraim",
+                "title": "الشيخ سعود الشريم",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -138,7 +138,7 @@
             {
                 "id": 32,
                 "sortIndex": 14,
-                "title": "Sa'ad Al-Ghamidi",
+                "title": "سعد الغامدي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -148,7 +148,7 @@
             {
                 "id": 42,
                 "sortIndex": 15,
-                "title": "Mishary Rashid Al-Afasy",
+                "title": "مشاري راشد العفاسي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -158,7 +158,7 @@
             {
                 "id": 17,
                 "sortIndex": 16,
-                "title": "Sheikh Ahmad Ajmi",
+                "title": "الشيخ أحمد العجمي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -168,7 +168,7 @@
             {
                 "id": 39,
                 "sortIndex": 17,
-                "title": "Nasser Al-Qatami",
+                "title": "ناصر القطامي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -178,7 +178,7 @@
             {
                 "id": 38,
                 "sortIndex": 18,
-                "title": "Sheikh Idrees Abkar",
+                "title": "الشيخ إدريس أبكر",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -188,7 +188,7 @@
             {
                 "id": 36,
                 "sortIndex": 19,
-                "title": "Khalid Al-Hibshi",
+                "title": "خالد الحبشي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -198,7 +198,7 @@
             {
                 "id": 10,
                 "sortIndex": 20,
-                "title": "Sheikh Luhaidan",
+                "title": "الشيخ عبد الله اللحيدان",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -208,7 +208,7 @@
             {
                 "id": 37,
                 "sortIndex": 21,
-                "title": "From Mufti Junaid's CD",
+                "title": "من أسطوانة المفتي جنيد",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -218,7 +218,7 @@
             {
                 "id": 41,
                 "sortIndex": 22,
-                "title": "Majid Al-Zamil",
+                "title": "ماجد الزامل",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -228,7 +228,7 @@
             {
                 "id": 9,
                 "sortIndex": 23,
-                "title": "Ruqyah - Du'a",
+                "title": "رقية - دعاء",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -238,7 +238,7 @@
             {
                 "id": 25,
                 "sortIndex": 24,
-                "title": "Adhan Ruqyah (Repetition)",
+                "title": "رقية الأذان (مكرر)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -248,7 +248,7 @@
             {
                 "id": 45,
                 "sortIndex": 25,
-                "title": "Surah Baqarah - Sheikh Sudais",
+                "title": "سورة البقرة - الشيخ السديس",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -258,7 +258,7 @@
             {
                 "id": 51,
                 "sortIndex": 26,
-                "title": "Surah Fatihah Ruqyah",
+                "title": "رقية سورة الفاتحة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -268,7 +268,7 @@
             {
                 "id": 23,
                 "sortIndex": 27,
-                "title": "Zina/Fornication Related (ruqyah zina)",
+                "title": "رقية متعلقة بالزنا والفواحش",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -278,7 +278,7 @@
             {
                 "id": 47,
                 "sortIndex": 28,
-                "title": "Shifa - Sakinah",
+                "title": "رقية الشفاء والسكينة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -288,7 +288,7 @@
             {
                 "id": 30,
                 "sortIndex": 29,
-                "title": "Ruqyah Khuruj",
+                "title": "رقية الخروج",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -298,7 +298,7 @@
             {
                 "id": 13,
                 "sortIndex": 30,
-                "title": "Ruqyah - with Bangla Translation",
+                "title": "الرقية الشرعية - مع ترجمة بنغالية",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -308,7 +308,7 @@
             {
                 "id": 21,
                 "sortIndex": 31,
-                "title": "Evil Eye (Eye Hasad)",
+                "title": "العين والحسد (حسد العين)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -318,7 +318,7 @@
             {
                 "id": 22,
                 "sortIndex": 32,
-                "title": "Ruqyah - Surah Zilzal to Nas",
+                "title": "رقية - من سورة الزلزة إلى الناس",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -328,7 +328,7 @@
             {
                 "id": 24,
                 "sortIndex": 33,
-                "title": "Ruqyah - Zina - Short",
+                "title": "رقية - الزنا - قصيرة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -338,7 +338,7 @@
             {
                 "id": 27,
                 "sortIndex": 34,
-                "title": "Ruqyah - Harq 2 - Shuraim",
+                "title": "رقية - الحرق 2 - الشريم",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -348,7 +348,7 @@
             {
                 "id": 28,
                 "sortIndex": 35,
-                "title": "Ruqyah - Harq 3 - Long",
+                "title": "رقية - الحرق 3 - طويلة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -358,7 +358,7 @@
             {
                 "id": 31,
                 "sortIndex": 36,
-                "title": "Ruqyah - Khuruj - Short",
+                "title": "رقية - الخروج - قصيرة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -368,7 +368,7 @@
             {
                 "id": 33,
                 "sortIndex": 37,
-                "title": "Ruqyah - Hashimi (short ruqyah)",
+                "title": "رقية - الهاشمي (رقية قصيرة)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -378,7 +378,7 @@
             {
                 "id": 40,
                 "sortIndex": 38,
-                "title": "Ruqyah - Minshawi",
+                "title": "رقية - المنشاوي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -388,7 +388,7 @@
             {
                 "id": 43,
                 "sortIndex": 39,
-                "title": "Ruqyah - Muhaisini",
+                "title": "رقية - المحيسني",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -398,7 +398,7 @@
             {
                 "id": 44,
                 "sortIndex": 40,
-                "title": "Surat Taghabun - by Sheikh Sudais",
+                "title": "سورة التغابن - الشيخ السديس",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -408,7 +408,7 @@
             {
                 "id": 46,
                 "sortIndex": 41,
-                "title": "Surah Al-Baqara - by Hujaifi",
+                "title": "سورة البقرة - الحذيفي",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -418,7 +418,7 @@
             {
                 "id": 48,
                 "sortIndex": 42,
-                "title": "Ruqyah - with Strong Force",
+                "title": "رقية - شديدة القوة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -428,7 +428,7 @@
             {
                 "id": 49,
                 "sortIndex": 43,
-                "title": "Ruqyah - Furqan23",
+                "title": "رقية - الفرقان 23",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -438,7 +438,7 @@
             {
                 "id": 50,
                 "sortIndex": 44,
-                "title": "Ruqyah - Ghamidi",
+                "title": "رقية - الغامدي (طويلة)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -448,7 +448,7 @@
             {
                 "id": 52,
                 "sortIndex": 45,
-                "title": "Ruqyah - Ayat Shifa Sakina - Repeat",
+                "title": "رقية - آيات الشفاء والسكينة - مكرر",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -458,7 +458,7 @@
             {
                 "id": 53,
                 "sortIndex": 46,
-                "title": "Ruqyah - Tadmir",
+                "title": "رقية - التدمير والقتال",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -468,7 +468,7 @@
             {
                 "id": 55,
                 "sortIndex": 47,
-                "title": "Dua - Destroy Magic",
+                "title": "دعاء - إبطال وتدمير السحر",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -478,7 +478,7 @@
             {
                 "id": 56,
                 "sortIndex": 48,
-                "title": "Dua 2 - Idrees Abkar",
+                "title": "دعاء 2 - إدريس أبكر",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -488,7 +488,7 @@
             {
                 "id": 57,
                 "sortIndex": 49,
-                "title": "Dua - Laa ilaha illallahu wahdahu... (100x times)",
+                "title": "دعاء - لا إله إلا الله وحده... (مكرر 100 مرة)",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -498,7 +498,7 @@
             {
                 "id": 58,
                 "sortIndex": 50,
-                "title": "Ayatush Shifa - simple",
+                "title": "آيات الشفاء - مبسطة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -508,7 +508,7 @@
             {
                 "id": 59,
                 "sortIndex": 51,
-                "title": "Ayatus Sakinah - simple",
+                "title": "آيات السكينة - مبسطة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
@@ -518,7 +518,7 @@
             {
                 "id": 60,
                 "sortIndex": 52,
-                "title": "Ayatul Ejaam - simple",
+                "title": "آيات الإعجام - مبسطة",
                 "subtitle": "ruqyahbd.org",
                 "content": "",
                 "audioUrls": [
