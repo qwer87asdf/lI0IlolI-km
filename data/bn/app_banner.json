@@ -21,7 +21,7 @@
         "description": "সকলের অংশগ্রহণেই এগিয়ে যাবে Muslims Day",
         "startTime": 1783691011141,
         "endTime": 1784397600000,
-        "isActive": false,
+        "isActive": true,
         "priority": 90,
         "action": {
           "type": "web",
