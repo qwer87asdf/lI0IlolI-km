@@ -27,6 +27,48 @@
           "type": "web",
           "url": "https://id.kahf.co/daily-support/muslimsday"
         }
+      },
+      {
+        "id": "friday-givers-1",
+        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+        "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+        "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+        "startTime": 1784206800000,
+        "endTime": 1784293200000,
+        "isActive": true,
+        "priority": 95,
+        "action": {
+          "type": "web",
+          "url": "https://id.kahf.co/friday-givers/muslimsday"
+        }
+      },
+      {
+        "id": "friday-givers-2",
+        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+        "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+        "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+        "startTime": 1784811600000,
+        "endTime": 1784898000000,
+        "isActive": true,
+        "priority": 95,
+        "action": {
+          "type": "web",
+          "url": "https://id.kahf.co/friday-givers/muslimsday"
+        }
+      },
+      {
+        "id": "friday-givers-3",
+        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+        "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+        "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+        "startTime": 1785416400000,
+        "endTime": 1785502800000,
+        "isActive": true,
+        "priority": 95,
+        "action": {
+          "type": "web",
+          "url": "https://id.kahf.co/friday-givers/muslimsday"
+        }
       }
     ]
 }
