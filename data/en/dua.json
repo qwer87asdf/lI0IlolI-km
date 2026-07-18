@@ -2,7 +2,7 @@
     {
         "categoryId": 1,
         "categoryName": "Salat-Prayer",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/salat.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/salat.png",
         "contentList": [
             {
                 "id": 1,
@@ -130,7 +130,9 @@
                 "title": "Tashahhud - Attahiyyatu",
                 "subtitle": "It is Wajib to recite Tashahhud in the second and last sitting of the prayer.",
                 "content": "<p class=\"hadith\">اَلتَّحِيَّاتُ لِلّٰهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، اَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، اَلسَّلاَمُ عَلَيْنَا وَعَلٰى عِبَادِ اللّٰهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُوْلُهٗ</p><p>All greetings are for Allah, and so are all prayers and good deeds. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god worthy of worship except Allah, and I also bear witness that Muhammad (peace be upon him) is the servant and Messenger of Allah.</p><p class=\"reference\">Source: Bukhari, No. 831; Muslim 1/301, No. 402</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/12_0.mp3"
+                ]
             },
             {
                 "id": 13,
@@ -138,7 +140,9 @@
                 "title": "Durood Sharif",
                 "subtitle": "The best of Duroods is Durood-e-Ibrahim.",
                 "content": "<h3>Durood Sharif (Durood-e-Ibrahim)</h3><p class=\"hadith\">اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيْمَ، وَعَلَى آلِ إِبْرَاهِيْمَ، إِنَّكَ حَمِيْدٌ مَجِيْدٌ،</p><p class=\"hadith\"> اللّٰهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَّعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ، إِنَّكَ حَمِيْدٌ مَجِيْدٌ</p><p>O Allah! Send peace upon Muhammad and upon his family, just as You sent peace upon Ibrahim and his family. Verily, You are Most Praiseworthy, Most Glorious.</p><p>O Allah! Bless Muhammad and his family as You blessed Ibrahim and his family. Verily, You are Most Praiseworthy, Most Glorious.</p><p class=\"reference\">Bukhari, No. 3370; Muslim, No. 406</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/13_0.mp3"
+                ]
             },
             {
                 "id": 14,
@@ -203,7 +207,7 @@
     {
         "categoryId": 2,
         "categoryName": "Daily Life",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/daily-life.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/daily-life.png",
         "contentList": [
             {
                 "id": 19,
@@ -466,7 +470,7 @@
     {
         "categoryId": 3,
         "categoryName": "Sawm",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/saom.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/saom.png",
         "contentList": [
             {
                 "id": 130,
@@ -509,7 +513,7 @@
     {
         "categoryId": 4,
         "categoryName": "Morning-Evening Zikr",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/morning_evening_zikr.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/morning_evening_zikr.png",
         "contentList": [
             {
                 "id": 47,
@@ -724,7 +728,7 @@
     {
         "categoryId": 5,
         "categoryName": "From the Quran",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/quran_dua.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/quran_dua.png",
         "contentList": [
             {
                 "id": 68,
@@ -1012,7 +1016,9 @@
                 "title": "Prayer for forgiveness and mercy",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَّبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِيْنَ</p><p>My Lord, forgive and have mercy, and You are the best of the merciful.</p><p class=\"reference\">Surah Al-Mu&#039;minun, verse: 118</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/95_0.mp3"
+                ]
             },
             {
                 "id": 96,
@@ -1020,7 +1026,9 @@
                 "title": "Seeking refuge from the punishment of Hell",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا</p><p>Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering.</p><p class=\"reference\">Surah Al-Furqan, verse: 65</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/96_0.mp3"
+                ]
             },
             {
                 "id": 97,
@@ -1028,7 +1036,9 @@
                 "title": "Prayer for a comforting wife and children and to be a leader of the righteous",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَّاجْعَلْنَا لِلْمُتَّقِيْنَ إِمَامًا</p><p>Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.</p><p class=\"reference\">Surah Al-Furqan, verse: 74</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/97_0.mp3"
+                ]
             },
             {
                 "id": 98,
@@ -1036,7 +1046,11 @@
                 "title": "Dua for wisdom, good reputation and deliverance from Hell",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبِّ هَبْ لِيْ حُكْمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ  وَاجْعَل لِّيْ لِسَانَ صِدْقٍ فِيْ الْآخِرِيْنَ وَاجْعَلْنِيْ مِنْ وَّرَثَةِ جَنَّةِ النَّعِيْمِ</p><p>My Lord, grant me authority and join me with the righteous. And grant me a reputation of truth among the later generations. And place me among the inheritors of the Garden of Pleasure.</p><p class=\"reference\">Surah Ash-Shu&#039;ara - 26:83-85</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/98_0.mp3",
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/98_1.mp3",
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/98_2.mp3"
+                ]
             },
             {
                 "id": 99,
@@ -1044,7 +1058,9 @@
                 "title": "Prayer for thanksgiving and acceptance of deeds",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبِّ أَوْزِعْنِيْ أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِيْ أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِيْ بِرَحْمَتِكَ فِيْ عِبَادِكَ الصَّالِحِيْنَ</p><p>My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.</p><p class=\"reference\">Surah An-Naml, verse: 19</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/99_0.mp3"
+                ]
             },
             {
                 "id": 100,
@@ -1052,7 +1068,9 @@
                 "title": "Seeking refuge from the wrongdoing people",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبِّ نَجِّنِيْ مِنَ الْقَوْمِ الظَّالِمِيْنَ</p><p>My Lord, save me from the wrongdoing people.</p><p class=\"reference\">Surah Al-Qasas, verse: 21</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/100_0.mp3"
+                ]
             },
             {
                 "id": 101,
@@ -1070,7 +1088,9 @@
                 "title": "Prayer for help against the mischievous people",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبِّ انْصُرْنِيْ عَلَى الْقَوْمِ الْمُفْسِدِيْنَ</p><p>My Lord, support me against the corrupting people.</p><p class=\"reference\">Surah Al-Ankabut, verse: 30</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/102_0.mp3"
+                ]
             },
             {
                 "id": 103,
@@ -1078,7 +1098,9 @@
                 "title": "Dua for righteous offspring",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبِّ هَبْ لِيْ مِنَ الصَّالِحِيْنَ</p><p>My Lord, grant me [a child] from among the righteous.</p><p class=\"reference\">Surah As-Saffat, verse: 100</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/103_0.mp3"
+                ]
             },
             {
                 "id": 104,
@@ -1086,7 +1108,9 @@
                 "title": "Prayer for thanksgiving, good deeds and righteous offspring",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبِّ أَوْزِعْنِيْ أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِيْ أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِيْ فِيْ ذُرِّيَّتِيْ ۖ إِنِّيْ تُبْتُ إِلَيْكَ وَإِنِّيْ مِنَ الْمُسْلِمِيْنَ</p><p>My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims.</p><p class=\"reference\">Surah Al-Ahqaf, verse: 15</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/104_0.mp3"
+                ]
             },
             {
                 "id": 105,
@@ -1094,7 +1118,9 @@
                 "title": "Seeking forgiveness for the preceding believers and praying for no malice in the hearts of the believers towards each other",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِيْنَ سَبَقُوْنَا بِالْإِيْمَانِ وَلَا تَجْعَلْ فِيْ قُلُوْبِنَا غِلًّا لِّلَّذِيْنَ آمَنُوْا رَبَّنَا إِنَّكَ رَءُوْفٌ رَّحِيْمٌ</p><p>Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.</p><p class=\"reference\">Surah Al-Hashr, verse: 10</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/105_0.mp3"
+                ]
             },
             {
                 "id": 106,
@@ -1102,7 +1128,9 @@
                 "title": "Prayer for light and forgiveness",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَبَّنَا أَتْمِمْ لَنَا نُوْرَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ</p><p>Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.</p><p class=\"reference\">Surah At-Tahrim, verse: 8</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/106_0.mp3"
+                ]
             },
             {
                 "id": 107,
@@ -1110,14 +1138,16 @@
                 "title": "Acknowledgment of trust in Allah and turning to Him",
                 "subtitle": "",
                 "content": "<p class=\"quran\">رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيْرُ</p><p>Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.</p><p class=\"reference\">Surah Al-Mumtahanah, verse: 4</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/107_0.mp3"
+                ]
             }
         ]
     },
     {
         "categoryId": 6,
         "categoryName": "Miscellaneous",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/more.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/more.png",
         "contentList": [
             {
                 "id": 108,
@@ -1156,7 +1186,9 @@
                 "title": "Dua as an expiation at the end of a gathering",
                 "subtitle": "",
                 "content": "<p class=\"hadith\">۞ سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ ، اَشْهَدُ اَنْ لَّا  اِلٰهَ اِلَّااَنْتَ اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ</p><p>Meaning: O Allah! I declare Your purity, I praise You. I bear witness that there is no god but You. I seek Your forgiveness, I repent to You.</p><p>Virtue: It is mentioned in the hadith that if someone recites this dua at the end of a gathering, all the sins he has committed in the gathering will be forgiven.</p><p class=\"reference\">[Jami` at-Tirmidhi, Hadith 3433]</p><p>Sometimes at the end of a gathering, the Messenger of Allah (peace be upon him) would pray for the Companions in this way—</p><p class=\"hadith\">اَللّٰهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُوْلُ بَيْنَنَا وَبَيْنَ مَعَاصِيْكَ ، وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهٖ جَنَّتَكَ ، وَمِنَ الْيَقِـيْنِ مَا تُهَوِّنُ بِهٖ عَلَيْنَا مُصِيْبَاتِ الدُّنْيَا ، وَمَتِّعْنَا بِاَسْمَاعِنَا وَاَبْصَارِنَا وَقُوَّتِنَا مَا اَحْيَيْتَنَا ، وَاجْعَلْهُ الْوَارِثَ مِنَّا ، وَاجْعَلْ ثَاْرَنَا عَلٰـى مَنْ ظَلَمَنَا ، وَانْصُرْنَا عَلٰـى مَنْ عَادَانَا ، وَلَا تَجْعَلْ مُصِيْبَتَنَا فِـيْ دِيْنِنَا ، وَلَا تَجْعَلِ الدُّنْيَا اَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا ، وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَّا يَرْحَمُنَا.</p><p>O Allah! Grant us such fear of You that will keep us away from disobeying You. Grant us such obedience to You that will lead us to Paradise. Grant us such certainty of faith that will make the hardships of this world seem light to us. As long as we live, allow us to benefit from our hearing, our sight, and our strength, and let this continue among our descendants. Let us take vengeance only upon those who have wronged us, and grant us victory over those who show hostility towards us. O Allah! Do not let any trial befall us in our religion, and do not make this world the center of our concern or the limit of our knowledge. O Allah! Do not place over us anyone who will show us no mercy.</p><p class=\"reference\">[Jami` at-Tirmidhi, Hadith 3502]</p>",
-                "audioUrls": []
+                "audioUrls": [
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/111_0.mp3"
+                ]
             },
             {
                 "id": 112,
@@ -1245,7 +1277,8 @@
                 "content": "<p class=\"hadith\">۞ لَا بَاْسَ طَهُوْرٌ اِنْ شَاءَ اللهُ</p><p>Meaning: Do not worry, Insha&#039;Allah, (you will be cured and) your sins will be forgiven through this illness.</p><p class=\"reference\">[Sahih Bukhari, Hadith 3616]</p><p class=\"hadith\">۞ اَسْاَلُ اللهَ الْعَظِيْمَ رَبَّ الْعَرْشِ الْعَظِيْمِ اَنْ يَشْفِيَكَ</p><p>Meaning: I ask Allah, the Great, the Lord of the great Throne, to heal you. (This dua should be recited seven times.)</p><p>It is mentioned in the hadith that if someone visits a sick person and recites this dua seven times, Allah will cure him, unless his time of death has come.</p><p class=\"reference\">[Sunan Abu Dawood, Hadith 3108]</p><p class=\"hadith\">۞ اَذْهِبِ الْبَاسَ رَبَّ النَّاسِ ، اِشْفِ وَاَنْتَ الشَّافِـيْ لَا شِفَاءَ اِلَّاشِفَاؤُكَ شِفَاءً لَا يُغَادِرُ سَقَمًا</p><p>Meaning: O Lord of all people! Remove this disease, cure it. You are the Curer. There is no cure except Yours. Cure it in such a way that no illness remains.</p><p class=\"reference\">[Sahih Bukhari, Hadith 5675]</p><p class=\"hadith\">۞ بِاسْمِ اللهِ اَرْقِـيْكَ مِنْ كُلِّ شَىْءٍ يُؤْذِيْكَ مِنْ شَرِّ كُلِّ نَفْسٍ اَوْ عَيْنِ حَاسِدٍ ، اَللهُ يَشْفِيْكَ ، بِاسْمِ اللهِ اَرْقِـيْكَ</p><p>Meaning: In the name of Allah I perform Ruqyah for you, from everything that is harming you, from the evil of every soul, from the envious eye of the envier. May Allah cure you. In the name of Allah I perform Ruqyah for you.</p><p>It is mentioned in the hadith that once the Messenger of Allah (peace be upon him) fell ill, Hazrat Jibril (AS) recited this dua and blew on him.</p><p class=\"reference\">[Sahih Muslim, Hadith 2186]</p>",
                 "audioUrls": [
                     "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/120_0.mp3",
-                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/120_1.mp3"
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/120_1.mp3",
+                    "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/public/storage/audio/dua-contents/120_2.mp3"
                 ]
             },
             {
