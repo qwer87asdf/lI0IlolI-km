@@ -31,7 +31,6 @@
       "supportedCountries": null,
       "notSupportedCountries": [],
       "visibleTo": [
-        "NON_AUTHORIZED",
         "AUTHORIZED"
       ],
       "bannerConfig": {
