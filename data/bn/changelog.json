@@ -1,5 +1,14 @@
 [
     {
+        "version": "v6.6.6",
+        "slug": "v6-6-6",
+        "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designe...",
+        "body": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley,</p><ul><li><p>the librarian at St Bride Printing Library in London,</p></li><li><p>took a 1914 Cicero translation</p></li><li><p>and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the</p></li><li><p>leap into electronic typesetting, remaining essentially unchanged.</p></li></ul><p>It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.</p><blockquote><p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset</p></blockquote>",
+        "ios": true,
+        "android": false,
+        "date": "2026-07-22"
+    },
+    {
         "version": "v6.2.2",
         "slug": "v6-2-2",
         "excerpt": "Istigfar reminder feature added Bug fixes in quran tilawat feature UI improvements Some other bug fixes",
