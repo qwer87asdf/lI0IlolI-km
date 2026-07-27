@@ -1,60 +1,74 @@
 {
-    "events": [
-      {
-        "id": "prayer-alarm-settings",
-        "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
-        "title": "Go to Prayer Alarm Settings",
-        "description": "Turn prayer alarms on or off as needed.",
-        "startTime": 1783691011141,
-        "endTime": 1783965000000,
-        "isActive": true,
-        "priority": 100,
-        "action": {
-          "type": "web",
-          "url": "https://link.muslimsday.com/settings/prayer-reminders"
-        }
-      },
-      {
-        "id": "friday-givers-1",
-        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-        "title": "Friday Givers – Automatic Friday Sadaqah",
-        "description": "Start each Jumu'ah with Sadaqah",
-        "startTime": 1784206800000,
-        "endTime": 1784293200000,
-        "isActive": true,
-        "priority": 95,
-        "action": {
-          "type": "web",
-          "url": "https://id.kahf.co/friday-givers/muslimsday"
-        }
-      },
-      {
-        "id": "friday-givers-2",
-        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-        "title": "Friday Givers – Automatic Friday Sadaqah",
-        "description": "Start each Jumu'ah with Sadaqah",
-        "startTime": 1784811600000,
-        "endTime": 1784898000000,
-        "isActive": true,
-        "priority": 95,
-        "action": {
-          "type": "web",
-          "url": "https://id.kahf.co/friday-givers/muslimsday"
-        }
-      },
-      {
-        "id": "friday-givers-3",
-        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-        "title": "Friday Givers – Automatic Friday Sadaqah",
-        "description": "Start each Jumu'ah with Sadaqah",
-        "startTime": 1785416400000,
-        "endTime": 1785502800000,
-        "isActive": true,
-        "priority": 95,
-        "action": {
-          "type": "web",
-          "url": "https://id.kahf.co/friday-givers/muslimsday"
-        }
+  "events": [
+    {
+      "id": "ansar-27-july",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Muslims Day moves forward when you step forward",
+      "description": "Become an Ansar",
+      "startTime": 1785150736955,
+      "endTime": 1785347940000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/ansar/muslimsday?utm_source=muslimsdayapp&utm_medium=app_notice&utm_campaign=ansar"
       }
-    ]
+    },
+    {
+      "id": "daily-sadaqah-muslimsday",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Many hands make the burden light",
+      "description": "Muslims Day grows through everyone's support",
+      "startTime": 1783691011141,
+      "endTime": 1784397600000,
+      "isActive": true,
+      "priority": 90,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/daily-support/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-1",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
+      "description": "Begin every Jumu'ah with Sadaqah",
+      "startTime": 1786626000000,
+      "endTime": 1786712400000,
+      "isActive": true,
+      "priority": 95,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
+      "description": "Begin every Jumu'ah with Sadaqah",
+      "startTime": 1786021200000,
+      "endTime": 1786107600000,
+      "isActive": true,
+      "priority": 95,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-3",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
+      "description": "Begin every Jumu'ah with Sadaqah",
+      "startTime": 1785416400000,
+      "endTime": 1785502800000,
+      "isActive": true,
+      "priority": 95,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    }
+  ]
 }

@@ -1,18 +1,74 @@
 {
-    "events": [
-      {
-        "id": "prayer-alarm-settings",
-        "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
-        "title": "انتقل إلى إعدادات تنبيهات الصلاة",
-        "description": "يمكنك تشغيل تنبيهات الصلاة أو إيقافها حسب الحاجة.",
-        "startTime": 1783691011141,
-        "endTime": 1783965000000,
-        "isActive": true,
-        "priority": 100,
-        "action": {
-          "type": "web",
-          "url": "https://link.muslimsday.com/settings/prayer-reminders"
-        }
+  "events": [
+    {
+      "id": "ansar-27-july",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "بمساهمتك يواصل Muslims Day مسيرته",
+      "description": "كن سببًا في إعانة ملايين المسلمين على العبادة",
+      "startTime": 1785150736955,
+      "endTime": 1785347940000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/ansar/muslimsday?utm_source=muslimsdayapp&utm_medium=app_notice&utm_campaign=ansar"
       }
-    ]
+    },
+    {
+      "id": "daily-sadaqah-muslimsday",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "بتكاتف الجميع يتحقق الأثر",
+      "description": "بمشاركة الجميع يواصل Muslims Day نموه",
+      "startTime": 1783691011141,
+      "endTime": 1784397600000,
+      "isActive": true,
+      "priority": 90,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/daily-support/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-1",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "عطاء الجمعة – صدقة تلقائية كل يوم جمعة",
+      "description": "ابدأ كل جمعة بصدقة",
+      "startTime": 1786626000000,
+      "endTime": 1786712400000,
+      "isActive": true,
+      "priority": 95,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "عطاء الجمعة – صدقة تلقائية كل يوم جمعة",
+      "description": "ابدأ كل جمعة بصدقة",
+      "startTime": 1786021200000,
+      "endTime": 1786107600000,
+      "isActive": true,
+      "priority": 95,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-3",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "عطاء الجمعة – صدقة تلقائية كل يوم جمعة",
+      "description": "ابدأ كل جمعة بصدقة",
+      "startTime": 1785416400000,
+      "endTime": 1785502800000,
+      "isActive": true,
+      "priority": 95,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    }
+  ]
 }
