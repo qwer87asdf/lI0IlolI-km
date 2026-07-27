@@ -1,17 +1,17 @@
 {
     "events": [
       {
-        "id": "prayer-alarm-settings",
-        "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
-        "title": "নামাজের অ্যালার্ম সেটিংসে যান",
-        "description": "প্রয়োজন অনুযায়ী অ্যালার্ম চালু বা বন্ধ করুন।",
-        "startTime": 1783691011141,
-        "endTime": 1783965000000,
+        "id": "ansar-27-july",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "আপনি এগিয়ে আসলেই, এগিয়ে যাবে Muslims Day",
+        "description": "লক্ষ্য লক্ষ্য মুসলিমের ইবাদতের উসিলা হোন",
+        "startTime": 1785150736955,
+        "endTime": 1785416400000,
         "isActive": true,
         "priority": 100,
         "action": {
           "type": "web",
-          "url": "https://link.muslimsday.com/settings/prayer-reminders"
+          "url": "https://id.kahf.co/ansar/muslimsday?utm_source=muslimsdayapp&utm_medium=app_notice&utm_campaign=ansar"
         }
       },
       {
@@ -33,8 +33,8 @@
         "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
         "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
         "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-        "startTime": 1784206800000,
-        "endTime": 1784293200000,
+        "startTime": 1786626000000,
+        "endTime": 1786712400000,
         "isActive": true,
         "priority": 95,
         "action": {
@@ -47,8 +47,8 @@
         "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
         "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
         "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-        "startTime": 1784811600000,
-        "endTime": 1784898000000,
+        "startTime": 1786021200000,
+        "endTime": 1786107600000,
         "isActive": true,
         "priority": 95,
         "action": {
