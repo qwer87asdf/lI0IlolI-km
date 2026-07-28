@@ -1,5 +1,14 @@
 [
     {
+        "version": "v2.8.4",
+        "slug": "v2-8-4",
+        "excerpt": "✨ Added Introduced quick search with fuzzy matching. Added keyboard shortcuts for common actions. New dark mode accent color options. Export reports as CSV and...",
+        "body": "<h3>✨ Added</h3><ul><li><p>Introduced quick search with fuzzy matching.</p></li><li><p>Added keyboard shortcuts for common actions.</p></li><li><p>New dark mode accent color options.</p></li><li><p>Export reports as CSV and JSON.</p></li></ul><h3>🚀 Improved</h3><ul><li><p>Reduced application startup time by ~30%.</p></li><li><p>Improved responsiveness on low-memory devices.</p></li><li><p>Enhanced error messages with clearer troubleshooting hints.</p></li><li><p>Optimized database queries for faster dashboard loading.</p></li></ul><h3>🐛 Fixed</h3><ul><li><p>Fixed an issue where notifications appeared twice.</p></li><li><p>Resolved occasional crashes when uploading large files.</p></li><li><p>Corrected incorrect date formatting in some regions.</p></li><li><p>Fixed a bug causing user preferences to reset after updates.</p></li></ul><h3>🔒 Security</h3><ul><li><p>Updated third-party dependencies to address known vulnerabilities.</p></li><li><p>Improved session validation and token expiration handling.</p></li></ul><h3>🛠️ Developer</h3><ul><li><p>Refactored authentication module for easier maintenance.</p></li><li><p>Expanded unit test coverage for API endpoints.</p></li><li><p>Updated CI pipeline to reduce build times.</p></li></ul><h3>⚠️ Known Issues</h3><ul><li><p>Rare UI flickering may occur when switching themes rapidly.</p></li><li><p>Some legacy plugins require updates for full compatibility.</p></li></ul>",
+        "ios": true,
+        "android": true,
+        "date": "2026-07-28"
+    },
+    {
         "version": "v6.6.6",
         "slug": "v6-6-6",
         "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designe...",
