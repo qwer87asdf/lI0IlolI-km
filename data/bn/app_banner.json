@@ -11,7 +11,7 @@
         "priority": 100,
         "action": {
           "type": "web",
-          "url": "https://id.kahf.co/support/muslimsday"
+          "url": "https://id.kahf.co/daily-support/muslimsday"
         }
       },
       {
