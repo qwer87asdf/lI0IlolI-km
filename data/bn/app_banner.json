@@ -3,15 +3,15 @@
       {
         "id": "prayer-alarm-settings",
         "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
-        "title": "নামাজের অ্যালার্ম সেটিংসে যান",
-        "description": "প্রয়োজন অনুযায়ী অ্যালার্ম চালু বা বন্ধ করুন।",
-        "startTime": 1783691011141,
-        "endTime": 1783965000000,
+        "title": "জ্বী, আপনাকেই বলছি প্রিয় মুহতারাম",
+        "description": "প্রতিদিনের ছোট ছোট পদক্ষেপে, আমলনামায় জমা হতে থাকুক অবিরাম নেকী",
+        "startTime": 1785301020000,
+        "endTime": 1785369600000,
         "isActive": true,
         "priority": 100,
         "action": {
           "type": "web",
-          "url": "https://link.muslimsday.com/settings/prayer-reminders"
+          "url": "https://id.kahf.co/support/muslimsday"
         }
       },
       {
