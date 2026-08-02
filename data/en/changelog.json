@@ -1,5 +1,14 @@
 [
     {
+        "version": "v7.9.9",
+        "slug": "v7-9-9",
+        "excerpt": "Activate subscription growth — Silver/Gold premium has 434 active subscribers but only ৳14,200 monthly. Consider in-app prompts, push notifications, or limited-...",
+        "body": "<ol><li><p><strong>Activate subscription growth</strong> — Silver/Gold premium has 434 active subscribers but only ৳14,200 monthly. Consider in-app prompts, push notifications, or limited-time offers to convert free users.</p></li><li><p><strong>Expand Friday Givers</strong> — It's the top performer. A dedicated push notification campaign each Thursday could boost signups further.</p></li><li><p><strong>Verify Weeks 1-2 data gap</strong> — Investigate why no revenue recorded for Jul 1-14. If it's a pipeline issue, fix it to avoid blind spots.</p></li></ol>",
+        "ios": true,
+        "android": true,
+        "date": "2026-08-02"
+    },
+    {
         "version": "v7.8.9",
         "slug": "v7-8-9",
         "excerpt": "✨ Added Introduced quick search with fuzzy matching. Added keyboard shortcuts for common actions. New dark mode accent color options. Export reports as CSV and...",
