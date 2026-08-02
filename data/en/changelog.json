@@ -1,5 +1,14 @@
 [
     {
+        "version": "v7.8.9",
+        "slug": "v7-8-9",
+        "excerpt": "✨ Added Introduced quick search with fuzzy matching. Added keyboard shortcuts for common actions. New dark mode accent color options. Export reports as CSV and...",
+        "body": "<h3><strong>✨ Added</strong></h3><ul><li><p>Introduced quick search with fuzzy matching.</p></li><li><p>Added keyboard shortcuts for common actions.</p></li><li><p>New dark mode accent color options.</p></li><li><p>Export reports as CSV and JSON.</p></li></ul>",
+        "ios": true,
+        "android": true,
+        "date": "2026-08-02"
+    },
+    {
         "version": "v2.8.4",
         "slug": "v2-8-4",
         "excerpt": "✨ Added Introduced quick search with fuzzy matching. Added keyboard shortcuts for common actions. New dark mode accent color options. Export reports as CSV and...",
