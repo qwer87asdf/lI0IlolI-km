@@ -6,7 +6,7 @@
         "body": "<h3><strong>✨ Added (বাংলা)</strong></h3><ul><li><p>Introduced quick search with fuzzy matching.</p></li><li><p>Added keyboard shortcuts for common actions.</p></li><li><p>New dark mode accent color options.</p></li><li><p>Export reports as CSV and JSON.</p></li></ul>",
         "ios": true,
         "android": true,
-        "date": "2026-08-02"
+        "date": "2026-08-01"
     },
     {
         "version": "v2.8.4",
