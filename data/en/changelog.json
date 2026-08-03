@@ -1,0 +1,11 @@
+[
+    {
+        "version": "v6.2.2",
+        "slug": "v6-2-2",
+        "excerpt": "Muslims Day July 2026 Release Summary In July 2026 we have released two major features and few improvements. New Features Ruqyah text & Audio feature added Isti...",
+        "body": "<h2>Muslims Day July 2026 Release Summary</h2><p>In July 2026 we have released two major features and few improvements.</p><h3>New Features</h3><ol><li><p>Ruqyah text &amp; Audio feature added</p></li><li><p>Istigfar reminder feature added</p></li></ol><h3>Improvements</h3><ol><li><p>Improved Amal Tracker with a new History view</p></li><li><p>UI Improvements</p></li><li><p>Various bug fixes and stability improvements</p></li></ol>",
+        "ios": false,
+        "android": true,
+        "date": "2026-07-20"
+    }
+]
