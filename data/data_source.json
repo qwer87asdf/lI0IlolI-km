@@ -113,9 +113,14 @@
     "url": "appdata/data/{lang}/promotional_cards.json",
     "updated_at": 1781001846000
   },
-  {                                                                                                                                                                                                                                                                                                                     
-     "name": "quran_exit_dialog",                                                                                                                                                                                                                                                                                        
-     "url": "appdata/data/{lang}/quran_exit_dialog.json",                                                                                                                                                                                                                                                                
-     "updated_at": 1791504000000                                                                                                                                                                                                                                                                                         
-   }
+  {
+    "name": "quran_exit_dialog",
+    "url": "appdata/data/{lang}/quran_exit_dialog.json",
+    "updated_at": 1791504000000
+  },
+  {
+    "name": "dua_exit_dialog",
+    "url": "appdata/data/{lang}/dua_exit_dialog.json",
+    "updated_at": 1791504000000
+  }
 ]
