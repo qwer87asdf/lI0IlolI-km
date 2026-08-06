@@ -8,7 +8,7 @@
             "isActive": true,
             "frequency": "ONCE",
             "startAt": 1786036380000,
-            "expireAt": 1786129200000,
+            "expireAt": 1786039200000,
             "platforms": [
                 "ANDROID",
                 "IOS"
