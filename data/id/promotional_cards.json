@@ -4,7 +4,7 @@
   "showAfterInstallHours": 0,
   "cards": [
     {
-      "id": "install-md-bn-2",
+      "id": "install-md-id-2",
       "isActive": true,
       "frequency": "ONCE",
       "startAt": 1786017600000,
@@ -19,7 +19,7 @@
       "maxIosVersionCode": null,
       "type": "IMAGE",
       "aspectRatio": 0.56,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
+      "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-id.jpeg",
       "html": null,
       "action": {
         "type": "WEB",
