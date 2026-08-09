@@ -1,6 +1,20 @@
 {
   "events": [
     {
+        "id": "prayer-alarm-settings",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "سبحان الله! ٦٥ ألف ساعة من قراءة القرآن الشهر الماضي",
+        "description": " 👉 ساهم ولو بالقليل، كل يوم",
+        "startTime": 1786270296000,
+        "endTime": 1786496400000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://kahf.to/in-app-notice-dcontr"
+        }
+      },
+    {
       "id": "ansar-27-july",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
       "title": "بمساهمتك يواصل Muslims Day مسيرته",
