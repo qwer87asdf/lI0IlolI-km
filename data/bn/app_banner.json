@@ -1,63 +1,7 @@
 {
     "events": [
       {
-        "id": "prayer-alarm-settings",
-        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-        "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
-        "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
-        "startTime": 1786270296000,
-        "endTime": 1786496400000,
-        "isActive": true,
-        "priority": 100,
-        "action": {
-          "type": "web",
-          "url": "https://kahf.to/in-app-notice-dcontr"
-        }
-      },
-      {
-        "id": "prayer-alarm-settings",
-        "icon": "https://data.muslimsday.com/appdata/image/alarm-settings.png",
-        "title": "জ্বী, আপনাকেই বলছি প্রিয় মুহতারাম",
-        "description": "প্রতিদিনের ছোট ছোট পদক্ষেপে, আমলনামায় জমা হতে থাকুক অবিরাম নেকী",
-        "startTime": 1785301020000,
-        "endTime": 1785369600000,
-        "isActive": true,
-        "priority": 100,
-        "action": {
-          "type": "web",
-          "url": "https://id.kahf.co/daily-support/muslimsday"
-        }
-      },
-      {
-        "id": "ansar-27-july",
-        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-        "title": "আপনি এগিয়ে আসলেই, এগিয়ে যাবে Muslims Day",
-        "description": "লক্ষ মুসলিমের ইবাদতের উসিলা হোন",
-        "startTime": 1785150736955,
-        "endTime": 1785347940000,
-        "isActive": true,
-        "priority": 100,
-        "action": {
-          "type": "web",
-          "url": "https://id.kahf.co/ansar/muslimsday?utm_source=muslimsdayapp&utm_medium=app_notice&utm_campaign=ansar"
-        }
-      },
-      {
-        "id": "daily-sadaqah-muslimsday",
-        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-        "title": "দশের লাঠি, একের বোঝা",
-        "description": "সকলের অংশগ্রহণেই এগিয়ে যাবে Muslims Day",
-        "startTime": 1783691011141,
-        "endTime": 1784397600000,
-        "isActive": true,
-        "priority": 90,
-        "action": {
-          "type": "web",
-          "url": "https://id.kahf.co/daily-support/muslimsday"
-        }
-      },
-      {
-        "id": "friday-givers-1",
+        "id": "friday-givers-bn-1",
         "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
         "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
         "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
@@ -71,12 +15,12 @@
         }
       },
       {
-        "id": "friday-givers-2",
+        "id": "friday-givers-bn-2",
         "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
         "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
         "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-        "startTime": 1786021200000,
-        "endTime": 1786107600000,
+        "startTime": 1787230800000,
+        "endTime": 1787317200000,
         "isActive": true,
         "priority": 95,
         "action": {
@@ -85,18 +29,116 @@
         }
       },
       {
-        "id": "friday-givers-3",
+        "id": "friday-givers-bn-3",
         "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
         "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
         "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-        "startTime": 1785416400000,
-        "endTime": 1785502800000,
+        "startTime": 1787835600000,
+        "endTime": 1787922000000,
         "isActive": true,
         "priority": 95,
         "action": {
           "type": "web",
           "url": "https://id.kahf.co/friday-givers/muslimsday"
         }
+      },
+      {
+        "id": "friday-givers-bn-4",
+        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+        "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+        "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+        "startTime": 1788440400000,
+        "endTime": 1788526800000,
+        "isActive": true,
+        "priority": 95,
+        "action": {
+          "type": "web",
+          "url": "https://id.kahf.co/friday-givers/muslimsday"
+        }
+      },
+      {
+        "id": "friday-givers-bn-5",
+        "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+        "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+        "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+        "startTime": 1789045200000,
+        "endTime": 1789131600000,
+        "isActive": true,
+        "priority": 95,
+        "action": {
+          "type": "web",
+          "url": "https://id.kahf.co/friday-givers/muslimsday"
+        }
+      },
+      {
+        "id": "daily-support-bn-1",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+        "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+        "startTime": 1786816800000,
+        "endTime": 1787075940000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://kahf.to/in-app-notice-dcontr"
+        }
+      },
+      {
+        "id": "daily-support-bn-2",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+        "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+        "startTime": 1787421600000,
+        "endTime": 1787680740000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://kahf.to/in-app-notice-dcontr"
+        }
+      },
+      {
+        "id": "daily-support-bn-3",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+        "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+        "startTime": 1788026400000,
+        "endTime": 1788285540000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://kahf.to/in-app-notice-dcontr"
+        }
+      },
+      {
+        "id": "daily-support-bn-4",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+        "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+        "startTime": 1788631200000,
+        "endTime": 1788890340000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://kahf.to/in-app-notice-dcontr"
+        }
+      },
+      {
+        "id": "daily-support-bn-5",
+        "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+        "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+        "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+        "startTime": 1789236000000,
+        "endTime": 1789495140000,
+        "isActive": true,
+        "priority": 100,
+        "action": {
+          "type": "web",
+          "url": "https://kahf.to/in-app-notice-dcontr"
+        }
       }
     ]
-}
+  }
