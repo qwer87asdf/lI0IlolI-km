@@ -144,6 +144,32 @@
         "buySubscriptionButtonText": "Buy Premium Subscription",
         "closeButtonText": "Okay, I understand"
       }
+    },
+    "ansarCardMetaData": {
+      "bn": {
+        "title": "আপনি একজন আনসার সাবস্ক্রাইবার",
+        "description": "আপনি আনসার সাবস্ক্রিপশন কিনেছেন। সাবস্ক্রিপশনের সাথে আপনি পাচ্ছেন এক্সক্লুসিভ আনসার কন্টেন্ট।",
+        "buttonText": "সুবিধাসমূহ দেখুন",
+        "buttonUrl": "https://muslimsday.com/ansar"
+      },
+      "en": {
+        "title": "You are an Ansar subscriber",
+        "description": "You have purchased the Ansar subscription. With the subscription, you get exclusive Ansar content.",
+        "buttonText": "See Benefits",
+        "buttonUrl": "https://muslimsday.com/ansar"
+      },
+      "id": {
+        "title": "Anda adalah pelanggan Ansar",
+        "description": "Anda telah membeli langganan Ansar. Dengan langganan ini, Anda mendapatkan konten eksklusif Ansar.",
+        "buttonText": "Lihat Manfaat",
+        "buttonUrl": "https://muslimsday.com/ansar"
+      },
+      "ar": {
+        "title": "أنت مشترك في أنصار",
+        "description": "لقد اشتريت اشتراك أنصار. مع الاشتراك، ستحصل على محتوى حصري من أنصار.",
+        "buttonText": "عرض الفوائد",
+        "buttonUrl": "https://muslimsday.com/ansar"
+      }
     }
   }
 }
