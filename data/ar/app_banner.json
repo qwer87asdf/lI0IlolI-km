@@ -1,12 +1,54 @@
 {
   "events": [
     {
+      "id": "ansar-member-ar-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "تبقّى ١٤٦٨ فرصة للانضمام إلى عضوية أنصار",
+      "description": "هل أنت معنا؟",
+      "startTime": 1786626000000,
+      "endTime": 1786712400000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-ar-2",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "تبقّى ١٤٦٨ فرصة للانضمام إلى عضوية أنصار",
+      "description": "هل أنت معنا؟",
+      "startTime": 1786021200000,
+      "endTime": 1786107600000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-ar-3",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "تبقّى ١٤٦٨ فرصة للانضمام إلى عضوية أنصار",
+      "description": "هل أنت معنا؟",
+      "startTime": 1785416400000,
+      "endTime": 1785502800000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
         "id": "prayer-alarm-settings",
         "icon": "https://data.muslimsday.com/appdata/image/heart.png",
         "title": "سبحان الله! ٦٥ ألف ساعة من قراءة القرآن الشهر الماضي",
         "description": " 👉 ساهم ولو بالقليل، كل يوم",
         "startTime": 1786270296000,
-        "endTime": 1786496400000,
+        "endTime": 1786625940000,
         "isActive": true,
         "priority": 100,
         "action": {

@@ -1,6 +1,76 @@
 {
   "events": [
     {
+      "id": "ansar-member-en-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Only 1,468 Ansar membership spots left",
+      "description": "Dear friend, are you with us?",
+      "startTime": 1786626000000,
+      "endTime": 1786712400000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-en-2",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Only 1,468 Ansar membership spots left",
+      "description": "Dear friend, are you with us?",
+      "startTime": 1787230800000,
+      "endTime": 1787317200000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-en-3",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Only 1,468 Ansar membership spots left",
+      "description": "Dear friend, are you with us?",
+      "startTime": 1787835600000,
+      "endTime": 1787922000000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-en-4",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Only 1,468 Ansar membership spots left",
+      "description": "Dear friend, are you with us?",
+      "startTime": 1788440400000,
+      "endTime": 1788526800000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-en-5",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Only 1,468 Ansar membership spots left",
+      "description": "Dear friend, are you with us?",
+      "startTime": 1789045200000,
+      "endTime": 1789131600000,
+      "isActive": true,
+      "priority": 100,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
       "id": "friday-givers-en-1",
       "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
       "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
@@ -76,7 +146,7 @@
       "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
       "description": "👉 However small, contribute every day.",
       "startTime": 1786816800000,
-      "endTime": 1787075940000,
+      "endTime": 1787230740000,
       "isActive": true,
       "priority": 100,
       "action": {
@@ -90,7 +160,7 @@
       "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
       "description": "👉 However small, contribute every day.",
       "startTime": 1787421600000,
-      "endTime": 1787680740000,
+      "endTime": 1787835540000,
       "isActive": true,
       "priority": 100,
       "action": {
@@ -104,7 +174,7 @@
       "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
       "description": "👉 However small, contribute every day.",
       "startTime": 1788026400000,
-      "endTime": 1788285540000,
+      "endTime": 1788440340000,
       "isActive": true,
       "priority": 100,
       "action": {
@@ -118,7 +188,7 @@
       "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
       "description": "👉 However small, contribute every day.",
       "startTime": 1788631200000,
-      "endTime": 1788890340000,
+      "endTime": 1789045140000,
       "isActive": true,
       "priority": 100,
       "action": {
@@ -132,7 +202,7 @@
       "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
       "description": "👉 However small, contribute every day.",
       "startTime": 1789236000000,
-      "endTime": 1789495140000,
+      "endTime": 1789649940000,
       "isActive": true,
       "priority": 100,
       "action": {
