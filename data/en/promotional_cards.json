@@ -1,31 +1,31 @@
 {
-  "isEnabled": true,
-  "dismissible": true,
-  "showAfterInstallHours": 0,
-  "cards": [
-    {
-      "id": "install-md-en-2",
-      "isActive": true,
-      "frequency": "ONCE",
-      "startAt": 1786017600000,
-      "expireAt": 1786496400000,
-      "platforms": [
-        "ANDROID",
-        "IOS"
-      ],
-      "minAndroidVersionCode": null,
-      "minIosVersionCode": null,
-      "maxAndroidVersionCode": null,
-      "maxIosVersionCode": null,
-      "type": "IMAGE",
-      "aspectRatio": 0.56,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/WhatsApp_Image_2026-08-06_at_17.57.17-wOXtFmoY.jpeg",
-      "html": null,
-      "action": {
-        "type": "WEB",
-        "value": "https://kahf.to/md-dcontr-popup",
-        "label": null
-      }
-    }
-  ]
+    "isEnabled": true,
+    "dismissible": true,
+    "showAfterInstallHours": 0,
+    "cards": [
+        {
+            "id": "install-md-en",
+            "isActive": true,
+            "frequency": "ONCE",
+            "startAt": 1786036380000,
+            "expireAt": 1786129200000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.56,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/WhatsApp_Image_2026-08-06_at_17.57.17-wOXtFmoY.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://kahf.to/md-fr-popup",
+                "label": null
+            }
+        }
+    ]
 }
