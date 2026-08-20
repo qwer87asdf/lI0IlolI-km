@@ -1,5 +1,5 @@
 {
-    "isEnabled": true,
+    "isEnabled": false,
     "dismissible": true,
     "showAfterInstallHours": 0,
     "cards": [
