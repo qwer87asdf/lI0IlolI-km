@@ -1,31 +1,31 @@
 {
-  "isEnabled": true,
-  "dismissible": true,
-  "showAfterInstallHours": 0,
-  "cards": [
-    {
-      "id": "install-md-bn-2",
-      "isActive": true,
-      "frequency": "ONCE",
-      "startAt": 1786017600000,
-      "expireAt": 1786496400000,
-      "platforms": [
-        "ANDROID",
-        "IOS"
-      ],
-      "minAndroidVersionCode": null,
-      "minIosVersionCode": null,
-      "maxAndroidVersionCode": null,
-      "maxIosVersionCode": null,
-      "type": "IMAGE",
-      "aspectRatio": 0.56,
-      "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
-      "html": null,
-      "action": {
-        "type": "WEB",
-        "value": "https://kahf.to/md-dcontr-popup",
-        "label": null
-      }
-    }
-  ]
+    "isEnabled": true,
+    "dismissible": true,
+    "showAfterInstallHours": 0,
+    "cards": [
+        {
+            "id": "ansar-bn-promo-2",
+            "isActive": true,
+            "frequency": "ONCE",
+            "startAt": 1787214240000,
+            "expireAt": 1787317200000,
+            "platforms": [
+                "IOS",
+                "ANDROID"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.75,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/WhatsApp_Image_2026-08-20_at_14.00.31-XqVQlkQS.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://kahf.to/ansar-popup",
+                "label": null
+            }
+        }
+    ]
 }
