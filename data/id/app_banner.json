@@ -8,7 +8,7 @@
       "startTime": 1786816800000,
       "endTime": 1787230740000,
       "isActive": true,
-      "priority": 100,
+      "priority": 90,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -22,7 +22,7 @@
       "startTime": 1787421600000,
       "endTime": 1787835540000,
       "isActive": true,
-      "priority": 100,
+      "priority": 90,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -36,7 +36,7 @@
       "startTime": 1788026400000,
       "endTime": 1788440340000,
       "isActive": true,
-      "priority": 100,
+      "priority": 90,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -50,7 +50,7 @@
       "startTime": 1788631200000,
       "endTime": 1789045140000,
       "isActive": true,
-      "priority": 100,
+      "priority": 90,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -64,7 +64,7 @@
       "startTime": 1789236000000,
       "endTime": 1789649940000,
       "isActive": true,
-      "priority": 100,
+      "priority": 90,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
