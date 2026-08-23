@@ -22,6 +22,7 @@
       "type": "banner",
       "id": "premium_upsell",
       "priority": 101,
+      "showAfterInstallHours": 72,
       "isEnabled": true,
       "supportedLanguages": [
         "en",
@@ -50,6 +51,7 @@
       "type": "banner",
       "id": "premium_upsell_2",
       "priority": 300,
+      "showAfterInstallHours": 72,
       "isEnabled": true,
       "supportedLanguages": [
         "en",
