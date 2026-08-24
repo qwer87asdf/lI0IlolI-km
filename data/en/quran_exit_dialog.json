@@ -8,7 +8,7 @@
       "id": "quran_exit_test_daily",
       "priority": 1,
       "isActive": true,
-      "frequency": "ONCE_PER_DAY",
+      "frequency": "EVERY_LAUNCH",
       "platforms": [
         "ANDROID",
         "IOS"
