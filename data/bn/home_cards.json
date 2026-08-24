@@ -12,6 +12,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "title": "Muslims Day আনসার মেম্বারদেরকে আল্লাহ কবুল করুন",
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "url",
                 "url": "https://id.kahf.co/ansar/muslimsday"
