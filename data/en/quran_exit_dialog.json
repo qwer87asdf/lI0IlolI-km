@@ -2,7 +2,7 @@
   "isEnabled": true,
   "dismissible": true,
   "minReadingSeconds": 5,
-  "showOnceEveryDays": 1,
+  "showOnceEveryDays": 0,
   "cards": [
     {
       "id": "quran_exit_test_daily",
