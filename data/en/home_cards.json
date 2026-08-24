@@ -11,6 +11,7 @@
       "notSupportedCountries": [],
       "visibleTo": [],
       "endTimestampInSecond": null,
+      "showAfterInstallHours": 72,
       "title": "May Allah accept the Muslims Day Ansar members",
       "action": {
         "type": "url",
