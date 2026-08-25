@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "type": "image_card",
-      "id": "ansar",
-      "priority": 100,
-      "isEnabled": true,
-      "supportedLanguages": [],
-      "notSupportedLanguages": [],
-      "supportedCountries": [],
-      "notSupportedCountries": [],
-      "visibleTo": [],
-      "endTimestampInSecond": null,
-      "showAfterInstallHours": 72,
-      "title": "May Allah accept the Muslims Day Ansar members",
-      "action": {
-        "type": "url",
-        "url": "https://id.kahf.co/ansar/muslimsday"
-      },
-      "imageUrl": "https://data.muslimsday.com/appdata/image/ansar_30_7_en.png"
-    },
-    {
       "type": "banner",
       "id": "premium_upsell",
       "priority": 101,
@@ -44,38 +25,6 @@
         "action": {
           "type": "url",
           "url": "https://id.kahf.co/pay/muslimsday"
-        },
-        "shouldPremiumUser": false
-      }
-    },
-    {
-      "type": "banner",
-      "id": "premium_upsell_2",
-      "priority": 300,
-      "showAfterInstallHours": 72,
-      "isEnabled": true,
-      "supportedLanguages": [
-        "en",
-        "bn"
-      ],
-      "notSupportedLanguages": null,
-      "supportedCountries": null,
-      "notSupportedCountries": [],
-      "visibleTo": [
-        "NON_AUTHORIZED"
-      ],
-      "bannerConfig": {
-        "title": "Sync & Backup",
-        "subtitle": "Keep your bookmarks and app settings safe forever.",
-        "buttonText": "Log In",
-        "bannerType": "PRIMARY",
-        "iconId": "LOGIN",
-        "action": {
-          "type": "navigation",
-          "route": {
-            "type": "screen",
-            "name": "profile"
-          }
         },
         "shouldPremiumUser": false
       }
@@ -108,7 +57,7 @@
         "title": "Spread Muslims Day",
         "message": "You will be rewarded for everyone who has joined your support.\nJazakallahu Khairan for helping to spread Muslims Day.",
         "buttonText": "Share",
-        "shareText": "Use the Muslims Day app to be a better servant of Allah every day in this busy life. Here you will find the correct prayer times, Quran, Dua, Tafsir and everything you need.\nAlso, pass on this invitation to your loved ones so that they can participate in this procession of becoming a good Muslim, InshaAllah. Jazakallahu Khair.\nDownload Link: https://kahf.to/mdsharecard\n",
+        "shareText": "Use the Muslims Day app to be a better servant of Allah every day in this busy life. Here you will find the correct prayer times, Quran, Dua, Tafsir and everything you need.\nAls[...]
         "shareSubject": "Muslims Day",
         "shareCount": 0,
         "showShareCount": true,
