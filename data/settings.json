@@ -154,6 +154,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 10,
+      "showAfterInstallHours": 72,
       "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED"],
       "action": {
         "type": "url",
@@ -166,6 +167,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 10,
+      "showAfterInstallHours": 72,
       "visibleTo": ["GUEST", "LOGGED_IN"],
       "action": {
         "type": "web",
@@ -178,6 +180,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 30,
+      "showAfterInstallHours": 72,
       "visibleTo": ["ANSAR"],
       "action": {
         "type": "url",
@@ -190,6 +193,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 1,
+      "showAfterInstallHours": 72,
       "visibleTo": [],
       "action": {
         "type": "screen",
@@ -202,6 +206,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 1,
+      "showAfterInstallHours": 72,
       "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED"],
       "action": {
         "type": "custom",
@@ -214,6 +219,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 1,
+      "showAfterInstallHours": 72,
       "visibleTo": ["AUTHORIZED", "PAID", "ANSAR"],
       "action": {
         "type": "custom",
@@ -226,6 +232,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 1,
+      "showAfterInstallHours": 72,
       "visibleTo": [],
       "action": {
         "type": "navigation",
@@ -238,6 +245,7 @@
       "startDate": 1893456000000,
       "endDate": 1924992000000,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED", "PAID", "ANSAR"],
       "action": {
         "type": "url",
@@ -250,6 +258,7 @@
       "startDate": 0,
       "endDate": 1000,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "visibleTo": [],
       "action": {
         "type": "url",
@@ -264,6 +273,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 10,
+      "showAfterInstallHours": 72,
       "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED"],
       "action": {
         "type": "custom",
@@ -276,6 +286,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 10,
+      "showAfterInstallHours": 72,
       "visibleTo": ["GUEST", "LOGGED_IN"],
       "action": {
         "type": "custom",
@@ -288,6 +299,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 10,
+      "showAfterInstallHours": 72,
       "visibleTo": ["PAID", "PREMIUM"],
       "action": {
         "type": "web_view",
@@ -301,6 +313,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 20,
+      "showAfterInstallHours": 72,
       "visibleTo": ["ANSAR"],
       "action": {
         "type": "url",
@@ -313,6 +326,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 5,
+      "showAfterInstallHours": 72,
       "visibleTo": [],
       "action": {
         "type": "url",
@@ -325,6 +339,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 5,
+      "showAfterInstallHours": 72,
       "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED", "PAID", "ANSAR"],
       "action": {
         "type": "web",
@@ -337,6 +352,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 1,
+      "showAfterInstallHours": 72,
       "visibleTo": ["AUTHORIZED", "PAID", "ANSAR"],
       "action": {
         "type": "screen",
@@ -349,6 +365,7 @@
       "startDate": 0,
       "endDate": 4102444800000,
       "priority": 1,
+      "showAfterInstallHours": 72,
       "visibleTo": [],
       "action": {
         "type": "navigation",
@@ -361,6 +378,7 @@
       "startDate": 1735689600000,
       "endDate": 1736294400000,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED"],
       "action": {
         "type": "url",
