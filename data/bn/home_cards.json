@@ -1,25 +1,6 @@
 {
     "items": [
         {
-            "type": "image_card",
-            "id": "ansar",
-            "priority": 100,
-            "isEnabled": true,
-            "supportedLanguages": [],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [],
-            "endTimestampInSecond": null,
-            "title": "Muslims Day আনসার মেম্বারদেরকে আল্লাহ কবুল করুন",
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "url",
-                "url": "https://id.kahf.co/ansar/muslimsday"
-            },
-            "imageUrl": "https://data.muslimsday.com/appdata/image/ansar_30_7_bn.png"
-        },
-        {
             "type": "banner",
             "id": "premium_upsell",
             "priority": 300,
@@ -48,38 +29,6 @@
                 "action": {
                     "type": "url",
                     "url": "https://id.kahf.co/pay/muslimsday"
-                }
-            }
-        },
-        {
-            "type": "banner",
-            "id": "premium_upsell_2",
-            "priority": 700,
-            "showAfterInstallHours": 72,
-            "isEnabled": true,
-            "supportedLanguages": [],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "NON_AUTHORIZED"
-            ],
-            "endTimestampInSecond": null,
-            "bannerConfig": {
-                "title": "সিঙ্ক ও ব্যাকআপ",
-                "subtitle": "আপনার বুকমার্ক এবং অ্যাপ সেটিংস নিরাপদ রাখুন।",
-                "buttonText": "লগ ইন",
-                "bannerType": "PRIMARY",
-                "iconId": "LOGIN",
-                "iconUrl": null,
-                "shouldPremiumUser": false,
-                "shouldLoggedIn": false,
-                "action": {
-                    "type": "navigation",
-                    "route": {
-                        "type": "screen",
-                        "name": "profile"
-                    }
                 }
             }
         },
@@ -118,16 +67,16 @@
             "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED", "PAID"],
             "endTimestampInSecond": null,
             "shareConfig": {
-                "title": "মুসলিমস ডে ছড়িয়ে দিন",
-                "message": "আপনার সহযোগিতায় যারা যুক্ত হয়েছেন, তাদের প্রত্যেকের জন্য আপনি সাওয়াব পাচ্ছেন। মুসলিমস ডে ছড়িয়ে দিতে সাহায্য করার জন্য জাজাকাল্লাহু খাইরান।\nআল্লাহ আপনাকে উভয় দুনিয়াতে নূর দান করুন, আমীন।",
-                "buttonText": "শেয়ার",
-                "shareText": "ব্যস্ত এই জীবনে প্রতিদিন আল্লাহর আরো ভালো বান্দা হতে ব্যবহার করুন Muslims Day অ্যাপ। এখানে রয়েছে সালাতের সঠিক সময়সূচি, কুরআন, দুআ, তাফসীর সহ প্রয়োজনীয় সবকিছু।\nডাউনলোড লিংক: https://kahf.to/mdsharecard\n",
+                "title": "মুসলিমস ডে ছড়িয়ে দিন",
+                "message": "আপনার সহযোগিতায় যারা যুক্ত হয়েছেন, তাদের প্রত্যেকের জন্য আপনি সা[...]",
+                "buttonText": "শেয়ার",
+                "shareText": "ব্যস্ত এই জীবনে প্রতিদিন আল্লাহর আরো ভালো বান্দা হতে ব্যবহার ��[...]",
                 "shareSubject": "Muslims Day",
                 "shareCount": 0,
                 "showShareCount": true,
-                "shareCountLabel": "বার শেয়ার করা হয়েছে"
+                "shareCountLabel": "বার শেয়ার করা হয়েছে"
             }
-            },
+        },
         {
             "type": "dua_of_the_moment",
             "id": "dua_moment",
@@ -145,7 +94,7 @@
                 "id": 1,
                 "title": "u0998u09c1u09ae u09a5u09c7u0995u09c7 u0993u09a0u09beu09b0 u09a6u09cbu09afu09bcu09be",
                 "subtitle": "u09b8u0995u09beu09b2u09c7u09b0 u09a6u09cbu09afu09bcu09be",
-                "content": "u0986u09b2u09b9u09beu09aeu09a6u09c1u09b2u09bfu09b2u09cdu09b2u09beu09b9u09bfu09b2u09cdu09b2u09beu099cu09bf u0986u09b9u0987u09afu09bcu09beu09a8u09be u09acu09beu2019u09a6u09be u09aeu09be u0986u09aeu09beu09a4u09beu09a8u09be u0993u09afu09bcu09be u0987u09b2u09beu09b9u09bfu09a8 u09a8u09c1u09b6u09c1u09b0u0964",
+                "content": "u0986u09b2u09b9u09beu09aeu09a6u09c1u09b2u09bfu09b2u09cdu09b2u09beu09b9u09bfu09b2u09cdu09b2u09beu099cu09bf u0986u09b9u0987u09afu09bcu09beu09a8u09be u09acu09beu2019u09a6[...]",
                 "audioUrls": [
                     "https://data.muslimsday.com/appdata/audio/dua/1.mp3"
                 ]
@@ -162,7 +111,7 @@
             "notSupportedCountries": [],
             "visibleTo": [],
             "endTimestampInSecond": null,
-            "title": "দরূদ রিমাইন্ডার ফিচারটি চালু করুন। প্রতি বার দরূদ পড়ে অর্জন করুন সওয়াব ও রহমত",
+            "title": "দরূদ রিমাইন্ডার ফিচারটি চালু করুন। প্রতি বার দরূদ পড়ে অর্জন করুন [...]",
             "action": {
                 "type": "url",
                 "url": "https://link.muslimsday.com/settings/durud-reminder"
