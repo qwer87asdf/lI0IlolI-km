@@ -1,25 +1,9 @@
 {
-  "isEnabled": true,
+  "isEnabled": false,
   "dismissible": true,
   "minReadingSeconds": 5,
   "showOnceEveryDays": 0,
   "cards": [
-    {
-      "id": "quran_exit_test_daily",
-      "priority": 1,
-      "isActive": true,
-      "frequency": "EVERY_LAUNCH",
-      "platforms": [
-        "ANDROID",
-        "IOS"
-      ],
-      "type": "HTML",
-      "html": "<h3>Test dialog</h3><p>Quran exit dialog is working. This shows at most once per day.</p>",
-      "action": {
-        "type": "WEB",
-        "value": "https://muslimsday.com",
-        "label": "Open Website"
-      }
-    }
+    
   ]
 }

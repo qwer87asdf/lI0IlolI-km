@@ -1,25 +1,9 @@
 {
-  "isEnabled": true,
+  "isEnabled": false,
   "dismissible": true,
   "minReadingSeconds": 5,
   "showOnceEveryDays": 1,
   "cards": [
-    {
-      "id": "dua_exit_test_daily",
-      "priority": 1,
-      "isActive": true,
-      "frequency": "ONCE_PER_DAY",
-      "platforms": [
-        "ANDROID",
-        "IOS"
-      ],
-      "type": "HTML",
-      "html": "<h3>Dua exit dialog works</h3><p>Shown after leaving a dua. At most once per day.</p>",
-      "action": {
-        "type": "WEB",
-        "value": "https://muslimsday.com",
-        "label": "Open Website"
-      }
-    }
+    
   ]
 }
