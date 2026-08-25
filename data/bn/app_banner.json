@@ -9,7 +9,7 @@
       "endTime": 1787939940000,
       "isActive": true,
       "priority": 90,
-      "showAfterInstallHours": 72,
+      "showAfterInstallHours": 0,
       "action": null
     }
   ]
