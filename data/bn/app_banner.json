@@ -1,3 +1,16 @@
 {
-  "events": []
+  "events": [
+    {
+      "id": "beez-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/saom.png",
+      "title": "আইয়ামে বীজের রোজা রাখছেন তো?",
+      "description": "বাংলাদেশে রোজার তারিখ: ২৭, ২৮ ও ২৯ আগস্ট",
+      "startTime": 1787679168000,
+      "endTime": 1787939940000,
+      "isActive": true,
+      "priority": 90,
+      "showAfterInstallHours": 72,
+      "action": null
+    }
+  ]
 }
