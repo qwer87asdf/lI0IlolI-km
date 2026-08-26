@@ -1,35 +1,6 @@
 {
   "items": [
     {
-      "type": "banner",
-      "id": "premium_upsell",
-      "priority": 101,
-      "showAfterInstallHours": 72,
-      "isEnabled": true,
-      "supportedLanguages": [
-        "en",
-        "bn"
-      ],
-      "notSupportedLanguages": null,
-      "supportedCountries": null,
-      "notSupportedCountries": [],
-      "visibleTo": [
-        "AUTHORIZED"
-      ],
-      "bannerConfig": {
-        "title": "Go Premium",
-        "subtitle": "No Ads, Offline Mode & More",
-        "buttonText": "Upgrade",
-        "bannerType": "WARNING",
-        "iconId": "CROWN",
-        "action": {
-          "type": "url",
-          "url": "https://id.kahf.co/pay/muslimsday"
-        },
-        "shouldPremiumUser": false
-      }
-    },
-    {
       "type": "countdown_timer",
       "id": "ramadan_countdown",
       "priority": 350,
@@ -57,7 +28,7 @@
         "title": "Spread Muslims Day",
         "message": "You will be rewarded for everyone who has joined your support.\nJazakallahu Khairan for helping to spread Muslims Day.",
         "buttonText": "Share",
-        "shareText": "Use the Muslims Day app to be a better servant of Allah every day in this busy life. Here you will find the correct prayer times, Quran, Dua, Tafsir and everything you need.\nAls[...]
+        "shareText": "Use the Muslims Day app to be a better servant of Allah every day in this busy life. Here you will find the correct prayer times, Quran, Dua, Tafsir and everything you need.\nAlso, pass on this invitation to your loved ones so that they can participate in this procession of becoming a good Muslim, InshaAllah. Jazakallahu Khair.\nDownload Link: https://kahf.to/mdsharecard\n",
         "shareSubject": "Muslims Day",
         "shareCount": 0,
         "showShareCount": true,
@@ -105,6 +76,7 @@
       "priority": 600,
       "isEnabled": true,
       "supportedLanguages": null,
+      "showAfterInstallHours": 72,
       "notSupportedLanguages": null,
       "supportedCountries": null,
       "notSupportedCountries": null

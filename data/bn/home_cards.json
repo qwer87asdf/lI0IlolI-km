@@ -1,38 +1,6 @@
 {
     "items": [
         {
-            "type": "banner",
-            "id": "premium_upsell",
-            "priority": 300,
-            "showAfterInstallHours": 72,
-            "isEnabled": true,
-            "supportedLanguages": [
-                "en",
-                "bn"
-            ],
-            "notSupportedLanguages": [],
-            "supportedCountries": [],
-            "notSupportedCountries": [],
-            "visibleTo": [
-                "AUTHORIZED"
-            ],
-            "endTimestampInSecond": null,
-            "bannerConfig": {
-                "title": "প্রিমিয়াম নিন",
-                "subtitle": "বিজ্ঞাপন মুক্ত, অফলাইন মোড এবং আরও অনেক কিছু",
-                "buttonText": "আপগ্রেড",
-                "bannerType": "WARNING",
-                "iconId": "CROWN",
-                "iconUrl": null,
-                "shouldPremiumUser": false,
-                "shouldLoggedIn": false,
-                "action": {
-                    "type": "url",
-                    "url": "https://id.kahf.co/pay/muslimsday"
-                }
-            }
-        },
-        {
             "type": "countdown_timer",
             "id": "ramadan_timer",
             "priority": 400,
@@ -67,14 +35,14 @@
             "visibleTo": ["NON_AUTHORIZED", "AUTHORIZED", "PAID"],
             "endTimestampInSecond": null,
             "shareConfig": {
-                "title": "মুসলিমস ডে ছড়িয়ে দিন",
-                "message": "আপনার সহযোগিতায় যারা যুক্ত হয়েছেন, তাদের প্রত্যেকের জন্য আপনি সা[...]",
-                "buttonText": "শেয়ার",
-                "shareText": "ব্যস্ত এই জীবনে প্রতিদিন আল্লাহর আরো ভালো বান্দা হতে ব্যবহার ��[...]",
+                "title": "মুসলিমস ডে ছড়িয়ে দিন",
+                "message": "আপনার সহযোগিতায় যারা যুক্ত হয়েছেন, তাদের প্রত্যেকের জন্য আপনি সাওয়াব পাচ্ছেন। মুসলিমস ডে ছড়িয়ে দিতে সাহায্য করার জন্য জাজাকাল্লাহু খাইরান।\nআল্লাহ আপনাকে উভয় দুনিয়াতে নূর দান করুন, আমীন।",
+                "buttonText": "শেয়ার",
+                "shareText": "ব্যস্ত এই জীবনে প্রতিদিন আল্লাহর আরো ভালো বান্দা হতে ব্যবহার করুন Muslims Day অ্যাপ। এখানে রয়েছে সালাতের সঠিক সময়সূচি, কুরআন, দুআ, তাফসীর সহ প্রয়োজনীয় সবকিছু।\nডাউনলোড লিংক: https://kahf.to/mdsharecard\n",
                 "shareSubject": "Muslims Day",
                 "shareCount": 0,
                 "showShareCount": true,
-                "shareCountLabel": "বার শেয়ার করা হয়েছে"
+                "shareCountLabel": "বার শেয়ার করা হয়েছে"
             }
         },
         {
@@ -111,7 +79,7 @@
             "notSupportedCountries": [],
             "visibleTo": [],
             "endTimestampInSecond": null,
-            "title": "দরূদ রিমাইন্ডার ফিচারটি চালু করুন। প্রতি বার দরূদ পড়ে অর্জন করুন [...]",
+            "title": "দরূদ রিমাইন্ডার ফিচারটি চালু করুন। প্রতি বার দরূদ পড়ে অর্জন করুন সওয়াব ও রহমত",
             "action": {
                 "type": "url",
                 "url": "https://link.muslimsday.com/settings/durud-reminder"
@@ -158,6 +126,7 @@
             "supportedLanguages": null,
             "notSupportedLanguages": null,
             "supportedCountries": null,
+            "showAfterInstallHours": 72,
             "notSupportedCountries": [],
             "visibleTo": [
                 "NON_AUTHORIZED",
