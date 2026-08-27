@@ -1,29 +1,125 @@
 {
     "isEnabled": true,
     "dismissible": true,
-    "showAfterInstallHours": 0,
+    "showAfterInstallHours": 72,
     "cards": [
         {
-            "id": "ansar-bn-promo-2",
+            "id": "install-md-bn-fr-0827",
             "isActive": true,
             "frequency": "ONCE",
-            "startAt": 1787214240000,
-            "expireAt": 1787317200000,
+            "startAt": 1787835600000,
+            "expireAt": 1787922000000,
             "platforms": [
-                "IOS",
-                "ANDROID"
+                "ANDROID",
+                "IOS"
             ],
             "minAndroidVersionCode": null,
             "minIosVersionCode": null,
             "maxAndroidVersionCode": null,
             "maxIosVersionCode": null,
             "type": "IMAGE",
-            "aspectRatio": 0.75,
-            "imageUrl": "https://data.muslimsday.com/appdata/image/ansar-promo-bn-2.jpeg",
+            "aspectRatio": 0.56,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
             "html": null,
             "action": {
                 "type": "WEB",
-                "value": "https://kahf.to/ansar-popup",
+                "value": "https://kahf.to/md-fr-popup",
+                "label": null
+            }
+        },
+        {
+            "id": "install-md-bn-fr-0903",
+            "isActive": true,
+            "frequency": "ONCE",
+            "startAt": 1788440400000,
+            "expireAt": 1788526800000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.56,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://kahf.to/md-fr-popup",
+                "label": null
+            }
+        },
+        {
+            "id": "install-md-bn-fr-0910",
+            "isActive": true,
+            "frequency": "ONCE",
+            "startAt": 1789045200000,
+            "expireAt": 1789131600000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.56,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://kahf.to/md-fr-popup",
+                "label": null
+            }
+        },
+        {
+            "id": "install-md-bn-fr-0917",
+            "isActive": true,
+            "frequency": "ONCE",
+            "startAt": 1789650000000,
+            "expireAt": 1789736400000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.56,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://kahf.to/md-fr-popup",
+                "label": null
+            }
+        },
+        {
+            "id": "install-md-bn-fr-0924",
+            "isActive": true,
+            "frequency": "ONCE",
+            "startAt": 1790254800000,
+            "expireAt": 1790341200000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.56,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://kahf.to/md-fr-popup",
                 "label": null
             }
         }
