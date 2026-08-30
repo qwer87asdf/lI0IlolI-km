@@ -147,6 +147,14 @@
     }
   },
   "ansarCardMetaData": null,
+  "goldCardMetaData": {
+    "en": {
+        "title": "You are a Gold subscriber",
+        "description": "With your Gold subscription you get exclusive content.",
+        "buttonText": "See Benefits",
+        "buttonUrl": "https://example.com/gold-benefits"
+      }
+  },
   "homeAppBarCtas": [
     
   ],
