@@ -124,7 +124,7 @@
       "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
       "startTime": 1788026400000,
       "endTime": 1788440340000,
-      "isActive": true,
+      "isActive": false,
       "priority": 95,
       "showAfterInstallHours": 0,
       "action": {

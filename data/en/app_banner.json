@@ -105,7 +105,7 @@
       "description": "👉 However small, contribute every day.",
       "startTime": 1788026400000,
       "endTime": 1788440340000,
-      "isActive": true,
+      "isActive": false,
       "priority": 95,
       "action": {
         "type": "web",
