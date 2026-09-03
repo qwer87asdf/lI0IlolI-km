@@ -148,7 +148,7 @@
             "startTime": 1788428640000,
             "endTime": 1789304400000,
             "isActive": true,
-            "priority": 100,
+            "priority": 80,
             "supportedCountries": [],
             "action": {
                 "type": "web",
