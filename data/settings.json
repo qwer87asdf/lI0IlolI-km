@@ -1,157 +1,191 @@
 {
-  "isIfaEnable": true,
-  "isMahfilEnable": true,
-  "appReviewDaysAfterOnboarding": 3,
-  "appReviewRepeatBaseDays": 2,
-  "appReviewRepeatMaxDays": 30,
-  "adNetworkConfig": {
-    "minDaysBeforeAdShown": 3,
-    "isEnable": true,
-    "publisher": "muslims-day",
-    "fallbackPublisher": "muslims-day",
-    "refreshRateInMillis": 15000,
-    "ads": [
-      {
+    "isIfaEnable": true,
+    "isMahfilEnable": true,
+    "appReviewDaysAfterOnboarding": 3,
+    "appReviewRepeatBaseDays": 2,
+    "appReviewRepeatMaxDays": 30,
+    "adNetworkConfig": {
+        "minDaysBeforeAdShown": 3,
         "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "home-1st-banner"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "home-bottom-sticky-banner"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "quran-bottom-sticky-banner"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "dua-bottom-sticky-banner"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "tools-bottom-sticky-banner"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "more-bottom-sticky-banner"
-      },
-      {
-        "isEnable": true,
-        "placement": "84b044816c9760abd87d6ae1d28016e3",
-        "divId": "home-feed-medium-rectangle"
-      },
-      {
-        "isEnable": true,
-        "placement": "a359bd948b0f30fcaf27ace4e5359281",
-        "divId": "home-feed-native-ad"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "saom-full-screen-under-saom-card"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "calendar-bottom-sticky"
-      },
-      {
-        "isEnable": true,
-        "placement": "84b044816c9760abd87d6ae1d28016e3",
-        "divId": "calendar-feed-medium-rectangle"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "qibla-compass"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "tasbeeh"
-      },
-      {
-        "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "tools-feed-1"
-      },
-      {
-        "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "habit-tracker-bottom-sticky"
-      },
-      {
-        "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "dua-category-feed-1"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "dua-list-bottom-sticky"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "in-app-webview-bottom-sticky"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "dua-details-bottom-sticky"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "notification-list-bottom-sticky"
-      },
-      {
-        "isEnable": true,
-        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-        "divId": "notification-details-bottom-sticky"
-      },
-      {
-        "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "ruqyah-list"
-      },
-      {
-        "isEnable": true,
-        "placement": "8a6eaaa2718d003335f126d24d78c311",
-        "divId": "ruqyah-details-bottom"
-      }
-    ],
-    "adsMetaData": {
-      "bn": {
-        "whyThisAdButtonText": "কেন Ad দেখানো হয়?",
-        "closeAdButtonText": "Ad বন্ধ করুন",
-        "whyThisAdTitle": "মুসলিমস ডে অ্যাপে কেন Ad দেখানো হয়?",
-        "whyThisAdDescription": "<p>মুসলিমস ডে অ্যাপের নিয়মিত ডেভেলপমেন্ট চালাতে প্রতি মাসে কয়েক লক্ষ টাকা খরচ হয়। এই খরচের একটা অংশ আসে অ্যাপে হালাল বিজ্ঞাপন দেখিয়ে।</p><p>তবে আপনি চাইলে খুব সহজেই বিজ্ঞাপনমুক্ত অ্যাপ পেতে পারেন <strong>নিচের বাটনে ক্লিক</strong> করে। এটি আমাদের কার্যক্রম চালিয়ে নিতে সহযোগিতা করবে।</p>",
-        "buySubscriptionButtonText": "প্রিমিয়াম সাবস্ক্রিপশন কিনুন",
-        "closeButtonText": "ঠিক আছে, বুঝেছি"
-      },
-      "en": {
-        "whyThisAdButtonText": "Why is this ad shown?",
-        "closeAdButtonText": "Close Ad, buy premium",
-        "whyThisAdTitle": "Why are ads shown in the Muslims Day app?",
-        "whyThisAdDescription": "<p>The regular development of the Muslims Day app costs a significant amount of money each month. A portion of this cost is covered by showing halal advertisements in the app.</p><p>However, you can easily get an ad-free app by clicking the <strong>button below</strong>. This will help us to continue our operations.</p>",
-        "buySubscriptionButtonText": "Buy Premium Subscription",
-        "closeButtonText": "Okay, I understand"
-      }
-    }
-  },
-  "ansarCardMetaData": null,
-  "goldCardMetaData": null,
-  "homeAppBarCtas": [
-    
-  ],
-  "homeFabCtas": [
-    
-  ]
+        "publisher": "muslims-day",
+        "fallbackPublisher": "muslims-day",
+        "refreshRateInMillis": 15000,
+        "ads": [
+            {
+                "isEnable": true,
+                "placement": "8a6eaaa2718d003335f126d24d78c311",
+                "divId": "home-1st-banner"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "home-bottom-sticky-banner"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "quran-bottom-sticky-banner"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "dua-bottom-sticky-banner"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "tools-bottom-sticky-banner"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "more-bottom-sticky-banner"
+            },
+            {
+                "isEnable": true,
+                "placement": "84b044816c9760abd87d6ae1d28016e3",
+                "divId": "home-feed-medium-rectangle"
+            },
+            {
+                "isEnable": true,
+                "placement": "a359bd948b0f30fcaf27ace4e5359281",
+                "divId": "home-feed-native-ad"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "saom-full-screen-under-saom-card"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "calendar-bottom-sticky"
+            },
+            {
+                "isEnable": true,
+                "placement": "84b044816c9760abd87d6ae1d28016e3",
+                "divId": "calendar-feed-medium-rectangle"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "qibla-compass"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "tasbeeh"
+            },
+            {
+                "isEnable": true,
+                "placement": "8a6eaaa2718d003335f126d24d78c311",
+                "divId": "tools-feed-1"
+            },
+            {
+                "isEnable": true,
+                "placement": "8a6eaaa2718d003335f126d24d78c311",
+                "divId": "habit-tracker-bottom-sticky"
+            },
+            {
+                "isEnable": true,
+                "placement": "8a6eaaa2718d003335f126d24d78c311",
+                "divId": "dua-category-feed-1"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "dua-list-bottom-sticky"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "in-app-webview-bottom-sticky"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "dua-details-bottom-sticky"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "notification-list-bottom-sticky"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "notification-details-bottom-sticky"
+            },
+            {
+                "isEnable": true,
+                "placement": "8a6eaaa2718d003335f126d24d78c311",
+                "divId": "ruqyah-list"
+            },
+            {
+                "isEnable": true,
+                "placement": "8a6eaaa2718d003335f126d24d78c311",
+                "divId": "ruqyah-details-bottom"
+            }
+        ],
+        "adsMetaData": {
+            "bn": {
+                "whyThisAdButtonText": "কেন Ad দেখানো হয়?",
+                "closeAdButtonText": "Ad বন্ধ করুন",
+                "whyThisAdTitle": "মুসলিমস ডে অ্যাপে কেন Ad দেখানো হয়?",
+                "whyThisAdDescription": "<p>মুসলিমস ডে অ্যাপের নিয়মিত ডেভেলপমেন্ট চালাতে প্রতি মাসে কয়েক লক্ষ টাকা খরচ হয়। এই খরচের একটা অংশ আসে অ্যাপে হালাল বিজ্ঞাপন দেখিয়ে।</p><p>তবে আপনি চাইলে খুব সহজেই বিজ্ঞাপনমুক্ত অ্যাপ পেতে পারেন <strong>নিচের বাটনে ক্লিক</strong> করে। এটি আমাদের কার্যক্রম চালিয়ে নিতে সহযোগিতা করবে।</p>",
+                "buySubscriptionButtonText": "প্রিমিয়াম সাবস্ক্রিপশন কিনুন",
+                "closeButtonText": "ঠিক আছে, বুঝেছি"
+            },
+            "en": {
+                "whyThisAdButtonText": "Why is this ad shown",
+                "closeAdButtonText": "Close Ad, buy premium",
+                "whyThisAdTitle": "Why are ads shown in the Muslims Day app?",
+                "whyThisAdDescription": "<p>The regular development of the Muslims Day app costs a significant amount of money each month. A portion of this cost is covered by showing halal advertisements in the app</p><p>However, you can easily get an ad-free app by clicking the <strong>button below</strong>. This will help us to continue our operations.</p>",
+                "buySubscriptionButtonText": "Buy Premium Subscription",
+                "closeButtonText": "Okay, I understand"
+            }
+        }
+    },
+    "ansarCardMetaData": {
+        "bn": {
+            "title": "আপনি একজন আনসার সাবস্ক্রাইবার",
+            "description": "আপনি আনসার সাবস্ক্রিপশন কিনেছেন। সাবস্ক্রিপশনের সাথে আপনি পাচ্ছেন এক্সক্লুসিভ আনসার কন্টেন্ট।",
+            "buttonText": "সুবিধাসমূহ দেখুন",
+            "buttonUrl": "https://muslimsday.com/ansar"
+        },
+        "en": {
+            "title": "You are an Ansar subscriber",
+            "description": "You have purchased the Ansar subscription. With the subscription, you get exclusive Ansar content.",
+            "buttonText": "See Benefits",
+            "buttonUrl": "https://muslimsday.com/ansar"
+        },
+        "id": {
+            "title": "Anda adalah pelanggan Ansar",
+            "description": "Anda telah membeli langganan Ansar. Dengan langganan ini, Anda mendapatkan konten eksklusif Ansar.",
+            "buttonText": "Lihat Manfaat",
+            "buttonUrl": "https://muslimsday.com/ansar"
+        },
+        "ar": {
+            "title": "أنت مشترك في أنصار",
+            "description": "لقد اشتريت اشتراك أنصار. مع الاشتراك، ستحصل على محتوى حصري من أنصار.",
+            "buttonText": "عرض الفوائد",
+            "buttonUrl": "https://muslimsday.com/ansar"
+        }
+    },
+    "homeAppBarCtas": [],
+    "homeFabCtas": [
+        {
+            "id": "durud-campaign-sept26",
+            "iconUrl": "https://data.muslimsday.com/appdata/image/durud-fav.png",
+            "startDate": 1788442200000,
+            "endDate": 1788528660000,
+            "priority": 1,
+            "showAfterInstallHours": 0,
+            "visibleTo": [],
+            "action": {
+                "type": "url",
+                "url": "https://campaign.muslimsday.com/durud-sept-26/en?ref=5ZPFUQRV"
+            }
+        }
+    ]
 }
