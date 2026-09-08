@@ -188,7 +188,7 @@
       "title": "Subhanallah! 65 ribu jam membaca Al-Qur’an bulan lalu.",
       "description": "👉 Meski kecil, berkontribusilah setiap hari.",
       "startTime": 1788631200000,
-      "endTime": 1789045140000,
+      "endTime": false,
       "isActive": true,
       "priority": 95,
       "action": {
@@ -208,6 +208,21 @@
       "action": {
         "type": "web",
         "url": "https://kahf.to/in-app-notice-dcontr"
+      }
+    },
+    {
+      "id": "ansar-member-id-6",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Hadiahkan teman ibadah untuk orang tersayang",
+      "description": "Jadi anggota Ansar dan dapatkan 7 langganan Muslims Day Premium untuk seluruh keluarga",
+      "startTime": 1788864900000,
+      "endTime": 1789045140000,
+      "isActive": true,
+      "priority": 100,
+      "showAfterInstallHours": 24,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
       }
     }
   ]

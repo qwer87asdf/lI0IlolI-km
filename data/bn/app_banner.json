@@ -139,7 +139,7 @@
             "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
             "startTime": 1788631200000,
             "endTime": 1789045140000,
-            "isActive": true,
+            "isActive": false,
             "priority": 95,
             "showAfterInstallHours": 0,
             "action": {
@@ -175,6 +175,21 @@
             "action": {
                 "type": "web",
                 "url": "https://campaign.muslimsday.com/durud-sept-26/bn?ref=5ZPFUQRV"
+            }
+        },
+        {
+            "id": "ansar-member-bn-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "প্রিয়জনকে উপহার দিন ইবাদতের সঙ্গী",
+            "description": "আনসার মেম্বার হলেই পাচ্ছেন ৭ টি Muslims Day প্রিমিয়াম, পুরো পরিবারের জন্য",
+            "startTime": 1788864900000,
+            "endTime": 1789045140000,
+            "isActive": true,
+            "priority": 95,
+            "showAfterInstallHours": 24,
+            "action": {
+                "type": "web",
+                "url": "https://kahf.to/ansar-app-notice"
             }
         }
     ]

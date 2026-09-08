@@ -119,7 +119,7 @@
             "description": "👉 However small, contribute every day.",
             "startTime": 1788631200000,
             "endTime": 1789045140000,
-            "isActive": true,
+            "isActive": false,
             "priority": 95,
             "action": {
                 "type": "web",
@@ -153,6 +153,21 @@
             "action": {
                 "type": "web",
                 "url": "https://campaign.muslimsday.com/durud-sept-26/en?ref=5ZPFUQRV"
+            }
+        },
+        {
+            "id": "ansar-member-en-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "Gift your loved ones a companion in worship",
+            "description": "Become an Ansar member and get 7 Muslims Day Premium subscriptions — for your whole family",
+            "startTime": 1788864900000,
+            "endTime": 1789045140000,
+            "isActive": true,
+            "priority": 100,
+            "showAfterInstallHours": 24,
+            "action": {
+                "type": "web",
+                "url": "https://kahf.to/ansar-app-notice"
             }
         }
     ]

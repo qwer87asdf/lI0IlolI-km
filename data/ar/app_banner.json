@@ -125,6 +125,21 @@
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
       }
+    },
+    {
+      "id": "ansar-member-ar-4",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "أهدِ أحبابك رفيقًا في العبادة",
+      "description": "كن عضوًا في أنصار واحصل على ٧ اشتراكات Muslims Day بريميوم لكل العائلة",
+      "startTime": 1788864900000,
+      "endTime": 1789045140000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 24,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
     }
   ]
 }
