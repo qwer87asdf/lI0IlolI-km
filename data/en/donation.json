@@ -2,7 +2,8 @@
   "isEnable": true,
   "message": "Contribute to continue the development of the Muslim Day app",
   "url": "https://id.kahf.co/support/muslimsday",
-  "buttonText": "Support Us"
+  "buttonText": "Support Us",
+  "showAfterInstallHours": 24
 }
 
 

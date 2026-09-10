@@ -2,5 +2,6 @@
   "isEnable": true,
   "message": "মুসলিমস ডে অ্যাপের ডেভেলপমেন্ট চালিয়ে নিতে কন্ট্রিবিউট করুন",
   "url": "https://id.kahf.co/support/muslimsday",
-  "buttonText": "সহায়তা করুন"
+  "buttonText": "সহায়তা করুন",
+  "showAfterInstallHours": 24
 }
