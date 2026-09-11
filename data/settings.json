@@ -187,5 +187,63 @@
                 "url": "https://campaign.muslimsday.com/durud-sept-26/en?ref=5ZPFUQRV"
             }
         }
-    ]
+    ],
+    "durudCutoffDialog": {
+        "visibleFrom": 1757548800000,
+        "metaData": {
+            "en": {
+                "title": "Missing your Durud Reminder?",
+                "message": "Durud Reminder is now a Premium feature. Subscribe to switch it back on and keep the reminders coming.",
+                "subscribeButtonText": "Subscribe now",
+                "dismissButtonText": "Not now"
+            },
+            "bn": {
+                "title": "আপনার দরুদ রিমাইন্ডার মিস করছেন?",
+                "message": "দরুদ রিমাইন্ডার এখন একটি প্রিমিয়াম ফিচার। সাবস্ক্রাইব করে আবার চালু করুন এবং রিমাইন্ডার পেতে থাকুন।",
+                "subscribeButtonText": "এখনই সাবস্ক্রাইব করুন",
+                "dismissButtonText": "এখন নয়"
+            },
+            "ar": {
+                "title": "هل تفتقد تذكير الدرود الخاص بك؟",
+                "message": "أصبح تذكير الدرود الآن ميزة بريميوم. اشترك لإعادة تفعيله والاستمرار في تلقي التذكيرات.",
+                "subscribeButtonText": "اشترك الآن",
+                "dismissButtonText": "ليس الآن"
+            },
+            "id": {
+                "title": "Merindukan Pengingat Durud Anda?",
+                "message": "Pengingat Durud kini menjadi fitur Premium. Berlangganan untuk mengaktifkannya kembali dan tetap menerima pengingat.",
+                "subscribeButtonText": "Berlangganan sekarang",
+                "dismissButtonText": "Nanti saja"
+            }
+        }
+    },
+    "istigfarCutoffDialog": {
+        "visibleFrom": 1757548800000,
+        "metaData": {
+            "en": {
+                "title": "Missing your Istigfar Reminder?",
+                "message": "Istigfar Reminder is now a Premium feature. Subscribe to switch it back on and keep the reminders coming.",
+                "subscribeButtonText": "Subscribe now",
+                "dismissButtonText": "Not now"
+            },
+            "bn": {
+                "title": "আপনার ইস্তিগফার রিমাইন্ডার মিস করছেন?",
+                "message": "ইস্তিগফার রিমাইন্ডার এখন একটি প্রিমিয়াম ফিচার। সাবস্ক্রাইব করে আবার চালু করুন এবং রিমাইন্ডার পেতে থাকুন।",
+                "subscribeButtonText": "এখনই সাবস্ক্রাইব করুন",
+                "dismissButtonText": "এখন নয়"
+            },
+            "ar": {
+                "title": "هل تفتقد تذكير الاستغفار الخاص بك؟",
+                "message": "أصبح تذكير الاستغفار الآن ميزة بريميوم. اشترك لإعادة تفعيله والاستمرار في تلقي التذكيرات.",
+                "subscribeButtonText": "اشترك الآن",
+                "dismissButtonText": "ليس الآن"
+            },
+            "id": {
+                "title": "Merindukan Pengingat Istigfar Anda?",
+                "message": "Pengingat Istigfar kini menjadi fitur Premium. Berlangganan untuk mengaktifkannya kembali dan tetap menerima pengingat.",
+                "subscribeButtonText": "Berlangganan sekarang",
+                "dismissButtonText": "Nanti saja"
+            }
+        }
+    }
 }
