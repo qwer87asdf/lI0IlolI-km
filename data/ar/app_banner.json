@@ -9,6 +9,7 @@
       "endTime": 1786712400000,
       "isActive": true,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -23,6 +24,7 @@
       "endTime": 1786107600000,
       "isActive": true,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -37,6 +39,7 @@
       "endTime": 1785502800000,
       "isActive": true,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -51,6 +54,7 @@
         "endTime": 1786625940000,
         "isActive": true,
         "priority": 100,
+        "showAfterInstallHours": 72,
         "action": {
           "type": "web",
           "url": "https://kahf.to/in-app-notice-dcontr"
@@ -65,6 +69,7 @@
       "endTime": 1785347940000,
       "isActive": true,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/ansar/muslimsday?utm_source=muslimsdayapp&utm_medium=app_notice&utm_campaign=ansar"
@@ -79,6 +84,7 @@
       "endTime": 1784397600000,
       "isActive": true,
       "priority": 90,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/daily-support/muslimsday"
@@ -93,6 +99,7 @@
       "endTime": 1786712400000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -107,6 +114,7 @@
       "endTime": 1786107600000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -121,6 +129,7 @@
       "endTime": 1785502800000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -135,7 +144,7 @@
       "endTime": 1789045140000,
       "isActive": true,
       "priority": 95,
-      "showAfterInstallHours": 24,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
