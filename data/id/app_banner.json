@@ -9,6 +9,7 @@
       "endTime": 1787230740000,
       "isActive": true,
       "priority": 90,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -23,6 +24,7 @@
       "endTime": 1787835540000,
       "isActive": true,
       "priority": 90,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -37,6 +39,7 @@
       "endTime": 1788440340000,
       "isActive": true,
       "priority": 90,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -51,6 +54,7 @@
       "endTime": 1789045140000,
       "isActive": true,
       "priority": 90,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -65,6 +69,7 @@
       "endTime": 1789649940000,
       "isActive": true,
       "priority": 90,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
@@ -79,6 +84,7 @@
       "endTime": 1786712400000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -93,6 +99,7 @@
       "endTime": 1787317200000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -107,6 +114,7 @@
       "endTime": 1787922000000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -121,6 +129,7 @@
       "endTime": 1788526800000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -135,6 +144,7 @@
       "endTime": 1789131600000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -143,12 +153,13 @@
     {
       "id": "daily-support-id-1",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "Subhanallah! 65 ribu jam membaca Al-Qur’an bulan lalu.",
+      "title": "Subhanallah! 65 ribu jam membaca Al-Qur'an bulan lalu.",
       "description": "👉 Meski kecil, berkontribusilah setiap hari.",
       "startTime": 1786816800000,
       "endTime": 1787230740000,
       "isActive": true,
       "priority": 100,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/in-app-notice-dcontr"
@@ -157,12 +168,13 @@
     {
       "id": "daily-support-id-2",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "Subhanallah! 65 ribu jam membaca Al-Qur’an bulan lalu.",
+      "title": "Subhanallah! 65 ribu jam membaca Al-Qur'an bulan lalu.",
       "description": "👉 Meski kecil, berkontribusilah setiap hari.",
       "startTime": 1787421600000,
       "endTime": 1787835540000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/in-app-notice-dcontr"
@@ -171,12 +183,13 @@
     {
       "id": "daily-support-id-3",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "Subhanallah! 65 ribu jam membaca Al-Qur’an bulan lalu.",
+      "title": "Subhanallah! 65 ribu jam membaca Al-Qur'an bulan lalu.",
       "description": "👉 Meski kecil, berkontribusilah setiap hari.",
       "startTime": 1788026400000,
       "endTime": 1788440340000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/in-app-notice-dcontr"
@@ -185,12 +198,13 @@
     {
       "id": "daily-support-id-4",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "Subhanallah! 65 ribu jam membaca Al-Qur’an bulan lalu.",
+      "title": "Subhanallah! 65 ribu jam membaca Al-Qur'an bulan lalu.",
       "description": "👉 Meski kecil, berkontribusilah setiap hari.",
       "startTime": 1788631200000,
       "endTime": false,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/in-app-notice-dcontr"
@@ -199,12 +213,13 @@
     {
       "id": "daily-support-id-5",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "Subhanallah! 65 ribu jam membaca Al-Qur’an bulan lalu.",
+      "title": "Subhanallah! 65 ribu jam membaca Al-Qur'an bulan lalu.",
       "description": "👉 Meski kecil, berkontribusilah setiap hari.",
       "startTime": 1789236000000,
       "endTime": 1789649940000,
       "isActive": true,
       "priority": 95,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/in-app-notice-dcontr"
@@ -219,7 +234,7 @@
       "endTime": 1789045140000,
       "isActive": true,
       "priority": 100,
-      "showAfterInstallHours": 24,
+      "showAfterInstallHours": 72,
       "action": {
         "type": "web",
         "url": "https://kahf.to/ansar-app-notice"
