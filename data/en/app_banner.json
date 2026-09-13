@@ -9,6 +9,7 @@
             "endTime": 1786712400000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -23,6 +24,7 @@
             "endTime": 1787317200000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -37,6 +39,7 @@
             "endTime": 1787922000000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -51,6 +54,7 @@
             "endTime": 1788526800000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -65,6 +69,7 @@
             "endTime": 1789131600000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://id.kahf.co/friday-givers/muslimsday"
@@ -73,12 +78,13 @@
         {
             "id": "daily-support-en-1",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
+            "title": "SubhanAllah! 65K hours of Qur'an reading last month with Muslims Day.",
             "description": "👉 However small, contribute every day.",
             "startTime": 1786816800000,
             "endTime": 1787230740000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/in-app-notice-dcontr"
@@ -87,12 +93,13 @@
         {
             "id": "daily-support-en-2",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
+            "title": "SubhanAllah! 65K hours of Qur'an reading last month with Muslims Day.",
             "description": "👉 However small, contribute every day.",
             "startTime": 1787421600000,
             "endTime": 1787835540000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/in-app-notice-dcontr"
@@ -101,12 +108,13 @@
         {
             "id": "daily-support-en-3",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
+            "title": "SubhanAllah! 65K hours of Qur'an reading last month with Muslims Day.",
             "description": "👉 However small, contribute every day.",
             "startTime": 1788026400000,
             "endTime": 1788440340000,
             "isActive": false,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/in-app-notice-dcontr"
@@ -115,12 +123,13 @@
         {
             "id": "daily-support-en-4",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
+            "title": "SubhanAllah! 65K hours of Qur'an reading last month with Muslims Day.",
             "description": "👉 However small, contribute every day.",
             "startTime": 1788631200000,
             "endTime": 1789045140000,
             "isActive": false,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/in-app-notice-dcontr"
@@ -129,12 +138,13 @@
         {
             "id": "daily-support-en-5",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "SubhanAllah! 65K hours of Qur’an reading last month with Muslims Day.",
+            "title": "SubhanAllah! 65K hours of Qur'an reading last month with Muslims Day.",
             "description": "👉 However small, contribute every day.",
             "startTime": 1789236000000,
             "endTime": 1789649940000,
             "isActive": true,
             "priority": 95,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/in-app-notice-dcontr"
@@ -150,6 +160,7 @@
             "isActive": true,
             "priority": 80,
             "supportedCountries": [],
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://campaign.muslimsday.com/durud-sept-26/en?ref=5ZPFUQRV"
@@ -164,7 +175,7 @@
             "endTime": 1789045140000,
             "isActive": true,
             "priority": 100,
-            "showAfterInstallHours": 24,
+            "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/ansar-app-notice"
