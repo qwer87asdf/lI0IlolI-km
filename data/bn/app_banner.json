@@ -154,7 +154,7 @@
             "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
             "startTime": 1789236000000,
             "endTime": 1789649940000,
-            "isActive": true,
+            "isActive": false,
             "priority": 95,
             "showAfterInstallHours": 72,
             "action": {
@@ -188,6 +188,21 @@
             "isActive": true,
             "priority": 95,
             "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://kahf.to/ansar-app-notice"
+            }
+        },
+        {
+            "id": "ansar-member-bn-2",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "সামনে আগানোর জন্য এখনো প্রয়োজন ১৪০০ আনসার",
+            "description": "আপনি থাকবেন তো এই যাত্রায়?",
+            "startTime": 1789537440000,
+            "endTime": 1790168340000,
+            "isActive": true,
+            "priority": 95,
+            "showAfterInstallHours": 24,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/ansar-app-notice"
