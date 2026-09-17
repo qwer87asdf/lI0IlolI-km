@@ -151,6 +151,801 @@
       }
     },
     {
+      "id": "friday-givers-id-6",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1789650000000,
+      "endTime": 1789736400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-7",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1790254800000,
+      "endTime": 1790341200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-8",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1790859600000,
+      "endTime": 1790946000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-9",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1791464400000,
+      "endTime": 1791550800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-10",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1792069200000,
+      "endTime": 1792155600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-11",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1792674000000,
+      "endTime": 1792760400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-12",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1793278800000,
+      "endTime": 1793365200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-13",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1793883600000,
+      "endTime": 1793970000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-14",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1794488400000,
+      "endTime": 1794574800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-15",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1795093200000,
+      "endTime": 1795179600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-16",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1795698000000,
+      "endTime": 1795784400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-17",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1796302800000,
+      "endTime": 1796389200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-18",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1796907600000,
+      "endTime": 1796994000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-19",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1797512400000,
+      "endTime": 1797598800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-20",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1798117200000,
+      "endTime": 1798203600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-21",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1798722000000,
+      "endTime": 1798808400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-22",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1799326800000,
+      "endTime": 1799413200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-23",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1799931600000,
+      "endTime": 1800018000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-24",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1800536400000,
+      "endTime": 1800622800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-25",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1801141200000,
+      "endTime": 1801227600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-26",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1801746000000,
+      "endTime": 1801832400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-27",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1802350800000,
+      "endTime": 1802437200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-28",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1802955600000,
+      "endTime": 1803042000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-29",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1803560400000,
+      "endTime": 1803646800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-30",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1804165200000,
+      "endTime": 1804251600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-31",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1804770000000,
+      "endTime": 1804856400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-32",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1805374800000,
+      "endTime": 1805461200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-33",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1805979600000,
+      "endTime": 1806066000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-34",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1806584400000,
+      "endTime": 1806670800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-35",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1807189200000,
+      "endTime": 1807275600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-36",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1807794000000,
+      "endTime": 1807880400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-37",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1808398800000,
+      "endTime": 1808485200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-38",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1809003600000,
+      "endTime": 1809090000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-39",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1809608400000,
+      "endTime": 1809694800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-40",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1810213200000,
+      "endTime": 1810299600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-41",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1810818000000,
+      "endTime": 1810904400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-42",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1811422800000,
+      "endTime": 1811509200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-43",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1812027600000,
+      "endTime": 1812114000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-44",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1812632400000,
+      "endTime": 1812718800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-45",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1813237200000,
+      "endTime": 1813323600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-46",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1813842000000,
+      "endTime": 1813928400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-47",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1814446800000,
+      "endTime": 1814533200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-48",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1815051600000,
+      "endTime": 1815138000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-49",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1815656400000,
+      "endTime": 1815742800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-50",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1816261200000,
+      "endTime": 1816347600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-51",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1816866000000,
+      "endTime": 1816952400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-52",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1817470800000,
+      "endTime": 1817557200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-53",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1818075600000,
+      "endTime": 1818162000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-54",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1818680400000,
+      "endTime": 1818766800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-55",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1819285200000,
+      "endTime": 1819371600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-56",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1819890000000,
+      "endTime": 1819976400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-57",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1820494800000,
+      "endTime": 1820581200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-id-58",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
+      "description": "Awali setiap hari Jumat dengan sedekah",
+      "startTime": 1821099600000,
+      "endTime": 1821186000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
       "id": "daily-support-id-1",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
       "title": "Subhanallah! 65 ribu jam membaca Al-Qur'an bulan lalu.",
