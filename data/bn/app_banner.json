@@ -1,6 +1,36 @@
 {
     "events": [
         {
+            "id": "premium-offer-65-bn-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "আর ৩ দিন বার্ষিক প্রিমিয়াম প্যাকেজে পাচ্ছেন ৬৫% ছাড়!",
+            "description": "উপভোগ করুন মুসলিমস ডে প্রিমিয়াম এর সকল অভিজ্ঞতা",
+            "startTime": 1790006400000,
+            "endTime": 1790272740000,
+            "isActive": true,
+            "priority": 94,
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/pay/muslimsday-offer-campaign"
+            }
+        },
+        {
+            "id": "istegfar-campaign-bn-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "শুরু হলো ইস্তেগফার ক্যাম্পেইন, আপনি জয়েন করেছেন তো?",
+            "description": "এবার মুসলিমস ডে পরিবার, পড়বো একসাথে ১ কোটি বার ইস্তেগফার।",
+            "startTime": 1790006400000,
+            "endTime": 1790791140000,
+            "isActive": true,
+            "priority": 93,
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://campaign-admin.muslimsday.com/"
+            }
+        },
+        {
             "id": "beez-bn-1",
             "icon": "https://data.muslimsday.com/appdata/image/saom.png",
             "title": "আইয়ামে বীজের রোজা রাখছেন তো?",
@@ -995,7 +1025,7 @@
             "description": "আপনি থাকবেন তো এই যাত্রায়?",
             "startTime": 1789537440000,
             "endTime": 1790168340000,
-            "isActive": true,
+            "isActive": false,
             "priority": 95,
             "showAfterInstallHours": 24,
             "action": {
