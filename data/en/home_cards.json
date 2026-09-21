@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "type": "top_features",
+      "id": "top_features",
+      "priority": 0,
+      "isEnabled": true,
+      "shortcuts": [
+        { "id": "tracker", "title": "Habit Tracker", "tileType": "HABIT_TRACKER",
+        "iconId": "HABIT_HISTORY", "iconUrl": "",
+        "action": { "type": "screen", "routeKey": "habit-tracker" } },
+        { "id": "quran", "title": "Quran", "iconId": "QURAN",
+        "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/quran.png",
+        "action": { "type": "screen", "routeKey": "quran" } }
+      ]
+    },
+    {
       "type": "countdown_timer",
       "id": "ramadan_countdown",
       "priority": 350,
