@@ -1,6 +1,48 @@
 {
     "events": [
         {
+            "id": "premium-offer-65-en-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "Only 3 days left to get 65% off the annual Premium package!",
+            "description": "Enjoy the full Muslims Day Premium experience",
+            "startTime": 1790006400000,
+            "endTime": 1790272740000,
+            "isActive": true,
+            "priority": 94,
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/pay/muslimsday-offer-campaign"
+            }
+        },
+        {
+            "id": "istegfar-campaign-en-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "The Istighfar Campaign has begun — have you joined?",
+            "description": "This time, Muslims Day family, let's recite Istighfar 10 million times together.",
+            "startTime": 1790006400000,
+            "endTime": 1790791140000,
+            "isActive": true,
+            "priority": 93,
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://campaign-admin.muslimsday.com/"
+            }
+        },
+        {
+            "id": "beez-en-1",
+            "icon": "https://data.muslimsday.com/appdata/image/saom.png",
+            "title": "Are you keeping the Ayyam al-Beez fasts?",
+            "description": "Fasting dates in Bangladesh: August 27, 28 & 29",
+            "startTime": 1787679168000,
+            "endTime": 1787939940000,
+            "isActive": true,
+            "priority": 90,
+            "showAfterInstallHours": 72,
+            "action": null
+        },
+        {
             "id": "friday-givers-en-1",
             "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
             "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
@@ -971,6 +1013,21 @@
             "isActive": true,
             "priority": 100,
             "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://kahf.to/ansar-app-notice"
+            }
+        },
+        {
+            "id": "ansar-member-en-2",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "We still need 1,400 more Ansars to move forward",
+            "description": "Will you be part of this journey?",
+            "startTime": 1789537440000,
+            "endTime": 1790168340000,
+            "isActive": false,
+            "priority": 95,
+            "showAfterInstallHours": 24,
             "action": {
                 "type": "web",
                 "url": "https://kahf.to/ansar-app-notice"
