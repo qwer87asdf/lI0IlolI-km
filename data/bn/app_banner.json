@@ -27,7 +27,7 @@
             "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
-                "url": "https://campaign-admin.muslimsday.com/"
+                "url": "https://campaign.muslimsday.com/"
             }
         },
         {
