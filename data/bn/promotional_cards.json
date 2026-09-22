@@ -122,6 +122,30 @@
                 "value": "https://kahf.to/md-fr-popup",
                 "label": null
             }
+        },
+        {
+            "id": "istigfar-sept-26-bn",
+            "isActive": true,
+            "frequency": "ONCE_PER_DAY",
+            "startAt": 1790006400000,
+            "expireAt": 1790791140000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.56,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/istigfar_sept_26_bn.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://campaign.muslimsday.com/",
+                "label": null
+            }
         }
     ]
 }
