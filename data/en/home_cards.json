@@ -2,16 +2,83 @@
   "items": [
     {
       "type": "top_features",
-      "id": "top_features",
-      "priority": 0,
+      "id": "top_features_home",
+      "priority": 150,
       "isEnabled": true,
+      "title": "Top Features",
+      "supportedLanguages": null,
+      "notSupportedLanguages": null,
+      "supportedCountries": null,
+      "notSupportedCountries": null,
+      "visibleTo": null,
+      "showAfterInstallHours": null,
+      "supportedPlatforms": null,
+      "endTimestampInSecond": null,
       "shortcuts": [
-        { "id": "tracker", "title": "Habit Tracker", "tileType": "HABIT_TRACKER",
-        "iconId": "HABIT_HISTORY", "iconUrl": "",
-        "action": { "type": "screen", "routeKey": "habit-tracker" } },
-        { "id": "quran", "title": "Quran", "iconId": "QURAN",
-        "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/quran.png",
-        "action": { "type": "screen", "routeKey": "quran" } }
+        {
+          "id": "habit-tracker",
+          "title": "Tracker",
+          "iconId": "SADAKAH_HABIT",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ramadan_habit.png",
+          "tileType": "HABIT_TRACKER",
+          "action": { "type": "screen", "routeKey": "habit-tracker" }
+        },
+        {
+          "id": "quran",
+          "title": "Quran",
+          "iconId": "QURAN_SHORTCUT",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/quran.png",
+          "tileType": "ICON",
+          "action": { "type": "screen", "routeKey": "quran-chapter-list" }
+        },
+        {
+          "id": "qibla-compass",
+          "title": "Qibla",
+          "iconId": "QIBLA_SHORTCUT",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/qibla_compass.png",
+          "tileType": "ICON",
+          "action": { "type": "screen", "routeKey": "qibla-compass" }
+        },
+        {
+          "id": "ruqyah",
+          "title": "Ruqyah",
+          "iconId": "HEART",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ruqyah.png",
+          "tileType": "ICON",
+          "action": { "type": "screen", "routeKey": "ruqyah-category" }
+        },
+        {
+          "id": "quran-reading",
+          "title": "Tilawat",
+          "iconId": "QURAN_SHORTCUT",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/tilawat.png",
+          "tileType": "ICON",
+          "action": { "type": "screen", "routeKey": "mushaf-tilawat" }
+        },
+        {
+          "id": "quran-tafsir-details",
+          "title": "Tafsir",
+          "iconId": "KNOWLEDGE",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/quran_knowledge.png",
+          "tileType": "ICON",
+          "action": { "type": "screen", "routeKey": "tafsir" }
+        },
+        {
+          "id": "names-list",
+          "title": "99 Names",
+          "iconId": "KNOWLEDGE",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/names_99.png",
+          "tileType": "ICON",
+          "action": { "type": "screen", "routeKey": "names99" }
+        },
+        {
+          "id": "tasbeeh",
+          "title": "Tasbeeh",
+          "iconId": "TASBEEH",
+          "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/tasbeeh.png",
+          "tileType": "ICON",
+          "action": { "type": "screen", "routeKey": "tasbeeh" }
+        }
       ]
     },
     {
