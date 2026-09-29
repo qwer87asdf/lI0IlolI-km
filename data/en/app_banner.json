@@ -2,13 +2,18 @@
     "events": [
         {
             "id": "kahf_kids",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kk-kPSYj9F7.jpg",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kk-O73YNtfv.png",
             "title": "Kahf Kids",
             "description": "Kahf Kids helps parents manage screen time, block harmful apps, and games.",
             "startTime": 1780972560000,
-            "endTime": 1781871600000,
+            "endTime": 1795090800000,
             "isActive": true,
             "priority": 100,
+            "supportedCountries": [],
+            "supportedPlatforms": [
+                "Android",
+                "iOS"
+            ],
             "action": {
                 "type": "web",
                 "url": "https://kahfkids.com/"
@@ -16,17 +21,24 @@
         },
         {
             "id": "kahf_guard",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kg-tB35vKsC.png",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kg-lF8gbL4O.jpeg",
             "title": "Kahf Guard: Shield up against Online Harm",
             "description": "You are protected from Millions Of Harmful websites and App",
             "startTime": 1780489800000,
-            "endTime": 1782218700000,
+            "endTime": 1798029900000,
             "isActive": true,
             "priority": 10,
+            "supportedCountries": [],
+            "supportedPlatforms": [
+                "Android",
+                "iOS"
+            ],
             "action": {
                 "type": "web",
                 "url": "https://kahfguard.com/"
             }
         }
-    ]
+    ],
+    "maxCards": 10,
+    "autoSlideIntervalMs": 3000
 }
