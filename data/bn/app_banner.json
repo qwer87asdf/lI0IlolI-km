@@ -9,10 +9,13 @@
             "endTime": 1782300600000,
             "isActive": true,
             "priority": 99,
+            "supportedCountries": [],
             "action": {
                 "type": "web",
                 "url": "https://kahfkids.com/"
             }
         }
-    ]
+    ],
+    "maxCards": 10,
+    "autoSlideIntervalMs": 3000
 }
