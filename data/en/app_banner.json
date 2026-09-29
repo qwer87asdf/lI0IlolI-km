@@ -20,6 +20,21 @@
             }
         },
         {
+            "id": "support_kahf",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/support-HiNboGWd.jpeg",
+            "title": "Support Kahf",
+            "description": "Someone else paid for them.\nSomeone like you.",
+            "startTime": 1790682000000,
+            "endTime": 1791373200000,
+            "isActive": true,
+            "priority": 100,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/support/kahfguard"
+            }
+        },
+        {
             "id": "kahf_guard",
             "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kg-lF8gbL4O.jpeg",
             "title": "Kahf Guard: Shield up against Online Harm",
