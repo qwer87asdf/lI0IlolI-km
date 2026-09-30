@@ -29,7 +29,8 @@
             "isActive": true,
             "priority": 100,
             "supportedCountries": [
-                "USA"
+                "USA",
+                "GBR"
             ],
             "action": {
                 "type": "web",
