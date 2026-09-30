@@ -1,6 +1,50 @@
 {
     "events": [
         {
+            "id": "offer_100_percent",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/off-o6Ekf87K.jpeg",
+            "title": "100% Offer",
+            "description": "You can buy 100% offers for our all packages.",
+            "startTime": 1790761620000,
+            "endTime": 1790934420000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "supportedPlatforms": [
+                "Android"
+            ],
+            "action": {
+                "type": "web",
+                "url": "https://muslimsday.com/"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "productCode": "muslims-day-yearly",
+                            "requiredStatus": "active"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "never_donated"
+                        }
+                    ]
+                },
+                "features": [
+                    {
+                        "featureKey": "dua-category",
+                        "condition": "never_used"
+                    }
+                ]
+            },
+            "displayRules": {
+                "hideAfterClick": true
+            }
+        },
+        {
             "id": "BD_k_kidz",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-K8h3gCSd.jpg",
             "title": "BD K Kidz",
