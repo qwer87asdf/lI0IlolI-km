@@ -23,7 +23,7 @@
                 "payment": {
                     "rules": [
                         {
-                            "productCode": "muslims-day-monthly",
+                            "productCode": "muslimsday_gold_monthly",
                             "requiredStatus": "active"
                         }
                     ]
