@@ -13,7 +13,7 @@
                 "BGD"
             ],
             "supportedPlatforms": [
-                "Android"
+                "iOS"
             ],
             "action": {
                 "type": "web",
@@ -24,13 +24,14 @@
                     "rules": [
                         {
                             "productCode": "muslimsday_gold_monthly",
-                            "requiredStatus": "active"
+                            "requiredStatus": "inactive"
                         }
                     ]
                 }
             },
             "displayRules": {
-                "hideAfterClick": true
+                "displayDurationDays": 1,
+                "hideAfterClick": false
             }
         },
         {
@@ -39,7 +40,7 @@
             "title": "BD K Kidz",
             "description": "Halal and Safe",
             "startTime": 1782214200000,
-            "endTime": 1782300600000,
+            "endTime": 1796124600000,
             "isActive": true,
             "priority": 99,
             "supportedCountries": [],
