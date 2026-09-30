@@ -34,15 +34,6 @@
             "action": {
                 "type": "web",
                 "url": "https://id.kahf.co/support/kahfguard"
-            },
-            "targeting": {
-                "donations": {
-                    "rules": [
-                        {
-                            "condition": "never_donated"
-                        }
-                    ]
-                }
             }
         },
         {
