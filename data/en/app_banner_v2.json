@@ -9,7 +9,9 @@
             "endTime": 1795090800000,
             "isActive": true,
             "priority": 100,
-            "supportedCountries": [],
+            "supportedCountries": [
+                "BGD"
+            ],
             "supportedPlatforms": [
                 "Android",
                 "iOS"
@@ -46,7 +48,9 @@
             "endTime": 1798029900000,
             "isActive": true,
             "priority": 10,
-            "supportedCountries": [],
+            "supportedCountries": [
+                "BGD"
+            ],
             "supportedPlatforms": [
                 "Android",
                 "iOS"
