@@ -9,7 +9,9 @@
             "endTime": 1790934420000,
             "isActive": true,
             "priority": 130,
-            "supportedCountries": [],
+            "supportedCountries": [
+                "BGD"
+            ],
             "supportedPlatforms": [
                 "Android"
             ],
@@ -21,24 +23,11 @@
                 "payment": {
                     "rules": [
                         {
-                            "productCode": "muslims-day-yearly",
+                            "productCode": "muslims-day-monthly",
                             "requiredStatus": "active"
                         }
                     ]
-                },
-                "donations": {
-                    "rules": [
-                        {
-                            "condition": "never_donated"
-                        }
-                    ]
-                },
-                "features": [
-                    {
-                        "featureKey": "dua-category",
-                        "condition": "never_used"
-                    }
-                ]
+                }
             },
             "displayRules": {
                 "hideAfterClick": true
