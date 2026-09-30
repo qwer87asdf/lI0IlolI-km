@@ -89,6 +89,11 @@
     "updated_at": 1779955496000
   },
   {
+    "name": "app_banner_v2",
+    "url": "appdata/data/{lang}/app_banner_v2.json",
+    "updated_at": 1779955496000
+  },
+  {
     "name": "home_cards",
     "url": "appdata/data/{lang}/home_cards.json",
     "updated_at": 1780912387000
