@@ -1,6 +1,31 @@
 {
     "events": [
         {
+            "id": "donation",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/friday-8NqegS9P.jpeg",
+            "title": "My Love My Donation",
+            "description": "I love to donate. You can also donate.\nAgain Donate!",
+            "startTime": 1790835600000,
+            "endTime": 1793427600000,
+            "isActive": true,
+            "priority": 100,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/friday-givers/muslimsday"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "active"
+                        }
+                    ]
+                }
+            }
+        },
+        {
             "id": "kahf_kids",
             "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kk-O73YNtfv.png",
             "title": "Kahf Kids",
