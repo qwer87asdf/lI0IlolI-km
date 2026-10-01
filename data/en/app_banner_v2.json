@@ -37,6 +37,16 @@
             "action": {
                 "type": "web",
                 "url": "https://id.kahf.co/support/kahfguard"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "never"
+                        }
+                    ]
+                }
             }
         },
         {
