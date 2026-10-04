@@ -1,5 +1,14 @@
 [
     {
+        "version": "v6.3.3",
+        "slug": "v6-3-3",
+        "excerpt": "What's New Introducing Barakah Pass: A special way to access Premium benefits for those who can't afford a subscription right now. Forbidden Prayer Time Reminde...",
+        "body": "<h3>What's New</h3><ul><li><p>Introducing Barakah Pass: A special way to access Premium benefits for those who can't afford a subscription right now.</p></li><li><p>Forbidden Prayer Time Reminders: Get timely reminders about prohibited prayer times.</p></li><li><p>Bug Fixes &amp; Improvements: Various fixes and performance improvements for a smoother experience.</p></li><li><p>Google Policy Compliance: Updated the app to meet Google Play policy requirements.</p></li></ul>",
+        "ios": false,
+        "android": true,
+        "date": "2026-09-17"
+    },
+    {
         "version": "v6.3.0",
         "slug": "v6-3-0",
         "excerpt": "A more powerful, personalized, and reliable Muslims Day experience. ✨ New Features A Completely Redesigned Tasbeeh Enjoy a new Tasbeeh experience with an easie...",
