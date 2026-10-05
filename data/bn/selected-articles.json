@@ -1,5 +1,15 @@
 [
     {
+        "id": 42,
+        "slug": "20261001-je-app",
+        "title": "Muslims Day—আপনার ব্যস্ত জীবনে আমলের সঙ্গী হতে চায় যে অ্যাপ!",
+        "subtitle": "কিন্তু এই নিরবচ্ছিন্ন সফর বাঁচিয়ে রাখতে আমাদের প্রয়োজন আপনাকে।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-8SVRhGxA.jpg",
+        "tags": [],
+        "published_at": "2026-10-05T14:21:06+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261001-je-app.json"
+    },
+    {
         "id": 36,
         "slug": "20260927-tiris-koti",
         "title": "আপনার পক্ষে কি প্রতিদিন ৩০ কোটি টাকা সদকা করা সম্ভব?",
@@ -8,26 +18,6 @@
         "tags": [],
         "published_at": "2026-10-05T14:20:47+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20260927-tiris-koti.json"
-    },
-    {
-        "id": 38,
-        "slug": "20260929-je-amol",
-        "title": "যে আমল দুনিয়া ও আখিরাতের সকল পেরেশানি দূর করে দেয়।",
-        "subtitle": "সকাল-সন্ধ্যার মাত্র ৭ বারের আমল, যার জিম্মাদার স্বয়ং আল্লাহ রাব্বুল আলামিন।",
-        "image": "https://data.muslimsday.com/appdata/notification/image/the_amal_bn-7iYJJhXR.jpg",
-        "tags": [],
-        "published_at": "2026-10-05T14:20:45+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20260929-je-amol.json"
-    },
-    {
-        "id": 37,
-        "slug": "20260928-vebe-dekhecen",
-        "title": "ভেবে দেখেছেন কি? সার আর কীটনাশক ছাড়া এখন আর কোনো ফসল ফলে না কেন?",
-        "subtitle": "জানুন কৃষকের স্বাধীনতা কেড়ে নেওয়ার এক ভয়ংকর বৈশ্বিক বাস্তবতা।",
-        "image": "https://data.muslimsday.com/appdata/notification/image/notification-NebuvuVJ.jpg",
-        "tags": [],
-        "published_at": "2026-10-05T14:20:44+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20260928-vebe-dekhecen.json"
     },
     {
         "id": 39,
