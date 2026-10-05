@@ -1,6 +1,21 @@
 {
     "events": [
         {
+            "id": "ansar-member-bn-3",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "মুসলিমস ডে পরিবারের একজন আনসার সদস্য হোন।",
+            "description": "আনসার প্যাকেজে পাচ্ছেন ৭ জনের প্রিমিয়াম সহ বিভিন্ন সুবিধা",
+            "startTime": 1791210619698,
+            "endTime": 1791284400000,
+            "isActive": true,
+            "priority": 95,
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/ansar/muslimsday"
+            }
+        },
+        {
             "id": "premium-offer-65-bn-1",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
             "title": "আর ৩ দিন বার্ষিক প্রিমিয়াম প্যাকেজে পাচ্ছেন ৬৫% ছাড়!",
