@@ -1,13 +1,23 @@
 [
     {
-        "id": 42,
-        "slug": "20261001-je-app",
-        "title": "Muslims Day—আপনার ব্যস্ত জীবনে আমলের সঙ্গী হতে চায় যে অ্যাপ!",
-        "subtitle": "কিন্তু এই নিরবচ্ছিন্ন সফর বাঁচিয়ে রাখতে আমাদের প্রয়োজন আপনাকে।",
-        "image": "https://data.muslimsday.com/appdata/notification/image/notification-8SVRhGxA.jpg",
+        "id": 39,
+        "slug": "20260930-kivabe-sirat",
+        "title": "কীভাবে সিরাত পড়বেন? || আনসার স্পেশাল ওয়েবিনার-০৩ থেকে সারনির্যাস",
+        "subtitle": "কোরআন শিক্ষার মতোই ঘরে ঘরে সিরাত চর্চা ফিরে আসুক।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/serat_Summery_bn-5PRoBxQh.jpg",
         "tags": [],
-        "published_at": "2026-10-05T14:20:36+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261001-je-app.json"
+        "published_at": "2026-10-05T14:20:41+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20260930-kivabe-sirat.json"
+    },
+    {
+        "id": 40,
+        "slug": "20261001-apnar-sejda",
+        "title": "আপনার সিজদায় কি আমাদের জন্য একটু জায়গা হবে?",
+        "subtitle": "ঈমান রক্ষার এই লড়াইয়ে আমরা আপনাদের পশে চাই।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/sujood_bn-Pi55rq8M.jpg",
+        "tags": [],
+        "published_at": "2026-10-05T14:20:40+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261001-apnar-sejda.json"
     },
     {
         "id": 43,
