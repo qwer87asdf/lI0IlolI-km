@@ -148,31 +148,31 @@
   },
   "homeAppBarCtas": [
     {
-      "id": "share-prayer-time",
-      "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-      "startDate": 1790135760000,
-      "endDate": 1790780160000,
-      "priority": 1,
-      "showAfterInstallHours": 0,
-      "visibleTo": [],
-      "action": {
-        "type": "url",
-        "url": "https://link.muslimsday.com/prayer-times/share"
-      }
-    }
-  ],
-  "homeFabCtas": [
-    {
-      "id": "durud-fab-1",
-      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-      "startDate": 1790858520000,
-      "endDate": 1790944920000,
+      "id": "daily-support-2",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/donation_circle.png",
+      "startDate": 1791208697000,
+      "endDate": 1791309540000,
       "priority": 1,
       "showAfterInstallHours": 72,
       "visibleTo": [],
       "action": {
         "type": "url",
-        "url": "https://id.kahf.co/friday-givers/muslimsday"
+        "url": "https://id.kahf.co/daily-support/muslimsday"
+      }
+    }
+  ],
+  "homeFabCtas": [
+    {
+      "id": "support-3",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/hand_support.png",
+      "startDate": 1791208697000,
+      "endDate": 1791309540000,
+      "priority": 1,
+      "showAfterInstallHours": 72,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/support/muslimsday"
       }
     }
   ]
