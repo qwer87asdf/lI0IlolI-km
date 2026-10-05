@@ -1,5 +1,15 @@
 [
     {
+        "id": 40,
+        "slug": "20261001-apnar-sejda",
+        "title": "আপনার সিজদায় কি আমাদের জন্য একটু জায়গা হবে?",
+        "subtitle": "ঈমান রক্ষার এই লড়াইয়ে আমরা আপনাদের পশে চাই।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/sujood_bn-Pi55rq8M.jpg",
+        "tags": [],
+        "published_at": "2026-10-05T14:21:24+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261001-apnar-sejda.json"
+    },
+    {
         "id": 41,
         "slug": "20261001-apnara-pashe",
         "title": "আপনারা পাশে আছেন বলেই অসম এই লড়াইটা চালিয়ে যাওয়ার সাহস পাচ্ছি আমরা!",
