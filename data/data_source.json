@@ -1,126 +1,126 @@
 [
-  {
-    "name": "about_us",
-    "url": "appdata/data/{lang}/about_us.json",
-    "updated_at": 1781578085000
-  },
-  {
-    "name": "change_log",
-    "url": "appdata/data/{lang}/change_log.json",
-    "updated_at": 1759452289367
-  },
-  {
-    "name": "ifa_times",
-    "url": "appdata/data/ifa_times.json",
-    "updated_at": 1772407196000
-  },
-  {
-    "name": "hijri_date",
-    "url": "appdata/data/hijri_date.json",
-    "updated_at": 1759452289367
-  },
-  {
-    "name": "salat_reference",
-    "url": "appdata/data/{lang}/salat_reference.json",
-    "updated_at": 1781578085000
-  },
-  {
-    "name": "prohibited_time_reference",
-    "url": "appdata/data/{lang}/prohibited_time_reference.json",
-    "updated_at": 1781578085000
-  },
-  {
-    "name": "daily_notification",
-    "url": "appdata/data/{lang}/daily_notification.json",
-    "updated_at": 1778714873
-  },
-  {
-    "name": "event_animations",
-    "url": "appdata/data/event_animations.json",
-    "updated_at": 1759452289367
-  },
-  {
-    "name": "dua",
-    "url": "appdata/data/{lang}/dua.json",
-    "updated_at": 1787109450000
-  },
-  {
-    "name": "selected_quran",
-    "url": "appdata/data/{lang}/selected_quran.json",
-    "updated_at": 1759452289367
-  },
-  {
-    "name": "selected_hadith",
-    "url": "appdata/data/{lang}/selected_hadith.json",
-    "updated_at": 1781578085000
-  },
-  {
-    "name": "asmaul_husna",
-    "url": "appdata/data/{lang}/asmaul_husna.json",
-    "updated_at": 1781578085000
-  },
-  {
-    "name": "settings",
-    "url": "appdata/data/settings.json",
-    "updated_at": 1791210619698
-  },
-  {
-    "name": "hijri_date_v2",
-    "url": "appdata/data/hijri_date/{code}_hijri_date.json",
-    "updated_at": 1781699637000,
-    "supported_hijri_date_codes": [
-      "bgd",
-      "fra",
-      "idn",
-      "ind",
-      "jpn",
-      "mys",
-      "pak",
-      "sau",
-      "sgp",
-      "aus",
-      "deu",
-      "rou"
-    ]
-  },
-  {
-    "name": "app_banner",
-    "url": "appdata/data/{lang}/app_banner.json",
-    "updated_at": 1791210619698
-  },
-  {
-    "name": "home_cards",
-    "url": "appdata/data/{lang}/home_cards.json",
-    "updated_at": 1788663456000
-  },
-  {
-    "name": "donation",
-    "url": "appdata/data/{lang}/donation.json",
-    "updated_at": 1776820229000
-  },
-  {
-    "name": "ruqyah",
-    "url": "appdata/data/{lang}/ruqyah.json",
-    "updated_at": 1784002405000
-  },
-  {
-    "name": "helpful_apps",
-    "url": "appdata/data/{lang}/helpful_apps.json",
-    "updated_at": 1780488000000
-  },
-  {
-    "name": "promotional_cards",
-    "url": "appdata/data/{lang}/promotional_cards.json",
-    "updated_at": 1790667238000
-  },
-  {
-    "name": "quran_exit_dialog",
-    "url": "appdata/data/{lang}/quran_exit_dialog.json",
-    "updated_at": 1791504000000
-  },
-  {
-    "name": "dua_exit_dialog",
-    "url": "appdata/data/{lang}/dua_exit_dialog.json",
-    "updated_at": 1791504000000
-  }
+    {
+        "name": "about_us",
+        "url": "appdata/data/{lang}/about_us.json",
+        "updated_at": 1781578085000
+    },
+    {
+        "name": "change_log",
+        "url": "appdata/data/{lang}/change_log.json",
+        "updated_at": 1759452289367
+    },
+    {
+        "name": "ifa_times",
+        "url": "appdata/data/ifa_times.json",
+        "updated_at": 1772407196000
+    },
+    {
+        "name": "hijri_date",
+        "url": "appdata/data/hijri_date.json",
+        "updated_at": 1759452289367
+    },
+    {
+        "name": "salat_reference",
+        "url": "appdata/data/{lang}/salat_reference.json",
+        "updated_at": 1781578085000
+    },
+    {
+        "name": "prohibited_time_reference",
+        "url": "appdata/data/{lang}/prohibited_time_reference.json",
+        "updated_at": 1781578085000
+    },
+    {
+        "name": "daily_notification",
+        "url": "appdata/data/{lang}/daily_notification.json",
+        "updated_at": 1778714873
+    },
+    {
+        "name": "event_animations",
+        "url": "appdata/data/event_animations.json",
+        "updated_at": 1759452289367
+    },
+    {
+        "name": "dua",
+        "url": "appdata/data/{lang}/dua.json",
+        "updated_at": 1787109450000
+    },
+    {
+        "name": "selected_quran",
+        "url": "appdata/data/{lang}/selected_quran.json",
+        "updated_at": 1759452289367
+    },
+    {
+        "name": "selected_hadith",
+        "url": "appdata/data/{lang}/selected_hadith.json",
+        "updated_at": 1781578085000
+    },
+    {
+        "name": "asmaul_husna",
+        "url": "appdata/data/{lang}/asmaul_husna.json",
+        "updated_at": 1781578085000
+    },
+    {
+        "name": "settings",
+        "url": "appdata/data/settings.json",
+        "updated_at": 1791210619698
+    },
+    {
+        "name": "hijri_date_v2",
+        "url": "appdata/data/hijri_date/{code}_hijri_date.json",
+        "updated_at": 1781699637000,
+        "supported_hijri_date_codes": [
+            "bgd",
+            "fra",
+            "idn",
+            "ind",
+            "jpn",
+            "mys",
+            "pak",
+            "sau",
+            "sgp",
+            "aus",
+            "deu",
+            "rou"
+        ]
+    },
+    {
+        "name": "app_banner",
+        "url": "appdata/data/{lang}/app_banner.json",
+        "updated_at": 1791282473067
+    },
+    {
+        "name": "home_cards",
+        "url": "appdata/data/{lang}/home_cards.json",
+        "updated_at": 1788663456000
+    },
+    {
+        "name": "donation",
+        "url": "appdata/data/{lang}/donation.json",
+        "updated_at": 1776820229000
+    },
+    {
+        "name": "ruqyah",
+        "url": "appdata/data/{lang}/ruqyah.json",
+        "updated_at": 1784002405000
+    },
+    {
+        "name": "helpful_apps",
+        "url": "appdata/data/{lang}/helpful_apps.json",
+        "updated_at": 1780488000000
+    },
+    {
+        "name": "promotional_cards",
+        "url": "appdata/data/{lang}/promotional_cards.json",
+        "updated_at": 1790667238000
+    },
+    {
+        "name": "quran_exit_dialog",
+        "url": "appdata/data/{lang}/quran_exit_dialog.json",
+        "updated_at": 1791504000000
+    },
+    {
+        "name": "dua_exit_dialog",
+        "url": "appdata/data/{lang}/dua_exit_dialog.json",
+        "updated_at": 1791504000000
+    }
 ]

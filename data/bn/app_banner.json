@@ -1,6 +1,21 @@
 {
     "events": [
         {
+            "id": "barakah-givers-bn-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "আজকে আপনি কতজন মুসলিমের ইবাদতের সঙ্গী হতে চান?",
+            "description": "আপনার দেয়া Barakah Pass একজন মুসলিমের কুরআন পাঠ, যিকর ও অন্যান্য ইবাদতে সহায়ক হবে, ইনশাআল্লাহ।",
+            "startTime": 1791282473067,
+            "endTime": 1791460800000,
+            "isActive": true,
+            "priority": 95,
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
+            }
+        },
+        {
             "id": "ansar-member-bn-3",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
             "title": "মুসলিমস ডে পরিবারের একজন আনসার সদস্য হোন।",
