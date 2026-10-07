@@ -61,8 +61,8 @@
     },
     {
         "name": "settings",
-        "url": "appdata/data/settings.json",
-        "updated_at": 1791210619698
+        "url": "appdata/data/{lang}/settings.json",
+        "updated_at": 1791356605000
     },
     {
         "name": "hijri_date_v2",
