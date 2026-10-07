@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "baraqah-pass-lg-camp-ar-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "ساعد 50,000 مسلم على جعل القرآن جزءًا من كل يوم!",
+      "description": "أهدِ بطاقة Baraqah Pass اليوم لتمنح شخصًا سنة كاملة من Muslims Day Premium.",
+      "startTime": 1791357815000,
+      "endTime": 1793949815000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "notSupportedCountries": [
+        "BGD"
+      ],
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/lg-camp-md"
+      }
+    },
+    {
       "id": "ansar-member-ar-1",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
       "title": "تبقّى ١٤٦٨ فرصة للانضمام إلى عضوية أنصار",

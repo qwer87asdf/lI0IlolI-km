@@ -86,7 +86,12 @@
     {
         "name": "app_banner",
         "url": "appdata/data/{lang}/app_banner.json",
-        "updated_at": 1791282473067
+        "updated_at": 1791357815000
+    },
+    {
+        "name": "app_banner_v2",
+        "url": "appdata/data/{lang}/app_banner_v2.json",
+        "updated_at": 1791357815000
     },
     {
         "name": "home_cards",

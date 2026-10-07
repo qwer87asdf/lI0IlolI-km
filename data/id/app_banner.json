@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "baraqah-pass-lg-camp-id-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "Bantu 50.000 Muslim Menjadikan Al-Qur'an Bagian dari Setiap Hari!",
+      "description": "Hadiahkan Baraqah Pass hari ini untuk memberi seseorang satu tahun penuh Muslims Day Premium.",
+      "startTime": 1791357815000,
+      "endTime": 1793949815000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "notSupportedCountries": [
+        "BGD"
+      ],
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/lg-camp-md"
+      }
+    },
+    {
       "id": "ansar-member-id-1",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
       "title": "Tersisa 1.468 kesempatan menjadi anggota Ansar",

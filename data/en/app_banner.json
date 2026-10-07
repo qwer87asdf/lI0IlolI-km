@@ -1,6 +1,24 @@
 {
     "events": [
         {
+            "id": "baraqah-pass-lg-camp-en-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "Help 50,000 Muslims Make the Quran Part of Every Day!",
+            "description": "Gift a Baraqah Pass today that gives someone a full year of Muslims Day Premium.",
+            "startTime": 1791357815000,
+            "endTime": 1793949815000,
+            "isActive": true,
+            "priority": 95,
+            "showAfterInstallHours": 72,
+            "notSupportedCountries": [
+                "BGD"
+            ],
+            "action": {
+                "type": "web",
+                "url": "https://kahf.to/lg-camp-md"
+            }
+        },
+        {
             "id": "premium-offer-65-en-1",
             "icon": "https://data.muslimsday.com/appdata/image/heart.png",
             "title": "Only 3 days left to get 65% off the annual Premium package!",
