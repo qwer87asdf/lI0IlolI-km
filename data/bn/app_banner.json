@@ -7,7 +7,7 @@
             "description": "আজই একটি Baraqah Pass উপহার দিন, যা একজনকে পুরো এক বছরের Muslims Day Premium এনে দেবে।",
             "startTime": 1791357815000,
             "endTime": 1793949815000,
-            "isActive": true,
+            "isActive": false,
             "priority": 95,
             "showAfterInstallHours": 72,
             "notSupportedCountries": [
