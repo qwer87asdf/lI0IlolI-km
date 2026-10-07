@@ -159,6 +159,17 @@
         "type": "url",
         "url": "https://id.kahf.co/daily-support/muslimsday"
       }
+    },
+    {
+      "id": "appbar-ansar-only",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ansar.png",
+      "startDate": 0,
+      "endDate": 1791741540000,
+      "priority": 30,
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/ansar/muslimsday"
+      }
     }
   ],
   "homeFabCtas": [
@@ -173,6 +184,17 @@
       "action": {
         "type": "url",
         "url": "https://id.kahf.co/support/muslimsday"
+      }
+    },
+    {
+      "id": "fab-ansar-only",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ansar.png",
+      "startDate": 0,
+      "endDate": 1791741540000,
+      "priority": 20,
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/ansar/muslimsday"
       }
     }
   ]
