@@ -162,7 +162,7 @@
     },
     {
       "id": "appbar-ansar-only",
-      "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ansar.png",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
       "startDate": 0,
       "endDate": 1791741540000,
       "priority": 30,
@@ -188,7 +188,7 @@
     },
     {
       "id": "fab-ansar-only",
-      "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ansar.png",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/heart.png",
       "startDate": 0,
       "endDate": 1791741540000,
       "priority": 20,
