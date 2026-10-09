@@ -1,1332 +1,1332 @@
 {
-    "events": [
-        {
-            "id": "baraqah-pass-lg-camp-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "৫০,০০০ মুসলিমকে প্রতিদিন কুরআনের সঙ্গী করতে সাহায্য করুন!",
-            "description": "আজই একটি Baraqah Pass উপহার দিন, যা একজনকে পুরো এক বছরের Muslims Day Premium এনে দেবে।",
-            "startTime": 1791357815000,
-            "endTime": 1793949815000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "supportedCountries": [
-                "ABW",
-                "AFG",
-                "AGO",
-                "AIA",
-                "ALA",
-                "ALB",
-                "AND",
-                "ARE",
-                "ARG",
-                "ARM",
-                "ASM",
-                "ATA",
-                "ATF",
-                "ATG",
-                "AUS",
-                "AUT",
-                "AZE",
-                "BDI",
-                "BEL",
-                "BEN",
-                "BES",
-                "BFA",
-                "BGR",
-                "BHR",
-                "BHS",
-                "BIH",
-                "BLM",
-                "BLR",
-                "BLZ",
-                "BMU",
-                "BOL",
-                "BRA",
-                "BRB",
-                "BRN",
-                "BTN",
-                "BVT",
-                "BWA",
-                "CAF",
-                "CAN",
-                "CCK",
-                "CHE",
-                "CHL",
-                "CHN",
-                "CIV",
-                "CMR",
-                "COD",
-                "COG",
-                "COK",
-                "COL",
-                "COM",
-                "CPV",
-                "CRI",
-                "CUB",
-                "CUW",
-                "CXR",
-                "CYM",
-                "CYP",
-                "CZE",
-                "DEU",
-                "DJI",
-                "DMA",
-                "DNK",
-                "DOM",
-                "DZA",
-                "ECU",
-                "EGY",
-                "ERI",
-                "ESH",
-                "ESP",
-                "EST",
-                "ETH",
-                "FIN",
-                "FJI",
-                "FLK",
-                "FRA",
-                "FRO",
-                "FSM",
-                "GAB",
-                "GBR",
-                "GEO",
-                "GGY",
-                "GHA",
-                "GIB",
-                "GIN",
-                "GLP",
-                "GMB",
-                "GNB",
-                "GNQ",
-                "GRC",
-                "GRD",
-                "GRL",
-                "GTM",
-                "GUF",
-                "GUM",
-                "GUY",
-                "HKG",
-                "HMD",
-                "HND",
-                "HRV",
-                "HTI",
-                "HUN",
-                "IDN",
-                "IMN",
-                "IND",
-                "IOT",
-                "IRL",
-                "IRN",
-                "IRQ",
-                "ISL",
-                "ISR",
-                "ITA",
-                "JAM",
-                "JEY",
-                "JOR",
-                "JPN",
-                "KAZ",
-                "KEN",
-                "KGZ",
-                "KHM",
-                "KIR",
-                "KNA",
-                "KOR",
-                "KWT",
-                "LAO",
-                "LBN",
-                "LBR",
-                "LBY",
-                "LCA",
-                "LIE",
-                "LKA",
-                "LSO",
-                "LTU",
-                "LUX",
-                "LVA",
-                "MAC",
-                "MAF",
-                "MAR",
-                "MCO",
-                "MDA",
-                "MDG",
-                "MDV",
-                "MEX",
-                "MHL",
-                "MKD",
-                "MLI",
-                "MLT",
-                "MMR",
-                "MNE",
-                "MNG",
-                "MNP",
-                "MOZ",
-                "MRT",
-                "MSR",
-                "MTQ",
-                "MUS",
-                "MWI",
-                "MYS",
-                "MYT",
-                "NAM",
-                "NCL",
-                "NER",
-                "NFK",
-                "NGA",
-                "NIC",
-                "NIU",
-                "NLD",
-                "NOR",
-                "NPL",
-                "NRU",
-                "NZL",
-                "OMN",
-                "PAK",
-                "PAN",
-                "PCN",
-                "PER",
-                "PHL",
-                "PLW",
-                "PNG",
-                "POL",
-                "PRI",
-                "PRK",
-                "PRT",
-                "PRY",
-                "PSE",
-                "PYF",
-                "QAT",
-                "REU",
-                "ROU",
-                "RUS",
-                "RWA",
-                "SAU",
-                "SDN",
-                "SEN",
-                "SGP",
-                "SGS",
-                "SHN",
-                "SJM",
-                "SLB",
-                "SLE",
-                "SLV",
-                "SMR",
-                "SOM",
-                "SPM",
-                "SRB",
-                "SSD",
-                "STP",
-                "SUR",
-                "SVK",
-                "SVN",
-                "SWE",
-                "SWZ",
-                "SXM",
-                "SYC",
-                "SYR",
-                "TCA",
-                "TCD",
-                "TGO",
-                "THA",
-                "TJK",
-                "TKL",
-                "TKM",
-                "TLS",
-                "TON",
-                "TTO",
-                "TUN",
-                "TUR",
-                "TUV",
-                "TWN",
-                "TZA",
-                "UGA",
-                "UKR",
-                "UMI",
-                "URY",
-                "USA",
-                "UZB",
-                "VAT",
-                "VCT",
-                "VEN",
-                "VGB",
-                "VIR",
-                "VNM",
-                "VUT",
-                "WLF",
-                "WSM",
-                "YEM",
-                "ZAF",
-                "ZMB",
-                "ZWE"
-            ],
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/lg-camp-md"
-            }
-        },
-        {
-            "id": "barakah-givers-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "আজকে আপনি কতজন মুসলিমের ইবাদতের সঙ্গী হতে চান?",
-            "description": "আপনার দেয়া Barakah Pass একজন মুসলিমের কুরআন পাঠ, যিকর ও অন্যান্য ইবাদতে সহায়ক হবে, ইনশাআল্লাহ।",
-            "startTime": 1791282473067,
-            "endTime": 1791460800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
-            }
-        },
-        {
-            "id": "ansar-member-bn-3",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "মুসলিমস ডে পরিবারের একজন আনসার সদস্য হোন।",
-            "description": "আনসার প্যাকেজে পাচ্ছেন ৭ জনের প্রিমিয়াম সহ বিভিন্ন সুবিধা",
-            "startTime": 1791210619698,
-            "endTime": 1791284400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/ansar/muslimsday"
-            }
-        },
-        {
-            "id": "premium-offer-65-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "আর ৩ দিন বার্ষিক প্রিমিয়াম প্যাকেজে পাচ্ছেন ৬৫% ছাড়!",
-            "description": "উপভোগ করুন মুসলিমস ডে প্রিমিয়াম এর সকল অভিজ্ঞতা",
-            "startTime": 1790006400000,
-            "endTime": 1790272740000,
-            "isActive": true,
-            "priority": 94,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/pay/muslimsday-offer-campaign"
-            }
-        },
-        {
-            "id": "istegfar-campaign-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "শুরু হলো ইস্তেগফার ক্যাম্পেইন, আপনি জয়েন করেছেন তো?",
-            "description": "এবার মুসলিমস ডে পরিবার, পড়বো একসাথে ১ কোটি বার ইস্তেগফার।",
-            "startTime": 1790006400000,
-            "endTime": 1790791140000,
-            "isActive": true,
-            "priority": 93,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://campaign.muslimsday.com/"
-            }
-        },
-        {
-            "id": "beez-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/saom.png",
-            "title": "আইয়ামে বীজের রোজা রাখছেন তো?",
-            "description": "বাংলাদেশে রোজার তারিখ: ২৭, ২৮ ও ২৯ আগস্ট",
-            "startTime": 1787679168000,
-            "endTime": 1787939940000,
-            "isActive": true,
-            "priority": 90,
-            "showAfterInstallHours": 72,
-            "action": null
-        },
-        {
-            "id": "friday-givers-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1786626000000,
-            "endTime": 1786712400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-2",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1787230800000,
-            "endTime": 1787317200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-3",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1787835600000,
-            "endTime": 1787922000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-4",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1788440400000,
-            "endTime": 1788526800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-5",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1789045200000,
-            "endTime": 1789131600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-6",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1789650000000,
-            "endTime": 1789736400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-7",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1790254800000,
-            "endTime": 1790341200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-8",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1790859600000,
-            "endTime": 1790946000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-9",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1791464400000,
-            "endTime": 1791550800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-10",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1792069200000,
-            "endTime": 1792155600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-11",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1792674000000,
-            "endTime": 1792760400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-12",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1793278800000,
-            "endTime": 1793365200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-13",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1793883600000,
-            "endTime": 1793970000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-14",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1794488400000,
-            "endTime": 1794574800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-15",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1795093200000,
-            "endTime": 1795179600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-16",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1795698000000,
-            "endTime": 1795784400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-17",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1796302800000,
-            "endTime": 1796389200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-18",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1796907600000,
-            "endTime": 1796994000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-19",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1797512400000,
-            "endTime": 1797598800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-20",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1798117200000,
-            "endTime": 1798203600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-21",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1798722000000,
-            "endTime": 1798808400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-22",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1799326800000,
-            "endTime": 1799413200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-23",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1799931600000,
-            "endTime": 1800018000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-24",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1800536400000,
-            "endTime": 1800622800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-25",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1801141200000,
-            "endTime": 1801227600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-26",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1801746000000,
-            "endTime": 1801832400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-27",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1802350800000,
-            "endTime": 1802437200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-28",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1802955600000,
-            "endTime": 1803042000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-29",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1803560400000,
-            "endTime": 1803646800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-30",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1804165200000,
-            "endTime": 1804251600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-31",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1804770000000,
-            "endTime": 1804856400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-32",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1805374800000,
-            "endTime": 1805461200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-33",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1805979600000,
-            "endTime": 1806066000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-34",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1806584400000,
-            "endTime": 1806670800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-35",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1807189200000,
-            "endTime": 1807275600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-36",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1807794000000,
-            "endTime": 1807880400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-37",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1808398800000,
-            "endTime": 1808485200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-38",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1809003600000,
-            "endTime": 1809090000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-39",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1809608400000,
-            "endTime": 1809694800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-40",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1810213200000,
-            "endTime": 1810299600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-41",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1810818000000,
-            "endTime": 1810904400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-42",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1811422800000,
-            "endTime": 1811509200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-43",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1812027600000,
-            "endTime": 1812114000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-44",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1812632400000,
-            "endTime": 1812718800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-45",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1813237200000,
-            "endTime": 1813323600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-46",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1813842000000,
-            "endTime": 1813928400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-47",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1814446800000,
-            "endTime": 1814533200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-48",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1815051600000,
-            "endTime": 1815138000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-49",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1815656400000,
-            "endTime": 1815742800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-50",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1816261200000,
-            "endTime": 1816347600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-51",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1816866000000,
-            "endTime": 1816952400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-52",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1817470800000,
-            "endTime": 1817557200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-53",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1818075600000,
-            "endTime": 1818162000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-54",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1818680400000,
-            "endTime": 1818766800000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-55",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1819285200000,
-            "endTime": 1819371600000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-56",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1819890000000,
-            "endTime": 1819976400000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-57",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1820494800000,
-            "endTime": 1820581200000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "friday-givers-bn-58",
-            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-            "startTime": 1821099600000,
-            "endTime": 1821186000000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
-            }
-        },
-        {
-            "id": "daily-support-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
-            "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
-            "startTime": 1786816800000,
-            "endTime": 1787230740000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/in-app-notice-dcontr"
-            }
-        },
-        {
-            "id": "daily-support-bn-2",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
-            "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
-            "startTime": 1787421600000,
-            "endTime": 1787835540000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/in-app-notice-dcontr"
-            }
-        },
-        {
-            "id": "daily-support-bn-3",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
-            "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
-            "startTime": 1788026400000,
-            "endTime": 1788440340000,
-            "isActive": false,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/in-app-notice-dcontr"
-            }
-        },
-        {
-            "id": "daily-support-bn-4",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
-            "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
-            "startTime": 1788631200000,
-            "endTime": 1789045140000,
-            "isActive": false,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/in-app-notice-dcontr"
-            }
-        },
-        {
-            "id": "daily-support-bn-5",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
-            "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
-            "startTime": 1789236000000,
-            "endTime": 1789649940000,
-            "isActive": false,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/in-app-notice-dcontr"
-            }
-        },
-        {
-            "id": "durud-campaign-sept26-bn",
-            "icon": "https://data.muslimsday.com/appdata/image/durud-fav-2.png",
-            "title": "১ কোটি দরূদ চ্যালেঞ্জ",
-            "description": "মদিনার পানে পৌঁছে যাক আপনার ভালোবাসা।",
-            "startTime": 1788428760000,
-            "endTime": 1789304400000,
-            "isActive": true,
-            "priority": 80,
-            "supportedCountries": [],
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://campaign.muslimsday.com/durud-sept-26/bn?ref=5ZPFUQRV"
-            }
-        },
-        {
-            "id": "ansar-member-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "প্রিয়জনকে উপহার দিন ইবাদতের সঙ্গী",
-            "description": "আনসার মেম্বার হলেই পাচ্ছেন ৭ টি Muslims Day প্রিমিয়াম, পুরো পরিবারের জন্য",
-            "startTime": 1788864900000,
-            "endTime": 1789045140000,
-            "isActive": true,
-            "priority": 95,
-            "showAfterInstallHours": 72,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/ansar-app-notice"
-            }
-        },
-        {
-            "id": "ansar-member-bn-2",
-            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-            "title": "সামনে আগানোর জন্য এখনো প্রয়োজন ১৪০০ আনসার",
-            "description": "আপনি থাকবেন তো এই যাত্রায়?",
-            "startTime": 1789537440000,
-            "endTime": 1790168340000,
-            "isActive": false,
-            "priority": 95,
-            "showAfterInstallHours": 24,
-            "action": {
-                "type": "web",
-                "url": "https://kahf.to/ansar-app-notice"
-            }
-        }
-    ]
+  "events": [
+    {
+      "id": "friday-givers-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1786622400000,
+      "endTime": 1786729800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-2",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1787227200000,
+      "endTime": 1787334600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-3",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1787832000000,
+      "endTime": 1787939400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-4",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1788436800000,
+      "endTime": 1788544200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-5",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1789041600000,
+      "endTime": 1789149000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-6",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1789646400000,
+      "endTime": 1789753800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-7",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1790251200000,
+      "endTime": 1790358600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-8",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1790856000000,
+      "endTime": 1790963400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-9",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1791460800000,
+      "endTime": 1791568200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-10",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1792065600000,
+      "endTime": 1792173000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-11",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1792670400000,
+      "endTime": 1792777800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-12",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1793275200000,
+      "endTime": 1793382600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-13",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1793880000000,
+      "endTime": 1793987400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-14",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1794484800000,
+      "endTime": 1794592200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-15",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1795089600000,
+      "endTime": 1795197000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-16",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1795694400000,
+      "endTime": 1795801800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-17",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1796299200000,
+      "endTime": 1796406600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-18",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1796904000000,
+      "endTime": 1797011400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-19",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1797508800000,
+      "endTime": 1797616200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-20",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1798113600000,
+      "endTime": 1798221000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-21",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1798718400000,
+      "endTime": 1798825800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-22",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1799323200000,
+      "endTime": 1799430600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-23",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1799928000000,
+      "endTime": 1800035400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-24",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1800532800000,
+      "endTime": 1800640200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-25",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1801137600000,
+      "endTime": 1801245000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-26",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1801742400000,
+      "endTime": 1801849800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-27",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1802347200000,
+      "endTime": 1802454600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-28",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1802952000000,
+      "endTime": 1803059400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-29",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1803556800000,
+      "endTime": 1803664200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-30",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1804161600000,
+      "endTime": 1804269000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-31",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1804766400000,
+      "endTime": 1804873800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-32",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1805371200000,
+      "endTime": 1805478600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-33",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1805976000000,
+      "endTime": 1806083400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-34",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1806580800000,
+      "endTime": 1806688200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-35",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1807185600000,
+      "endTime": 1807293000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-36",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1807790400000,
+      "endTime": 1807897800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-37",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1808395200000,
+      "endTime": 1808502600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-38",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1809000000000,
+      "endTime": 1809107400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-39",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1809604800000,
+      "endTime": 1809712200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-40",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1810209600000,
+      "endTime": 1810317000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-41",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1810814400000,
+      "endTime": 1810921800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-42",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1811419200000,
+      "endTime": 1811526600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-43",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1812024000000,
+      "endTime": 1812131400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-44",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1812628800000,
+      "endTime": 1812736200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-45",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1813233600000,
+      "endTime": 1813341000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-46",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1813838400000,
+      "endTime": 1813945800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-47",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1814443200000,
+      "endTime": 1814550600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-48",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1815048000000,
+      "endTime": 1815155400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-49",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1815652800000,
+      "endTime": 1815760200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-50",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1816257600000,
+      "endTime": 1816365000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-51",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1816862400000,
+      "endTime": 1816969800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-52",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1817467200000,
+      "endTime": 1817574600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-53",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1818072000000,
+      "endTime": 1818179400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-54",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1818676800000,
+      "endTime": 1818784200000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-55",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1819281600000,
+      "endTime": 1819389000000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-56",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1819886400000,
+      "endTime": 1819993800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-57",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1820491200000,
+      "endTime": 1820598600000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-bn-58",
+      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+      "startTime": 1821096000000,
+      "endTime": 1821203400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "baraqah-pass-lg-camp-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "৫০,০০০ মুসলিমকে প্রতিদিন কুরআনের সঙ্গী করতে সাহায্য করুন!",
+      "description": "আজই একটি Baraqah Pass উপহার দিন, যা একজনকে পুরো এক বছরের Muslims Day Premium এনে দেবে।",
+      "startTime": 1791357815000,
+      "endTime": 1793949815000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "supportedCountries": [
+        "ABW",
+        "AFG",
+        "AGO",
+        "AIA",
+        "ALA",
+        "ALB",
+        "AND",
+        "ARE",
+        "ARG",
+        "ARM",
+        "ASM",
+        "ATA",
+        "ATF",
+        "ATG",
+        "AUS",
+        "AUT",
+        "AZE",
+        "BDI",
+        "BEL",
+        "BEN",
+        "BES",
+        "BFA",
+        "BGR",
+        "BHR",
+        "BHS",
+        "BIH",
+        "BLM",
+        "BLR",
+        "BLZ",
+        "BMU",
+        "BOL",
+        "BRA",
+        "BRB",
+        "BRN",
+        "BTN",
+        "BVT",
+        "BWA",
+        "CAF",
+        "CAN",
+        "CCK",
+        "CHE",
+        "CHL",
+        "CHN",
+        "CIV",
+        "CMR",
+        "COD",
+        "COG",
+        "COK",
+        "COL",
+        "COM",
+        "CPV",
+        "CRI",
+        "CUB",
+        "CUW",
+        "CXR",
+        "CYM",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DJI",
+        "DMA",
+        "DNK",
+        "DOM",
+        "DZA",
+        "ECU",
+        "EGY",
+        "ERI",
+        "ESH",
+        "ESP",
+        "EST",
+        "ETH",
+        "FIN",
+        "FJI",
+        "FLK",
+        "FRA",
+        "FRO",
+        "FSM",
+        "GAB",
+        "GBR",
+        "GEO",
+        "GGY",
+        "GHA",
+        "GIB",
+        "GIN",
+        "GLP",
+        "GMB",
+        "GNB",
+        "GNQ",
+        "GRC",
+        "GRD",
+        "GRL",
+        "GTM",
+        "GUF",
+        "GUM",
+        "GUY",
+        "HKG",
+        "HMD",
+        "HND",
+        "HRV",
+        "HTI",
+        "HUN",
+        "IDN",
+        "IMN",
+        "IND",
+        "IOT",
+        "IRL",
+        "IRN",
+        "IRQ",
+        "ISL",
+        "ISR",
+        "ITA",
+        "JAM",
+        "JEY",
+        "JOR",
+        "JPN",
+        "KAZ",
+        "KEN",
+        "KGZ",
+        "KHM",
+        "KIR",
+        "KNA",
+        "KOR",
+        "KWT",
+        "LAO",
+        "LBN",
+        "LBR",
+        "LBY",
+        "LCA",
+        "LIE",
+        "LKA",
+        "LSO",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAC",
+        "MAF",
+        "MAR",
+        "MCO",
+        "MDA",
+        "MDG",
+        "MDV",
+        "MEX",
+        "MHL",
+        "MKD",
+        "MLI",
+        "MLT",
+        "MMR",
+        "MNE",
+        "MNG",
+        "MNP",
+        "MOZ",
+        "MRT",
+        "MSR",
+        "MTQ",
+        "MUS",
+        "MWI",
+        "MYS",
+        "MYT",
+        "NAM",
+        "NCL",
+        "NER",
+        "NFK",
+        "NGA",
+        "NIC",
+        "NIU",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NRU",
+        "NZL",
+        "OMN",
+        "PAK",
+        "PAN",
+        "PCN",
+        "PER",
+        "PHL",
+        "PLW",
+        "PNG",
+        "POL",
+        "PRI",
+        "PRK",
+        "PRT",
+        "PRY",
+        "PSE",
+        "PYF",
+        "QAT",
+        "REU",
+        "ROU",
+        "RUS",
+        "RWA",
+        "SAU",
+        "SDN",
+        "SEN",
+        "SGP",
+        "SGS",
+        "SHN",
+        "SJM",
+        "SLB",
+        "SLE",
+        "SLV",
+        "SMR",
+        "SOM",
+        "SPM",
+        "SRB",
+        "SSD",
+        "STP",
+        "SUR",
+        "SVK",
+        "SVN",
+        "SWE",
+        "SWZ",
+        "SXM",
+        "SYC",
+        "SYR",
+        "TCA",
+        "TCD",
+        "TGO",
+        "THA",
+        "TJK",
+        "TKL",
+        "TKM",
+        "TLS",
+        "TON",
+        "TTO",
+        "TUN",
+        "TUR",
+        "TUV",
+        "TWN",
+        "TZA",
+        "UGA",
+        "UKR",
+        "UMI",
+        "URY",
+        "USA",
+        "UZB",
+        "VAT",
+        "VCT",
+        "VEN",
+        "VGB",
+        "VIR",
+        "VNM",
+        "VUT",
+        "WLF",
+        "WSM",
+        "YEM",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/lg-camp-md"
+      }
+    },
+    {
+      "id": "barakah-givers-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "আজকে আপনি কতজন মুসলিমের ইবাদতের সঙ্গী হতে চান?",
+      "description": "আপনার দেয়া Barakah Pass একজন মুসলিমের কুরআন পাঠ, যিকর ও অন্যান্য ইবাদতে সহায়ক হবে, ইনশাআল্লাহ।",
+      "startTime": 1791282473067,
+      "endTime": 1791460800000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-bn-3",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "মুসলিমস ডে পরিবারের একজন আনসার সদস্য হোন।",
+      "description": "আনসার প্যাকেজে পাচ্ছেন ৭ জনের প্রিমিয়াম সহ বিভিন্ন সুবিধা",
+      "startTime": 1791210619698,
+      "endTime": 1791284400000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/ansar/muslimsday"
+      }
+    },
+    {
+      "id": "premium-offer-65-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "আর ৩ দিন বার্ষিক প্রিমিয়াম প্যাকেজে পাচ্ছেন ৬৫% ছাড়!",
+      "description": "উপভোগ করুন মুসলিমস ডে প্রিমিয়াম এর সকল অভিজ্ঞতা",
+      "startTime": 1790006400000,
+      "endTime": 1790272740000,
+      "isActive": true,
+      "priority": 94,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/pay/muslimsday-offer-campaign"
+      }
+    },
+    {
+      "id": "istegfar-campaign-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "শুরু হলো ইস্তেগফার ক্যাম্পেইন, আপনি জয়েন করেছেন তো?",
+      "description": "এবার মুসলিমস ডে পরিবার, পড়বো একসাথে ১ কোটি বার ইস্তেগফার।",
+      "startTime": 1790006400000,
+      "endTime": 1790791140000,
+      "isActive": true,
+      "priority": 93,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://campaign.muslimsday.com/"
+      }
+    },
+    {
+      "id": "beez-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/saom.png",
+      "title": "আইয়ামে বীজের রোজা রাখছেন তো?",
+      "description": "বাংলাদেশে রোজার তারিখ: ২৭, ২৮ ও ২৯ আগস্ট",
+      "startTime": 1787679168000,
+      "endTime": 1787939940000,
+      "isActive": true,
+      "priority": 90,
+      "showAfterInstallHours": 72,
+      "action": null
+    },
+    {
+      "id": "daily-support-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+      "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+      "startTime": 1786816800000,
+      "endTime": 1787230740000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/in-app-notice-dcontr"
+      }
+    },
+    {
+      "id": "daily-support-bn-2",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+      "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+      "startTime": 1787421600000,
+      "endTime": 1787835540000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/in-app-notice-dcontr"
+      }
+    },
+    {
+      "id": "daily-support-bn-3",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+      "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+      "startTime": 1788026400000,
+      "endTime": 1788440340000,
+      "isActive": false,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/in-app-notice-dcontr"
+      }
+    },
+    {
+      "id": "daily-support-bn-4",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+      "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+      "startTime": 1788631200000,
+      "endTime": 1789045140000,
+      "isActive": false,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/in-app-notice-dcontr"
+      }
+    },
+    {
+      "id": "daily-support-bn-5",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "সুবহানাল্লাহ , গত মাসে ৬৫ হাজার ঘণ্টা কুরআন পড়া হয়েছে Muslims Day তে।",
+      "description": "👉অল্প হোক তবুও এই ভালো কাজে অংশগ্রহণ হোক প্রতিদিন",
+      "startTime": 1789236000000,
+      "endTime": 1789649940000,
+      "isActive": false,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/in-app-notice-dcontr"
+      }
+    },
+    {
+      "id": "durud-campaign-sept26-bn",
+      "icon": "https://data.muslimsday.com/appdata/image/durud-fav-2.png",
+      "title": "১ কোটি দরূদ চ্যালেঞ্জ",
+      "description": "মদিনার পানে পৌঁছে যাক আপনার ভালোবাসা।",
+      "startTime": 1788428760000,
+      "endTime": 1789304400000,
+      "isActive": true,
+      "priority": 80,
+      "supportedCountries": [],
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://campaign.muslimsday.com/durud-sept-26/bn?ref=5ZPFUQRV"
+      }
+    },
+    {
+      "id": "ansar-member-bn-1",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "প্রিয়জনকে উপহার দিন ইবাদতের সঙ্গী",
+      "description": "আনসার মেম্বার হলেই পাচ্ছেন ৭ টি Muslims Day প্রিমিয়াম, পুরো পরিবারের জন্য",
+      "startTime": 1788864900000,
+      "endTime": 1789045140000,
+      "isActive": true,
+      "priority": 95,
+      "showAfterInstallHours": 72,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    },
+    {
+      "id": "ansar-member-bn-2",
+      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+      "title": "সামনে আগানোর জন্য এখনো প্রয়োজন ১৪০০ আনসার",
+      "description": "আপনি থাকবেন তো এই যাত্রায়?",
+      "startTime": 1789537440000,
+      "endTime": 1790168340000,
+      "isActive": false,
+      "priority": 95,
+      "showAfterInstallHours": 24,
+      "action": {
+        "type": "web",
+        "url": "https://kahf.to/ansar-app-notice"
+      }
+    }
+  ]
 }
