@@ -1,0 +1,332 @@
+/*
+ * Muslims Day blog content styles.
+ *
+ * One stylesheet for the dashboard editor canvas, the preview, the exported
+ * standalone HTML and the app WebView, so what the author sees is what ships.
+ * Plain CSS only (no Tailwind directives): it is inlined into exported files
+ * and published as blog/assets/blog-content.{hash}.css.
+ *
+ * Dark mode: follows prefers-color-scheme, and can be forced by the host with
+ * <html class="md-dark"> or forced light with <html class="md-light">.
+ */
+
+.md-blog-content {
+    --md-text: #1f2a37;
+    --md-muted: #5b6577;
+    --md-heading: #111827;
+    --md-primary: #047857;
+    --md-primary-strong: #065f46;
+    --md-primary-soft: #ecfdf5;
+    --md-border: #e3e8ef;
+    --md-surface: #f6f8fa;
+    --md-code-bg: #f1f4f8;
+    --md-info-bg: #eff6ff;
+    --md-info-border: #3b82f6;
+    --md-success-bg: #ecfdf5;
+    --md-success-border: #10b981;
+    --md-warning-bg: #fffbeb;
+    --md-warning-border: #f59e0b;
+    --md-danger-bg: #fef2f2;
+    --md-danger-border: #ef4444;
+    --md-mark: #fef08a;
+    --md-font: 'Poppins', system-ui, -apple-system, 'Segoe UI', sans-serif;
+    --md-font-bn: 'Hind Siliguri', 'Noto Sans Bengali', system-ui, sans-serif;
+    --md-font-ar: 'Amiri', 'Noto Naskh Arabic', serif;
+    --md-measure: 720px;
+    --md-wide: 1040px;
+
+    color: var(--md-text);
+    font-family: var(--md-font);
+    font-size: 18px;
+    line-height: 1.75;
+    overflow-wrap: break-word;
+}
+
+@media (prefers-color-scheme: dark) {
+    html:not(.md-light) .md-blog-content {
+        --md-text: #e5e7eb;
+        --md-muted: #a3acbb;
+        --md-heading: #f9fafb;
+        --md-primary: #34d399;
+        --md-primary-strong: #6ee7b7;
+        --md-primary-soft: #0b2a22;
+        --md-border: #2a3341;
+        --md-surface: #141b26;
+        --md-code-bg: #1b2330;
+        --md-info-bg: #0f1d33;
+        --md-success-bg: #0b2a22;
+        --md-warning-bg: #2b2210;
+        --md-danger-bg: #2d1414;
+        --md-mark: #854d0e;
+    }
+}
+
+html.md-dark .md-blog-content,
+.md-dark .md-blog-content {
+    --md-text: #e5e7eb;
+    --md-muted: #a3acbb;
+    --md-heading: #f9fafb;
+    --md-primary: #34d399;
+    --md-primary-strong: #6ee7b7;
+    --md-primary-soft: #0b2a22;
+    --md-border: #2a3341;
+    --md-surface: #141b26;
+    --md-code-bg: #1b2330;
+    --md-info-bg: #0f1d33;
+    --md-success-bg: #0b2a22;
+    --md-warning-bg: #2b2210;
+    --md-danger-bg: #2d1414;
+    --md-mark: #854d0e;
+}
+
+.md-blog-content:lang(bn),
+.md-blog-content :lang(bn) {
+    font-family: var(--md-font-bn);
+    line-height: 1.9;
+}
+
+.md-blog-content > * {
+    max-width: var(--md-measure);
+    margin-inline: auto;
+}
+
+.md-blog-content > .md-align-wide {
+    max-width: var(--md-wide);
+}
+
+.md-blog-content > .md-align-full {
+    max-width: none;
+}
+
+.md-blog-content p,
+.md-blog-content ul,
+.md-blog-content ol,
+.md-blog-content blockquote,
+.md-blog-content figure,
+.md-blog-content pre,
+.md-blog-content hr,
+.md-blog-content .md-buttons,
+.md-blog-content .md-html,
+.md-blog-content aside,
+.md-blog-content nav,
+.md-blog-content section {
+    margin-block: 0 1.25em;
+}
+
+.md-blog-content h2,
+.md-blog-content h3,
+.md-blog-content h4 {
+    color: var(--md-heading);
+    font-weight: 600;
+    line-height: 1.3;
+    margin-block: 1.8em 0.6em;
+    scroll-margin-top: 80px;
+}
+
+.md-blog-content h2 { font-size: 1.65em; }
+.md-blog-content h3 { font-size: 1.33em; }
+.md-blog-content h4 { font-size: 1.11em; }
+
+.md-blog-content a {
+    color: var(--md-primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.md-blog-content a:hover {
+    color: var(--md-primary-strong);
+}
+
+.md-blog-content strong { font-weight: 700; }
+.md-blog-content em { font-style: italic; }
+.md-blog-content :lang(bn) em,
+.md-blog-content:lang(bn) em { font-style: normal; font-weight: 600; }
+.md-blog-content mark { background: var(--md-mark); color: inherit; padding-inline: 0.15em; border-radius: 3px; }
+
+.md-blog-content ul,
+.md-blog-content ol {
+    padding-inline-start: 1.5em;
+}
+
+.md-blog-content ul { list-style: disc; }
+.md-blog-content ol { list-style: decimal; }
+.md-blog-content li { margin-block: 0.35em; }
+.md-blog-content li > ul,
+.md-blog-content li > ol { margin-block: 0.35em; }
+
+.md-blog-content blockquote {
+    border-inline-start: 4px solid var(--md-primary);
+    padding-inline-start: 1em;
+    color: var(--md-muted);
+    font-style: italic;
+}
+
+.md-blog-content:lang(bn) blockquote,
+.md-blog-content :lang(bn) blockquote { font-style: normal; }
+
+.md-blog-content code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.88em;
+    background: var(--md-code-bg);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+}
+
+.md-blog-content pre {
+    background: var(--md-code-bg);
+    border-radius: 10px;
+    padding: 1em 1.2em;
+    overflow-x: auto;
+    line-height: 1.55;
+}
+
+.md-blog-content pre code { background: none; padding: 0; font-size: 0.85em; }
+
+.md-blog-content hr {
+    border: 0;
+    border-top: 1px solid var(--md-border);
+    margin-block: 2em;
+}
+
+.md-blog-content .md-align-center { text-align: center; }
+.md-blog-content .md-align-right { text-align: end; }
+.md-blog-content .md-align-justify { text-align: justify; }
+
+/* Images */
+.md-blog-content .md-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+}
+
+.md-blog-content .md-image.md-align-center img { width: auto; max-width: 100%; margin-inline: auto; }
+
+@media (min-width: 760px) {
+    .md-blog-content .md-image.md-align-left { float: inline-start; max-width: 50%; margin-inline-end: 1.25em; }
+    .md-blog-content .md-image.md-align-right { float: inline-end; max-width: 50%; margin-inline-start: 1.25em; }
+}
+
+.md-blog-content .md-align-full.md-image img { border-radius: 0; }
+
+.md-blog-content figcaption {
+    margin-top: 0.6em;
+    color: var(--md-muted);
+    font-size: 0.8em;
+    text-align: center;
+}
+
+/* Embeds */
+.md-blog-content .md-embed__frame {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--md-surface);
+}
+
+.md-blog-content .md-embed__frame iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/* Tables */
+.md-blog-content .md-table { overflow-x: auto; }
+.md-blog-content table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+.md-blog-content th,
+.md-blog-content td { border: 1px solid var(--md-border); padding: 0.55em 0.75em; text-align: start; vertical-align: top; }
+.md-blog-content th { background: var(--md-surface); font-weight: 600; }
+
+/* Callouts */
+.md-blog-content .md-callout {
+    border-inline-start: 4px solid var(--md-info-border);
+    background: var(--md-info-bg);
+    border-radius: 12px;
+    padding: 0.9em 1.1em;
+}
+
+.md-blog-content .md-callout > :last-child { margin-bottom: 0; }
+.md-blog-content .md-callout--success { border-color: var(--md-success-border); background: var(--md-success-bg); }
+.md-blog-content .md-callout--warning { border-color: var(--md-warning-border); background: var(--md-warning-bg); }
+.md-blog-content .md-callout--danger { border-color: var(--md-danger-border); background: var(--md-danger-bg); }
+
+/* Buttons */
+.md-blog-content .md-buttons { display: flex; flex-wrap: wrap; gap: 0.75em; }
+.md-blog-content .md-buttons.md-align-center { justify-content: center; }
+.md-blog-content .md-buttons.md-align-right { justify-content: flex-end; }
+
+.md-blog-content .md-button {
+    display: inline-block;
+    border-radius: 999px;
+    padding: 0.6em 1.4em;
+    font-weight: 600;
+    text-decoration: none;
+    border: 2px solid var(--md-primary);
+}
+
+.md-blog-content .md-button--primary { background: var(--md-primary); color: #fff; }
+.md-blog-content .md-button--primary:hover { background: var(--md-primary-strong); border-color: var(--md-primary-strong); color: #fff; }
+.md-blog-content .md-button--outline { background: transparent; color: var(--md-primary); }
+
+/* Table of contents */
+.md-blog-content .md-toc {
+    border: 1px solid var(--md-border);
+    background: var(--md-surface);
+    border-radius: 12px;
+    padding: 1em 1.25em;
+    font-size: 0.92em;
+}
+
+.md-blog-content .md-toc__title { font-weight: 600; margin: 0 0 0.5em; }
+.md-blog-content .md-toc ol { list-style: none; padding: 0; margin: 0; }
+.md-blog-content .md-toc__item { margin-block: 0.25em; }
+.md-blog-content .md-toc__item--h3 { padding-inline-start: 1.2em; }
+.md-blog-content .md-toc__item--h4 { padding-inline-start: 2.4em; }
+.md-blog-content .md-toc a { text-decoration: none; }
+
+/* FAQ */
+.md-blog-content .md-faq__item {
+    border: 1px solid var(--md-border);
+    border-radius: 12px;
+    padding: 0.9em 1.1em;
+    margin-bottom: 0.75em;
+}
+
+.md-blog-content .md-faq__question { margin: 0 0 0.4em; font-size: 1.05em; }
+.md-blog-content .md-faq__answer > :last-child { margin-bottom: 0; }
+
+/* Quran / Hadith */
+.md-blog-content .md-scripture {
+    border: 1px solid var(--md-border);
+    border-radius: 14px;
+    padding: 1.2em 1.4em;
+    background: var(--md-primary-soft);
+}
+
+.md-blog-content .md-scripture__arabic {
+    font-family: var(--md-font-ar);
+    font-size: 1.45em;
+    line-height: 2;
+    text-align: center;
+    color: var(--md-heading);
+    margin-bottom: 0.6em;
+}
+
+.md-blog-content .md-scripture__translation { margin-bottom: 0.4em; }
+.md-blog-content .md-scripture__reference { text-align: end; margin: 0; }
+.md-blog-content .md-scripture--hadith { background: var(--md-warning-bg); }
+
+/* Standalone document chrome (exported .html only) */
+.md-document { margin: 0; background: #fff; }
+@media (prefers-color-scheme: dark) { html:not(.md-light) .md-document { background: #0d131c; } }
+html.md-dark .md-document { background: #0d131c; }
+.md-document .md-article { padding: 24px 16px 48px; }
+.md-document .md-article__header { max-width: var(--md-measure); margin: 0 auto 1.5em; }
+.md-document .md-article__category { color: var(--md-primary); font-size: 0.8em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; margin: 0 0 0.5em; }
+.md-document .md-article__title { color: var(--md-heading); font-size: 2.1em; line-height: 1.2; font-weight: 700; margin: 0 0 0.4em; }
+.md-document .md-article__meta { color: var(--md-muted); font-size: 0.85em; margin: 0; }
+.md-document .md-article__hero { max-width: var(--md-wide); margin: 0 auto 2em; }
+.md-document .md-article__hero img { display: block; width: 100%; height: auto; border-radius: 16px; }

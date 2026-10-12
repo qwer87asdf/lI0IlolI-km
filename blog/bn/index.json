@@ -1,0 +1,12 @@
+{
+    "schemaVersion": 1,
+    "language": "bn",
+    "direction": "ltr",
+    "totalPosts": 0,
+    "pageSize": 20,
+    "totalPages": 1,
+    "updatedAt": null,
+    "pagesUrlPattern": "https://dev.data.muslimsday.com/blog/bn/pages/{page}.json",
+    "stylesheetUrl": "https://dev.data.muslimsday.com/blog/assets/blog-content.95c4977326.css",
+    "featured": []
+}
