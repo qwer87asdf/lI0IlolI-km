@@ -41,7 +41,13 @@
         "name": "Shafayat"
     },
     "tags": [],
-    "translations": {},
+    "translations": {
+        "bn": {
+            "slug": "পূজা-দেখতে-যাওয়া-পূজায়-অভিবাদন-জানানোর-বিধান",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+            "jsonUrl": "https://dev.data.muslimsday.com/blog/bn/posts/%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.json"
+        }
+    },
     "seo": {
         "title": "Rulings of offering Discount for Puja - Muslims Day",
         "description": "পূজার সময়ে ডিসকাউন্ট দেয়ার মাসআলা সম্পর্কে এই পোস্টে আলোচনা করা হয়েছে। পূজার সময় ডিসকাউন্ট দেয়া নিষিদ্ধ",
@@ -66,6 +72,10 @@
             "image": "https://dev.data.muslimsday.com/blog/media/2026/10/82081b94-f227-4c5c-986b-5d1bb0266dc0.jpg"
         },
         "hreflang": [
+            {
+                "lang": "bn",
+                "url": "https://muslimsday.com/bn/blog/%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8"
+            },
             {
                 "lang": "en",
                 "url": "https://muslimsday.com/blog/rulings-of-offering-discount-for-puja"
