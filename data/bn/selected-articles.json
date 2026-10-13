@@ -1,0 +1,582 @@
+[
+    {
+        "id": 176,
+        "slug": "20261013-mushaf-bn",
+        "title": "Muslims Day অ্যাপে হাফেজী, নূরানী কিংবা মাদানী কুরআন মুসহাফ খুঁজে পাচ্ছেন না?",
+        "subtitle": "এখনই বেছে নিন আপনার পছন্দের মুসহাফ প্রিন্ট।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/mushaf_bn-GI3VyxPP.jpg",
+        "tags": [],
+        "published_at": "2026-10-13T05:54:19+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261013-mushaf-bn.json"
+    },
+    {
+        "id": 174,
+        "slug": "20261012-deen",
+        "title": "পরিবারে দ্বীন চর্চা শুরু করবেন কীভাবে?",
+        "subtitle": "আমল-পরবর্তী শয়তানের ফাঁদ ও পরিবারকে দ্বীনের পথে আনার বাস্তবসম্মত সুন্নাহ গাইডলাইন",
+        "image": "https://data.muslimsday.com/appdata/notification/image/deen_bn-ps5AtGGa.jpg",
+        "tags": [],
+        "published_at": "2026-10-12T06:57:46+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261012-deen.json"
+    },
+    {
+        "id": 172,
+        "slug": "20261011-bidhan",
+        "title": "অমুসলিমদের ধর্মীয় উৎসবে অংশগ্রহণ ও শুভেচ্ছা জানানোর বিধান",
+        "subtitle": "উৎসবের আলোয় যেন মুছে না যায় তাওহীদের সীমানা",
+        "image": "https://data.muslimsday.com/appdata/notification/image/bidhan_bn-VSyztnZp.jpg",
+        "tags": [],
+        "published_at": "2026-10-11T11:21:08+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-bidhan.json"
+    },
+    {
+        "id": 170,
+        "slug": "20261011-puja",
+        "title": "পূজা উপলক্ষে পণ্যে ডিসকাউন্ট ও কেনাকাটার বিধান",
+        "subtitle": "বাণিজ্যিক লাভের মোহে শিরকের প্রচারে মুমিনের সতর্কতা ও শরিয়তের সীমারেখা জানুন।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/pujo_bn-nCSB5ibn.jpg",
+        "tags": [],
+        "published_at": "2026-10-11T08:14:30+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-puja.json"
+    },
+    {
+        "id": 168,
+        "slug": "20261008-barakah-pass",
+        "title": "মিশন ১০ লক্ষ বারাকাহ পাস!",
+        "subtitle": "কোটি মানুষের Muslims Day টিকিয়ে রাখার এক সম্মিলিত প্রয়াস",
+        "image": "https://data.muslimsday.com/appdata/notification/image/bn-7C6wffxR.jpg",
+        "tags": [],
+        "published_at": "2026-10-08T15:22:51+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-barakah-pass.json"
+    },
+    {
+        "id": 166,
+        "slug": "20261008-ses-biday-bn",
+        "title": "\"তারা আমাকে নিতে এসেছে, আমি চলে যাচ্ছি...\"—২৬ বছরের এক তরুণের শেষ বিদায়!",
+        "subtitle": "সাব্বির ভাইয়ের এই চলে যাওয়া কি আমাদের চোখের পর্দা সরিয়ে দিয়ে যায়নি?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/ses_biday_bn-tSOcPsal.jpg",
+        "tags": [],
+        "published_at": "2026-10-08T05:11:28+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-ses-biday-bn.json"
+    },
+    {
+        "id": 164,
+        "slug": "20261007-sontan",
+        "title": "প্রযুক্তির ফাঁদে সন্তান যখন বিপথগামী—জানুন কীভাবে দেবেন তাদের সুরক্ষা!",
+        "subtitle": "সালাফদের জীবন থেকে নেয়া বিস্ময়কর সেই সমাধান।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/sontan_bn-0Qyh7luK.jpg",
+        "tags": [],
+        "published_at": "2026-10-07T09:01:56+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261007-sontan.json"
+    },
+    {
+        "id": 162,
+        "slug": "20261006-barakapass",
+        "title": "‘বারাকাহ পাস’ কী, কাদের জন্য এবং কীভাবে একটিভ করবেন?",
+        "subtitle": "রবের পথে এগিয়ে চলার সফর সবার জন্য অবারিত রাখতে আমাদের এই ক্ষুদ্র নিবেদন",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-9OA7eV4l.jpg",
+        "tags": [],
+        "published_at": "2026-10-06T10:07:08+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261006-barakapass.json"
+    },
+    {
+        "id": 160,
+        "slug": "20261005-ibadaht",
+        "title": "অফিস আর সংসার সামলাতেই তো দিন শেষ—আমল করার সময় পাবেন কখন?",
+        "subtitle": "জেনে নিন প্রাত্যহিক এই মেহনতকে ইবাদতে রূপান্তর করার সুন্নাহসম্মত পদ্ধতি।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/ibadah_bn-xH6y4mdA.jpg",
+        "tags": [],
+        "published_at": "2026-10-05T06:42:27+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261005-ibadaht.json"
+    },
+    {
+        "id": 158,
+        "slug": "20261004-sokal-bela",
+        "title": "সকালে হাসিমুখে বের হওয়া মানুষটি বিকেলে ফিরবে তো?",
+        "subtitle": "ইট-পাথরের এই মৃত্যুপুরীতে আপনার আসমানী সুরক্ষা ঢাল সঙ্গে নিন।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-5ZGbLMBg.jpg",
+        "tags": [],
+        "published_at": "2026-10-04T06:01:20+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261004-sokal-bela.json"
+    },
+    {
+        "id": 156,
+        "slug": "20261001-je-app",
+        "title": "Muslims Day—আপনার ব্যস্ত জীবনে আমলের সঙ্গী হতে চায় যে অ্যাপ!",
+        "subtitle": "কিন্তু এই নিরবচ্ছিন্ন সফর বাঁচিয়ে রাখতে আমাদের প্রয়োজন আপনাকে।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-8SVRhGxA.jpg",
+        "tags": [],
+        "published_at": "2026-10-01T11:26:53+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-je-app.json"
+    },
+    {
+        "id": 154,
+        "slug": "20261001-apnar-sejda",
+        "title": "আপনার সিজদায় কি আমাদের জন্য একটু জায়গা হবে?",
+        "subtitle": "ঈমান রক্ষার এই লড়াইয়ে আমরা আপনাদের পশে চাই।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/sujood_bn-Pi55rq8M.jpg",
+        "tags": [],
+        "published_at": "2026-10-01T11:20:27+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-apnar-sejda.json"
+    },
+    {
+        "id": 152,
+        "slug": "20261001-apnara-pashe",
+        "title": "আপনারা পাশে আছেন বলেই অসম এই লড়াইটা চালিয়ে যাওয়ার সাহস পাচ্ছি আমরা!",
+        "subtitle": "তাই ঈমান রক্ষার এই লড়াইয়ে আপনাদের কাছে আমাদের একটি চাওয়া।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-LaScQA6F.jpg",
+        "tags": [],
+        "published_at": "2026-10-01T08:03:08+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-apnara-pashe.json"
+    },
+    {
+        "id": 150,
+        "slug": "20260930-kivabe-sirat",
+        "title": "কীভাবে সিরাত পড়বেন? || আনসার স্পেশাল ওয়েবিনার-০৩ থেকে সারনির্যাস",
+        "subtitle": "কোরআন শিক্ষার মতোই ঘরে ঘরে সিরাত চর্চা ফিরে আসুক।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/serat_Summery_bn-5PRoBxQh.jpg",
+        "tags": [],
+        "published_at": "2026-09-30T08:31:01+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260930-kivabe-sirat.json"
+    },
+    {
+        "id": 148,
+        "slug": "20260929-je-amol",
+        "title": "যে আমল দুনিয়া ও আখিরাতের সকল পেরেশানি দূর করে দেয়।",
+        "subtitle": "সকাল-সন্ধ্যার মাত্র ৭ বারের আমল, যার জিম্মাদার স্বয়ং আল্লাহ রাব্বুল আলামিন।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/the_amal_bn-7iYJJhXR.jpg",
+        "tags": [],
+        "published_at": "2026-09-29T07:59:54+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260929-je-amol.json"
+    },
+    {
+        "id": 146,
+        "slug": "20260928-vebe-dekhecen",
+        "title": "ভেবে দেখেছেন কি? সার আর কীটনাশক ছাড়া এখন আর কোনো ফসল ফলে না কেন?",
+        "subtitle": "জানুন কৃষকের স্বাধীনতা কেড়ে নেওয়ার এক ভয়ংকর বৈশ্বিক বাস্তবতা।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-NebuvuVJ.jpg",
+        "tags": [],
+        "published_at": "2026-09-28T05:37:15+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260928-vebe-dekhecen.json"
+    },
+    {
+        "id": 144,
+        "slug": "20260927-tiris-koti",
+        "title": "আপনার পক্ষে কি প্রতিদিন ৩০ কোটি টাকা সদকা করা সম্ভব?",
+        "subtitle": "অথচ রাসুলুল্লাহ ﷺ কিন্তু আমাদের সেই সুযোগ বাতলে দিয়েছেন, জানেন কি?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/30_koti_bn-cIv3zqxp.jpg",
+        "tags": [],
+        "published_at": "2026-09-27T07:32:17+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260927-tiris-koti.json"
+    },
+    {
+        "id": 142,
+        "slug": "20260925-kivabe-sirat-porben",
+        "title": "কীভাবে সিরাত পড়বেন?",
+        "subtitle": "এত বড় জ্ঞান সমুদ্র থেকে কিভাবে উপকৃত হবেন বুঝতে পারছেন না?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/kivabe-sirat-porben-lCFTUk0h.png",
+        "tags": [],
+        "published_at": "2026-09-25T12:57:20+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260925-kivabe-sirat-porben.json"
+    },
+    {
+        "id": 140,
+        "slug": "20260924-tawba",
+        "title": "যে সাহাবীর আন্তরিক তাওবার জবাবে আসমান থেকে ওহি নাজিল হয়েছিল",
+        "subtitle": "পাপের আগুনে পুড়ে খাঁটি হওয়া এক হৃদয় এবং আসমানি ক্ষমার গল্প",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Tawba_bn-zvqEqkuR.jpg",
+        "tags": [],
+        "published_at": "2026-09-24T10:50:58+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-tawba.json"
+    },
+    {
+        "id": 138,
+        "slug": "20260924-Jaynamaj",
+        "title": "সমস্ত ভুলে যাওয়া কাজের হিসাব কেন জায়নামাজে দাঁড়ালেই মনে পড়ে?",
+        "subtitle": "তাকবির থেকে সালাম—রবের সামনে দাঁড়িয়েও আমরা কার মোহে বন্দি?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Jaynamaj_Bn-BFFUjaXN.jpg",
+        "tags": [],
+        "published_at": "2026-09-24T09:12:03+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-Jaynamaj.json"
+    },
+    {
+        "id": 104,
+        "slug": "20260924-ansar",
+        "title": "🌿 আলহামদুলিল্লাহ! মুসলিমস ডে আনসার এখন ৬১৪ জন",
+        "subtitle": "আজ জুমআর দিন। দোয়া কবুলের দিন। নিজের আখিরাতের জন্য কিছু বিনিয়োগ করার দিন।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/ansar_614_now_bn-smOBXd1l.jpg",
+        "tags": [],
+        "published_at": "2026-09-24T04:57:44+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-ansar.json"
+    },
+    {
+        "id": 102,
+        "slug": "20260923-apni-jodi-sedin-madinay-thakten",
+        "title": "আপনি যদি সেদিন মদিনায় থাকতেন!",
+        "subtitle": "দরজা খুলতেই হয়তো থমকে যেত আপনার চেনা পৃথিবী…",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-O5krxEQm.jpg",
+        "tags": [],
+        "published_at": "2026-09-23T13:43:37+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-apni-jodi-sedin-madinay-thakten.json"
+    },
+    {
+        "id": 100,
+        "slug": "20260923-Oprotim",
+        "title": "ঐশী থেকে অপ্রতিম—একটি বিপন্ন প্রজন্মের প্রতিচ্ছবি",
+        "subtitle": "আপনার সন্তান কোন অতলে তলিয়ে যাচ্ছে?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/How_deep_is_your_child_sinking_bn-fB6XA71y.jpg",
+        "tags": [],
+        "published_at": "2026-09-23T08:14:42+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-Oprotim.json"
+    },
+    {
+        "id": 98,
+        "slug": "20260922-kivabe-sirat-porben",
+        "title": "আনসার স্পেশাল লাইভ ওয়েবিনার ০৩: ‘কীভাবে সীরাত পড়বেন?'",
+        "subtitle": "সীরাত চর্চার সঠিক পদ্ধতি ও নববী আদর্শ ধারণের রূপরেখা।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Webinar-03_Bn-DOaIyYzT.jpg",
+        "tags": [],
+        "published_at": "2026-09-22T05:15:01+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260922-kivabe-sirat-porben.json"
+    },
+    {
+        "id": 96,
+        "slug": "20260921-65-Char",
+        "title": "আগামী ৩ দিন Muslims Day-র সকল বার্ষিক প্যাকেজে ৬৫% ছাড়!",
+        "subtitle": "আপনার প্রতিটি দিন হোক রবের স্মরণে আরও নিবিড়, শান্তিময় ও গোছানো",
+        "image": "https://data.muslimsday.com/appdata/notification/image/65_BN_Push-7njtUfI0.jpg",
+        "tags": [],
+        "published_at": "2026-09-21T09:08:40+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260921-65-Char.json"
+    },
+    {
+        "id": 94,
+        "slug": "20260920-barakah",
+        "title": "আমার মুসলিমস ডে নিয়ে এলো এবার ‘বারাকাহ পাস’!",
+        "subtitle": "আপনার বারাকাহ পাসটি সক্রিয় করে নিয়েছেন তো?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Barakah_Pass_Bangla-lt2W8GIX.jpg",
+        "tags": [],
+        "published_at": "2026-09-20T11:18:28+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260920-barakah.json"
+    },
+    {
+        "id": 92,
+        "slug": "20260917-ansar-update",
+        "title": "🌿 আলহামদুলিল্লাহ! মুসলিমস ডে আনসার এখন ৬০৭ জন",
+        "subtitle": "আজ জুমআর দিন। দোয়া কবুলের দিন। নিজের আখিরাতের জন্য কিছু বিনিয়োগ করার দিন।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Ansar_607_Bn-ZV5kfoEh.jpg",
+        "tags": [],
+        "published_at": "2026-09-17T09:04:54+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260917-ansar-update.json"
+    },
+    {
+        "id": 90,
+        "slug": "20260917-islami-boimela-26",
+        "title": "বায়তুল মুকাররম পূর্ব গেট প্রাঙ্গণে চলছে আন্তর্জাতিক সীরাতুন্নবী বইমেলা-২৬",
+        "subtitle": "পরিবার-পরিজন নিয়ে আপনি আসছেন কবে?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-TltdeyHe.jpg",
+        "tags": [],
+        "published_at": "2026-09-17T05:56:09+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260917-islami-boimela-26.json"
+    },
+    {
+        "id": 57,
+        "slug": "20260914-fajar-keno-sob-bodle-day",
+        "title": "ভোরের আলোয় জীবনের জাগরণ: কেন ফজর বদলে দেয় সবকিছু?",
+        "subtitle": "ঘুমের মোহ ভেঙে রবের সান্নিধ্য আর সুস্থতার এক চিরন্তন আহ্বান",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-m0mvy2Zl.jpg",
+        "tags": [],
+        "published_at": "2026-09-14T08:39:06+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260914-fajar-keno-sob-bodle-day.json"
+    },
+    {
+        "id": 55,
+        "slug": "20260913-robius-sani",
+        "title": "রবিউস সানি মাসের আইয়ামে বীজের রোজা শুরু ২৫ সেপ্টেম্বর",
+        "subtitle": "সাহরি খেতে হবে বৃহস্পতিবার দিবাগত রাতে।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-Wu2ugBmC.jpg",
+        "tags": [],
+        "published_at": "2026-09-13T08:23:44+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-robius-sani.json"
+    },
+    {
+        "id": 53,
+        "slug": "20260913-durud-somapti",
+        "title": "১ কোটি দরূদের অশ্রুভেজা সমাপ্তি: উম্মাহর এই ভালোবাসা অমিলন হোক!",
+        "subtitle": "প্রিয়নবীর ﷺ ভালোবাসায় শামিল প্রতিটি হৃদয়ের প্রতি আন্তরিক ফরিয়াদ",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-Wv6yo6wN.jpg",
+        "tags": [],
+        "published_at": "2026-09-13T04:42:51+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-durud-somapti.json"
+    },
+    {
+        "id": 52,
+        "slug": "20260912-robius-sani",
+        "title": "আলহামদুলিল্লাহ! বাংলাদেশের আকাশে রবিউস সানি মাসের চাঁদ দেখা গিয়েছে।",
+        "subtitle": "এ মাসের আইয়ামে বীজের রোজা ২৫, ২৬ ও ২৭ সেপ্টেম্বর",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-mFWMxNum.jpg",
+        "tags": [],
+        "published_at": "2026-09-12T13:54:03+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260912-robius-sani.json"
+    },
+    {
+        "id": 50,
+        "slug": "20260910-ansar",
+        "title": "🌿 আলহামদুলিল্লাহ! মুসলিমস ডে আনসার এখন ৬০১ জন",
+        "subtitle": "আজ জুমআর দিন। দোয়া কবুলের দিন। নিজের আখিরাতের জন্য কিছু বিনিয়োগ করার দিন।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/601_bn_push-bnTDUDQS.jpg",
+        "tags": [],
+        "published_at": "2026-09-10T07:03:18+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260910-ansar.json"
+    },
+    {
+        "id": 48,
+        "slug": "20260909-Porinoti",
+        "title": "এখন যেভাবে আছেন, ঠিক সেভাবেই যদি আপনার মৃত্যু হয়?",
+        "subtitle": "কেমন হবে তার অন্তিম পরিণতি?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-mhGvJ7aj.jpg",
+        "tags": [],
+        "published_at": "2026-09-09T09:27:20+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-Porinoti.json"
+    },
+    {
+        "id": 46,
+        "slug": "20260909-sobai-je-poth",
+        "title": "সবাই যে পথে হাঁটে সেটাই কি সঠিক পথ?",
+        "subtitle": "ভিড়ের পেছনে চলতে গিয়ে যদি হারিয়ে ফেলেন সত্যের পথ—তবে শেষ গন্তব্য কোথায়?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-lHgPHlQY.jpg",
+        "tags": [],
+        "published_at": "2026-09-09T05:54:31+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-sobai-je-poth.json"
+    },
+    {
+        "id": 44,
+        "slug": "20260908-dua-osomvab",
+        "title": "তাওয়াক্কুলে ভরা দুআ, যেভাবে অসম্ভবকে সম্ভব করে তোলে!",
+        "subtitle": "মরুভূমির ধূলিমলিন পথে এক আশিকের কান্না এবং আসমানি মদদের অশ্রুভেজা আখ্যান",
+        "image": "https://data.muslimsday.com/appdata/notification/image/bangla-dU6UCvN6.jpg",
+        "tags": [],
+        "published_at": "2026-09-08T06:42:32+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260908-dua-osomvab.json"
+    },
+    {
+        "id": 42,
+        "slug": "20260907-take-valobasa",
+        "title": "জীবনের সবচেয়ে দামি চাওয়াটিও যিনি আমাদের জন্য বাঁচিয়ে রেখেছেন",
+        "subtitle": "তাঁকে কী করে ভালো না বেসে থাকা যায়?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-4RRDoRSO.jpg",
+        "tags": [],
+        "published_at": "2026-09-07T06:37:39+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260907-take-valobasa.json"
+    },
+    {
+        "id": 40,
+        "slug": "20260906-nobi-prem",
+        "title": "নবীপ্রেমের শ্রেষ্ঠ উপহার: কেন দরুদ আমাদের জীবনের সেরা পাথেয়?",
+        "subtitle": "প্রিয় নবীর সান্নিধ্য ও শাফাআতের খোঁজে হৃদয়ের আকুল নিবেদন",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-ZyZqbcVF.jpg",
+        "tags": [],
+        "published_at": "2026-09-06T09:12:04+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260906-nobi-prem.json"
+    },
+    {
+        "id": 38,
+        "slug": "20260904-prothom-diner-update",
+        "title": "10 Million Durood Challenge: প্রথম দিনের আপডেট।",
+        "subtitle": "বিশ্বজুড়ে লাখো মুমিনের সাথে শামিল হোন আপনিও",
+        "image": "https://data.muslimsday.com/appdata/notification/image/day_1_update_bangla-h1KLqetY.jpg",
+        "tags": [],
+        "published_at": "2026-09-04T09:18:06+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260904-prothom-diner-update.json"
+    },
+    {
+        "id": 36,
+        "slug": "20260903-hridoyer-modina",
+        "title": "১০ দিনে ১ কোটি দরূদের মিছিলে মদিনার পানে পৌঁছে দিন আপনার হৃদয়ের নজরানা",
+        "subtitle": "ভালোবাসার এই ঐতিহাসিক কাফেলায় যুক্ত হোক আপনার অশ্রুভেজা দরূদ",
+        "image": "https://data.muslimsday.com/appdata/notification/image/10_Milion_Bangla_Push-1S9vhWrU.jpg",
+        "tags": [],
+        "published_at": "2026-09-03T10:08:33+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260903-hridoyer-modina.json"
+    },
+    {
+        "id": 34,
+        "slug": "20260902-vodro-lok",
+        "title": "বাইরের পৃথিবীর চোখে আপনি নিখুঁত ভদ্রলোক, কিন্তু ঘরের মানুষটির কাছে আপনি কি এক নিরাপদ আশ্রয়?",
+        "subtitle": "যেখানে ভুলগুলো আশ্রয় পায়, আর চোখের জল পায় এক নিশ্চিন্ত নির্ভরতা…",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-UOlcgpcy.jpg",
+        "tags": [],
+        "published_at": "2026-09-02T10:22:21+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260902-vodro-lok.json"
+    },
+    {
+        "id": 32,
+        "slug": "20260901-ak-koti-durud",
+        "title": "মদিনার পানে ভালোবাসার এক কোটি উপহার: আপনিও থাকছেন তো?",
+        "subtitle": "Muslims Day-তে খুব শীঘ্রই শুরু হতে যাচ্ছে 10 Million Durood Challenge!",
+        "image": "https://data.muslimsday.com/appdata/notification/image/10_Million_Bangla-Rb5LxF86.jpg",
+        "tags": [],
+        "published_at": "2026-09-01T10:32:43+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260901-ak-koti-durud.json"
+    },
+    {
+        "id": 30,
+        "slug": "20260901-bonna-bangla",
+        "title": "প্রকৃতির এই ভয়াবহ রূপ কি নিছক দুর্ঘটনা, নাকি রবের কোনো সতর্কবার্তা?",
+        "subtitle": "বিশ্বজুড়ে বিপর্যয়ের এই সময়ে রবের রহমতের চাদরে আশ্রয় নেওয়ার আহ্বান",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Bonna_Bangla-TY32aNnL.jpg",
+        "tags": [],
+        "published_at": "2026-09-01T06:52:13+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260901-bonna-bangla.json"
+    },
+    {
+        "id": 28,
+        "slug": "20260831-muslims-day-notun-version",
+        "title": "Muslims Day v6.3.0: ইবাদতের পথে আরও একটু কাছে",
+        "subtitle": "কী কী থাকছে নতুন আপডেটে?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Update_bangla-AsRy30sA.jpg",
+        "tags": [],
+        "published_at": "2026-08-31T07:04:14+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260831-muslims-day-notun-version.json"
+    },
+    {
+        "id": 26,
+        "slug": "20260830-rager-muhurte",
+        "title": "রাগের মুহূর্তে আমরা যা করি, আর নবীজি ﷺ কি করতেন?",
+        "subtitle": "অশান্ত হৃদয়ে প্রশান্তি ফেরাতে রাসুলুল্লাহ ﷺ-এর অনুপম সুন্নাহর ছোঁয়া",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-mVpx1OFZ.jpg",
+        "tags": [],
+        "published_at": "2026-08-30T05:51:08+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260830-rager-muhurte.json"
+    },
+    {
+        "id": 24,
+        "slug": "20260829-bandar-haq",
+        "title": "বান্দার হক",
+        "subtitle": "যে ভুলের ক্ষমা স্বয়ং আল্লাহও করবেন না!",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-9unCpDOf.jpg",
+        "tags": [],
+        "published_at": "2026-08-29T13:16:21+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260829-bandar-haq.json"
+    },
+    {
+        "id": 22,
+        "slug": "20260827-ajker-rat-jodi",
+        "title": "আজকের রাতটা যদি শেষ রাত হয়?",
+        "subtitle": "নরম বিছানা থেকে সাড়ে তিন হাত মাটি",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-ixHyJUyj.jpg",
+        "tags": [],
+        "published_at": "2026-08-27T05:56:17+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260827-ajker-rat-jodi.json"
+    },
+    {
+        "id": 20,
+        "slug": "20260825-Tumi-kemon-aso",
+        "title": "এক ছাদের নিচে, দুটি নিঃসঙ্গ মানুষ",
+        "subtitle": "সংসারের ব্যস্ততায় হারিয়ে যাওয়া সেই মানুষটার খোঁজে",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Tumi_Kemon_Aso_Bangla-yGhQTX7i.jpg",
+        "tags": [],
+        "published_at": "2026-08-25T04:59:18+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260825-Tumi-kemon-aso.json"
+    },
+    {
+        "id": 19,
+        "slug": "20260824-ayyamul-bid-fast-robiul-awal-1448",
+        "title": "এ মাসে আইয়ামে বীজের রোজা শুরু ২৭ আগস্ট",
+        "subtitle": "সাহরি খেতে হবে বুধবার দিবাগত রাতে",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Robiul_auwal_roja-7wfOXBTm.jpg",
+        "tags": [],
+        "published_at": "2026-08-24T14:35:03+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260824-ayyamul-bid-fast-robiul-awal-1448.json"
+    },
+    {
+        "id": 17,
+        "slug": "20260823-productivity-bangla",
+        "title": "প্রোডাক্টিভিটি:",
+        "subtitle": "যেভাবে খুঁজে পাবেন জীবনের ভারসাম্য",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Productivity_Bangla-81IVO1LM.jpg",
+        "tags": [],
+        "published_at": "2026-08-23T13:43:09+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260823-productivity-bangla.json"
+    },
+    {
+        "id": 16,
+        "slug": "20260823-webinar-sum",
+        "title": "জিন, জাদু ও বদনজর নিয়ে যা জানলাম",
+        "subtitle": "ওয়েবিনারের গুরুত্বপূর্ণ আলোচনা ও করণীয়",
+        "image": "https://data.muslimsday.com/appdata/notification/image/jin_jadu_push-02-Zqngn7kH.jpg",
+        "tags": [],
+        "published_at": "2026-08-23T11:54:36+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260823-webinar-sum.json"
+    },
+    {
+        "id": 14,
+        "slug": "20260822-apnar-sontan",
+        "title": "আপনি আপনার বাচ্চার শৈশব কেড়ে নিচ্ছেন না তো?",
+        "subtitle": "স্ক্রিন নয়, সন্তানের প্রয়োজন আপনার সময়",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-LrWDGOG3.jpg",
+        "tags": [],
+        "published_at": "2026-08-22T07:46:25+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260822-apnar-sontan.json"
+    },
+    {
+        "id": 12,
+        "slug": "20260820-ansar-update",
+        "title": "আল্লাহুম্মা সাল্লি আলা মুহাম্মাদ",
+        "subtitle": "৩০ দিনে ২ কোটিবার দরূদ—একটি বরকতময় যাত্রার গল্প!",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-OR8tD1db.jpg",
+        "tags": [],
+        "published_at": "2026-08-20T10:22:56+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260820-ansar-update.json"
+    },
+    {
+        "id": 8,
+        "slug": "20260819-apni-jodi-sedin-madinay-thakten",
+        "title": "আপনি যদি সেদিন মদিনায় থাকতেন!",
+        "subtitle": "দরজা খুলতেই হয়তো থমকে যেত আপনার চেনা পৃথিবী…",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-K5LLVL50.jpg",
+        "tags": [],
+        "published_at": "2026-08-19T14:34:45+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260819-apni-jodi-sedin-madinay-thakten.json"
+    },
+    {
+        "id": 6,
+        "slug": "20260818-Jid-jadu-bodnajar",
+        "title": "জিন, জাদু ও বদনজর",
+        "subtitle": "জানুন লক্ষণ ও বাঁচার সঠিক পথ।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-uh780ySb.jpg",
+        "tags": [],
+        "published_at": "2026-08-18T05:34:39+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260818-Jid-jadu-bodnajar.json"
+    },
+    {
+        "id": 4,
+        "slug": "20260817-nirjonotar-fand",
+        "title": "জনসমুদ্রে নির্জনতার ফাঁদ",
+        "subtitle": "সবার প্রিয় হয়েও কেন আমি নিজের কাছেই এত অচেনা?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-2g5hSBjY.jpg",
+        "tags": [],
+        "published_at": "2026-08-17T04:17:05+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260817-nirjonotar-fand.json"
+    },
+    {
+        "id": 2,
+        "slug": "20260816-shesh-prohore-sunnah",
+        "title": "যে সুন্নাহ ছিল নবী ﷺ-এর শেষ প্রহরের সঙ্গী",
+        "subtitle": "আজও কি আছে আমাদের জীবনে?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Sunnah_Bangla-UaqQM6q6.jpg",
+        "tags": [],
+        "published_at": "2026-08-16T09:38:24+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260816-shesh-prohore-sunnah.json"
+    },
+    {
+        "id": 1,
+        "slug": "20260709-water-waste",
+        "title": "অযুতে যে ভুল কাজটি আমরা প্রায় সকলেই করি",
+        "subtitle": "আসুন সচেতন হই, সকল প্রকার অপচয় ও গুনাহ থেকে বেঁচে থাকি",
+        "image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/water-waste.jpg",
+        "tags": [],
+        "published_at": "2026-07-09T04:26:20+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260709-water-waste.json"
+    }
+]
