@@ -10,7 +10,6 @@
             "startAt": 1787214240000,
             "expireAt": 1787317200000,
             "platforms": [
-                "IOS",
                 "ANDROID"
             ],
             "supportedCountries": [],
