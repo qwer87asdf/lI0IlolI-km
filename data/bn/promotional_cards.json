@@ -1,149 +1,52 @@
 {
-    "isEnabled": false,
+    "isEnabled": true,
     "dismissible": true,
-    "showAfterInstallHours": 72,
+    "showAfterInstallHours": 0,
     "cards": [
         {
-            "id": "install-md-bn-fr-0827",
+            "id": "ansar-bn-promo-2",
             "isActive": true,
             "frequency": "ONCE",
-            "startAt": 1787835600000,
-            "expireAt": 1787922000000,
+            "startAt": 1787214240000,
+            "expireAt": 1787317200000,
             "platforms": [
-                "ANDROID",
-                "IOS"
+                "IOS",
+                "ANDROID"
             ],
+            "supportedCountries": [],
             "minAndroidVersionCode": null,
             "minIosVersionCode": null,
             "maxAndroidVersionCode": null,
             "maxIosVersionCode": null,
             "type": "IMAGE",
-            "aspectRatio": 0.56,
-            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
+            "aspectRatio": 0.75,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/WhatsApp_Image_2026-08-20_at_14.00.31-XqVQlkQS.jpeg",
             "html": null,
             "action": {
                 "type": "WEB",
-                "value": "https://kahf.to/md-fr-popup",
+                "value": "https://kahf.to/ansar-popup",
                 "label": null
             }
         },
         {
-            "id": "install-md-bn-fr-0903",
+            "id": "lifetime-oct-26-bn",
             "isActive": true,
             "frequency": "ONCE",
-            "startAt": 1788440400000,
-            "expireAt": 1788526800000,
-            "platforms": [
-                "ANDROID",
-                "IOS"
-            ],
+            "startAt": 1791891480000,
+            "expireAt": 1793469300000,
+            "platforms": null,
+            "supportedCountries": [],
             "minAndroidVersionCode": null,
             "minIosVersionCode": null,
             "maxAndroidVersionCode": null,
             "maxIosVersionCode": null,
             "type": "IMAGE",
-            "aspectRatio": 0.56,
-            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
+            "aspectRatio": 0.75,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/muslimsday-lifetime-original-html-500x800-no-close-Uz6tx4Y8.gif",
             "html": null,
             "action": {
                 "type": "WEB",
-                "value": "https://kahf.to/md-fr-popup",
-                "label": null
-            }
-        },
-        {
-            "id": "install-md-bn-fr-0910",
-            "isActive": true,
-            "frequency": "ONCE",
-            "startAt": 1789045200000,
-            "expireAt": 1789131600000,
-            "platforms": [
-                "ANDROID",
-                "IOS"
-            ],
-            "minAndroidVersionCode": null,
-            "minIosVersionCode": null,
-            "maxAndroidVersionCode": null,
-            "maxIosVersionCode": null,
-            "type": "IMAGE",
-            "aspectRatio": 0.56,
-            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
-            "html": null,
-            "action": {
-                "type": "WEB",
-                "value": "https://kahf.to/md-fr-popup",
-                "label": null
-            }
-        },
-        {
-            "id": "install-md-bn-fr-0917",
-            "isActive": true,
-            "frequency": "ONCE",
-            "startAt": 1789650000000,
-            "expireAt": 1789736400000,
-            "platforms": [
-                "ANDROID",
-                "IOS"
-            ],
-            "minAndroidVersionCode": null,
-            "minIosVersionCode": null,
-            "maxAndroidVersionCode": null,
-            "maxIosVersionCode": null,
-            "type": "IMAGE",
-            "aspectRatio": 0.56,
-            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
-            "html": null,
-            "action": {
-                "type": "WEB",
-                "value": "https://kahf.to/md-fr-popup",
-                "label": null
-            }
-        },
-        {
-            "id": "install-md-bn-fr-0924",
-            "isActive": true,
-            "frequency": "ONCE",
-            "startAt": 1790254800000,
-            "expireAt": 1790341200000,
-            "platforms": [
-                "ANDROID",
-                "IOS"
-            ],
-            "minAndroidVersionCode": null,
-            "minIosVersionCode": null,
-            "maxAndroidVersionCode": null,
-            "maxIosVersionCode": null,
-            "type": "IMAGE",
-            "aspectRatio": 0.56,
-            "imageUrl": "https://data.muslimsday.com/appdata/image/donation-promo-bn.jpeg",
-            "html": null,
-            "action": {
-                "type": "WEB",
-                "value": "https://kahf.to/md-fr-popup",
-                "label": null
-            }
-        },
-        {
-            "id": "istigfar-sept-26-bn",
-            "isActive": true,
-            "frequency": "ONCE_PER_DAY",
-            "startAt": 1790006400000,
-            "expireAt": 1790791140000,
-            "platforms": [
-                "ANDROID",
-                "IOS"
-            ],
-            "minAndroidVersionCode": null,
-            "minIosVersionCode": null,
-            "maxAndroidVersionCode": null,
-            "maxIosVersionCode": null,
-            "type": "IMAGE",
-            "aspectRatio": 0.56,
-            "imageUrl": "https://data.muslimsday.com/appdata/image/istigfar_sept_26_bn.jpeg",
-            "html": null,
-            "action": {
-                "type": "WEB",
-                "value": "https://campaign.muslimsday.com/",
+                "value": "https://kahf.to/lifetime-app-notice",
                 "label": null
             }
         }
