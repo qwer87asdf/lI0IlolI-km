@@ -9,7 +9,9 @@
             "frequency": "ONCE",
             "startAt": 1791891360000,
             "expireAt": 1793469060000,
-            "platforms": null,
+            "platforms": [
+                "ANDROID"
+            ],
             "supportedCountries": [],
             "minAndroidVersionCode": null,
             "minIosVersionCode": null,
