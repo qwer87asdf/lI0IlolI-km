@@ -1,47 +1,66 @@
 {
-  "events": [
-    {
-      "id": "barakah-givers-en-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "Help 50,000 Muslims Make the Quran Part of Every Day!",
-      "description": "Gift a Baraqah Pass today that gives someone a full year of Muslims Day Premium.",
-      "startTime": 1791870639000,
-      "endTime": 1792065600000,
-      "isActive": true,
-      "priority": 100,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
-      }
-    },
-    {
-      "id": "friday-givers-en-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-      "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
-      "description": "Begin every Jumu'ah with Sadaqah",
-      "startTime": 1791604765000,
-      "endTime": 1823140765000,
-      "isActive": true,
-      "priority": 110,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/friday-givers/muslimsday"
-      },
-      "schedule": {
-        "type": "recurring",
-        "timezone": "Asia/Dhaka",
-        "recurrence": {
-          "frequency": "weekly",
-          "window": {
-            "startDay": "THURSDAY",
-            "startTime": "18:00",
-            "endDay": "FRIDAY",
-            "endTime": "23:59"
-          }
+    "events": [
+        {
+            "id": "friday-givers-en-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+            "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
+            "description": "Begin every Jumu'ah with Sadaqah",
+            "startTime": 1791604765000,
+            "endTime": 1823140765000,
+            "isActive": true,
+            "priority": 110,
+            "supportedCountries": [],
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/friday-givers/muslimsday"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "weekly",
+                    "window": {
+                        "startDay": "THURSDAY",
+                        "startTime": "18:00",
+                        "endDay": "FRIDAY",
+                        "endTime": "23:59"
+                    }
+                }
+            }
+        },
+        {
+            "id": "barakah-givers-en-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "Help 50,000 Muslims Make the Quran Part of Every Day!",
+            "description": "Gift a Baraqah Pass today that gives someone a full year of Muslims Day Premium.",
+            "startTime": 1791870639000,
+            "endTime": 1792065600000,
+            "isActive": true,
+            "priority": 100,
+            "supportedCountries": [],
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
+            }
+        },
+        {
+            "id": "dhikr-campaign-oct-26-en",
+            "icon": "https://data.muslimsday.com/appdata/image/allah-2Ew6oNl9.png",
+            "title": "One Ummah! One Kalimah!",
+            "description": "Join us to recite ‘La ilaha illallah’ 50M+ times",
+            "startTime": 1792144500000,
+            "endTime": 1793440500000,
+            "isActive": true,
+            "priority": 100,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://campaign.muslimsday.com/tawhid-oct-26/?ref=H45SZTYF"
+            }
         }
-      }
-    }
-  ]
+    ],
+    "maxCards": 10,
+    "autoSlideIntervalMs": 3000
 }
