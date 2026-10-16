@@ -148,23 +148,10 @@
   },
   "homeAppBarCtas": [
     {
-      "id": "daily-support-2",
-      "iconUrl": "https://data.muslimsday.com/appdata/image/donation_circle.png",
-      "startDate": 1791208697000,
-      "endDate": 1791309540000,
-      "priority": 1,
-      "showAfterInstallHours": 72,
-      "visibleTo": [],
-      "action": {
-        "type": "url",
-        "url": "https://id.kahf.co/daily-support/muslimsday"
-      }
-    },
-    {
       "id": "appbar-ansar-only",
       "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
       "startDate": 0,
-      "endDate": 1791741540000,
+      "endDate": 1793419144000,
       "priority": 30,
       "action": {
         "type": "url",
