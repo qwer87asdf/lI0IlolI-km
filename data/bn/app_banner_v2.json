@@ -1,47 +1,70 @@
 {
-  "events": [
-    {
-      "id": "barakah-givers-bn-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "আজকে আপনি কতজন মুসলিমের ইবাদতের সঙ্গী হতে চান?",
-      "description": "আপনার দেয়া Barakah Pass একজন মুসলিমের কুরআন পাঠ, যিকর ও অন্যান্য ইবাদতে সহায়ক হবে, ইনশাআল্লাহ।",
-      "startTime": 1791870639000,
-      "endTime": 1792065600000,
-      "isActive": true,
-      "priority": 100,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
-      }
-    },
-    {
-      "id": "friday-givers-bn-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-      "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
-      "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
-      "startTime": 1791604765000,
-      "endTime": 1823140765000,
-      "isActive": true,
-      "priority": 110,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/friday-givers/muslimsday"
-      },
-      "schedule": {
-        "type": "recurring",
-        "timezone": "Asia/Dhaka",
-        "recurrence": {
-          "frequency": "weekly",
-          "window": {
-            "startDay": "THURSDAY",
-            "startTime": "18:00",
-            "endDay": "FRIDAY",
-            "endTime": "23:59"
-          }
+    "events": [
+        {
+            "id": "friday-givers-bn-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+            "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
+            "description": "প্রতিটি জুমআ শুরু করুন সাদাকা দিয়ে",
+            "startTime": 1791604765000,
+            "endTime": 1823140765000,
+            "isActive": true,
+            "priority": 110,
+            "supportedCountries": [],
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/friday-givers/muslimsday"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "weekly",
+                    "window": {
+                        "startDay": "THURSDAY",
+                        "startTime": "18:00",
+                        "endDay": "FRIDAY",
+                        "endTime": "23:59"
+                    }
+                }
+            }
+        },
+        {
+            "id": "barakah-givers-bn-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/heart.png",
+            "title": "আজকে আপনি কতজন মুসলিমের ইবাদতের সঙ্গী হতে চান?",
+            "description": "আপনার দেয়া Barakah Pass একজন মুসলিমের কুরআন পাঠ, যিকর ও অন্যান্য ইবাদতে সহায়ক হবে, ইনশাআল্লাহ।",
+            "startTime": 1791870639000,
+            "endTime": 1792065600000,
+            "isActive": true,
+            "priority": 100,
+            "supportedCountries": [],
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
+            }
+        },
+        {
+            "id": "dhikr-campaign-oct-26-bn",
+            "icon": "https://data.muslimsday.com/appdata/image/allah-9CjKYZgL.png",
+            "title": "এক উম্মাহ! এক কালিমা!",
+            "description": "৫ কোটি+ বার ‘লা ইলাহা ইল্লাল্লাহ’ পাঠের উদ্যোগে যুক্ত হোন",
+            "startTime": 1792144020000,
+            "endTime": 1793440020000,
+            "isActive": true,
+            "priority": 100,
+            "supportedCountries": [],
+            "supportedPlatforms": [
+                "Android",
+                "iOS"
+            ],
+            "action": {
+                "type": "web",
+                "url": "https://campaign.muslimsday.com/tawhid-oct-26/?ref=H45SZTYF"
+            }
         }
-      }
-    }
-  ]
+    ],
+    "maxCards": 10,
+    "autoSlideIntervalMs": 3000
 }
