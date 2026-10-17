@@ -48,6 +48,28 @@
                 "value": "https://kahf.to/lifetime-app-notice",
                 "label": null
             }
+        },
+        {
+            "id": "dhikr-campaign-oct-26-bn",
+            "isActive": true,
+            "frequency": "ONCE",
+            "startAt": 1792226340000,
+            "expireAt": 1792399140000,
+            "platforms": null,
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "IMAGE",
+            "aspectRatio": 0.75,
+            "imageUrl": "https://data.muslimsday.com/appdata/image/WhatsApp_Image_2026-10-16_at_22.40.55-4rSw7K5h.jpeg",
+            "html": null,
+            "action": {
+                "type": "WEB",
+                "value": "https://campaign.muslimsday.com/tawhid-oct-26/?ref=H45SZTYF",
+                "label": null
+            }
         }
     ]
 }
