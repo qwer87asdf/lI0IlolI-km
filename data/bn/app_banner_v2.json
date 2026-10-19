@@ -46,22 +46,18 @@
             }
         },
         {
-            "id": "dhikr-campaign-oct-26-bn",
-            "icon": "https://data.muslimsday.com/appdata/image/allah-9CjKYZgL.png",
-            "title": "এক উম্মাহ! এক কালিমা!",
-            "description": "৫ কোটি+ বার ‘লা ইলাহা ইল্লাল্লাহ’ পাঠের উদ্যোগে যুক্ত হোন",
-            "startTime": 1792144020000,
-            "endTime": 1793440020000,
+            "id": "dhikr-oct-26-bn-2",
+            "icon": "https://data.muslimsday.com/appdata/image/allah-2Ew6oNl9.png",
+            "title": "এক উম্মাহ। এক কালিমা। ৫ কোটি বার লা ইলাহা ইল্লাল্লাহ।",
+            "description": "আসুন, বিশ্বজুড়ে মুসলিম ভাইবোনদের সঙ্গে ৫ কোটি বার লা ইলাহা ইল্লাল্লাহ পড়ার উদ্যোগে শামিল হই।",
+            "startTime": 1792381800000,
+            "endTime": 1793469000000,
             "isActive": true,
             "priority": 100,
             "supportedCountries": [],
-            "supportedPlatforms": [
-                "Android",
-                "iOS"
-            ],
             "action": {
                 "type": "web",
-                "url": "https://campaign.muslimsday.com/tawhid-oct-26/?ref=H45SZTYF"
+                "url": "https://campaign.muslimsday.com/tawhid-oct-26/bn"
             }
         }
     ],
