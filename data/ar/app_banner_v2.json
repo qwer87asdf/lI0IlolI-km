@@ -1,47 +1,5 @@
 {
-  "events": [
-    {
-      "id": "barakah-givers-ar-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "ساعد 50,000 مسلم على جعل القرآن جزءًا من كل يوم!",
-      "description": "أهدِ بطاقة Baraqah Pass اليوم لتمنح شخصًا سنة كاملة من Muslims Day Premium.",
-      "startTime": 1791870639000,
-      "endTime": 1792065600000,
-      "isActive": true,
-      "priority": 100,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
-      }
-    },
-    {
-      "id": "friday-givers-ar-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-      "title": "عطاء الجمعة – صدقة تلقائية كل يوم جمعة",
-      "description": "ابدأ كل جمعة بصدقة",
-      "startTime": 1791604765000,
-      "endTime": 1823140765000,
-      "isActive": true,
-      "priority": 110,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/friday-givers/muslimsday"
-      },
-      "schedule": {
-        "type": "recurring",
-        "timezone": "Asia/Dhaka",
-        "recurrence": {
-          "frequency": "weekly",
-          "window": {
-            "startDay": "THURSDAY",
-            "startTime": "18:00",
-            "endDay": "FRIDAY",
-            "endTime": "23:59"
-          }
-        }
-      }
-    }
-  ]
+    "events": [],
+    "maxCards": 10,
+    "autoSlideIntervalMs": 3000
 }
