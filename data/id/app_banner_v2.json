@@ -1,47 +1,5 @@
 {
-  "events": [
-    {
-      "id": "barakah-givers-id-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/heart.png",
-      "title": "Bantu 50.000 Muslim Menjadikan Al-Qur'an Bagian dari Setiap Hari!",
-      "description": "Hadiahkan Baraqah Pass hari ini untuk memberi seseorang satu tahun penuh Muslims Day Premium.",
-      "startTime": 1791870639000,
-      "endTime": 1792065600000,
-      "isActive": true,
-      "priority": 100,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/barakah-givers/muslimsday?custom_utm=in-app-notice"
-      }
-    },
-    {
-      "id": "friday-givers-id-v2-1",
-      "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
-      "title": "Friday Givers – Sedekah Otomatis Setiap Jumat",
-      "description": "Awali setiap hari Jumat dengan sedekah",
-      "startTime": 1791604765000,
-      "endTime": 1823140765000,
-      "isActive": true,
-      "priority": 110,
-      "showAfterInstallHours": 72,
-      "action": {
-        "type": "web",
-        "url": "https://id.kahf.co/friday-givers/muslimsday"
-      },
-      "schedule": {
-        "type": "recurring",
-        "timezone": "Asia/Dhaka",
-        "recurrence": {
-          "frequency": "weekly",
-          "window": {
-            "startDay": "THURSDAY",
-            "startTime": "18:00",
-            "endDay": "FRIDAY",
-            "endTime": "23:59"
-          }
-        }
-      }
-    }
-  ]
+    "events": [],
+    "maxCards": 10,
+    "autoSlideIntervalMs": 3000
 }
