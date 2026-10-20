@@ -164,13 +164,13 @@
       "id": "support-3",
       "iconUrl": "https://data.muslimsday.com/appdata/image/hand_support.png",
       "startDate": 1791208697000,
-      "endDate": 1791309540000,
+      "endDate": 1797732105000,
       "priority": 1,
-      "showAfterInstallHours": 72,
+      "showAfterInstallHours": 0,
       "visibleTo": [],
       "action": {
         "type": "url",
-        "url": "https://id.kahf.co/support/muslimsday"
+        "url": "https://link.muslimsday.com/prayer-times/share"
       }
     },
     {
