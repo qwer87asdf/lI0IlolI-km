@@ -27,6 +27,357 @@
                 "value": "https://kahf.to/lifetime-app-notice",
                 "label": null
             }
+        },
+        {
+            "id": "qa-pr-once",
+            "isActive": false,
+            "frequency": "ONCE",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF00AA;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-ONCE</body></html>",
+            "action": {
+                "type": "ROUTE",
+                "value": "tasbeeh",
+                "label": "Open 3JA6"
+            }
+        },
+        {
+            "id": "qa-pr-sticky",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF00AA;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-STICKY</body></html>",
+            "action": {
+                "type": "ROUTE",
+                "value": "tasbeeh",
+                "label": "Open 3JA6"
+            }
+        },
+        {
+            "id": "qa-pr-delayed",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF00AA;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-DELAYED</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-off",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF00AA;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-OFF</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-every",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#00AAFF;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-EVERY</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-daily",
+            "isActive": false,
+            "frequency": "ONCE_PER_DAY",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#22CC22;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-DAILY</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-h-future",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792662300000,
+            "expireAt": 1792748700000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF8800;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-H-FUTURE</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-h-expired",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792230300000,
+            "expireAt": 1792316700000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#8800FF;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-H-EXPIRED</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-h-ios",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#00CC99;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-H-IOS</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-h-minver",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": 999999,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#CC3300;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-H-MINVER</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-h-maxver",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": 1,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#0033CC;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-H-MAXVER</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-h-country",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403100000,
+            "expireAt": 1795081500000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [
+                "SAU"
+            ],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#999900;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-H-COUNTRY</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-pr-h-inactive",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": 1792403153000,
+            "expireAt": 1795081553000,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF8800;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">PR-H-INACTIVE</body></html>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
+        },
+        {
+            "id": "qa-validate-promo",
+            "isActive": false,
+            "frequency": "EVERY_LAUNCH",
+            "startAt": null,
+            "expireAt": null,
+            "platforms": [
+                "ANDROID",
+                "IOS"
+            ],
+            "supportedCountries": [],
+            "minAndroidVersionCode": null,
+            "minIosVersionCode": null,
+            "maxAndroidVersionCode": null,
+            "maxIosVersionCode": null,
+            "type": "HTML",
+            "aspectRatio": 0.75,
+            "imageUrl": null,
+            "html": "<p>x</p>",
+            "action": {
+                "type": "NONE",
+                "value": null,
+                "label": null
+            }
         }
     ]
 }
