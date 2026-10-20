@@ -1,6 +1,616 @@
 {
     "events": [
         {
+            "id": "qa-ab-h-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-INACTIVE PUB1",
+            "description": "Description of AB-H-INACTIVE",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": false,
+            "priority": 10012,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-h-future",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-FUTURE PUB1",
+            "description": "Description of AB-H-FUTURE",
+            "startTime": 1792662942000,
+            "endTime": 1792749342000,
+            "isActive": true,
+            "priority": 10011,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-h-past",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-PAST PUB1",
+            "description": "Description of AB-H-PAST",
+            "startTime": 1792230942000,
+            "endTime": 1792317342000,
+            "isActive": true,
+            "priority": 10010,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-h-country",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-COUNTRY PUB1",
+            "description": "Description of AB-H-COUNTRY",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10009,
+            "supportedCountries": [
+                "SAU"
+            ],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-h-platform",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-PLATFORM PUB1",
+            "description": "Description of AB-H-PLATFORM",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10008,
+            "supportedCountries": [],
+            "supportedPlatforms": [
+                "iOS"
+            ],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-h-weekly",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-WEEKLY PUB1",
+            "description": "Description of AB-H-WEEKLY",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10007,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "weekly",
+                    "window": {
+                        "startDay": "SATURDAY",
+                        "startTime": "00:00",
+                        "endDay": "SATURDAY",
+                        "endTime": "23:59"
+                    }
+                }
+            }
+        },
+        {
+            "id": "qa-ab-h-monthly",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-MONTHLY PUB1",
+            "description": "Description of AB-H-MONTHLY",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10006,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "monthly",
+                    "calendar": "gregorian",
+                    "dayOfMonth": 2,
+                    "startTime": "00:00",
+                    "endTime": "23:59"
+                }
+            }
+        },
+        {
+            "id": "qa-ab-h-tomorrow",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-TOMORROW PUB1",
+            "description": "Description of AB-H-TOMORROW",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10005,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "schedule": {
+                "type": "one_time",
+                "timezone": "Asia/Dhaka",
+                "startDate": "2026-10-21",
+                "endDate": "2026-10-21",
+                "startTime": "00:00",
+                "endTime": "23:59"
+            }
+        },
+        {
+            "id": "qa-ab-h-auth",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-AUTH PUB1",
+            "description": "Description of AB-H-AUTH",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10004,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "qa-ab-h-premium",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-PREMIUM PUB1",
+            "description": "Description of AB-H-PREMIUM",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10003,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "premium"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "qa-ab-capday",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-CAPDAY 3JA6",
+            "description": "Description of AB-CAPDAY",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 10002,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "displayRules": {
+                "maxImpressionsPerDay": 1
+            }
+        },
+        {
+            "id": "qa-ab-h-donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-DONATED PUB1",
+            "description": "Description of AB-H-DONATED",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10002,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "ever_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "qa-ab-duration",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-DURATION 3JA6",
+            "description": "Description of AB-DURATION",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 10001,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "displayRules": {
+                "displayDurationDays": 1
+            }
+        },
+        {
+            "id": "qa-ab-h-showafter",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-H-SHOWAFTER PUB1",
+            "description": "Description of AB-H-SHOWAFTER",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 10001,
+            "supportedCountries": [],
+            "showAfterInstallHours": 2000,
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-hideclick",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-HIDECLICK 3JA6",
+            "description": "Description of AB-HIDECLICK",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 10001,
+            "supportedCountries": [],
+            "ctaText": "Tap 3JA6",
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "displayRules": {
+                "hideAfterClick": true
+            }
+        },
+        {
+            "id": "qa-ab-max2",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-MAX2 3JA6",
+            "description": "Description of AB-MAX2",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 10001,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "displayRules": {
+                "maxImpressions": 2
+            }
+        },
+        {
+            "id": "qa-ab-s",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-S PUB1",
+            "description": "Description of AB-S",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9999,
+            "supportedCountries": [],
+            "ctaText": "Open PUB1",
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-s2",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-S2 3JA6",
+            "description": "Description of AB-S2",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 9999,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-s3",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-S3 3JA6",
+            "description": "Description of AB-S3",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 9999,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-s4",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-S4 3JA6",
+            "description": "Description of AB-S4",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 9999,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-never",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-NEVER 3JA6",
+            "description": "Description of AB-NEVER",
+            "startTime": 1792403100000,
+            "endTime": 1795081500000,
+            "isActive": false,
+            "priority": 9998,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-v-country",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-COUNTRY PUB1",
+            "description": "Description of AB-V-COUNTRY",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9998,
+            "supportedCountries": [
+                "BGD"
+            ],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-v-platform",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-PLATFORM PUB1",
+            "description": "Description of AB-V-PLATFORM",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9997,
+            "supportedCountries": [],
+            "supportedPlatforms": [
+                "Android"
+            ],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-v-weekly",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-WEEKLY PUB1",
+            "description": "Description of AB-V-WEEKLY",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9996,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "weekly",
+                    "window": {
+                        "startDay": "TUESDAY",
+                        "startTime": "00:00",
+                        "endDay": "TUESDAY",
+                        "endTime": "23:59"
+                    }
+                }
+            }
+        },
+        {
+            "id": "qa-ab-v-monthly",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-MONTHLY PUB1",
+            "description": "Description of AB-V-MONTHLY",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9995,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "monthly",
+                    "calendar": "gregorian",
+                    "dayOfMonth": 20,
+                    "startTime": "00:00",
+                    "endTime": "23:59"
+                }
+            }
+        },
+        {
+            "id": "qa-ab-v-today",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-TODAY PUB1",
+            "description": "Description of AB-V-TODAY",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9994,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "schedule": {
+                "type": "one_time",
+                "timezone": "Asia/Dhaka",
+                "startDate": "2026-10-20",
+                "endDate": "2026-10-20",
+                "startTime": "00:00",
+                "endTime": "23:59"
+            }
+        },
+        {
+            "id": "qa-ab-v-nonauth",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-NONAUTH PUB1",
+            "description": "Description of AB-V-NONAUTH",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9993,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "qa-ab-v-neverdonated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-NEVERDONATED PUB1",
+            "description": "Description of AB-V-NEVERDONATED",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9992,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "never_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "qa-ab-v-feature",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-FEATURE PUB1",
+            "description": "Description of AB-V-FEATURE",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9991,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "tasbeeh",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "qa-ab-v-image",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-IMAGE PUB1",
+            "description": "Description of AB-V-IMAGE",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9990,
+            "supportedCountries": [],
+            "imageUrl": "https://dev.data.muslimsday.com/appdata/image/{theme}/kk-O73YNtfv.png",
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-v-html",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-V-HTML PUB1",
+            "description": "Description of AB-V-HTML",
+            "startTime": 1792403742000,
+            "endTime": 1795082142000,
+            "isActive": true,
+            "priority": 9989,
+            "supportedCountries": [],
+            "webViewHtml": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF00AA;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">AB-V-HTML</body></html>",
+            "webViewAspectRatio": 1.78,
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
             "id": "donation",
             "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/friday-8NqegS9P.jpeg",
             "title": "My Love My Donation",
@@ -94,8 +704,26 @@
                 "type": "web",
                 "url": "https://kahfguard.com/"
             }
+        },
+        {
+            "id": "qa-validate-banner",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA validate",
+            "description": "",
+            "startTime": 1792403100000,
+            "endTime": 1792575900000,
+            "isActive": false,
+            "priority": 1,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "displayRules": {
+                "hideAfterClick": true
+            }
         }
     ],
-    "maxCards": 10,
-    "autoSlideIntervalMs": 3000
+    "maxCards": 25,
+    "autoSlideIntervalMs": 60000
 }
