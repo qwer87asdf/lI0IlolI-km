@@ -50,11 +50,11 @@
             }
         },
         {
-            "id": "dhikr-campaign-oct-26-bn",
+            "id": "dhikr-campaign-oct-26-bn-2",
             "isActive": true,
             "frequency": "ONCE",
-            "startAt": 1792226340000,
-            "expireAt": 1792399140000,
+            "startAt": 1792485540000,
+            "expireAt": 1792690740000,
             "platforms": null,
             "supportedCountries": [],
             "minAndroidVersionCode": null,
