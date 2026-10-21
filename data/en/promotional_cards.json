@@ -1,7 +1,7 @@
 {
     "isEnabled": true,
-    "dismissible": false,
-    "showAfterInstallHours": 0,
+    "dismissible": true,
+    "showAfterInstallHours": 48,
     "cards": [
         {
             "id": "lifetime-en",
@@ -55,10 +55,10 @@
         },
         {
             "id": "qa-pr-sticky",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492649000,
-            "expireAt": 1795171049000,
+            "startAt": 1792492620000,
+            "expireAt": 1795171020000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -80,10 +80,10 @@
         },
         {
             "id": "qa-pr-delayed",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792403100000,
-            "expireAt": 1795081500000,
+            "startAt": 1792492649000,
+            "expireAt": 1795171049000,
             "platforms": [
                 "ANDROID",
                 "IOS"
