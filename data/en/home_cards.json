@@ -12,9 +12,9 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-BASIC 4VIG",
+                "title": "QA HC-V-BASIC OKAE",
                 "subtitle": "Subtitle of HC-V-BASIC",
-                "buttonText": "Go 4VIG",
+                "buttonText": "Go OKAE",
                 "bannerType": "PRIMARY",
                 "iconId": "INFO",
                 "iconUrl": null,
@@ -38,7 +38,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-COUNTRY 4VIG",
+                "title": "QA HC-V-COUNTRY OKAE",
                 "subtitle": "Subtitle of HC-V-COUNTRY",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -64,7 +64,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-H-COUNTRY 4VIG",
+                "title": "QA HC-H-COUNTRY OKAE",
                 "subtitle": "Subtitle of HC-H-COUNTRY",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -90,7 +90,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-NOTCOUNTRY 4VIG",
+                "title": "QA HC-V-NOTCOUNTRY OKAE",
                 "subtitle": "Subtitle of HC-V-NOTCOUNTRY",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -116,7 +116,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-H-NOTCOUNTRY 4VIG",
+                "title": "QA HC-H-NOTCOUNTRY OKAE",
                 "subtitle": "Subtitle of HC-H-NOTCOUNTRY",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -142,7 +142,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-LANG 4VIG",
+                "title": "QA HC-V-LANG OKAE",
                 "subtitle": "Subtitle of HC-V-LANG",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -168,7 +168,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-H-LANG 4VIG",
+                "title": "QA HC-H-LANG OKAE",
                 "subtitle": "Subtitle of HC-H-LANG",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -194,7 +194,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-NOTLANG 4VIG",
+                "title": "QA HC-V-NOTLANG OKAE",
                 "subtitle": "Subtitle of HC-V-NOTLANG",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -220,7 +220,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-H-NOTLANG 4VIG",
+                "title": "QA HC-H-NOTLANG OKAE",
                 "subtitle": "Subtitle of HC-H-NOTLANG",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -246,7 +246,7 @@
             ],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-ANON 4VIG",
+                "title": "QA HC-V-ANON OKAE",
                 "subtitle": "Subtitle of HC-V-ANON",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -272,7 +272,7 @@
             ],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-H-AUTH 4VIG",
+                "title": "QA HC-H-AUTH OKAE",
                 "subtitle": "Subtitle of HC-H-AUTH",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -294,9 +294,9 @@
             "supportedCountries": [],
             "notSupportedCountries": [],
             "visibleTo": [],
-            "endTimestampInSecond": 1792581043,
+            "endTimestampInSecond": 1792585761,
             "bannerConfig": {
-                "title": "QA HC-V-EXPIRING 4VIG",
+                "title": "QA HC-V-EXPIRING OKAE",
                 "subtitle": "Subtitle of HC-V-EXPIRING",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -322,7 +322,7 @@
             ],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-H-PAID 4VIG",
+                "title": "QA HC-H-PAID OKAE",
                 "subtitle": "Subtitle of HC-H-PAID",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -350,7 +350,7 @@
             ],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-ALL 4VIG",
+                "title": "QA HC-V-ALL OKAE",
                 "subtitle": "Subtitle of HC-V-ALL",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -372,9 +372,9 @@
             "supportedCountries": [],
             "notSupportedCountries": [],
             "visibleTo": [],
-            "endTimestampInSecond": 1792566643,
+            "endTimestampInSecond": 1792571361,
             "bannerConfig": {
-                "title": "QA HC-H-EXPIRED 4VIG",
+                "title": "QA HC-H-EXPIRED OKAE",
                 "subtitle": "Subtitle of HC-H-EXPIRED",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -398,7 +398,7 @@
             "visibleTo": [],
             "endTimestampInSecond": null,
             "bannerConfig": {
-                "title": "QA HC-V-LAST 4VIG",
+                "title": "QA HC-V-LAST OKAE",
                 "subtitle": "Subtitle of HC-V-LAST",
                 "buttonText": "Open",
                 "bannerType": "PRIMARY",
@@ -440,7 +440,7 @@
             "notSupportedCountries": [],
             "visibleTo": [],
             "endTimestampInSecond": null,
-            "title": "QA HC-IMAGE 4VIG",
+            "title": "QA HC-IMAGE OKAE",
             "action": {
                 "type": "screen",
                 "routeKey": "tasbeeh"
@@ -461,14 +461,16 @@
             "shortcuts": [
                 {
                     "id": "qa-tile",
-                    "title": "Tile 4VIG",
+                    "title": "Tile OKAE",
                     "iconId": "TASBIH_SHORTCUT",
                     "icon_type": "single",
                     "isEnabled": true,
                     "action": {
                         "type": "screen",
                         "routeKey": "tasbeeh"
-                    }
+                    },
+                    "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+                    "iconUrl": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png"
                 }
             ]
         },
@@ -702,5 +704,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1792570275000
+    "lastUpdated": 1792574995000
 }
