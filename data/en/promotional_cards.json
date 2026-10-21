@@ -30,10 +30,10 @@
         },
         {
             "id": "qa-pr-once",
-            "isActive": true,
+            "isActive": false,
             "frequency": "ONCE",
-            "startAt": 1792494638000,
-            "expireAt": 1795173038000,
+            "startAt": 1792494600000,
+            "expireAt": 1795173000000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -130,10 +130,10 @@
         },
         {
             "id": "qa-pr-every",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792494638000,
-            "expireAt": 1795173038000,
+            "startAt": 1792494600000,
+            "expireAt": 1795173000000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -155,10 +155,10 @@
         },
         {
             "id": "qa-pr-daily",
-            "isActive": true,
+            "isActive": false,
             "frequency": "ONCE_PER_DAY",
-            "startAt": 1792494638000,
-            "expireAt": 1795173038000,
+            "startAt": 1792494600000,
+            "expireAt": 1795173000000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -180,10 +180,10 @@
         },
         {
             "id": "qa-pr-h-future",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792753838000,
-            "expireAt": 1792840238000,
+            "startAt": 1792753800000,
+            "expireAt": 1792840200000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -205,10 +205,10 @@
         },
         {
             "id": "qa-pr-h-expired",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792321838000,
-            "expireAt": 1792408238000,
+            "startAt": 1792321800000,
+            "expireAt": 1792408200000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -230,10 +230,10 @@
         },
         {
             "id": "qa-pr-h-ios",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792494638000,
-            "expireAt": 1795173038000,
+            "startAt": 1792494600000,
+            "expireAt": 1795173000000,
             "platforms": [
                 "IOS"
             ],
@@ -254,10 +254,10 @@
         },
         {
             "id": "qa-pr-h-minver",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792494638000,
-            "expireAt": 1795173038000,
+            "startAt": 1792494600000,
+            "expireAt": 1795173000000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -279,10 +279,10 @@
         },
         {
             "id": "qa-pr-h-maxver",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792494638000,
-            "expireAt": 1795173038000,
+            "startAt": 1792494600000,
+            "expireAt": 1795173000000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -304,10 +304,10 @@
         },
         {
             "id": "qa-pr-h-country",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792494638000,
-            "expireAt": 1795173038000,
+            "startAt": 1792494600000,
+            "expireAt": 1795173000000,
             "platforms": [
                 "ANDROID",
                 "IOS"
