@@ -1,6 +1,21 @@
 {
     "events": [
         {
+            "id": "ayame-beez-oct-26-bn-1",
+            "icon": "https://data.muslimsday.com/appdata/image/ramadan_1-NdV8bLSU.png",
+            "title": "আইয়ামে বীজের রোজা রাখছেন তো?",
+            "description": "এ মাসে আইয়ামে বীজের রোজা যথাক্রমে ২৫,২৬ ও ২৭ অক্টোবর।",
+            "startTime": 1792585980000,
+            "endTime": 1793012400000,
+            "isActive": true,
+            "priority": 110,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://muslimsday.com/blog/আইয়ামে-বীজ-রোজার-ফজিলত/"
+            }
+        },
+        {
             "id": "friday-givers-bn-v2-1",
             "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
             "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
