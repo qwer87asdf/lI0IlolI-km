@@ -159,8 +159,8 @@
         {
             "id": "qa-ct-bar-s",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90000,
             "showAfterInstallHours": 0,
             "visibleTo": [],
@@ -172,8 +172,8 @@
         {
             "id": "qa-ct-bar-anon",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90001,
             "showAfterInstallHours": 0,
             "visibleTo": [
@@ -187,8 +187,8 @@
         {
             "id": "qa-ct-bar-expired",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792323300000,
-            "endDate": 1792409700000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90002,
             "showAfterInstallHours": 0,
             "visibleTo": [],
@@ -202,8 +202,8 @@
         {
             "id": "qa-ct-fab-s",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90000,
             "showAfterInstallHours": 0,
             "visibleTo": [],
@@ -215,8 +215,8 @@
         {
             "id": "qa-ct-fab-future",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792755300000,
-            "endDate": 1792841700000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90009,
             "showAfterInstallHours": 0,
             "visibleTo": [],
@@ -228,8 +228,8 @@
         {
             "id": "qa-ct-fab-expired",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792323300000,
-            "endDate": 1792409700000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90008,
             "showAfterInstallHours": 0,
             "visibleTo": [],
@@ -241,8 +241,8 @@
         {
             "id": "qa-ct-fab-country",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90007,
             "showAfterInstallHours": 0,
             "visibleTo": [],
@@ -257,8 +257,8 @@
         {
             "id": "qa-ct-fab-showafter",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90006,
             "showAfterInstallHours": 2000,
             "visibleTo": [],
@@ -270,8 +270,8 @@
         {
             "id": "qa-ct-fab-auth",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90005,
             "showAfterInstallHours": 0,
             "visibleTo": [
@@ -285,8 +285,8 @@
         {
             "id": "qa-ct-fab-paid",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90004,
             "showAfterInstallHours": 0,
             "visibleTo": [
@@ -300,8 +300,8 @@
         {
             "id": "qa-ct-fab-weekly",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792496100000,
-            "endDate": 1795174500000,
+            "startDate": 1792325460000,
+            "endDate": 1792411860000,
             "priority": 90003,
             "showAfterInstallHours": 0,
             "visibleTo": [],
