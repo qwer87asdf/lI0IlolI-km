@@ -250,11 +250,11 @@
         {
             "id": "qa-ab-duration",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-DURATION 3JA6",
+            "title": "QA AB-DURATION X1PL",
             "description": "Description of AB-DURATION",
-            "startTime": 1792403100000,
-            "endTime": 1795081500000,
-            "isActive": false,
+            "startTime": 1792480897000,
+            "endTime": 1795159297000,
+            "isActive": true,
             "priority": 10001,
             "supportedCountries": [],
             "action": {
@@ -305,9 +305,9 @@
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
             "title": "QA AB-MAX2 X1PL",
             "description": "Description of AB-MAX2",
-            "startTime": 1792480897000,
-            "endTime": 1795159297000,
-            "isActive": true,
+            "startTime": 1792480860000,
+            "endTime": 1795159260000,
+            "isActive": false,
             "priority": 10001,
             "supportedCountries": [],
             "action": {
@@ -354,6 +354,21 @@
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
             "title": "QA AB-S3 X1PL",
             "description": "Description of AB-S3",
+            "startTime": 1792480860000,
+            "endTime": 1795159260000,
+            "isActive": false,
+            "priority": 9999,
+            "supportedCountries": [],
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "qa-ab-s4",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA AB-S4 X1PL",
+            "description": "Description of AB-S4",
             "startTime": 1792480897000,
             "endTime": 1795159297000,
             "isActive": true,
@@ -365,28 +380,13 @@
             }
         },
         {
-            "id": "qa-ab-s4",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-S4 3JA6",
-            "description": "Description of AB-S4",
-            "startTime": 1792403100000,
-            "endTime": 1795081500000,
-            "isActive": false,
-            "priority": 9999,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
             "id": "qa-ab-never",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-NEVER 3JA6",
+            "title": "QA AB-NEVER X1PL",
             "description": "Description of AB-NEVER",
-            "startTime": 1792403100000,
-            "endTime": 1795081500000,
-            "isActive": false,
+            "startTime": 1792480897000,
+            "endTime": 1795159297000,
+            "isActive": true,
             "priority": 9998,
             "supportedCountries": [],
             "action": {
@@ -724,6 +724,6 @@
             }
         }
     ],
-    "maxCards": 25,
+    "maxCards": 1,
     "autoSlideIntervalMs": 60000
 }
