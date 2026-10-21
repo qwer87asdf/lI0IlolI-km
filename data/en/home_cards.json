@@ -2,6 +2,527 @@
     "items": [
         {
             "type": "banner",
+            "id": "qa-hc-v-basic",
+            "priority": 1,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-BASIC 4VIG",
+                "subtitle": "Subtitle of HC-V-BASIC",
+                "buttonText": "Go 4VIG",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-country",
+            "priority": 3,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [
+                "Bangladesh"
+            ],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-COUNTRY 4VIG",
+                "subtitle": "Subtitle of HC-V-COUNTRY",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-h-country",
+            "priority": 4,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [
+                "Pakistan"
+            ],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-H-COUNTRY 4VIG",
+                "subtitle": "Subtitle of HC-H-COUNTRY",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-notcountry",
+            "priority": 5,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [
+                "Pakistan"
+            ],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-NOTCOUNTRY 4VIG",
+                "subtitle": "Subtitle of HC-V-NOTCOUNTRY",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-h-notcountry",
+            "priority": 6,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [
+                "Bangladesh"
+            ],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-H-NOTCOUNTRY 4VIG",
+                "subtitle": "Subtitle of HC-H-NOTCOUNTRY",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-lang",
+            "priority": 7,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "en"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-LANG 4VIG",
+                "subtitle": "Subtitle of HC-V-LANG",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-h-lang",
+            "priority": 8,
+            "isEnabled": true,
+            "supportedLanguages": [
+                "bn"
+            ],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-H-LANG 4VIG",
+                "subtitle": "Subtitle of HC-H-LANG",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-notlang",
+            "priority": 9,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [
+                "bn"
+            ],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-NOTLANG 4VIG",
+                "subtitle": "Subtitle of HC-V-NOTLANG",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-h-notlang",
+            "priority": 10,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [
+                "en"
+            ],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-H-NOTLANG 4VIG",
+                "subtitle": "Subtitle of HC-H-NOTLANG",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-anon",
+            "priority": 11,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-ANON 4VIG",
+                "subtitle": "Subtitle of HC-V-ANON",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-h-auth",
+            "priority": 12,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-H-AUTH 4VIG",
+                "subtitle": "Subtitle of HC-H-AUTH",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-expiring",
+            "priority": 13,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": 1792581043,
+            "bannerConfig": {
+                "title": "QA HC-V-EXPIRING 4VIG",
+                "subtitle": "Subtitle of HC-V-EXPIRING",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-h-paid",
+            "priority": 14,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "PAID"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-H-PAID 4VIG",
+                "subtitle": "Subtitle of HC-H-PAID",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-all",
+            "priority": 15,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-ALL 4VIG",
+                "subtitle": "Subtitle of HC-V-ALL",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-h-expired",
+            "priority": 16,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": 1792566643,
+            "bannerConfig": {
+                "title": "QA HC-H-EXPIRED 4VIG",
+                "subtitle": "Subtitle of HC-H-EXPIRED",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "banner",
+            "id": "qa-hc-v-last",
+            "priority": 17,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "bannerConfig": {
+                "title": "QA HC-V-LAST 4VIG",
+                "subtitle": "Subtitle of HC-V-LAST",
+                "buttonText": "Open",
+                "bannerType": "PRIMARY",
+                "iconId": "INFO",
+                "iconUrl": null,
+                "action": {
+                    "type": "screen",
+                    "routeKey": "tasbeeh"
+                }
+            }
+        },
+        {
+            "type": "countdown_timer",
+            "id": "qa-hc-ramadan",
+            "priority": 18,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "timerConfig": {
+                "eventType": "RAMADAN_START",
+                "title": null,
+                "subtitle": null,
+                "showSeconds": true,
+                "compactMode": false
+            }
+        },
+        {
+            "type": "image_card",
+            "id": "qa-hc-image",
+            "priority": 20,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "title": "QA HC-IMAGE 4VIG",
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            },
+            "imageUrl": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png"
+        },
+        {
+            "type": "shortcuts_card",
+            "id": "qa-hc-shortcuts",
+            "priority": 21,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "shortcuts": [
+                {
+                    "id": "qa-tile",
+                    "title": "Tile 4VIG",
+                    "iconId": "TASBIH_SHORTCUT",
+                    "icon_type": "single",
+                    "isEnabled": true,
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "tasbeeh"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "custom_widget",
+            "id": "qa-hc-custom",
+            "priority": 22,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "widgetType": "CUSTOM_CONTENT",
+            "data": {
+                "source": "qa"
+            }
+        },
+        {
+            "type": "countdown_timer",
+            "id": "qa-hc-countdown",
+            "priority": 23,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "timerConfig": {
+                "eventType": "WEEKLY_SAOM_THU",
+                "title": null,
+                "subtitle": null,
+                "showSeconds": true,
+                "compactMode": false
+            }
+        },
+        {
+            "type": "html_card",
+            "id": "qa-hc-html",
+            "priority": 24,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "webViewHtml": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#00AAFF;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">HC-HTML</body></html>",
+            "webViewAspectRatio": 1.78
+        },
+        {
+            "type": "banner",
             "id": "premium_upsells",
             "priority": 100,
             "isEnabled": true,
@@ -181,5 +702,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1792491062000
+    "lastUpdated": 1792570275000
 }
