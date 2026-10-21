@@ -3,10 +3,10 @@
         {
             "id": "qa-ab-h-inactive",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-INACTIVE DW3I",
+            "title": "QA AB-H-INACTIVE XM2F",
             "description": "Description of AB-H-INACTIVE",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": false,
             "priority": 10012,
             "supportedCountries": [],
@@ -18,10 +18,10 @@
         {
             "id": "qa-ab-h-future",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-FUTURE DW3I",
+            "title": "QA AB-H-FUTURE XM2F",
             "description": "Description of AB-H-FUTURE",
-            "startTime": 1792666174000,
-            "endTime": 1792752574000,
+            "startTime": 1792715580000,
+            "endTime": 1792801980000,
             "isActive": true,
             "priority": 10011,
             "supportedCountries": [],
@@ -33,10 +33,10 @@
         {
             "id": "qa-ab-h-past",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-PAST DW3I",
+            "title": "QA AB-H-PAST XM2F",
             "description": "Description of AB-H-PAST",
-            "startTime": 1792234174000,
-            "endTime": 1792320574000,
+            "startTime": 1792283580000,
+            "endTime": 1792369980000,
             "isActive": true,
             "priority": 10010,
             "supportedCountries": [],
@@ -48,10 +48,10 @@
         {
             "id": "qa-ab-h-country",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-COUNTRY DW3I",
+            "title": "QA AB-H-COUNTRY XM2F",
             "description": "Description of AB-H-COUNTRY",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10009,
             "supportedCountries": [
@@ -65,10 +65,10 @@
         {
             "id": "qa-ab-h-platform",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-PLATFORM DW3I",
+            "title": "QA AB-H-PLATFORM XM2F",
             "description": "Description of AB-H-PLATFORM",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10008,
             "supportedCountries": [],
@@ -83,10 +83,10 @@
         {
             "id": "qa-ab-h-weekly",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-WEEKLY DW3I",
+            "title": "QA AB-H-WEEKLY XM2F",
             "description": "Description of AB-H-WEEKLY",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10007,
             "supportedCountries": [],
@@ -100,9 +100,9 @@
                 "recurrence": {
                     "frequency": "weekly",
                     "window": {
-                        "startDay": "SATURDAY",
+                        "startDay": "SUNDAY",
                         "startTime": "00:00",
-                        "endDay": "SATURDAY",
+                        "endDay": "SUNDAY",
                         "endTime": "23:59"
                     }
                 }
@@ -111,10 +111,10 @@
         {
             "id": "qa-ab-h-monthly",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-MONTHLY DW3I",
+            "title": "QA AB-H-MONTHLY XM2F",
             "description": "Description of AB-H-MONTHLY",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10006,
             "supportedCountries": [],
@@ -128,7 +128,7 @@
                 "recurrence": {
                     "frequency": "monthly",
                     "calendar": "gregorian",
-                    "dayOfMonth": 2,
+                    "dayOfMonth": 3,
                     "startTime": "00:00",
                     "endTime": "23:59"
                 }
@@ -137,10 +137,10 @@
         {
             "id": "qa-ab-h-tomorrow",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-TOMORROW DW3I",
+            "title": "QA AB-H-TOMORROW XM2F",
             "description": "Description of AB-H-TOMORROW",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10005,
             "supportedCountries": [],
@@ -151,8 +151,8 @@
             "schedule": {
                 "type": "one_time",
                 "timezone": "Asia/Dhaka",
-                "startDate": "2026-10-21",
-                "endDate": "2026-10-21",
+                "startDate": "2026-10-22",
+                "endDate": "2026-10-22",
                 "startTime": "00:00",
                 "endTime": "23:59"
             }
@@ -160,10 +160,10 @@
         {
             "id": "qa-ab-h-auth",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-AUTH DW3I",
+            "title": "QA AB-H-AUTH XM2F",
             "description": "Description of AB-H-AUTH",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10004,
             "supportedCountries": [],
@@ -184,10 +184,10 @@
         {
             "id": "qa-ab-h-premium",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-PREMIUM DW3I",
+            "title": "QA AB-H-PREMIUM XM2F",
             "description": "Description of AB-H-PREMIUM",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10003,
             "supportedCountries": [],
@@ -226,10 +226,10 @@
         {
             "id": "qa-ab-h-donated",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-DONATED DW3I",
+            "title": "QA AB-H-DONATED XM2F",
             "description": "Description of AB-H-DONATED",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10002,
             "supportedCountries": [],
@@ -268,10 +268,10 @@
         {
             "id": "qa-ab-h-showafter",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-SHOWAFTER DW3I",
+            "title": "QA AB-H-SHOWAFTER XM2F",
             "description": "Description of AB-H-SHOWAFTER",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 10001,
             "supportedCountries": [],
@@ -321,14 +321,14 @@
         {
             "id": "qa-ab-s",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-S DW3I",
+            "title": "QA AB-S XM2F",
             "description": "Description of AB-S",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9999,
             "supportedCountries": [],
-            "ctaText": "Open DW3I",
+            "ctaText": "Open XM2F",
             "action": {
                 "type": "screen",
                 "routeKey": "tasbeeh"
@@ -397,10 +397,10 @@
         {
             "id": "qa-ab-v-country",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-COUNTRY DW3I",
+            "title": "QA AB-V-COUNTRY XM2F",
             "description": "Description of AB-V-COUNTRY",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9998,
             "supportedCountries": [
@@ -414,10 +414,10 @@
         {
             "id": "qa-ab-v-platform",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-PLATFORM DW3I",
+            "title": "QA AB-V-PLATFORM XM2F",
             "description": "Description of AB-V-PLATFORM",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9997,
             "supportedCountries": [],
@@ -432,10 +432,10 @@
         {
             "id": "qa-ab-v-weekly",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-WEEKLY DW3I",
+            "title": "QA AB-V-WEEKLY XM2F",
             "description": "Description of AB-V-WEEKLY",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9996,
             "supportedCountries": [],
@@ -449,9 +449,9 @@
                 "recurrence": {
                     "frequency": "weekly",
                     "window": {
-                        "startDay": "TUESDAY",
+                        "startDay": "WEDNESDAY",
                         "startTime": "00:00",
-                        "endDay": "TUESDAY",
+                        "endDay": "WEDNESDAY",
                         "endTime": "23:59"
                     }
                 }
@@ -460,10 +460,10 @@
         {
             "id": "qa-ab-v-monthly",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-MONTHLY DW3I",
+            "title": "QA AB-V-MONTHLY XM2F",
             "description": "Description of AB-V-MONTHLY",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9995,
             "supportedCountries": [],
@@ -477,7 +477,7 @@
                 "recurrence": {
                     "frequency": "monthly",
                     "calendar": "gregorian",
-                    "dayOfMonth": 20,
+                    "dayOfMonth": 21,
                     "startTime": "00:00",
                     "endTime": "23:59"
                 }
@@ -486,10 +486,10 @@
         {
             "id": "qa-ab-v-today",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-TODAY DW3I",
+            "title": "QA AB-V-TODAY XM2F",
             "description": "Description of AB-V-TODAY",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9994,
             "supportedCountries": [],
@@ -500,8 +500,8 @@
             "schedule": {
                 "type": "one_time",
                 "timezone": "Asia/Dhaka",
-                "startDate": "2026-10-20",
-                "endDate": "2026-10-20",
+                "startDate": "2026-10-21",
+                "endDate": "2026-10-21",
                 "startTime": "00:00",
                 "endTime": "23:59"
             }
@@ -509,10 +509,10 @@
         {
             "id": "qa-ab-v-nonauth",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-NONAUTH DW3I",
+            "title": "QA AB-V-NONAUTH XM2F",
             "description": "Description of AB-V-NONAUTH",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9993,
             "supportedCountries": [],
@@ -533,10 +533,10 @@
         {
             "id": "qa-ab-v-neverdonated",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-NEVERDONATED DW3I",
+            "title": "QA AB-V-NEVERDONATED XM2F",
             "description": "Description of AB-V-NEVERDONATED",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9992,
             "supportedCountries": [],
@@ -557,10 +557,10 @@
         {
             "id": "qa-ab-v-feature",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-FEATURE DW3I",
+            "title": "QA AB-V-FEATURE XM2F",
             "description": "Description of AB-V-FEATURE",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9991,
             "supportedCountries": [],
@@ -580,10 +580,10 @@
         {
             "id": "qa-ab-v-image",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-IMAGE DW3I",
+            "title": "QA AB-V-IMAGE XM2F",
             "description": "Description of AB-V-IMAGE",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9990,
             "supportedCountries": [],
@@ -596,10 +596,10 @@
         {
             "id": "qa-ab-v-html",
             "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-HTML DW3I",
+            "title": "QA AB-V-HTML XM2F",
             "description": "Description of AB-V-HTML",
-            "startTime": 1792406974000,
-            "endTime": 1795085374000,
+            "startTime": 1792456380000,
+            "endTime": 1795134780000,
             "isActive": true,
             "priority": 9989,
             "supportedCountries": [],
