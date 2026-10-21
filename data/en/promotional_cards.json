@@ -1,5 +1,5 @@
 {
-    "isEnabled": false,
+    "isEnabled": true,
     "dismissible": true,
     "showAfterInstallHours": 0,
     "cards": [
@@ -30,10 +30,10 @@
         },
         {
             "id": "qa-pr-once",
-            "isActive": false,
+            "isActive": true,
             "frequency": "ONCE",
-            "startAt": 1792492620000,
-            "expireAt": 1795171020000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -50,7 +50,7 @@
             "action": {
                 "type": "ROUTE",
                 "value": "tasbeeh",
-                "label": "Open XS5S"
+                "label": "Open W8LR"
             }
         },
         {
@@ -105,10 +105,10 @@
         },
         {
             "id": "qa-pr-off",
-            "isActive": true,
+            "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492649000,
-            "expireAt": 1795171049000,
+            "startAt": 1792492620000,
+            "expireAt": 1795171020000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -130,10 +130,10 @@
         },
         {
             "id": "qa-pr-every",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492620000,
-            "expireAt": 1795171020000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -155,10 +155,10 @@
         },
         {
             "id": "qa-pr-daily",
-            "isActive": false,
+            "isActive": true,
             "frequency": "ONCE_PER_DAY",
-            "startAt": 1792492620000,
-            "expireAt": 1795171020000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -180,10 +180,10 @@
         },
         {
             "id": "qa-pr-h-future",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792751820000,
-            "expireAt": 1792838220000,
+            "startAt": 1792753838000,
+            "expireAt": 1792840238000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -205,10 +205,10 @@
         },
         {
             "id": "qa-pr-h-expired",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792319820000,
-            "expireAt": 1792406220000,
+            "startAt": 1792321838000,
+            "expireAt": 1792408238000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -230,10 +230,10 @@
         },
         {
             "id": "qa-pr-h-ios",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492620000,
-            "expireAt": 1795171020000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "IOS"
             ],
@@ -254,10 +254,10 @@
         },
         {
             "id": "qa-pr-h-minver",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492620000,
-            "expireAt": 1795171020000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -279,10 +279,10 @@
         },
         {
             "id": "qa-pr-h-maxver",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492620000,
-            "expireAt": 1795171020000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -304,10 +304,10 @@
         },
         {
             "id": "qa-pr-h-country",
-            "isActive": false,
+            "isActive": true,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492620000,
-            "expireAt": 1795171020000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "ANDROID",
                 "IOS"
@@ -333,8 +333,8 @@
             "id": "qa-pr-h-inactive",
             "isActive": false,
             "frequency": "EVERY_LAUNCH",
-            "startAt": 1792492649000,
-            "expireAt": 1795171049000,
+            "startAt": 1792494638000,
+            "expireAt": 1795173038000,
             "platforms": [
                 "ANDROID",
                 "IOS"
