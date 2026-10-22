@@ -183,6 +183,136 @@
         "type": "url",
         "url": "https://id.kahf.co/ansar/muslimsday"
       }
+    },
+    {
+      "id": "friday-givers-2026-10-22",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1792670400000,
+      "endDate": 1792756800000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-10-29",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1793275200000,
+      "endDate": 1793361600000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-11-05",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1793880000000,
+      "endDate": 1793966400000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-11-12",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1794484800000,
+      "endDate": 1794571200000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-11-19",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1795089600000,
+      "endDate": 1795176000000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-11-26",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1795694400000,
+      "endDate": 1795780800000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-12-03",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1796299200000,
+      "endDate": 1796385600000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-12-10",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1796904000000,
+      "endDate": 1796990400000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-12-17",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1797508800000,
+      "endDate": 1797595200000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
+    },
+    {
+      "id": "friday-givers-2026-12-24",
+      "iconUrl": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
+      "startDate": 1798113600000,
+      "endDate": 1798200000000,
+      "priority": 10,
+      "showAfterInstallHours": 0,
+      "visibleTo": [],
+      "action": {
+        "type": "url",
+        "url": "https://id.kahf.co/friday-givers/muslimsday"
+      }
     }
   ]
 }
