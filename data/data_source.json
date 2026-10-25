@@ -55,6 +55,11 @@
     "updated_at": 1781578085000
   },
   {
+    "name": "selected_articles",
+    "url": "appdata/data/{lang}/selected-articles.json",
+    "updated_at": 1792899714837
+  },
+  {
     "name": "asmaul_husna",
     "url": "appdata/data/{lang}/asmaul_husna.json",
     "updated_at": 1781578085000
