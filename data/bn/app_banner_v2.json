@@ -1,6 +1,21 @@
 {
     "events": [
         {
+            "id": "lifetime-oct-26-bn-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "এই অক্টোবরে আর ৯ জন লাইফটাইম মেম্বার নিবে মুসলিমস ডে",
+            "description": "অনেকেই লাইফটাইম মেম্বার হতে চেয়েছেন, তবে এই মুহূর্তে এর চেয়ে বেশি মেম্বার নেয়া সম্ভব হচ্ছে না।",
+            "startTime": 1792864800000,
+            "endTime": 1793123999000,
+            "isActive": true,
+            "priority": 120,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/pay/muslimsday-lifetime"
+            }
+        },
+        {
             "id": "friday-givers-bn-v2-1",
             "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
             "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
