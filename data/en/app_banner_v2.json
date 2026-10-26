@@ -1,6 +1,21 @@
 {
     "events": [
         {
+            "id": "lifetime-oct-26-en-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "Muslims Day will take only 9 more lifetime members this October",
+            "description": "Many people want to become lifetime members, but we cannot accept more than this right now.",
+            "startTime": 1792864800000,
+            "endTime": 1793123999000,
+            "isActive": true,
+            "priority": 120,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/pay/muslimsday-lifetime"
+            }
+        },
+        {
             "id": "friday-givers-en-v2-1",
             "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
             "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
