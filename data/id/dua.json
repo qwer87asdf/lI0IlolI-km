@@ -2,7 +2,7 @@
     {
         "categoryId": 1,
         "categoryName": "Salat",
-        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/salat-LyT7EctZ.png",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/salat-LyT7EctZ.png",
         "contentList": [
             {
                 "id": 1,
@@ -190,7 +190,7 @@
     {
         "categoryId": 2,
         "categoryName": "Kehidupan Sehari-hari",
-        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/daily-life-TtyGRprv.png",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/daily-life-TtyGRprv.png",
         "contentList": [
             {
                 "id": 19,
@@ -428,7 +428,7 @@
     {
         "categoryId": 3,
         "categoryName": "Sawm (Puasa)",
-        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/saom-Y4RqyDsU.png",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/saom-Y4RqyDsU.png",
         "contentList": [
             {
                 "id": 130,
@@ -467,7 +467,7 @@
     {
         "categoryId": 4,
         "categoryName": "Zikir Pagi-Petang",
-        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/morning_evening_zikr-jNfvGtxt.png",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/morning_evening_zikr-jNfvGtxt.png",
         "contentList": [
             {
                 "id": 47,
@@ -661,7 +661,7 @@
     {
         "categoryId": 5,
         "categoryName": "Dari Al-Qur'an",
-        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/quran_dua-pSyV4C8B.png",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/quran_dua-pSyV4C8B.png",
         "contentList": [
             {
                 "id": 68,
@@ -1040,7 +1040,7 @@
     {
         "categoryId": 6,
         "categoryName": "Lain-lain",
-        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/more-OWOMs8fW.png",
+        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/more-OWOMs8fW.png",
         "contentList": [
             {
                 "id": 108,
