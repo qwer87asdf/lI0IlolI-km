@@ -1,199 +1,138 @@
 {
     "events": [
         {
-            "id": "qa-ab-h-inactive",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-INACTIVE 70BA",
-            "description": "Description of AB-H-INACTIVE",
-            "startTime": 1792472595000,
-            "endTime": 1795150995000,
+            "id": "48-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "48 · NEVER · isActive=false",
+            "description": "Must never appear.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
             "isActive": false,
-            "priority": 10012,
+            "priority": 999,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 58,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             }
         },
         {
-            "id": "qa-ab-h-future",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-FUTURE 70BA",
-            "description": "Description of AB-H-FUTURE",
-            "startTime": 1792731780000,
-            "endTime": 1792818180000,
-            "isActive": false,
-            "priority": 10011,
+            "id": "49-future-window",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "49 · NEVER · future startTime",
+            "description": "startTime year 2031 — must never appear now.",
+            "startTime": 1924992000000,
+            "endTime": 1956528000000,
+            "isActive": true,
+            "priority": 998,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 59,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             }
         },
         {
-            "id": "qa-ab-h-past",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-PAST 70BA",
-            "description": "Description of AB-H-PAST",
-            "startTime": 1792299780000,
-            "endTime": 1792386180000,
-            "isActive": false,
-            "priority": 10010,
+            "id": "63-sched-one-time-past",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "63 · SCHEDULE · one_time · PAST (never)",
+            "description": "one_time April 2026 only — should NOT show in Oct 2026.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 991,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 73,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-h-country",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-COUNTRY 70BA",
-            "description": "Description of AB-H-COUNTRY",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10009,
-            "supportedCountries": [
-                "SAU"
-            ],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-h-platform",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-PLATFORM 70BA",
-            "description": "Description of AB-H-PLATFORM",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10008,
-            "supportedCountries": [],
-            "supportedPlatforms": [
-                "iOS"
-            ],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-h-weekly",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-WEEKLY 70BA",
-            "description": "Description of AB-H-WEEKLY",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10007,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            },
-            "schedule": {
-                "type": "recurring",
-                "timezone": "Asia/Dhaka",
-                "recurrence": {
-                    "frequency": "weekly",
-                    "window": {
-                        "startDay": "SUNDAY",
-                        "startTime": "00:00",
-                        "endDay": "SUNDAY",
-                        "endTime": "23:59"
-                    }
-                }
-            }
-        },
-        {
-            "id": "qa-ab-h-monthly",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-MONTHLY 70BA",
-            "description": "Description of AB-H-MONTHLY",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10006,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            },
-            "schedule": {
-                "type": "recurring",
-                "timezone": "Asia/Dhaka",
-                "recurrence": {
-                    "frequency": "monthly",
-                    "calendar": "gregorian",
-                    "dayOfMonth": 3,
-                    "startTime": "00:00",
-                    "endTime": "23:59"
-                }
-            }
-        },
-        {
-            "id": "qa-ab-h-tomorrow",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-TOMORROW 70BA",
-            "description": "Description of AB-H-TOMORROW",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10005,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "schedule": {
                 "type": "one_time",
                 "timezone": "Asia/Dhaka",
-                "startDate": "2026-10-22",
-                "endDate": "2026-10-22",
+                "startDate": "2026-04-01",
+                "endDate": "2026-04-30",
                 "startTime": "00:00",
                 "endTime": "23:59"
             }
         },
         {
-            "id": "qa-ab-h-auth",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-AUTH 70BA",
-            "description": "Description of AB-H-AUTH",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10004,
+            "id": "64-sched-one-time-future",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "64 · SCHEDULE · one_time · FUTURE (never now)",
+            "description": "one_time 2028 only — should NOT show now.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 990,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 74,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
-            "targeting": {
-                "payment": {
-                    "rules": [
-                        {
-                            "audience": "authorized"
-                        }
-                    ]
-                }
+            "schedule": {
+                "type": "one_time",
+                "timezone": "Asia/Dhaka",
+                "startDate": "2028-01-01",
+                "endDate": "2028-12-31",
+                "startTime": "00:00",
+                "endTime": "23:59"
             }
         },
         {
-            "id": "qa-ab-h-premium",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-PREMIUM 70BA",
-            "description": "Description of AB-H-PREMIUM",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10003,
+            "id": "85-past-endTime",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "85 · NEVER · endTime in the past",
+            "description": "Campaign ended 2024 — must never show.",
+            "startTime": 1609459200000,
+            "endTime": 1704067200000,
+            "isActive": true,
+            "priority": 989,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 95,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "00-everyone-no-targeting",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "00 · EVERYONE · no targeting",
+            "description": "Baseline. No payment/donation/feature rules — all users see this.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 200,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 1,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "01-aud-premium",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "01 · AUDIENCE · premium",
+            "description": "payment.rules audience=premium. Logged-in with active subscription.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 190,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 2,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "targeting": {
                 "payment": {
@@ -206,319 +145,98 @@
             }
         },
         {
-            "id": "qa-ab-capday",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-CAPDAY X1PL",
-            "description": "Description of AB-CAPDAY",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 10002,
+            "id": "02-aud-non-premium",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "02 · AUDIENCE · non_premium",
+            "description": "payment.rules audience=non_premium. Anyone without active subscription (guest or logged-in).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 190,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 3,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            },
-            "displayRules": {
-                "maxImpressionsPerDay": 1
-            }
-        },
-        {
-            "id": "qa-ab-h-donated",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-DONATED 70BA",
-            "description": "Description of AB-H-DONATED",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10002,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "targeting": {
-                "donations": {
+                "payment": {
                     "rules": [
                         {
-                            "condition": "ever_donated"
+                            "audience": "non_premium"
                         }
                     ]
                 }
             }
         },
         {
-            "id": "qa-ab-duration",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-DURATION X1PL",
-            "description": "Description of AB-DURATION",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 10001,
+            "id": "03-aud-ansar",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "03 · AUDIENCE · ansar",
+            "description": "payment.rules audience=ansar. Ansar membership active.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 190,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 4,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
-            "displayRules": {
-                "displayDurationDays": 1
-            }
-        },
-        {
-            "id": "qa-ab-h-showafter",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-H-SHOWAFTER 70BA",
-            "description": "Description of AB-H-SHOWAFTER",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 10001,
-            "supportedCountries": [],
-            "showAfterInstallHours": 2000,
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-hideclick",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-HIDECLICK X1PL",
-            "description": "Description of AB-HIDECLICK",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 10001,
-            "supportedCountries": [],
-            "ctaText": "Tap X1PL",
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            },
-            "displayRules": {
-                "hideAfterClick": true
-            }
-        },
-        {
-            "id": "qa-ab-max2",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-MAX2 X1PL",
-            "description": "Description of AB-MAX2",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 10001,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            },
-            "displayRules": {
-                "maxImpressions": 2
-            }
-        },
-        {
-            "id": "qa-ab-s",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-S 70BA",
-            "description": "Description of AB-S",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9999,
-            "supportedCountries": [],
-            "ctaText": "Open 70BA",
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-s2",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-S2 X1PL",
-            "description": "Description of AB-S2",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 9999,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-s3",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-S3 X1PL",
-            "description": "Description of AB-S3",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 9999,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-s4",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-S4 X1PL",
-            "description": "Description of AB-S4",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 9999,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-never",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-NEVER X1PL",
-            "description": "Description of AB-NEVER",
-            "startTime": 1792480860000,
-            "endTime": 1795159260000,
-            "isActive": false,
-            "priority": 9998,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-v-country",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-COUNTRY 70BA",
-            "description": "Description of AB-V-COUNTRY",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9998,
-            "supportedCountries": [
-                "BGD"
-            ],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-v-platform",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-PLATFORM 70BA",
-            "description": "Description of AB-V-PLATFORM",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9997,
-            "supportedCountries": [],
-            "supportedPlatforms": [
-                "Android"
-            ],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-v-weekly",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-WEEKLY 70BA",
-            "description": "Description of AB-V-WEEKLY",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9996,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            },
-            "schedule": {
-                "type": "recurring",
-                "timezone": "Asia/Dhaka",
-                "recurrence": {
-                    "frequency": "weekly",
-                    "window": {
-                        "startDay": "WEDNESDAY",
-                        "startTime": "00:00",
-                        "endDay": "WEDNESDAY",
-                        "endTime": "23:59"
-                    }
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "ansar"
+                        }
+                    ]
                 }
             }
         },
         {
-            "id": "qa-ab-v-monthly",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-MONTHLY 70BA",
-            "description": "Description of AB-V-MONTHLY",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9995,
+            "id": "04-aud-authorized",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "04 · AUDIENCE · authorized",
+            "description": "payment.rules audience=authorized. Logged in AND not premium.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 190,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 5,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
-            "schedule": {
-                "type": "recurring",
-                "timezone": "Asia/Dhaka",
-                "recurrence": {
-                    "frequency": "monthly",
-                    "calendar": "gregorian",
-                    "dayOfMonth": 21,
-                    "startTime": "00:00",
-                    "endTime": "23:59"
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "authorized"
+                        }
+                    ]
                 }
             }
         },
         {
-            "id": "qa-ab-v-today",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-TODAY 70BA",
-            "description": "Description of AB-V-TODAY",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9994,
+            "id": "05-aud-non-authorized",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "05 · AUDIENCE · non_authorized",
+            "description": "payment.rules audience=non_authorized. Guest — not logged in.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 190,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 6,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            },
-            "schedule": {
-                "type": "one_time",
-                "timezone": "Asia/Dhaka",
-                "startDate": "2026-10-21",
-                "endDate": "2026-10-21",
-                "startTime": "00:00",
-                "endTime": "23:59"
-            }
-        },
-        {
-            "id": "qa-ab-v-nonauth",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-NONAUTH 70BA",
-            "description": "Description of AB-V-NONAUTH",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9993,
-            "supportedCountries": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "targeting": {
                 "payment": {
@@ -531,18 +249,367 @@
             }
         },
         {
-            "id": "qa-ab-v-neverdonated",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-NEVERDONATED 70BA",
-            "description": "Description of AB-V-NEVERDONATED",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9992,
+            "id": "06-or-premium-or-ansar",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "06 · OR · premium + ansar",
+            "description": "Premium OR Ansar (audience rules OR).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 180,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 7,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "premium"
+                        },
+                        {
+                            "audience": "ansar"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "07-or-authorized-or-guest",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "07 · OR · authorized + non_authorized",
+            "description": "Logged-in non-premium OR guest (misses pure premium).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 180,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 8,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "authorized"
+                        },
+                        {
+                            "audience": "non_authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "08-or-premium-or-non-premium",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "08 · OR · premium + non_premium",
+            "description": "Everyone (premium OR non_premium).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 180,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 9,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "premium"
+                        },
+                        {
+                            "audience": "non_premium"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "09-or-premium-or-authorized",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "09 · OR · premium + authorized",
+            "description": "Any logged-in user (premium or not).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 180,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 10,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "premium"
+                        },
+                        {
+                            "audience": "authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "10-or-ansar-or-non-premium",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "10 · OR · ansar + non_premium",
+            "description": "Ansar OR non-premium.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 180,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 11,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "ansar"
+                        },
+                        {
+                            "audience": "non_premium"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "11-or-guest-or-premium",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "11 · OR · non_authorized + premium",
+            "description": "Guest OR premium (misses logged-in free).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 180,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 12,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_authorized"
+                        },
+                        {
+                            "audience": "premium"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "58-or-ansar-or-authorized",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "58 · OR · ansar + authorized",
+            "description": "Ansar OR logged-in free.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 175,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 68,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "ansar"
+                        },
+                        {
+                            "audience": "authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "59-or-ansar-or-guest",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "59 · OR · ansar + non_authorized",
+            "description": "Ansar OR guest.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 175,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 69,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "ansar"
+                        },
+                        {
+                            "audience": "non_authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "60-or-premium-or-guest",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "60 · OR · premium + non_authorized",
+            "description": "Premium OR guest (misses authorized free).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 175,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 70,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "premium"
+                        },
+                        {
+                            "audience": "non_authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "61-or-all-three-prem-auth-guest",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "61 · OR · premium + authorized + non_authorized",
+            "description": "premium OR authorized OR guest ≈ everyone.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 175,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 71,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "premium"
+                        },
+                        {
+                            "audience": "authorized"
+                        },
+                        {
+                            "audience": "non_authorized"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "12-pay-product-yearly-active",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "12 · PAY PRODUCT · yearly ACTIVE",
+            "description": "payment productCode=muslims-day-yearly requiredStatus=active.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 170,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 13,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "productCode": "muslims-day-yearly",
+                            "requiredStatus": "active"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "13-pay-product-yearly-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "13 · PAY PRODUCT · yearly INACTIVE",
+            "description": "payment productCode=muslims-day-yearly requiredStatus=inactive.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 169,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 14,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "productCode": "muslims-day-yearly",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "14-don-never",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "14 · DONATION · never_donated",
+            "description": "No donations for this app.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 160,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 15,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "targeting": {
                 "donations": {
@@ -555,74 +622,100 @@
             }
         },
         {
-            "id": "qa-ab-v-feature",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-FEATURE 70BA",
-            "description": "Description of AB-V-FEATURE",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9991,
+            "id": "15-don-ever",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "15 · DONATION · ever_donated",
+            "description": "At least one donation for this app.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 160,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 16,
             "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "targeting": {
-                "features": [
-                    {
-                        "featureKey": "tasbeeh",
-                        "condition": "never_used"
-                    }
-                ]
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "ever_donated"
+                        }
+                    ]
+                }
             }
         },
         {
-            "id": "qa-ab-v-image",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-IMAGE 70BA",
-            "description": "Description of AB-V-IMAGE",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9990,
-            "supportedCountries": [],
-            "imageUrl": "https://dev.data.muslimsday.com/appdata/image/{theme}/kk-O73YNtfv.png",
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ab-v-html",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA AB-V-HTML 70BA",
-            "description": "Description of AB-V-HTML",
-            "startTime": 1792472580000,
-            "endTime": 1795150980000,
-            "isActive": false,
-            "priority": 9989,
-            "supportedCountries": [],
-            "webViewHtml": "<!doctype html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"></head><body style=\"margin:0;background:#FF00AA;height:100vh;display:flex;align-items:center;justify-content:center;font:bold 20px sans-serif;color:#fff\">AB-V-HTML</body></html>",
-            "webViewAspectRatio": 1.78,
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "donation",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/friday-8NqegS9P.jpeg",
-            "title": "My Love My Donation",
-            "description": "I love to donate. You can also donate.\nAgain Donate!",
-            "startTime": 1790835600000,
-            "endTime": 1793427600000,
+            "id": "16-don-in-last-7",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "16 · DONATION · donated_in_last_days=7",
+            "description": "Any donation within last 7 days.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
             "isActive": true,
-            "priority": 100,
+            "priority": 160,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 17,
             "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "donated_in_last_days",
+                            "days": 7
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17-don-not-in-last-30",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "17 · DONATION · not_donated_in_last_days=30",
+            "description": "No donation in last 30 days (or never).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 160,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 18,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "not_donated_in_last_days",
+                            "days": 30
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "18-don-fg-active",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "18 · DON PRODUCT · friday-givers · active",
+            "description": "donations productCode=friday-givers requiredStatus=active.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 155,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 19,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "targeting": {
                 "donations": {
@@ -636,42 +729,74 @@
             }
         },
         {
-            "id": "kahf_kids",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kk-O73YNtfv.png",
-            "title": "Kahf Kids",
-            "description": "Kahf Kids helps parents manage screen time, block harmful apps, and games.",
-            "startTime": 1780972560000,
-            "endTime": 1795090800000,
+            "id": "18-don-fg-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "18 · DON PRODUCT · friday-givers · inactive",
+            "description": "donations productCode=friday-givers requiredStatus=inactive.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
             "isActive": true,
-            "priority": 100,
-            "supportedCountries": [
-                "BGD"
-            ],
-            "supportedPlatforms": [
-                "Android",
-                "iOS"
-            ],
+            "priority": 155,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 20,
             "action": {
-                "type": "web",
-                "url": "https://kahfkids.com/"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                }
             }
         },
         {
-            "id": "support_kahf",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/support-HiNboGWd.jpeg",
-            "title": "Support Kahf",
-            "description": "Someone else paid for them.\nSomeone like you.",
-            "startTime": 1790682000000,
-            "endTime": 1793446800000,
+            "id": "18-don-fg-ever",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "18 · DON PRODUCT · friday-givers · ever",
+            "description": "donations productCode=friday-givers requiredStatus=ever.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
             "isActive": true,
-            "priority": 100,
-            "supportedCountries": [
-                "USA",
-                "GBR"
-            ],
+            "priority": 155,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 21,
             "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/support/kahfguard"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "ever"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "18-don-fg-never",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "18 · DON PRODUCT · friday-givers · never",
+            "description": "donations productCode=friday-givers requiredStatus=never.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 155,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 22,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "targeting": {
                 "donations": {
@@ -685,45 +810,1705 @@
             }
         },
         {
-            "id": "kahf_guard",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/kg-lF8gbL4O.jpeg",
-            "title": "Kahf Guard: Shield up against Online Harm",
-            "description": "You are protected from Millions Of Harmful websites and App",
-            "startTime": 1780489800000,
-            "endTime": 1798029900000,
+            "id": "19-don-dl-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "19 · DON PRODUCT · durood-lovers · inactive",
+            "description": "durood-lovers requiredStatus=inactive.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
             "isActive": true,
-            "priority": 10,
-            "supportedCountries": [
-                "BGD"
+            "priority": 154,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 23,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "durood-lovers",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "20-don-fg-cond-ever_donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "20 · DON SCOPED · ever_donated · friday-givers",
+            "description": "Condition scoped to friday-givers. ever_donated · friday-givers",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 150,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 24,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "ever_donated",
+                            "productCode": "friday-givers"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "20-don-fg-cond-never_donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "20 · DON SCOPED · never_donated · friday-givers",
+            "description": "Condition scoped to friday-givers. never_donated · friday-givers",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 150,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 25,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "never_donated",
+                            "productCode": "friday-givers"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "20-don-fg-cond-donated_in_last_days",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "20 · DON SCOPED · donated_in_last_days=7 · friday-givers",
+            "description": "Condition scoped to friday-givers. donated_in_last_days=7 · friday-givers",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 150,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 26,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "donated_in_last_days",
+                            "productCode": "friday-givers",
+                            "days": 7
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "20-don-fg-cond-not_donated_in_last_days",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "20 · DON SCOPED · not_donated_in_last_days=7 · friday-givers",
+            "description": "Condition scoped to friday-givers. not_donated_in_last_days=7 · friday-givers",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 150,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 27,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "not_donated_in_last_days",
+                            "productCode": "friday-givers",
+                            "days": 7
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "21-feat-never-durud",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "21 · FEATURE · durud-reminder · never_used",
+            "description": "features: durud-reminder never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 140,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 28,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "durud-reminder",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22-feat-stale-dua",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "22 · FEATURE · dua-category · not_used_in_days=30",
+            "description": "features: dua-category not_used_in_days=30.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 139,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 29,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "dua-category",
+                        "condition": "not_used_in_days",
+                        "days": 30
+                    }
+                ]
+            }
+        },
+        {
+            "id": "23-feat-disabled-durud",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "23 · FEATURE · durud-reminder · disabled",
+            "description": "features: durud-reminder disabled (toggle off).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 138,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 30,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "durud-reminder",
+                        "condition": "disabled"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "24-feat-and-two",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "24 · FEATURE AND · never_used durud + stale dua",
+            "description": "Both feature rules must match (AND).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 137,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 31,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "durud-reminder",
+                        "condition": "never_used"
+                    },
+                    {
+                        "featureKey": "dua-category",
+                        "condition": "not_used_in_days",
+                        "days": 30
+                    }
+                ]
+            }
+        },
+        {
+            "id": "25-and-nonprem-never-donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "25 · AND · non_premium + never_donated",
+            "description": "Upsell non-donors who are not premium.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 32,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_premium"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "never_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "26-and-guest-never-donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "26 · AND · non_authorized + never_donated",
+            "description": "Guest who never donated.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 33,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_authorized"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "never_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "27-and-authorized-never-donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "27 · AND · authorized + never_donated",
+            "description": "Logged-in free user who never donated.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 34,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "authorized"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "never_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "28-and-premium-ever-donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "28 · AND · premium + ever_donated",
+            "description": "Premium donors thank-you.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 35,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "premium"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "ever_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "29-and-nonprem-fg-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "29 · AND · non_premium + friday-givers inactive",
+            "description": "Classic Friday Givers promo.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 36,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_premium"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "30-and-nonprem-fg-inactive-feat",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "30 · AND · non_premium + FG inactive + never_used durud",
+            "description": "Triple AND across payment + donations + features.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 37,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_premium"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                },
+                "features": [
+                    {
+                        "featureKey": "durud-reminder",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "31-and-ansar-fg-active",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "31 · AND · ansar + friday-givers active",
+            "description": "Ansar who already gives Friday.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 38,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "ansar"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "active"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "32-and-guest-or-auth-never-donated",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "32 · AND · (guest OR authorized) + never_donated",
+            "description": "Any non-premium user (guest or logged-in free) who never donated.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 39,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_authorized"
+                        },
+                        {
+                            "audience": "authorized"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "never_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "33-and-nonprem-not-donated-30",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "33 · AND · non_premium + not_donated_in_last_days=30",
+            "description": "Win-back non-premium lapsed donors.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 40,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_premium"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "condition": "not_donated_in_last_days",
+                            "days": 30
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "34-and-authorized-dl-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "34 · AND · authorized + durood-lovers inactive",
+            "description": "Logged-in free user not on Durood Lovers.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 130,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 41,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "authorized"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "durood-lovers",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "86-and-nonprem-yearly-inactive",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "86 · AND · non_premium + yearly INACTIVE",
+            "description": "Audience AND subscription product rule.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 128,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 96,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_premium"
+                        },
+                        {
+                            "productCode": "muslims-day-yearly",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "87-and-don-fg-inactive-and-never-appwide",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "87 · AND DON · FG inactive + never_donated",
+            "description": "Two donation rules AND together.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 127,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 97,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "inactive"
+                        },
+                        {
+                            "condition": "never_donated"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "35-plat-android",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "35 · PLATFORM · Android only",
+            "description": "supportedPlatforms=[Android]. Hidden on iOS.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 120,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 42,
+            "supportedPlatforms": [
+                "Android"
             ],
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "36-plat-ios",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "36 · PLATFORM · iOS only",
+            "description": "supportedPlatforms=[iOS]. Hidden on Android.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 120,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 43,
+            "supportedPlatforms": [
+                "iOS"
+            ],
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "37-plat-both",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "37 · PLATFORM · Android+iOS",
+            "description": "Explicit both platforms — same as omitting field.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 119,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 44,
             "supportedPlatforms": [
                 "Android",
                 "iOS"
             ],
             "action": {
-                "type": "web",
-                "url": "https://kahfguard.com/"
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             }
         },
         {
-            "id": "qa-validate-banner",
-            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
-            "title": "QA validate",
-            "description": "",
-            "startTime": 1792403100000,
-            "endTime": 1792575900000,
-            "isActive": false,
-            "priority": 1,
+            "id": "38-country-bgd",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "38 · COUNTRY · BGD only",
+            "description": "supportedCountries=[BGD] — Bangladesh.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 110,
+            "supportedCountries": [
+                "BGD"
+            ],
+            "ctaText": "Open",
+            "sortIndex": 45,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "38-country-sau",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "38 · COUNTRY · SAU only",
+            "description": "supportedCountries=[SAU] — Saudi.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 110,
+            "supportedCountries": [
+                "SAU"
+            ],
+            "ctaText": "Open",
+            "sortIndex": 46,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "38-country-ind",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "38 · COUNTRY · IND only",
+            "description": "supportedCountries=[IND] — India.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 110,
+            "supportedCountries": [
+                "IND"
+            ],
+            "ctaText": "Open",
+            "sortIndex": 47,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "38-country-usa",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "38 · COUNTRY · USA only",
+            "description": "supportedCountries=[USA] — USA.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 110,
+            "supportedCountries": [
+                "USA"
+            ],
+            "ctaText": "Open",
+            "sortIndex": 48,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "39-install-0h",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "39 · INSTALL · showAfterInstallHours=0",
+            "description": "Immediate after onboard.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 105,
             "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 49,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "40-install-72h",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "40 · INSTALL · showAfterInstallHours=72",
+            "description": "Hidden until 72h after onboard.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 104,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 50,
+            "showAfterInstallHours": 72,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "41-display-hide-click",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "41 · DISPLAY · hideAfterClick",
+            "description": "Disappears for this occurrence after tap.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 100,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 51,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "displayRules": {
+                "hideAfterClick": true,
+                "dismissOn": "click"
+            }
+        },
+        {
+            "id": "42-display-max-imps",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "42 · DISPLAY · maxImpressions=3 / day=1",
+            "description": "Caps impressions.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 99,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 52,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "displayRules": {
+                "maxImpressions": 3,
+                "maxImpressionsPerDay": 1
+            }
+        },
+        {
+            "id": "43-sched-weekly-monday",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "43 · SCHEDULE · weekly MONDAY all day",
+            "description": "Recurring Mon 00:00–23:59 Asia/Dhaka. Visible on Mondays.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 95,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 53,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "weekly",
+                    "window": {
+                        "startDay": "MONDAY",
+                        "startTime": "00:00",
+                        "endDay": "MONDAY",
+                        "endTime": "23:59"
+                    }
+                }
+            }
+        },
+        {
+            "id": "44-sched-weekly-thu-fri",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "44 · SCHEDULE · weekly THU 18:00 → FRI 18:00",
+            "description": "Friday Givers window. Hidden on Monday.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 94,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 54,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "weekly",
+                    "window": {
+                        "startDay": "THURSDAY",
+                        "startTime": "18:00",
+                        "endDay": "FRIDAY",
+                        "endTime": "18:00"
+                    }
+                }
+            },
+            "targeting": {
+                "payment": {
+                    "rules": [
+                        {
+                            "audience": "non_premium"
+                        }
+                    ]
+                },
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "45-sched-monthly-26",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "45 · SCHEDULE · monthly day 26",
+            "description": "Gregorian dayOfMonth=26 — visible today (Oct 26).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 93,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 55,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "recurrence": {
+                    "frequency": "monthly",
+                    "dayOfMonth": 26,
+                    "startTime": "00:00",
+                    "endTime": "23:59"
+                }
+            }
+        },
+        {
+            "id": "62-sched-one-time-active-now",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "62 · SCHEDULE · one_time · ACTIVE NOW",
+            "description": "one_time 2025-01-01 → 2030-12-31 Asia/Dhaka — should show.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 92,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 72,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "schedule": {
+                "type": "one_time",
+                "timezone": "Asia/Dhaka",
+                "startDate": "2025-01-01",
+                "endDate": "2030-12-31",
+                "startTime": "00:00",
+                "endTime": "23:59"
+            }
+        },
+        {
+            "id": "46-ui-banner-cta",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/remove-ads.png",
+            "title": "46 · UI · 16:9 banner + CTA",
+            "description": "Classic card with imageUrl (icon hidden) + ctaText.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 90,
+            "supportedCountries": [],
+            "ctaText": "Banner CTA",
+            "imageUrl": "https://dev.data.muslimsday.com/appdata/image/premium-thanks.png",
+            "sortIndex": 56,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "47-ui-webview-html",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "47 · UI · webViewHtml (not shown as title)",
+            "description": "WebView takes whole card — look for green HTML label.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 89,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "webViewHtml": "<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width,initial-scale=1'/><style>html,body{margin:0;height:100%;font-family:sans-serif}.b{height:100%;display:flex;align-items:center;justify-content:center;background:#0f766e;color:#fff;font-size:18px;font-weight:700;text-align:center;padding:12px}</style></head><body><div class='b'>47 · WEBVIEW HTML<br/>everyone · no targeting</div></body></html>",
+            "webViewAspectRatio": 1.777,
+            "sortIndex": 57,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "50-action-url-https",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "50 · ACTION · url · https",
+            "description": "type=url opens https in custom tab / browser.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 88,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 60,
+            "action": {
+                "type": "url",
+                "url": "https://muslimsday.com"
+            }
+        },
+        {
+            "id": "51-action-url-deeplink",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "51 · ACTION · url · muslimsday://quran",
+            "description": "type=url deep link into Quran.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 87,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 61,
+            "action": {
+                "type": "url",
+                "url": "muslimsday://quran"
+            }
+        },
+        {
+            "id": "52-action-web",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "52 · ACTION · web · https",
+            "description": "type=web (same as url path in mapper).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 86,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 62,
+            "action": {
+                "type": "web",
+                "url": "https://muslimsday.com/donate"
+            }
+        },
+        {
+            "id": "53-action-web-view",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "53 · ACTION · web_view",
+            "description": "type=web_view opens in-app WebView with title.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 85,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 63,
+            "action": {
+                "type": "web_view",
+                "url": "https://example.com",
+                "title": "Example WebView"
+            }
+        },
+        {
+            "id": "54-action-screen-settings",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "54 · ACTION · screen · settings",
+            "description": "type=screen routeKey=settings.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 84,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 64,
+            "action": {
+                "type": "screen",
+                "routeKey": "settings"
+            }
+        },
+        {
+            "id": "55-action-screen-tasbeeh",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "55 · ACTION · screen · tasbeeh",
+            "description": "type=screen routeKey=tasbeeh.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 83,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 65,
             "action": {
                 "type": "screen",
                 "routeKey": "tasbeeh"
+            }
+        },
+        {
+            "id": "56-action-navigation-profile",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "56 · ACTION · navigation · profile",
+            "description": "type=navigation routeKey=profile.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 82,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 66,
+            "action": {
+                "type": "navigation",
+                "routeKey": "profile"
+            }
+        },
+        {
+            "id": "57-action-custom-profile",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "57 · ACTION · custom · navigate_to_profile",
+            "description": "type=custom actionId=navigate_to_profile.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 81,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 67,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_profile"
+            }
+        },
+        {
+            "id": "65-ui-icon-no-cta",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "65 · UI · classic icon · NO CTA",
+            "description": "Icon + title + description only (ctaText omitted).",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 78,
+            "supportedCountries": [],
+            "sortIndex": 75,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "66-ui-banner-no-cta",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "66 · UI · 16:9 banner · NO CTA",
+            "description": "imageUrl set → icon hidden; no ctaText.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 77,
+            "supportedCountries": [],
+            "imageUrl": "https://dev.data.muslimsday.com/appdata/image/premium-thanks.png",
+            "sortIndex": 76,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "67-ui-banner-with-cta",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "67 · UI · 16:9 banner · WITH CTA",
+            "description": "imageUrl + ctaText.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 76,
+            "supportedCountries": [],
+            "ctaText": "Banner CTA",
+            "imageUrl": "https://dev.data.muslimsday.com/appdata/image/ansar.png",
+            "sortIndex": 77,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "68-ui-webview-url-only",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "68 · UI · webViewUrl only (empty until cache)",
+            "description": "Fetches URL; card blank until HTML cached.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 75,
+            "supportedCountries": [],
+            "webViewUrl": "https://example.com",
+            "webViewAspectRatio": 1.777,
+            "sortIndex": 78,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "69-ui-webview-html-plus-url",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "69 · UI · webViewHtml + url base",
+            "description": "Inline HTML wins; url is base only.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 74,
+            "supportedCountries": [],
+            "webViewHtml": "<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width,initial-scale=1'/><style>html,body{margin:0;height:100%;font-family:sans-serif}.b{height:100%;display:flex;align-items:center;justify-content:center;background:#7c3aed;color:#fff;font-size:18px;font-weight:700;text-align:center;padding:12px}</style></head><body><div class='b'>69 · HTML + URL BASE</div></body></html>",
+            "webViewAspectRatio": 1.777,
+            "sortIndex": 79,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "70-ui-webview-1x1",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "70 · UI · webView aspect 1:1",
+            "description": "Square web-view card.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 73,
+            "supportedCountries": [],
+            "webViewHtml": "<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width,initial-scale=1'/><style>html,body{margin:0;height:100%}.b{height:100%;display:flex;align-items:center;justify-content:center;background:#b45309;color:#fff;font-size:18px;font-weight:700}</style></head><body><div class='b'>70 · 1:1</div></body></html>",
+            "webViewAspectRatio": 1,
+            "sortIndex": 80,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "71-ui-webview-4x3",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "71 · UI · webView aspect 4:3",
+            "description": "webViewAspectRatio=1.333",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 72,
+            "supportedCountries": [],
+            "webViewHtml": "<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width,initial-scale=1'/><style>html,body{margin:0;height:100%}.b{height:100%;display:flex;align-items:center;justify-content:center;background:#0369a1;color:#fff;font-size:18px;font-weight:700}</style></head><body><div class='b'>71 · 4:3</div></body></html>",
+            "webViewAspectRatio": 1.333,
+            "sortIndex": 81,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "72-ui-webview-9x16",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "72 · UI · webView aspect 9:16 tall",
+            "description": "webViewAspectRatio=0.5625",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 71,
+            "supportedCountries": [],
+            "webViewHtml": "<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width,initial-scale=1'/><style>html,body{margin:0;height:100%}.b{height:100%;display:flex;align-items:center;justify-content:center;background:#be123c;color:#fff;font-size:18px;font-weight:700;text-align:center;padding:8px}</style></head><body><div class='b'>72 · 9:16<br/>TALL</div></body></html>",
+            "webViewAspectRatio": 0.563,
+            "sortIndex": 82,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            }
+        },
+        {
+            "id": "73-display-duration-5d",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "73 · DISPLAY · displayDurationDays=5",
+            "description": "Hides 5 days after first impression of occurrence.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 70,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 83,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
             },
             "displayRules": {
-                "hideAfterClick": true
+                "displayDurationDays": 5,
+                "maxImpressions": 20
+            }
+        },
+        {
+            "id": "74-display-dismiss-feature-used",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "74 · DISPLAY · dismissOn=feature_used (reserved)",
+            "description": "Accepted in model; not fully wired in v1.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 69,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 84,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "displayRules": {
+                "dismissOn": "feature_used",
+                "maxImpressionsPerDay": 2
+            }
+        },
+        {
+            "id": "75-feat-never-qibla",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "75 · FEATURE · qibla-compass · never_used",
+            "description": "features: qibla-compass never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 85,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "qibla-compass",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "76-feat-never-tasbeeh",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "76 · FEATURE · tasbeeh · never_used",
+            "description": "features: tasbeeh never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 86,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "tasbeeh",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "77-feat-never-quran",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "77 · FEATURE · quran · never_used",
+            "description": "features: quran never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 87,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "quran",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "78-feat-never-habit",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "78 · FEATURE · habit-tracker · never_used",
+            "description": "features: habit-tracker never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 88,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "habit-tracker",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "79-feat-never-names",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "79 · FEATURE · names-list · never_used",
+            "description": "features: names-list never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 89,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "names-list",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "80-feat-never-calendar",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "80 · FEATURE · calendar · never_used",
+            "description": "features: calendar never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 90,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "calendar",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "81-feat-stale-quran-reading",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "81 · FEATURE · quran-reading · not_used_in_days=14",
+            "description": "features: quran-reading not_used_in_days.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 91,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "quran-reading",
+                        "condition": "not_used_in_days",
+                        "days": 14
+                    }
+                ]
+            }
+        },
+        {
+            "id": "82-feat-stale-article",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "82 · FEATURE · article-category · not_used_in_days=30",
+            "description": "features: article-category not_used_in_days.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 92,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "article-category",
+                        "condition": "not_used_in_days",
+                        "days": 30
+                    }
+                ]
+            }
+        },
+        {
+            "id": "83-feat-disabled-auto-silent",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "83 · FEATURE · auto-silent-settings · disabled",
+            "description": "features: auto-silent-settings disabled.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 93,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "auto-silent-settings",
+                        "condition": "disabled"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "84-feat-disabled-prayer-reminder",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "84 · FEATURE · prayer-reminder · disabled",
+            "description": "features: prayer-reminder disabled.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 65,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 94,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "prayer-reminder",
+                        "condition": "disabled"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "88-feat-never-tafsir",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "88 · FEATURE · quran-tafsir-details · never_used",
+            "description": "features: quran-tafsir-details never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 64,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 98,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "quran-tafsir-details",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "89-feat-never-notif-list",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "89 · FEATURE · notification-list · never_used",
+            "description": "features: notification-list never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 64,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 99,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "notification-list",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "90-feat-never-istigfar",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "90 · FEATURE · istigfar-reminder · never_used",
+            "description": "features: istigfar-reminder never_used.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 64,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 100,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "istigfar-reminder",
+                        "condition": "never_used"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "91-feat-disabled-auto-silent-alarm",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
+            "title": "91 · FEATURE · auto-silent · disabled",
+            "description": "features: auto-silent disabled.",
+            "startTime": 1735689600000,
+            "endTime": 1893456000000,
+            "isActive": true,
+            "priority": 64,
+            "supportedCountries": [],
+            "ctaText": "Open",
+            "sortIndex": 101,
+            "action": {
+                "type": "custom",
+                "actionId": "navigate_to_premium"
+            },
+            "targeting": {
+                "features": [
+                    {
+                        "featureKey": "auto-silent",
+                        "condition": "disabled"
+                    }
+                ]
             }
         }
     ],
-    "maxCards": 1,
-    "autoSlideIntervalMs": 60000
+    "maxCards": 50,
+    "autoSlideIntervalMs": 3500
 }
