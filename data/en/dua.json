@@ -2,7 +2,7 @@
     {
         "categoryId": 1,
         "categoryName": "Salat-Prayer",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/salat.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/salat-LyT7EctZ.png",
         "contentList": [
             {
                 "id": 1,
@@ -190,7 +190,7 @@
     {
         "categoryId": 2,
         "categoryName": "Daily Life",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/daily-life.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/daily-life-TtyGRprv.png",
         "contentList": [
             {
                 "id": 19,
@@ -428,7 +428,7 @@
     {
         "categoryId": 3,
         "categoryName": "Sawm",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/saom.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/saom-Y4RqyDsU.png",
         "contentList": [
             {
                 "id": 130,
@@ -467,7 +467,7 @@
     {
         "categoryId": 4,
         "categoryName": "Morning-Evening Zikr",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/morning_evening_zikr.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/morning_evening_zikr-jNfvGtxt.png",
         "contentList": [
             {
                 "id": 47,
@@ -661,7 +661,7 @@
     {
         "categoryId": 5,
         "categoryName": "From the Quran",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/quran_dua.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/quran_dua-pSyV4C8B.png",
         "contentList": [
             {
                 "id": 68,
@@ -1040,7 +1040,7 @@
     {
         "categoryId": 6,
         "categoryName": "Miscellaneous",
-        "categoryImage": "https://data.muslimsday.com/appdata/image/{theme}/more.png",
+        "categoryImage": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/image/{theme}/more-OWOMs8fW.png",
         "contentList": [
             {
                 "id": 108,
