@@ -330,3 +330,22 @@ html.md-dark .md-document { background: #0d131c; }
 .md-document .md-article__meta { color: var(--md-muted); font-size: 0.85em; margin: 0; }
 .md-document .md-article__hero { max-width: var(--md-wide); margin: 0 auto 2em; }
 .md-document .md-article__hero img { display: block; width: 100%; height: auto; border-radius: 16px; }
+
+/* Language chooser dropdown (standalone document; no JavaScript needed) */
+.md-document .md-lang { position: relative; display: inline-block; margin-bottom: 1em; font-size: 0.85em; }
+.md-document .md-lang summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 0.4em; border: 1px solid var(--md-border); border-radius: 999px; padding: 0.3em 0.9em; color: var(--md-text); }
+.md-document .md-lang summary::-webkit-details-marker { display: none; }
+.md-document .md-lang summary::after { content: '▾'; font-size: 0.8em; color: var(--md-muted); }
+.md-document .md-lang ul { position: absolute; z-index: 10; inset-inline-start: 0; margin: 0.4em 0 0; min-width: 12em; list-style: none; padding: 0.35em; border: 1px solid var(--md-border); border-radius: 12px; background: var(--md-surface); box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12); }
+.md-document .md-lang li { margin: 0; }
+.md-document .md-lang a { display: block; border-radius: 8px; padding: 0.45em 0.7em; color: var(--md-text); text-decoration: none; }
+.md-document .md-lang a:hover { background: var(--md-primary-soft); }
+.md-document .md-lang a[aria-current='page'] { color: var(--md-primary); font-weight: 600; }
+.md-document .md-lang a span { color: var(--md-muted); font-size: 0.9em; }
+
+/* Read count in the standalone document's meta line (filled by its script) */
+.md-document .md-article__reads::before { content: ' · '; }
+
+/* Ad slots */
+.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; }
+.md-blog-content .md-ad--preview iframe { width: 100%; min-height: 120px; border: 1px dashed var(--md-border); border-radius: 8px; background: var(--md-surface); }

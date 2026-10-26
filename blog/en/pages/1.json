@@ -10,10 +10,10 @@
             "title": "Rulings of offering Discount for Puja",
             "excerpt": "পূজার সময়ে ডিসকাউন্ট দেয়ার মাসআলা সম্পর্কে এই পোস্টে আলোচনা করা হয়েছে। পূজার সময় ডিসকাউন্ট দেয়া নিষিদ্ধ",
             "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/blog/media/2026/10/82081b94-f227-4c5c-986b-5d1bb0266dc0.jpg",
-                "alt": "পূজা উপলক্ষ্যে কোনো ডিসকাউন্ট অফার করা যাবে না",
-                "width": 800,
-                "height": 450
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/10/1852b0a1-d3ec-4ac9-b925-3aca71f9b4d8.png",
+                "alt": "",
+                "width": 782,
+                "height": 482
             },
             "categories": [
                 {
@@ -23,13 +23,13 @@
                 }
             ],
             "isSticky": false,
-            "publishedAt": "2026-10-12T03:52:27+00:00",
-            "updatedAt": "2026-10-12T03:52:27+00:00",
+            "publishedAt": "2026-10-12T03:52:00+00:00",
+            "updatedAt": "2026-10-26T05:16:51+00:00",
             "readingTimeMinutes": 2,
-            "contentHash": "843f6995326e3ebc8978dd98d5d6dc5b54043d204e2fe5f2330baa3cd6631d82",
+            "contentHash": "3b812b35410636ab901c20335757755fcd010e12fa8a05a7d9e209bbd7208d26",
             "url": "https://muslimsday.com/blog/rulings-of-offering-discount-for-puja",
-            "jsonUrl": "https://dev.data.muslimsday.com/blog/en/posts/rulings-of-offering-discount-for-puja.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/blog/en/posts/rulings-of-offering-discount-for-puja.html"
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/rulings-of-offering-discount-for-puja.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/rulings-of-offering-discount-for-puja.html"
         }
     ]
 }
