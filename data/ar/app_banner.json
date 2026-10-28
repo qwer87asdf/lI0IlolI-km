@@ -12,7 +12,7 @@
       "showAfterInstallHours": 0,
       "action": {
         "type": "web",
-        "url": "https://id.kahf.co/pay/muslimsday-offer-campaign?utm_source=muslimsday&utm_medium=in-app-banner&utm_campaign=yearly-offer-oct-26&utm_content=ar"
+        "url": "https://id.kahf.co/pay/muslimsday-offer-campaign?utm_source=muslimsday&utm_medium=in-app-banner&utm_campaign=yearly-offer-oct-26&utm_content=ar&custom_utm=in-app-notice"
       }
     },
     {
