@@ -1,5 +1,15 @@
 [
     {
+        "id": 204,
+        "slug": "20261028-ansar",
+        "title": "🌿 আলহামদুলিল্লাহ! মুসলিমস ডে আনসার এখন ৬৩৩ জন",
+        "subtitle": "আজ জুমআর দিন। দোয়া কবুলের দিন। নিজের আখিরাতের জন্য কিছু বিনিয়োগ করার দিন।",
+        "image": "https://data.muslimsday.com/appdata/notification/image/ansar_633_bn-1QGCdMs2.jpg",
+        "tags": [],
+        "published_at": "2026-10-28T10:20:00+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261028-ansar.json"
+    },
+    {
         "id": 202,
         "slug": "20261028-vhul-dekhacce",
         "title": "অ্যাপ থেকে আপনার এলাকার নামাজ ও সাহরি-ইফতারের সময়সূচি কি ভুল দেখাচ্ছে?",
