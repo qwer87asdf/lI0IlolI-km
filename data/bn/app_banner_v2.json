@@ -1,6 +1,21 @@
 {
     "events": [
         {
+            "id": "yearly-offer-oct-26-bn-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "আলহামদুলিল্লাহ, আগামী ৩ দিন আপনি পাচ্ছেন ৬৩% পর্যন্ত ডিসকাউন্ট।",
+            "description": "এই অফারটি মুসলিমস ডে এর বার্ষিক প্যাকেজে প্রযোজ্য, আরো আপন হোক আপনার ইবাদতের সঙ্গী।",
+            "startTime": 1793178000000,
+            "endTime": 1793469599000,
+            "isActive": true,
+            "priority": 105,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/pay/muslimsday-offer-campaign?utm_source=muslimsday&utm_medium=in-app-banner&utm_campaign=yearly-offer-oct-26&utm_content=bn-v2"
+            }
+        },
+        {
             "id": "lifetime-oct-26-bn-v2-1",
             "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
             "title": "এই অক্টোবরে আর ৯ জন লাইফটাইম মেম্বার নিবে মুসলিমস ডে",

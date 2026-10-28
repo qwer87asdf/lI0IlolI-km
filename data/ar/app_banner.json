@@ -1,6 +1,21 @@
 {
   "events": [
     {
+      "id": "yearly-offer-oct-26-ar-1",
+      "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+      "title": "For You: You've got up to 63% Discount for next 3 Days!",
+      "description": "This offer applicable for Muslims Day Yearly packages. Avail your offer before ends.",
+      "startTime": 1793178000000,
+      "endTime": 1793469599000,
+      "isActive": true,
+      "priority": 105,
+      "showAfterInstallHours": 0,
+      "action": {
+        "type": "web",
+        "url": "https://id.kahf.co/pay/muslimsday-offer-campaign?utm_source=muslimsday&utm_medium=in-app-banner&utm_campaign=yearly-offer-oct-26&utm_content=ar"
+      }
+    },
+    {
       "id": "barakah-givers-ar-2",
       "icon": "https://data.muslimsday.com/appdata/image/heart.png",
       "title": "ساعد 50,000 مسلم على جعل القرآن جزءًا من كل يوم!",
@@ -23,7 +38,7 @@
       "startTime": 1786622400000,
       "endTime": 1786729800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -38,7 +53,7 @@
       "startTime": 1786017600000,
       "endTime": 1786125000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -53,7 +68,7 @@
       "startTime": 1785412800000,
       "endTime": 1785520200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -68,7 +83,7 @@
       "startTime": 1789646400000,
       "endTime": 1789753800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -83,7 +98,7 @@
       "startTime": 1790251200000,
       "endTime": 1790358600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -98,7 +113,7 @@
       "startTime": 1790856000000,
       "endTime": 1790963400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -113,7 +128,7 @@
       "startTime": 1791460800000,
       "endTime": 1791568200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -128,7 +143,7 @@
       "startTime": 1792065600000,
       "endTime": 1792173000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -143,7 +158,7 @@
       "startTime": 1792670400000,
       "endTime": 1792777800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -158,7 +173,7 @@
       "startTime": 1793275200000,
       "endTime": 1793382600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -173,7 +188,7 @@
       "startTime": 1793880000000,
       "endTime": 1793987400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -188,7 +203,7 @@
       "startTime": 1794484800000,
       "endTime": 1794592200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -203,7 +218,7 @@
       "startTime": 1795089600000,
       "endTime": 1795197000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -218,7 +233,7 @@
       "startTime": 1795694400000,
       "endTime": 1795801800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -233,7 +248,7 @@
       "startTime": 1796299200000,
       "endTime": 1796406600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -248,7 +263,7 @@
       "startTime": 1796904000000,
       "endTime": 1797011400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -263,7 +278,7 @@
       "startTime": 1797508800000,
       "endTime": 1797616200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -278,7 +293,7 @@
       "startTime": 1798113600000,
       "endTime": 1798221000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -293,7 +308,7 @@
       "startTime": 1798718400000,
       "endTime": 1798825800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -308,7 +323,7 @@
       "startTime": 1799323200000,
       "endTime": 1799430600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -323,7 +338,7 @@
       "startTime": 1799928000000,
       "endTime": 1800035400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -338,7 +353,7 @@
       "startTime": 1800532800000,
       "endTime": 1800640200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -353,7 +368,7 @@
       "startTime": 1801137600000,
       "endTime": 1801245000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -368,7 +383,7 @@
       "startTime": 1801742400000,
       "endTime": 1801849800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -383,7 +398,7 @@
       "startTime": 1802347200000,
       "endTime": 1802454600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -398,7 +413,7 @@
       "startTime": 1802952000000,
       "endTime": 1803059400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -413,7 +428,7 @@
       "startTime": 1803556800000,
       "endTime": 1803664200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -428,7 +443,7 @@
       "startTime": 1804161600000,
       "endTime": 1804269000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -443,7 +458,7 @@
       "startTime": 1804766400000,
       "endTime": 1804873800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -458,7 +473,7 @@
       "startTime": 1805371200000,
       "endTime": 1805478600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -473,7 +488,7 @@
       "startTime": 1805976000000,
       "endTime": 1806083400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -488,7 +503,7 @@
       "startTime": 1806580800000,
       "endTime": 1806688200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -503,7 +518,7 @@
       "startTime": 1807185600000,
       "endTime": 1807293000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -518,7 +533,7 @@
       "startTime": 1807790400000,
       "endTime": 1807897800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -533,7 +548,7 @@
       "startTime": 1808395200000,
       "endTime": 1808502600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -548,7 +563,7 @@
       "startTime": 1809000000000,
       "endTime": 1809107400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -563,7 +578,7 @@
       "startTime": 1809604800000,
       "endTime": 1809712200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -578,7 +593,7 @@
       "startTime": 1810209600000,
       "endTime": 1810317000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -593,7 +608,7 @@
       "startTime": 1810814400000,
       "endTime": 1810921800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -608,7 +623,7 @@
       "startTime": 1811419200000,
       "endTime": 1811526600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -623,7 +638,7 @@
       "startTime": 1812024000000,
       "endTime": 1812131400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -638,7 +653,7 @@
       "startTime": 1812628800000,
       "endTime": 1812736200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -653,7 +668,7 @@
       "startTime": 1813233600000,
       "endTime": 1813341000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -668,7 +683,7 @@
       "startTime": 1813838400000,
       "endTime": 1813945800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -683,7 +698,7 @@
       "startTime": 1814443200000,
       "endTime": 1814550600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -698,7 +713,7 @@
       "startTime": 1815048000000,
       "endTime": 1815155400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -713,7 +728,7 @@
       "startTime": 1815652800000,
       "endTime": 1815760200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -728,7 +743,7 @@
       "startTime": 1816257600000,
       "endTime": 1816365000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -743,7 +758,7 @@
       "startTime": 1816862400000,
       "endTime": 1816969800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -758,7 +773,7 @@
       "startTime": 1817467200000,
       "endTime": 1817574600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -773,7 +788,7 @@
       "startTime": 1818072000000,
       "endTime": 1818179400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -788,7 +803,7 @@
       "startTime": 1818676800000,
       "endTime": 1818784200000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -803,7 +818,7 @@
       "startTime": 1819281600000,
       "endTime": 1819389000000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -818,7 +833,7 @@
       "startTime": 1819886400000,
       "endTime": 1819993800000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -833,7 +848,7 @@
       "startTime": 1820491200000,
       "endTime": 1820598600000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",
@@ -848,7 +863,7 @@
       "startTime": 1821096000000,
       "endTime": 1821203400000,
       "isActive": true,
-      "priority": 95,
+      "priority": 110,
       "showAfterInstallHours": 72,
       "action": {
         "type": "web",

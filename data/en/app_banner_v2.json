@@ -1,6 +1,21 @@
 {
     "events": [
         {
+            "id": "yearly-offer-oct-26-en-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
+            "title": "For You: You've got up to 63% Discount for next 3 Days!",
+            "description": "This offer applicable for Muslims Day Yearly packages. Avail your offer before ends.",
+            "startTime": 1793178000000,
+            "endTime": 1793469599000,
+            "isActive": true,
+            "priority": 105,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://id.kahf.co/pay/muslimsday-offer-campaign?utm_source=muslimsday&utm_medium=in-app-banner&utm_campaign=yearly-offer-oct-26&utm_content=en-v2"
+            }
+        },
+        {
             "id": "lifetime-oct-26-en-v2-1",
             "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
             "title": "Muslims Day will take only 9 more lifetime members this October",
