@@ -1,5 +1,17 @@
 [
     {
+        "id": 50,
+        "slug": "20261027-chaildern-en",
+        "title": "Is Your Child Losing Their Character While Chasing Success?",
+        "subtitle": "The anguish of a generation at risk and a humble appeal to parents.",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Success_Versus_Character__A_Minimalist_Study_Still-UYVn4yMc.jpg",
+        "tags": [],
+        "published_at": "2026-10-28T04:02:10+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261027-chaildern-en.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://muslimsday.com/_astro/logo.BbgTEg88.svg"
+    },
+    {
         "id": 47,
         "slug": "20261020-so-called",
         "title": "So-Called Modern Romance: Emotional Connection or Carnal Desire?",
@@ -7,7 +19,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Modern_Romance__Heartbreak_and_Illusions-FGzLD041.jpg",
         "tags": [],
         "published_at": "2026-10-25T03:37:48+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261020-so-called.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261020-so-called.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 45,
@@ -17,6 +31,8 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-qVsTOdkA.jpg",
         "tags": [],
         "published_at": "2026-10-24T09:59:56+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261021-everyone.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/dev/notification/20261021-everyone.json",
+        "author": null,
+        "author_image_url": null
     }
 ]
