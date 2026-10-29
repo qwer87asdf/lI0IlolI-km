@@ -10,7 +10,7 @@
         "publisher": "muslims-day",
         "fallbackPublisher": "muslims-day",
         "refreshRateInMillis": 15000,
-        "epomTrafficPercentage": 100,
+        "epomTrafficPercentage": 90,
         "ads": [
             {
                 "isEnable": true,
