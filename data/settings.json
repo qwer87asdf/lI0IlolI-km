@@ -15,52 +15,62 @@
             {
                 "isEnable": true,
                 "placement": "8a6eaaa2718d003335f126d24d78c311",
-                "divId": "home-1st-banner"
+                "divId": "home-1st-banner",
+                "kahfAdsPlacement": "pl_132563cb959d4214"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "home-bottom-sticky-banner"
+                "divId": "home-bottom-sticky-banner",
+                "kahfAdsPlacement": "pl_4154480deada4a48"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "quran-bottom-sticky-banner"
+                "divId": "quran-bottom-sticky-banner",
+                "kahfAdsPlacement": "pl_82f3dd6259ff44aa"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "dua-bottom-sticky-banner"
+                "divId": "dua-bottom-sticky-banner",
+                "kahfAdsPlacement": "pl_11fe449c219c4e8d"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "tools-bottom-sticky-banner"
+                "divId": "tools-bottom-sticky-banner",
+                "kahfAdsPlacement": "pl_1cecd63da4584e60"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "more-bottom-sticky-banner"
+                "divId": "more-bottom-sticky-banner",
+                "kahfAdsPlacement": "pl_fa0e91884c0d4d30"
             },
             {
                 "isEnable": true,
                 "placement": "84b044816c9760abd87d6ae1d28016e3",
-                "divId": "home-feed-medium-rectangle"
+                "divId": "home-feed-medium-rectangle",
+                "kahfAdsPlacement": "pl_33a61fe049254f3c"
             },
             {
                 "isEnable": true,
                 "placement": "a359bd948b0f30fcaf27ace4e5359281",
-                "divId": "home-feed-native-ad"
+                "divId": "home-feed-native-ad",
+                "kahfAdsPlacement": "pl_a4caf89e058c4038"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "saom-full-screen-under-saom-card"
+                "divId": "saom-full-screen-under-saom-card",
+                "kahfAdsPlacement": "pl_e1362078d61c401b"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "calendar-bottom-sticky"
+                "divId": "calendar-bottom-sticky",
+                "kahfAdsPlacement": "pl_7323415cbc604c3e"
             },
             {
                 "isEnable": true,
@@ -70,7 +80,8 @@
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "qibla-compass"
+                "divId": "qibla-compass",
+                "kahfAdsPlacement": "pl_9eec2a2fcd82420a"
             },
             {
                 "isEnable": true,
@@ -85,7 +96,8 @@
             {
                 "isEnable": true,
                 "placement": "8a6eaaa2718d003335f126d24d78c311",
-                "divId": "habit-tracker-bottom-sticky"
+                "divId": "habit-tracker-bottom-sticky",
+                "kahfAdsPlacement": "pl_c2b33ce680e5462d"
             },
             {
                 "isEnable": true,
@@ -95,27 +107,32 @@
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "dua-list-bottom-sticky"
+                "divId": "dua-list-bottom-sticky",
+                "kahfAdsPlacement": "pl_8c84da42d3cd4348"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "in-app-webview-bottom-sticky"
+                "divId": "in-app-webview-bottom-sticky",
+                "kahfAdsPlacement": "pl_341cc7fe13ce4eae"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "dua-details-bottom-sticky"
+                "divId": "dua-details-bottom-sticky",
+                "kahfAdsPlacement": "pl_8afbdb65b5744980"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "notification-list-bottom-sticky"
+                "divId": "notification-list-bottom-sticky",
+                "kahfAdsPlacement": "pl_4c0915e8c2af4dd9"
             },
             {
                 "isEnable": true,
                 "placement": "948b56f62b8d4ceaf349a5be98d0c632",
-                "divId": "notification-details-bottom-sticky"
+                "divId": "notification-details-bottom-sticky",
+                "kahfAdsPlacement": "pl_af3b553e7da3478d"
             }
         ],
         "adsMetaData": {
@@ -200,89 +217,6 @@
         }
     ],
     "homeFabCtas": [
-        {
-            "id": "qa-ct-fab-s",
-            "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792335420000,
-            "endDate": 1792421820000,
-            "priority": 90000,
-            "showAfterInstallHours": 0,
-            "visibleTo": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "tasbeeh"
-            }
-        },
-        {
-            "id": "qa-ct-fab-future",
-            "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792335420000,
-            "endDate": 1792421820000,
-            "priority": 90009,
-            "showAfterInstallHours": 0,
-            "visibleTo": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "calendar"
-            }
-        },
-        {
-            "id": "qa-ct-fab-expired",
-            "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792335420000,
-            "endDate": 1792421820000,
-            "priority": 90008,
-            "showAfterInstallHours": 0,
-            "visibleTo": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "settings"
-            }
-        },
-        {
-            "id": "qa-ct-fab-country",
-            "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792335420000,
-            "endDate": 1792421820000,
-            "priority": 90007,
-            "showAfterInstallHours": 0,
-            "visibleTo": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "settings"
-            },
-            "supportedCountries": [
-                "SAU"
-            ]
-        },
-        {
-            "id": "qa-ct-fab-showafter",
-            "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792335420000,
-            "endDate": 1792421820000,
-            "priority": 90006,
-            "showAfterInstallHours": 2000,
-            "visibleTo": [],
-            "action": {
-                "type": "screen",
-                "routeKey": "notification-list"
-            }
-        },
-        {
-            "id": "qa-ct-fab-auth",
-            "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
-            "startDate": 1792335420000,
-            "endDate": 1792421820000,
-            "priority": 90005,
-            "showAfterInstallHours": 0,
-            "visibleTo": [
-                "AUTHORIZED"
-            ],
-            "action": {
-                "type": "screen",
-                "routeKey": "habit-tracker"
-            }
-        },
         {
             "id": "qa-ct-fab-paid",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
