@@ -1,5 +1,17 @@
 [
     {
+        "id": 208,
+        "slug": "20261101-gafel",
+        "title": "আপনিও কি সেই গাফেলদের দলভুক্ত?",
+        "subtitle": "রাতের একটি ছোট্ট আমলই মুছে দিতে পারে উদাসীনতার এই তকমা!",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-T1eVQDUu.jpg",
+        "tags": [],
+        "published_at": "2026-11-01T05:34:55+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261101-gafel.json",
+        "author": null,
+        "author_image_url": null
+    },
+    {
         "id": 206,
         "slug": "20261030-apnar-ghor",
         "title": "আপনার ঘরের অশান্তি কি সন্তানকে মানসিকভাবে পঙ্গু বানাচ্ছে?",
@@ -7,7 +19,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-dW5WLd4C.jpg",
         "tags": [],
         "published_at": "2026-10-30T08:09:04+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261030-apnar-ghor.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261030-apnar-ghor.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 204,
@@ -17,7 +31,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/ansar_633_bn-1QGCdMs2.jpg",
         "tags": [],
         "published_at": "2026-10-28T10:20:00+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261028-ansar.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261028-ansar.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 200,
@@ -27,7 +43,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-oVYdN23j.jpg",
         "tags": [],
         "published_at": "2026-10-27T05:05:36+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261027-sontan.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261027-sontan.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 198,
@@ -37,7 +55,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-ld93HT3z.jpg",
         "tags": [],
         "published_at": "2026-10-21T09:08:39+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261021-sobar-sob.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261021-sobar-sob.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 196,
@@ -47,7 +67,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/ansar_629_bn-sZp5TyUq.jpg",
         "tags": [],
         "published_at": "2026-10-20T09:28:43+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261020-ansar.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261020-ansar.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 194,
@@ -57,7 +79,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-iCMxqAWi.jpg",
         "tags": [],
         "published_at": "2026-10-20T06:31:47+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261020-tothakothito.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261020-tothakothito.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 192,
@@ -67,7 +91,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-jVubEHRE.jpg",
         "tags": [],
         "published_at": "2026-10-19T05:03:03+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261019-pujar-prosad.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261019-pujar-prosad.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 190,
@@ -77,7 +103,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-Mqjdk7uA.jpg",
         "tags": [],
         "published_at": "2026-10-18T09:43:44+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261018-adi-uddeshho.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261018-adi-uddeshho.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 188,
@@ -87,7 +115,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-fs6l2leg.jpg",
         "tags": [],
         "published_at": "2026-10-18T04:57:33+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261018-puja.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261018-puja.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 186,
@@ -97,7 +127,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-LQIQw3e1.jpg",
         "tags": [],
         "published_at": "2026-10-15T11:23:11+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261015-zikir.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261015-zikir.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 184,
@@ -107,7 +139,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-ZDuo5aPD.jpg",
         "tags": [],
         "published_at": "2026-10-15T07:56:26+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261015-rijik.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261015-rijik.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 182,
@@ -117,7 +151,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-oHeBX6o0.jpg",
         "tags": [],
         "published_at": "2026-10-14T09:24:22+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261014-ansar.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261014-ansar.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 180,
@@ -127,7 +163,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-6ydLVflJ.jpg",
         "tags": [],
         "published_at": "2026-10-14T05:02:32+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261014-pul-sirat.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261014-pul-sirat.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 178,
@@ -137,7 +175,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/bn-u6BRn9MX.jpg",
         "tags": [],
         "published_at": "2026-10-13T06:59:09+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261013-soisob.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261013-soisob.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 176,
@@ -147,7 +187,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/mushaf_bn-GI3VyxPP.jpg",
         "tags": [],
         "published_at": "2026-10-13T05:54:19+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261013-mushaf-bn.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261013-mushaf-bn.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 174,
@@ -157,7 +199,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/deen_bn-ps5AtGGa.jpg",
         "tags": [],
         "published_at": "2026-10-12T06:57:46+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261012-deen.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261012-deen.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 172,
@@ -167,7 +211,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/bidhan_bn-VSyztnZp.jpg",
         "tags": [],
         "published_at": "2026-10-11T11:21:08+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-bidhan.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-bidhan.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 170,
@@ -177,7 +223,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/pujo_bn-nCSB5ibn.jpg",
         "tags": [],
         "published_at": "2026-10-11T08:14:30+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-puja.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-puja.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 168,
@@ -187,7 +235,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/bn-7C6wffxR.jpg",
         "tags": [],
         "published_at": "2026-10-08T15:22:51+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-barakah-pass.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-barakah-pass.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 166,
@@ -197,7 +247,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/ses_biday_bn-tSOcPsal.jpg",
         "tags": [],
         "published_at": "2026-10-08T05:11:28+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-ses-biday-bn.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-ses-biday-bn.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 164,
@@ -207,7 +259,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/sontan_bn-0Qyh7luK.jpg",
         "tags": [],
         "published_at": "2026-10-07T09:01:56+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261007-sontan.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261007-sontan.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 162,
@@ -217,7 +271,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-9OA7eV4l.jpg",
         "tags": [],
         "published_at": "2026-10-06T10:07:08+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261006-barakapass.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261006-barakapass.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 160,
@@ -227,7 +283,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/ibadah_bn-xH6y4mdA.jpg",
         "tags": [],
         "published_at": "2026-10-05T06:42:27+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261005-ibadaht.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261005-ibadaht.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 158,
@@ -237,7 +295,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-5ZGbLMBg.jpg",
         "tags": [],
         "published_at": "2026-10-04T06:01:20+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261004-sokal-bela.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261004-sokal-bela.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 156,
@@ -247,7 +307,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-8SVRhGxA.jpg",
         "tags": [],
         "published_at": "2026-10-01T11:26:53+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-je-app.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-je-app.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 154,
@@ -257,7 +319,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/sujood_bn-Pi55rq8M.jpg",
         "tags": [],
         "published_at": "2026-10-01T11:20:27+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-apnar-sejda.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-apnar-sejda.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 152,
@@ -267,7 +331,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-LaScQA6F.jpg",
         "tags": [],
         "published_at": "2026-10-01T08:03:08+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-apnara-pashe.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-apnara-pashe.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 150,
@@ -277,7 +343,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/serat_Summery_bn-5PRoBxQh.jpg",
         "tags": [],
         "published_at": "2026-09-30T08:31:01+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260930-kivabe-sirat.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260930-kivabe-sirat.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 148,
@@ -287,7 +355,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/the_amal_bn-7iYJJhXR.jpg",
         "tags": [],
         "published_at": "2026-09-29T07:59:54+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260929-je-amol.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260929-je-amol.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 146,
@@ -297,7 +367,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-NebuvuVJ.jpg",
         "tags": [],
         "published_at": "2026-09-28T05:37:15+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260928-vebe-dekhecen.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260928-vebe-dekhecen.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 144,
@@ -307,7 +379,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/30_koti_bn-cIv3zqxp.jpg",
         "tags": [],
         "published_at": "2026-09-27T07:32:17+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260927-tiris-koti.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260927-tiris-koti.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 142,
@@ -317,7 +391,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/kivabe-sirat-porben-lCFTUk0h.png",
         "tags": [],
         "published_at": "2026-09-25T12:57:20+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260925-kivabe-sirat-porben.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260925-kivabe-sirat-porben.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 140,
@@ -327,7 +403,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Tawba_bn-zvqEqkuR.jpg",
         "tags": [],
         "published_at": "2026-09-24T10:50:58+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-tawba.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-tawba.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 138,
@@ -337,7 +415,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Jaynamaj_Bn-BFFUjaXN.jpg",
         "tags": [],
         "published_at": "2026-09-24T09:12:03+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-Jaynamaj.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-Jaynamaj.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 104,
@@ -347,7 +427,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/ansar_614_now_bn-smOBXd1l.jpg",
         "tags": [],
         "published_at": "2026-09-24T04:57:44+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-ansar.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-ansar.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 102,
@@ -357,7 +439,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-O5krxEQm.jpg",
         "tags": [],
         "published_at": "2026-09-23T13:43:37+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-apni-jodi-sedin-madinay-thakten.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-apni-jodi-sedin-madinay-thakten.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 100,
@@ -367,7 +451,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/How_deep_is_your_child_sinking_bn-fB6XA71y.jpg",
         "tags": [],
         "published_at": "2026-09-23T08:14:42+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-Oprotim.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-Oprotim.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 98,
@@ -377,7 +463,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Webinar-03_Bn-DOaIyYzT.jpg",
         "tags": [],
         "published_at": "2026-09-22T05:15:01+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260922-kivabe-sirat-porben.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260922-kivabe-sirat-porben.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 96,
@@ -387,7 +475,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/65_BN_Push-7njtUfI0.jpg",
         "tags": [],
         "published_at": "2026-09-21T09:08:40+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260921-65-Char.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260921-65-Char.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 94,
@@ -397,7 +487,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Barakah_Pass_Bangla-lt2W8GIX.jpg",
         "tags": [],
         "published_at": "2026-09-20T11:18:28+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260920-barakah.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260920-barakah.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 92,
@@ -407,7 +499,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Ansar_607_Bn-ZV5kfoEh.jpg",
         "tags": [],
         "published_at": "2026-09-17T09:04:54+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260917-ansar-update.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260917-ansar-update.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 90,
@@ -417,7 +511,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-TltdeyHe.jpg",
         "tags": [],
         "published_at": "2026-09-17T05:56:09+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260917-islami-boimela-26.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260917-islami-boimela-26.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 57,
@@ -427,7 +523,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-m0mvy2Zl.jpg",
         "tags": [],
         "published_at": "2026-09-14T08:39:06+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260914-fajar-keno-sob-bodle-day.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260914-fajar-keno-sob-bodle-day.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 55,
@@ -437,7 +535,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-Wu2ugBmC.jpg",
         "tags": [],
         "published_at": "2026-09-13T08:23:44+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-robius-sani.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-robius-sani.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 53,
@@ -447,7 +547,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-Wv6yo6wN.jpg",
         "tags": [],
         "published_at": "2026-09-13T04:42:51+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-durud-somapti.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-durud-somapti.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 52,
@@ -457,7 +559,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-mFWMxNum.jpg",
         "tags": [],
         "published_at": "2026-09-12T13:54:03+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260912-robius-sani.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260912-robius-sani.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 50,
@@ -467,7 +571,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/601_bn_push-bnTDUDQS.jpg",
         "tags": [],
         "published_at": "2026-09-10T07:03:18+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260910-ansar.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260910-ansar.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 48,
@@ -477,7 +583,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-mhGvJ7aj.jpg",
         "tags": [],
         "published_at": "2026-09-09T09:27:20+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-Porinoti.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-Porinoti.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 46,
@@ -487,7 +595,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-lHgPHlQY.jpg",
         "tags": [],
         "published_at": "2026-09-09T05:54:31+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-sobai-je-poth.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-sobai-je-poth.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 44,
@@ -497,7 +607,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/bangla-dU6UCvN6.jpg",
         "tags": [],
         "published_at": "2026-09-08T06:42:32+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260908-dua-osomvab.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260908-dua-osomvab.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 42,
@@ -507,7 +619,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-4RRDoRSO.jpg",
         "tags": [],
         "published_at": "2026-09-07T06:37:39+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260907-take-valobasa.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260907-take-valobasa.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 40,
@@ -517,7 +631,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-ZyZqbcVF.jpg",
         "tags": [],
         "published_at": "2026-09-06T09:12:04+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260906-nobi-prem.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260906-nobi-prem.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 38,
@@ -527,7 +643,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/day_1_update_bangla-h1KLqetY.jpg",
         "tags": [],
         "published_at": "2026-09-04T09:18:06+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260904-prothom-diner-update.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260904-prothom-diner-update.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 36,
@@ -537,7 +655,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/10_Milion_Bangla_Push-1S9vhWrU.jpg",
         "tags": [],
         "published_at": "2026-09-03T10:08:33+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260903-hridoyer-modina.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260903-hridoyer-modina.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 34,
@@ -547,7 +667,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-UOlcgpcy.jpg",
         "tags": [],
         "published_at": "2026-09-02T10:22:21+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260902-vodro-lok.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260902-vodro-lok.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 32,
@@ -557,7 +679,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/10_Million_Bangla-Rb5LxF86.jpg",
         "tags": [],
         "published_at": "2026-09-01T10:32:43+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260901-ak-koti-durud.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260901-ak-koti-durud.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 30,
@@ -567,7 +691,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Bonna_Bangla-TY32aNnL.jpg",
         "tags": [],
         "published_at": "2026-09-01T06:52:13+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260901-bonna-bangla.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260901-bonna-bangla.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 28,
@@ -577,7 +703,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Update_bangla-AsRy30sA.jpg",
         "tags": [],
         "published_at": "2026-08-31T07:04:14+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260831-muslims-day-notun-version.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260831-muslims-day-notun-version.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 26,
@@ -587,7 +715,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-mVpx1OFZ.jpg",
         "tags": [],
         "published_at": "2026-08-30T05:51:08+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260830-rager-muhurte.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260830-rager-muhurte.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 24,
@@ -597,7 +727,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-9unCpDOf.jpg",
         "tags": [],
         "published_at": "2026-08-29T13:16:21+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260829-bandar-haq.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260829-bandar-haq.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 22,
@@ -607,7 +739,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-ixHyJUyj.jpg",
         "tags": [],
         "published_at": "2026-08-27T05:56:17+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260827-ajker-rat-jodi.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260827-ajker-rat-jodi.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 20,
@@ -617,7 +751,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Tumi_Kemon_Aso_Bangla-yGhQTX7i.jpg",
         "tags": [],
         "published_at": "2026-08-25T04:59:18+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260825-Tumi-kemon-aso.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260825-Tumi-kemon-aso.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 19,
@@ -627,7 +763,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Robiul_auwal_roja-7wfOXBTm.jpg",
         "tags": [],
         "published_at": "2026-08-24T14:35:03+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260824-ayyamul-bid-fast-robiul-awal-1448.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260824-ayyamul-bid-fast-robiul-awal-1448.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 17,
@@ -637,7 +775,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Productivity_Bangla-81IVO1LM.jpg",
         "tags": [],
         "published_at": "2026-08-23T13:43:09+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260823-productivity-bangla.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260823-productivity-bangla.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 16,
@@ -647,7 +787,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/jin_jadu_push-02-Zqngn7kH.jpg",
         "tags": [],
         "published_at": "2026-08-23T11:54:36+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260823-webinar-sum.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260823-webinar-sum.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 14,
@@ -657,7 +799,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-LrWDGOG3.jpg",
         "tags": [],
         "published_at": "2026-08-22T07:46:25+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260822-apnar-sontan.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260822-apnar-sontan.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 12,
@@ -667,7 +811,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-OR8tD1db.jpg",
         "tags": [],
         "published_at": "2026-08-20T10:22:56+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260820-ansar-update.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260820-ansar-update.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 8,
@@ -677,7 +823,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-K5LLVL50.jpg",
         "tags": [],
         "published_at": "2026-08-19T14:34:45+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260819-apni-jodi-sedin-madinay-thakten.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260819-apni-jodi-sedin-madinay-thakten.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 6,
@@ -687,7 +835,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-uh780ySb.jpg",
         "tags": [],
         "published_at": "2026-08-18T05:34:39+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260818-Jid-jadu-bodnajar.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260818-Jid-jadu-bodnajar.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 4,
@@ -697,7 +847,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/notification-2g5hSBjY.jpg",
         "tags": [],
         "published_at": "2026-08-17T04:17:05+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260817-nirjonotar-fand.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260817-nirjonotar-fand.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 2,
@@ -707,7 +859,9 @@
         "image": "https://data.muslimsday.com/appdata/notification/image/Sunnah_Bangla-UaqQM6q6.jpg",
         "tags": [],
         "published_at": "2026-08-16T09:38:24+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260816-shesh-prohore-sunnah.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260816-shesh-prohore-sunnah.json",
+        "author": null,
+        "author_image_url": null
     },
     {
         "id": 1,
@@ -717,6 +871,8 @@
         "image": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/image/water-waste.jpg",
         "tags": [],
         "published_at": "2026-07-09T04:26:20+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260709-water-waste.json"
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260709-water-waste.json",
+        "author": null,
+        "author_image_url": null
     }
 ]
