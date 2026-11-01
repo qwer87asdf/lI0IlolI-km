@@ -17,6 +17,7 @@
             },
             "categories": [
                 {
+                    "id": 1,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true

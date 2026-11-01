@@ -5,6 +5,10 @@
         "name": "মাসআলা",
         "description": null,
         "parent": null,
-        "count": 1
+        "count": 1,
+        "totalPosts": 1,
+        "totalPages": 1,
+        "url": "https://muslimsday.com/blog/category/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE/pages/{page}.json"
     }
 ]

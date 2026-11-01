@@ -1,0 +1,37 @@
+{
+    "category": "মাসআলা",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 1,
+            "translationId": 1,
+            "language": "en",
+            "slug": "rulings-of-offering-discount-for-puja",
+            "title": "Rulings of offering Discount for Puja",
+            "excerpt": "পূজার সময়ে ডিসকাউন্ট দেয়ার মাসআলা সম্পর্কে এই পোস্টে আলোচনা করা হয়েছে। পূজার সময় ডিসকাউন্ট দেয়া নিষিদ্ধ",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/10/1852b0a1-d3ec-4ac9-b925-3aca71f9b4d8.png",
+                "alt": "",
+                "width": 782,
+                "height": 482
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-10-12T03:52:00+00:00",
+            "updatedAt": "2026-10-26T05:16:51+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "3b812b35410636ab901c20335757755fcd010e12fa8a05a7d9e209bbd7208d26",
+            "url": "https://muslimsday.com/blog/rulings-of-offering-discount-for-puja",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/rulings-of-offering-discount-for-puja.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/rulings-of-offering-discount-for-puja.html"
+        }
+    ]
+}
