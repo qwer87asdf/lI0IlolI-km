@@ -76,12 +76,12 @@
             }
         },
         {
-            "id": "dhikr-oct-26-bn-2",
+            "id": "dhikr-oct-26-bn-3",
             "icon": "https://data.muslimsday.com/appdata/image/allah-2Ew6oNl9.png",
             "title": "এক উম্মাহ। এক কালিমা। ৫ কোটি বার লা ইলাহা ইল্লাল্লাহ।",
             "description": "আসুন, বিশ্বজুড়ে মুসলিম ভাইবোনদের সঙ্গে ৫ কোটি বার লা ইলাহা ইল্লাল্লাহ পড়ার উদ্যোগে শামিল হই।",
             "startTime": 1792381800000,
-            "endTime": 1793469000000,
+            "endTime": 1796061599000,
             "isActive": true,
             "priority": 100,
             "supportedCountries": [],

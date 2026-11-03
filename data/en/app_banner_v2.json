@@ -76,12 +76,12 @@
             }
         },
         {
-            "id": "dhikr-campaign-oct-26-en",
+            "id": "dhikr-campaign-oct-26-en-2",
             "icon": "https://data.muslimsday.com/appdata/image/allah-2Ew6oNl9.png",
             "title": "One Ummah! One Kalimah!",
             "description": "Join us to recite ‘La ilaha illallah’ 50M+ times",
             "startTime": 1792144500000,
-            "endTime": 1793440500000,
+            "endTime": 1796061599000,
             "isActive": true,
             "priority": 100,
             "supportedCountries": [],
