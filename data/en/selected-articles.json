@@ -108,6 +108,18 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
+        "id": 197,
+        "slug": "20261020-ansar-update",
+        "title": "🌿 Alhamdulillah! Muslims Day: Ansar now has 629 members",
+        "subtitle": "Jumu'ah Mubarak: A blessed time for du'a and investing in your Hereafter.",
+        "image": "https://data.muslimsday.com/appdata/notification/image/ansar_629_en-zfcy89QQ.jpg",
+        "tags": [],
+        "published_at": "2026-10-20T09:29:03+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261020-ansar-update.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
         "id": 195,
         "slug": "20261020-so-called",
         "title": "So-Called Modern Romance: Emotional Connection or Carnal Desire?",
@@ -176,6 +188,18 @@
         "tags": [],
         "published_at": "2026-10-15T07:56:45+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261015-Riziq.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
+        "id": 183,
+        "slug": "20261014-ansar-update",
+        "title": "🌿 Alhamdulillah! Muslims Day: Ansar now has 623 members",
+        "subtitle": "Jumu'ah Mubarak: A blessed time for du'a and investing in your Hereafter.",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-4GBSYCFP.jpg",
+        "tags": [],
+        "published_at": "2026-10-14T09:24:35+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261014-ansar-update.json",
         "author": "Muslims Day",
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
