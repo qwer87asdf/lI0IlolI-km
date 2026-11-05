@@ -32,7 +32,7 @@
   {
     "name": "daily_notification",
     "url": "appdata/data/{lang}/daily_notification.json",
-    "updated_at": 1793895758
+    "updated_at": 1793897141500
   },
   {
     "name": "event_animations",
