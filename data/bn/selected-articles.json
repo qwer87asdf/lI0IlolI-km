@@ -72,18 +72,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 204,
-        "slug": "20261028-ansar",
-        "title": "🌿 আলহামদুলিল্লাহ! মুসলিমস ডে আনসার এখন ৬৩৩ জন",
-        "subtitle": "আজ জুমআর দিন। দোয়া কবুলের দিন। নিজের আখিরাতের জন্য কিছু বিনিয়োগ করার দিন।",
-        "image": "https://data.muslimsday.com/appdata/notification/image/ansar_633_bn-1QGCdMs2.jpg",
-        "tags": [],
-        "published_at": "2026-10-28T10:20:00+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261028-ansar.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 200,
         "slug": "20261027-sontan",
         "title": "সন্তান সফলতার পেছনে ছুটতে গিয়ে তার চরিত্র হারিয়ে ফেলছে না তো?",
