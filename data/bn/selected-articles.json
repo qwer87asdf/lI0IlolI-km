@@ -840,18 +840,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 12,
-        "slug": "20260820-ansar-update",
-        "title": "আল্লাহুম্মা সাল্লি আলা মুহাম্মাদ",
-        "subtitle": "৩০ দিনে ২ কোটিবার দরূদ—একটি বরকতময় যাত্রার গল্প!",
-        "image": "https://data.muslimsday.com/appdata/notification/image/notification-OR8tD1db.jpg",
-        "tags": [],
-        "published_at": "2026-08-20T10:22:56+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260820-ansar-update.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 8,
         "slug": "20260819-apni-jodi-sedin-madinay-thakten",
         "title": "আপনি যদি সেদিন মদিনায় থাকতেন!",
