@@ -768,18 +768,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 13,
-        "slug": "20260820-ansar-story",
-        "title": "Allahumma Salli ‘Ala Muhammad",
-        "subtitle": "20 Million Durood in 30 Days: The Story of a Blessed Journey!",
-        "image": "https://data.muslimsday.com/appdata/notification/image/notification-gRmZC8QU.jpg",
-        "tags": [],
-        "published_at": "2026-08-20T14:30:23+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260820-ansar-story.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 9,
         "slug": "20260819-if-you-had-been-in-madina-that-day",
         "title": "What if you were in Madina that day!",
