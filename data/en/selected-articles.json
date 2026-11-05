@@ -552,18 +552,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 51,
-        "slug": "20260910-ansar-update",
-        "title": "🌿 Alhamdulillah! Muslims Day Ansar Has Now Reached 601 Supporters",
-        "subtitle": "Today, on this blessed day of Jumu'ah, become a Muslims Day Ansar.",
-        "image": "https://data.muslimsday.com/appdata/notification/image/601_EN_Push-J3j6rfs4.jpg",
-        "tags": [],
-        "published_at": "2026-09-10T07:06:58+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260910-ansar-update.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 49,
         "slug": "20260909-destination",
         "title": "What if you die in the same condition as you are now?",
