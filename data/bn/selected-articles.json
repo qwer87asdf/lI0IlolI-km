@@ -708,18 +708,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 28,
-        "slug": "20260831-muslims-day-notun-version",
-        "title": "Muslims Day v6.3.0: ইবাদতের পথে আরও একটু কাছে",
-        "subtitle": "কী কী থাকছে নতুন আপডেটে?",
-        "image": "https://data.muslimsday.com/appdata/notification/image/Update_bangla-AsRy30sA.jpg",
-        "tags": [],
-        "published_at": "2026-08-31T07:04:14+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260831-muslims-day-notun-version.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 26,
         "slug": "20260830-rager-muhurte",
         "title": "রাগের মুহূর্তে আমরা যা করি, আর নবীজি ﷺ কি করতেন?",
