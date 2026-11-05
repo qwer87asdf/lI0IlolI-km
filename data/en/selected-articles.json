@@ -420,18 +420,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 105,
-        "slug": "20260924-ansar-update",
-        "title": "🌿 Alhamdulillah! Muslims Day: Ansar now has 614 members",
-        "subtitle": "Today, on this blessed day of Jumu'ah, become a Muslims Day Ansar.",
-        "image": "https://data.muslimsday.com/appdata/notification/image/ansar_614_now_En-SNzXBFhj.jpg",
-        "tags": [],
-        "published_at": "2026-09-24T05:04:33+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-ansar-update.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 103,
         "slug": "20260923-if-you-had-been-in-madina-that-day",
         "title": "What if you were in Madina that day!",
