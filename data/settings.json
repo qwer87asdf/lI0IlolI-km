@@ -208,7 +208,7 @@
             "id": "share-prayer-time",
             "iconUrl": "https://data.muslimsday.com/appdata/image/share_prayer_time.png",
             "startDate": 1790135760000,
-            "endDate": 1790780160000,
+            "endDate": 1798642560000,
             "priority": 1,
             "showAfterInstallHours": 0,
             "visibleTo": [],
