@@ -137,12 +137,14 @@
             {
                 "isEnable": true,
                 "placement": "8a6eaaa2718d003335f126d24d78c311",
-                "divId": "ruqyah-list"
+                "divId": "ruqyah-list",
+                "kahfAdsPlacement": "pl_9da7a7be58b64835"
             },
             {
                 "isEnable": true,
                 "placement": "8a6eaaa2718d003335f126d24d78c311",
-                "divId": "ruqyah-details-bottom"
+                "divId": "ruqyah-details-bottom",
+                "kahfAdsPlacement": "pl_0a16d9fbe20e4203"
             },
             {
                 "isEnable": true,
@@ -161,6 +163,18 @@
                 "placement": "84b044816c9760abd87d6ae1d28016e3",
                 "divId": "selected-articles-medium-rectangle",
                 "kahfAdsPlacement": "pl_753f83aedf164051"
+            },
+            {
+                "isEnable": true,
+                "placement": "948b56f62b8d4ceaf349a5be98d0c632",
+                "divId": "qaza-tracker-bottom-sticky",
+                "kahfAdsPlacement": "pl_88a9129a26b84a4a"
+            },
+            {
+                "isEnable": true,
+                "placement": "84b044816c9760abd87d6ae1d28016e3",
+                "divId": "qaza-tracker-inline",
+                "kahfAdsPlacement": "pl_71c12db666384188"
             }
         ],
         "adsMetaData": {
