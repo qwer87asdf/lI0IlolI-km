@@ -1,49 +1,19 @@
 {
     "events": [
         {
-            "id": "yearly-offer-oct-26-en-v2-1",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "For You: You've got up to 63% Discount for next 3 Days!",
-            "description": "This offer applicable for Muslims Day Yearly packages. Avail your offer before ends.",
-            "startTime": 1793178000000,
-            "endTime": 1793469599000,
-            "isActive": true,
-            "priority": 105,
-            "supportedCountries": [],
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/pay/muslimsday-offer-campaign?utm_source=muslimsday&utm_medium=in-app-banner&utm_campaign=yearly-offer-oct-26&utm_content=en-v2&custom_utm=in-app-notice"
-            }
-        },
-        {
-            "id": "lifetime-oct-26-en-v2-1",
-            "icon": "https://data.muslimsday.com/appdata/image/premium-badge.png",
-            "title": "Muslims Day will take only 9 more lifetime members this October",
-            "description": "Many people want to become lifetime members, but we cannot accept more than this right now.",
-            "startTime": 1792864800000,
-            "endTime": 1793123999000,
-            "isActive": true,
-            "priority": 120,
-            "supportedCountries": [],
-            "action": {
-                "type": "web",
-                "url": "https://id.kahf.co/pay/muslimsday-lifetime"
-            }
-        },
-        {
             "id": "friday-givers-en-v2-1",
             "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
             "title": "Friday Givers – Automatic Sadaqah Every Jumu'ah",
             "description": "Begin every Jumu'ah with Sadaqah",
-            "startTime": 1791604765000,
-            "endTime": 1823140765000,
+            "startTime": 1791604740000,
+            "endTime": 1823140740000,
             "isActive": true,
             "priority": 110,
             "supportedCountries": [],
             "showAfterInstallHours": 72,
             "action": {
                 "type": "web",
-                "url": "https://id.kahf.co/friday-givers/muslimsday"
+                "url": "https://id.kahf.co/friday-givers/muslimsday?utm_source=in-app-notice"
             },
             "schedule": {
                 "type": "recurring",
@@ -56,6 +26,16 @@
                         "endDay": "FRIDAY",
                         "endTime": "23:59"
                     }
+                }
+            },
+            "targeting": {
+                "donations": {
+                    "rules": [
+                        {
+                            "productCode": "friday-givers",
+                            "requiredStatus": "inactive"
+                        }
+                    ]
                 }
             }
         },
@@ -76,12 +56,12 @@
             }
         },
         {
-            "id": "dhikr-campaign-oct-26-en-2",
+            "id": "dhikr-campaign-oct-26-en",
             "icon": "https://data.muslimsday.com/appdata/image/allah-2Ew6oNl9.png",
             "title": "One Ummah! One Kalimah!",
             "description": "Join us to recite ‘La ilaha illallah’ 50M+ times",
             "startTime": 1792144500000,
-            "endTime": 1796061599000,
+            "endTime": 1793440500000,
             "isActive": true,
             "priority": 100,
             "supportedCountries": [],
