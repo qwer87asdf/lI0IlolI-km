@@ -198,24 +198,9 @@
     },
     "ansarCardMetaData": {
         "bn": null,
-        "en": {
-            "title": "You are an Ansar subscriber",
-            "description": "You have purchased the Ansar subscription. With the subscription, you get exclusive Ansar content.",
-            "buttonText": "See Benefits",
-            "buttonUrl": "https://muslimsday.com/ansar"
-        },
-        "id": {
-            "title": "Anda adalah pelanggan Ansar",
-            "description": "Anda telah membeli langganan Ansar. Dengan langganan ini, Anda mendapatkan konten eksklusif Ansar.",
-            "buttonText": "Lihat Manfaat",
-            "buttonUrl": "https://muslimsday.com/ansar"
-        },
-        "ar": {
-            "title": "أنت مشترك في أنصار",
-            "description": "لقد اشتريت اشتراك أنصار. مع الاشتراك، ستحصل على محتوى حصري من أنصار.",
-            "buttonText": "عرض الفوائد",
-            "buttonUrl": "https://muslimsday.com/ansar"
-        }
+        "en": null,
+        "id": null,
+        "ar": null
     },
     "homeAppBarCtas": [
         {
