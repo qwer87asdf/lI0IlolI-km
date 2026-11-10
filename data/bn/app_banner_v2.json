@@ -1,6 +1,22 @@
 {
     "events": [
         {
+            "id": "live-sura-mashk-men-bn-v2-1",
+            "icon": "https://data.muslimsday.com/appdata/image/allah-2Ew6oNl9.png",
+            "title": "🔴 ৬:১৫ মিনিটে শুরু হতে যাচ্ছে পুরুষদের জন্য লাইভ সূরা মশক ক্লাস",
+            "description": "যুক্ত হতে ট্যাপ করুন",
+            "startTime": 1794333600000,
+            "endTime": 1794356700000,
+            "isActive": true,
+            "priority": 120,
+            "supportedCountries": [],
+            "showAfterInstallHours": 0,
+            "action": {
+                "type": "web",
+                "url": "https://us06web.zoom.us/j/86584243103"
+            }
+        },
+        {
             "id": "friday-givers-bn-v2-1",
             "icon": "https://data.muslimsday.com/appdata/image/friday_mosque.png",
             "title": "ফ্রাইডে গিভার্স - জুমআর দিনের অটো সাদাকা",
