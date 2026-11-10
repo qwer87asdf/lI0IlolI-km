@@ -312,18 +312,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 157,
-        "slug": "20261001-in-deen",
-        "title": "Muslims Day: Your Everyday Partner in Deen.",
-        "subtitle": "To continue serving millions without pause, we need you today.",
-        "image": "https://data.muslimsday.com/appdata/notification/image/notification-LHsMfjvd.jpg",
-        "tags": [],
-        "published_at": "2026-10-01T11:29:24+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-in-deen.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 155,
         "slug": "20261001-your-sujood",
         "title": "Will You Make a Place for Us in Your Sujood?",
