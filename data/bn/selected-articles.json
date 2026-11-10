@@ -312,18 +312,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 156,
-        "slug": "20261001-je-app",
-        "title": "Muslims Day—আপনার ব্যস্ত জীবনে আমলের সঙ্গী হতে চায় যে অ্যাপ!",
-        "subtitle": "কিন্তু এই নিরবচ্ছিন্ন সফর বাঁচিয়ে রাখতে আমাদের প্রয়োজন আপনাকে।",
-        "image": "https://data.muslimsday.com/appdata/notification/image/notification-8SVRhGxA.jpg",
-        "tags": [],
-        "published_at": "2026-10-01T11:26:53+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-je-app.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 154,
         "slug": "20261001-apnar-sejda",
         "title": "আপনার সিজদায় কি আমাদের জন্য একটু জায়গা হবে?",
