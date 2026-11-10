@@ -5,7 +5,7 @@
     "totalPosts": 1,
     "pageSize": 20,
     "totalPages": 1,
-    "updatedAt": "2026-10-26T05:16:51+00:00",
+    "updatedAt": "2026-11-10T13:49:55+00:00",
     "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/pages/{page}.json",
     "stylesheetUrl": "https://dev.data.muslimsday.com/appdata/blog/assets/blog-content.64b730fcb4.css",
     "featured": []

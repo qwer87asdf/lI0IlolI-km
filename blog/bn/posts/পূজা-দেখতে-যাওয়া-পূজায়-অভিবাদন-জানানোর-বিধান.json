@@ -67,6 +67,10 @@
         "record": "https://dev-backend.muslimsday.com/api/blog/posts/1/bn/reads",
         "total": "https://dev-backend.muslimsday.com/api/blog/posts/1/reads"
     },
+    "ads": {
+        "left": null,
+        "right": null
+    },
     "seo": {
         "title": "পূজা দেখতে যাওয়া : পূজায় অভিবাদন জানানোর বিধান - Muslims Day",
         "description": "পূজার সময়ে ডিসকাউন্ট দেয়ার মাসআলা সম্পর্কে এই পোস্টে আলোচনা করা হয়েছে। পূজার সময় ডিসকাউন্ট দেয়া নিষিদ্ধ",
