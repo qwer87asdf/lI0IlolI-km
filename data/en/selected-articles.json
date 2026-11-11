@@ -372,6 +372,18 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
+        "id": 143,
+        "slug": "20260925-kivabe-sirat-porben-en",
+        "title": "How to Read Seerah?",
+        "subtitle": "Not sure how to benefit from this vast ocean of knowledge?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/kivabe-sirat-porben-en-tZTeoTZd.png",
+        "tags": [],
+        "published_at": "2026-09-25T13:16:40+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260925-kivabe-sirat-porben-en.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
         "id": 141,
         "slug": "20260924-Companion",
         "title": "The Companion Whose Sincere Repentance Was Answered by Revelation",
@@ -444,6 +456,18 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
+        "id": 56,
+        "slug": "20260913-ayyamul-bid-fast-robius-sani-1448",
+        "title": "Ayyam al-Bid Fasts of Rabi‘ al-Thani Begin on September 25",
+        "subtitle": "Suhoor should be taken on Thursday night",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-hCDI050I.jpg",
+        "tags": [],
+        "published_at": "2026-09-13T08:25:38+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-ayyamul-bid-fast-robius-sani-1448.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
         "id": 49,
         "slug": "20260909-destination",
         "title": "What if you die in the same condition as you are now?",
@@ -476,6 +500,30 @@
         "tags": [],
         "published_at": "2026-09-08T06:50:08+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260908-Tawakkul-dua.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
+        "id": 43,
+        "slug": "20260907-love-for",
+        "title": "The One Who Saved Life’s Greatest Wish Just for Us",
+        "subtitle": "How can we not fall in love with him?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-9z3T3xXn.jpg",
+        "tags": [],
+        "published_at": "2026-09-07T06:42:30+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260907-love-for.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
+        "id": 41,
+        "slug": "20260906-love-for-prophet",
+        "title": "The Greatest Gift of Love for the Prophet ﷺ: Why Is Durood the Best Provision for Our Lives?",
+        "subtitle": "A heartfelt devotion in search of the beloved Prophet’s ﷺ nearness and intercession",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-nL5Dbkiv.jpg",
+        "tags": [],
+        "published_at": "2026-09-06T09:18:05+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260906-love-for-prophet.json",
         "author": "Muslims Day",
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
