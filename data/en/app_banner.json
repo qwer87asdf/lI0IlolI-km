@@ -37,7 +37,7 @@
       "description": "Join us to recite ‘La ilaha illallah’ 50M+ times",
       "startTime": 1792144500000,
       "endTime": 1796061599000,
-      "isActive": true,
+      "isActive": false,
       "priority": 100,
       "showAfterInstallHours": 0,
       "action": {

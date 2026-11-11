@@ -57,7 +57,7 @@
   {
     "name": "selected_articles",
     "url": "appdata/data/{lang}/selected-articles.json",
-    "updated_at": 1792899714837
+    "updated_at": 1794366516000
   },
   {
     "name": "asmaul_husna",
@@ -91,12 +91,12 @@
   {
     "name": "app_banner",
     "url": "appdata/data/{lang}/app_banner.json",
-    "updated_at": 1794317896000
+    "updated_at": 1794366516000
   },
   {
     "name": "app_banner_v2",
     "url": "appdata/data/{lang}/app_banner_v2.json",
-    "updated_at": 1794317896000
+    "updated_at": 1794366516000
   },
   {
     "name": "home_cards",
