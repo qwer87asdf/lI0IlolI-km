@@ -17,7 +17,7 @@
   {
     "name": "hijri_date",
     "url": "appdata/data/hijri_date.json",
-    "updated_at": 1759452289367
+    "updated_at": 1794383297042
   },
   {
     "name": "salat_reference",
@@ -72,7 +72,7 @@
   {
     "name": "hijri_date_v2",
     "url": "appdata/data/hijri_date/{code}_hijri_date.json",
-    "updated_at": 1781699637000,
+    "updated_at": 1794383297042,
     "supported_hijri_date_codes": [
       "bgd",
       "fra",
