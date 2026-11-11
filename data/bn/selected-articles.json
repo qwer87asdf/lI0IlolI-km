@@ -372,6 +372,18 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
+        "id": 142,
+        "slug": "20260925-kivabe-sirat-porben",
+        "title": "কীভাবে সিরাত পড়বেন?",
+        "subtitle": "এত বড় জ্ঞান সমুদ্র থেকে কিভাবে উপকৃত হবেন বুঝতে পারছেন না?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/kivabe-sirat-porben-lCFTUk0h.png",
+        "tags": [],
+        "published_at": "2026-09-25T12:57:20+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260925-kivabe-sirat-porben.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
         "id": 140,
         "slug": "20260924-tawba",
         "title": "যে সাহাবীর আন্তরিক তাওবার জবাবে আসমান থেকে ওহি নাজিল হয়েছিল",
@@ -476,6 +488,30 @@
         "tags": [],
         "published_at": "2026-09-08T06:42:32+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260908-dua-osomvab.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
+        "id": 42,
+        "slug": "20260907-take-valobasa",
+        "title": "জীবনের সবচেয়ে দামি চাওয়াটিও যিনি আমাদের জন্য বাঁচিয়ে রেখেছেন",
+        "subtitle": "তাঁকে কী করে ভালো না বেসে থাকা যায়?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-4RRDoRSO.jpg",
+        "tags": [],
+        "published_at": "2026-09-07T06:37:39+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260907-take-valobasa.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+    },
+    {
+        "id": 40,
+        "slug": "20260906-nobi-prem",
+        "title": "নবীপ্রেমের শ্রেষ্ঠ উপহার: কেন দরুদ আমাদের জীবনের সেরা পাথেয়?",
+        "subtitle": "প্রিয় নবীর সান্নিধ্য ও শাফাআতের খোঁজে হৃদয়ের আকুল নিবেদন",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-ZyZqbcVF.jpg",
+        "tags": [],
+        "published_at": "2026-09-06T09:12:04+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260906-nobi-prem.json",
         "author": "Muslims Day",
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
