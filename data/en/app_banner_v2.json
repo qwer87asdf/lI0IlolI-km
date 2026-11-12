@@ -1,6 +1,22 @@
 {
     "events": [
         {
+            "id": "qa-demo-show",
+            "icon": "https://dev.data.muslimsday.com/appdata/image/kk-O73YNtfv.png",
+            "title": "QA DEMO SHOW",
+            "description": "Published live for the Home E2E presentation",
+            "startTime": 1794387192000,
+            "endTime": 1797065592000,
+            "isActive": true,
+            "priority": 99999,
+            "supportedCountries": [],
+            "ctaText": "Open SHOW",
+            "action": {
+                "type": "screen",
+                "routeKey": "tasbeeh"
+            }
+        },
+        {
             "id": "48-inactive",
             "icon": "https://dev.data.muslimsday.com/appdata/image/{theme}/daily_notification.png",
             "title": "48 · NEVER · isActive=false",
@@ -2509,6 +2525,6 @@
             }
         }
     ],
-    "maxCards": 50,
-    "autoSlideIntervalMs": 3500
+    "maxCards": 5,
+    "autoSlideIntervalMs": 60000
 }
