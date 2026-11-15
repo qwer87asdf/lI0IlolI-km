@@ -19,7 +19,46 @@
                 "url": "https://id.kahf.co/ansar/muslimsday"
             },
             "imageUrl": "https://data.muslimsday.com/appdata/image/ansar-update-11-jul-en_1-zOPlXJv8.jpg"
+        },
+        {
+            "type": "countdown_timer",
+            "id": "ramadan_countdown",
+            "priority": 350,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null,
+            "timerConfig": {
+                "eventType": "RAMADAN_START",
+                "title": "Ramadan Countdown",
+                "subtitle": "Days until the holy month starts",
+                "showSeconds": true,
+                "compactMode": false
+            }
+        },
+        {
+            "type": "feed",
+            "id": "feed_section",
+            "priority": 600,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1794721449000
+    "lastUpdated": 1794758196000
 }

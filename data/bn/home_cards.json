@@ -17,7 +17,46 @@
                 "url": "https://campaign.muslimsday.com/tawhid-oct-26/bn"
             },
             "imageUrl": "https://data.muslimsday.com/appdata/image/tawhid-campaign-bn-TdNy9fHy.jpg"
+        },
+        {
+            "type": "countdown_timer",
+            "id": "ramadan_timer",
+            "priority": 350,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null,
+            "timerConfig": {
+                "eventType": "RAMADAN_START",
+                "title": "রমজান কাউন্টডাউন",
+                "subtitle": "পবিত্র মাস শুরু হতে আর কত দিন",
+                "showSeconds": true,
+                "compactMode": false
+            }
+        },
+        {
+            "type": "feed",
+            "id": "home_feed",
+            "priority": 600,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1794721449000
+    "lastUpdated": 1794758196000
 }
