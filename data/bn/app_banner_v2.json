@@ -1,19 +1,73 @@
 {
     "events": [
         {
-            "id": "live-sura-mashk-men-bn-v2-1",
-            "icon": "https://data.muslimsday.com/appdata/image/allah-2Ew6oNl9.png",
-            "title": "🔴 ৬:১৫ মিনিটে শুরু হতে যাচ্ছে পুরুষদের জন্য লাইভ সূরা মশক ক্লাস",
+            "id": "surah-mashq-live-sun-night-bn",
+            "icon": "https://data.muslimsday.com/appdata/image/ramadan_1-NdV8bLSU.png",
+            "title": "🔴 রাত ৯:০০টা থেকে শুরু হতে যাচ্ছে পুরুষদের জন্য লাইভ সূরা মশক ক্লাস",
             "description": "যুক্ত হতে ট্যাপ করুন",
-            "startTime": 1794333600000,
-            "endTime": 1794356700000,
+            "startTime": 1794720600000,
+            "endTime": 1797357540000,
             "isActive": true,
             "priority": 120,
             "supportedCountries": [],
-            "showAfterInstallHours": 0,
             "action": {
                 "type": "web",
                 "url": "https://us06web.zoom.us/j/86584243103"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "startDate": null,
+                "endDate": null,
+                "startTime": null,
+                "endTime": null,
+                "recurrence": {
+                    "frequency": "weekly",
+                    "dayOfMonth": null,
+                    "startTime": null,
+                    "endTime": null,
+                    "window": {
+                        "startDay": "SUNDAY",
+                        "startTime": "20:50",
+                        "endDay": "SUNDAY",
+                        "endTime": "21:45"
+                    }
+                }
+            }
+        },
+        {
+            "id": "surah-mashq-live-wed-fajr-bn",
+            "icon": "https://data.muslimsday.com/appdata/image/ramadan_1-NdV8bLSU.png",
+            "title": "🔴 ৬:১৫ মিনিটে শুরু হতে যাচ্ছে পুরুষদের জন্য লাইভ সূরা মশক ক্লাস",
+            "description": "যুক্ত হতে ট্যাপ করুন",
+            "startTime": 1794720600000,
+            "endTime": 1797357540000,
+            "isActive": true,
+            "priority": 120,
+            "supportedCountries": [],
+            "action": {
+                "type": "web",
+                "url": "https://us06web.zoom.us/j/86584243103"
+            },
+            "schedule": {
+                "type": "recurring",
+                "timezone": "Asia/Dhaka",
+                "startDate": null,
+                "endDate": null,
+                "startTime": null,
+                "endTime": null,
+                "recurrence": {
+                    "frequency": "weekly",
+                    "dayOfMonth": null,
+                    "startTime": null,
+                    "endTime": null,
+                    "window": {
+                        "startDay": "WEDNESDAY",
+                        "startTime": "05:00",
+                        "endDay": "WEDNESDAY",
+                        "endTime": "07:00"
+                    }
+                }
             }
         },
         {
@@ -68,7 +122,7 @@
             "description": "আসুন, বিশ্বজুড়ে মুসলিম ভাইবোনদের সঙ্গে ৫ কোটি বার লা ইলাহা ইল্লাল্লাহ পড়ার উদ্যোগে শামিল হই।",
             "startTime": 1792381800000,
             "endTime": 1796061000000,
-            "isActive": false,
+            "isActive": true,
             "priority": 100,
             "supportedCountries": [],
             "action": {
