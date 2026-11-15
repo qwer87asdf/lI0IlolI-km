@@ -1,5 +1,14 @@
 [
     {
+        "version": "6.4.1",
+        "slug": "6-4-1",
+        "excerpt": "New Daily challenge, so you can build your daily habit Qaza tracker: start right away with one tap per prayer Fresh articles feature Better stability and fewer...",
+        "body": "<ul><li><p>New Daily challenge, so you can build your daily habit</p></li><li><p>Qaza tracker: start right away with one tap per prayer</p></li><li><p>Fresh articles feature</p></li><li><p>Better stability and fewer crashes</p></li></ul>",
+        "ios": false,
+        "android": true,
+        "date": "2026-11-08"
+    },
+    {
         "version": "v6.3.3",
         "slug": "v6-3-3",
         "excerpt": "What's New Introducing Barakah Pass: A special way to access Premium benefits for those who can't afford a subscription right now. Forbidden Prayer Time Reminde...",
