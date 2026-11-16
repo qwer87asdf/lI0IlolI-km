@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 1,
+  "eventType": "RAMADAN_START",
+  "canvas": 1080,
+  "templates": [
+    {
+      "id": "deep_green",
+      "isEnabled": true,
+      "priority": 1,
+      "name": "Deep green",
+      "background": {
+        "url": "https://dev.data.muslimsday.com/appdata/image/ramadan/deep_green.png",
+        "thumbUrl": "https://dev.data.muslimsday.com/appdata/image/ramadan/deep_green.png",
+        "version": 1,
+        "fallbackColor": "#0F6B3A"
+      },
+      "header": {
+        "eyebrowCenterY": 69,
+        "numberTop": 118,
+        "numberHeight": 120,
+        "numberAlign": "center"
+      },
+      "body": {
+        "top": 268,
+        "bottom": 830,
+        "insetStart": 100,
+        "insetEnd": 100,
+        "verticalAlign": "top",
+        "dividerWidth": 110,
+        "dividerThickness": 3,
+        "arabic": {
+          "maxFontSize": 62,
+          "minFontSize": 40,
+          "lineHeight": 1.5,
+          "extraInset": 0
+        },
+        "translation": {
+          "maxFontSize": 30,
+          "minFontSize": 22,
+          "lineHeight": 1.6,
+          "extraInset": 55
+        }
+      },
+      "footer": {
+        "top": 888,
+        "insetStart": 80,
+        "insetEnd": 80,
+        "brandSide": "start",
+        "logoSize": 66
+      },
+      "colors": {
+        "eyebrow": "#FFFFFF",
+        "number": "#FFD36E",
+        "daysLeft": "#FFFFFF",
+        "divider": "#8DC63F",
+        "arabic": "#FFFFFF",
+        "translation": "#F2F2EA",
+        "reference": "#FFD36E",
+        "brandName": "#FFFFFF",
+        "brandUrl": "#D9F2A0",
+        "date": "#FFFFFF",
+        "note": "#E3EFE3"
+      }
+    },
+    {
+      "id": "light_soft",
+      "isEnabled": true,
+      "priority": 2,
+      "name": "Light",
+      "background": {
+        "url": "https://dev.data.muslimsday.com/appdata/image/ramadan/light_soft.png",
+        "thumbUrl": "https://dev.data.muslimsday.com/appdata/image/ramadan/light_soft.png",
+        "version": 1,
+        "fallbackColor": "#F4FAEC"
+      },
+      "header": {
+        "eyebrowCenterY": 80,
+        "numberTop": 139,
+        "numberHeight": 136,
+        "numberAlign": "center"
+      },
+      "body": {
+        "top": 380,
+        "bottom": 860,
+        "insetStart": 70,
+        "insetEnd": 70,
+        "verticalAlign": "center",
+        "dividerWidth": 120,
+        "dividerThickness": 4,
+        "arabic": {
+          "maxFontSize": 56,
+          "minFontSize": 38,
+          "lineHeight": 1.55,
+          "extraInset": 0
+        },
+        "translation": {
+          "maxFontSize": 30,
+          "minFontSize": 22,
+          "lineHeight": 1.6,
+          "extraInset": 30
+        }
+      },
+      "footer": {
+        "top": 955,
+        "insetStart": 80,
+        "insetEnd": 80,
+        "brandSide": "start",
+        "logoSize": 66
+      },
+      "colors": {
+        "eyebrow": "#0B4A2A",
+        "number": "#107038",
+        "daysLeft": "#0B4A2A",
+        "divider": "#289840",
+        "arabic": "#083820",
+        "translation": "#184830",
+        "reference": "#107038",
+        "brandName": "#0B4A2A",
+        "brandUrl": "#107038",
+        "date": "#0B4A2A",
+        "note": "#3F7A58"
+      }
+    },
+    {
+      "id": "night_mosque",
+      "isEnabled": true,
+      "priority": 3,
+      "name": "Night",
+      "background": {
+        "url": "https://dev.data.muslimsday.com/appdata/image/ramadan/night.png",
+        "thumbUrl": "https://dev.data.muslimsday.com/appdata/image/ramadan/night.png",
+        "version": 1,
+        "fallbackColor": "#0E2243"
+      },
+      "header": {
+        "eyebrowCenterY": 69,
+        "numberTop": 115,
+        "numberHeight": 110,
+        "numberAlign": "center"
+      },
+      "body": {
+        "top": 236,
+        "bottom": 600,
+        "insetStart": 105,
+        "insetEnd": 105,
+        "verticalAlign": "top",
+        "dividerWidth": 100,
+        "dividerThickness": 3,
+        "arabic": {
+          "maxFontSize": 54,
+          "minFontSize": 36,
+          "lineHeight": 1.5,
+          "extraInset": 0
+        },
+        "translation": {
+          "maxFontSize": 28,
+          "minFontSize": 20,
+          "lineHeight": 1.55,
+          "extraInset": 35
+        }
+      },
+      "footer": {
+        "top": 946,
+        "insetStart": 80,
+        "insetEnd": 80,
+        "brandSide": "start",
+        "logoSize": 66
+      },
+      "colors": {
+        "eyebrow": "#FFFFFF",
+        "number": "#FFD36E",
+        "daysLeft": "#FFFFFF",
+        "divider": "#FFD36E",
+        "arabic": "#FFFFFF",
+        "translation": "#F5F5FA",
+        "reference": "#FFD36E",
+        "brandName": "#FFFFFF",
+        "brandUrl": "#FFD36E",
+        "date": "#FFFFFF",
+        "note": "#E6E9F0"
+      }
+    },
+    {
+      "id": "arch_sand_teal",
+      "isEnabled": true,
+      "priority": 4,
+      "name": "Arch",
+      "background": {
+        "url": "https://dev.data.muslimsday.com/appdata/image/ramadan/arch_sand_teal.png",
+        "thumbUrl": "https://dev.data.muslimsday.com/appdata/image/ramadan/arch_sand_teal.png",
+        "version": 1,
+        "fallbackColor": "#F4E9D2"
+      },
+      "header": {
+        "eyebrowCenterY": 247,
+        "numberTop": 289,
+        "numberHeight": 103,
+        "numberAlign": "center"
+      },
+      "body": {
+        "top": 415,
+        "bottom": 790,
+        "insetStart": 190,
+        "insetEnd": 190,
+        "verticalAlign": "top",
+        "dividerWidth": 90,
+        "dividerThickness": 3,
+        "arabic": {
+          "maxFontSize": 46,
+          "minFontSize": 32,
+          "lineHeight": 1.45,
+          "extraInset": 0
+        },
+        "translation": {
+          "maxFontSize": 27,
+          "minFontSize": 20,
+          "lineHeight": 1.55,
+          "extraInset": 35
+        }
+      },
+      "footer": {
+        "top": 853,
+        "insetStart": 196,
+        "insetEnd": 196,
+        "brandSide": "start",
+        "logoSize": 59
+      },
+      "colors": {
+        "eyebrow": "#0B4A2A",
+        "number": "#1A6E6A",
+        "daysLeft": "#0B4A2A",
+        "divider": "#E0A63A",
+        "arabic": "#083820",
+        "translation": "#184830",
+        "reference": "#1A6E6A",
+        "brandName": "#0B4A2A",
+        "brandUrl": "#1A6E6A",
+        "date": "#0B4A2A",
+        "note": "#3F6F5C"
+      }
+    },
+    {
+      "id": "dawn_mosque",
+      "isEnabled": true,
+      "priority": 5,
+      "name": "Dawn",
+      "background": {
+        "url": "https://dev.data.muslimsday.com/appdata/image/ramadan/dawn_mosque.png",
+        "thumbUrl": "https://dev.data.muslimsday.com/appdata/image/ramadan/dawn_mosque.png",
+        "version": 1,
+        "fallbackColor": "#B9A7E0"
+      },
+      "header": {
+        "eyebrowCenterY": 69,
+        "numberTop": 115,
+        "numberHeight": 109,
+        "numberAlign": "center"
+      },
+      "body": {
+        "top": 244,
+        "bottom": 610,
+        "insetStart": 105,
+        "insetEnd": 105,
+        "verticalAlign": "top",
+        "dividerWidth": 100,
+        "dividerThickness": 3,
+        "arabic": {
+          "maxFontSize": 54,
+          "minFontSize": 36,
+          "lineHeight": 1.5,
+          "extraInset": 0
+        },
+        "translation": {
+          "maxFontSize": 28,
+          "minFontSize": 20,
+          "lineHeight": 1.55,
+          "extraInset": 35
+        }
+      },
+      "footer": {
+        "top": 946,
+        "insetStart": 80,
+        "insetEnd": 80,
+        "brandSide": "start",
+        "logoSize": 66
+      },
+      "colors": {
+        "eyebrow": "#282050",
+        "number": "#482888",
+        "daysLeft": "#282050",
+        "divider": "#B07818",
+        "arabic": "#181040",
+        "translation": "#282058",
+        "reference": "#482888",
+        "brandName": "#FFFFFF",
+        "brandUrl": "#FFD36E",
+        "date": "#FFFFFF",
+        "note": "#E6E1F5"
+      }
+    },
+    {
+      "id": "golden_desert",
+      "isEnabled": true,
+      "priority": 6,
+      "name": "Desert",
+      "background": {
+        "url": "https://dev.data.muslimsday.com/appdata/image/ramadan/golden_desert.png",
+        "thumbUrl": "https://dev.data.muslimsday.com/appdata/image/ramadan/golden_desert.png",
+        "version": 1,
+        "fallbackColor": "#F0AE7C"
+      },
+      "header": {
+        "eyebrowCenterY": 69,
+        "numberTop": 115,
+        "numberHeight": 109,
+        "numberAlign": "center"
+      },
+      "body": {
+        "top": 244,
+        "bottom": 610,
+        "insetStart": 105,
+        "insetEnd": 105,
+        "verticalAlign": "top",
+        "dividerWidth": 100,
+        "dividerThickness": 3,
+        "arabic": {
+          "maxFontSize": 54,
+          "minFontSize": 36,
+          "lineHeight": 1.5,
+          "extraInset": 0
+        },
+        "translation": {
+          "maxFontSize": 28,
+          "minFontSize": 20,
+          "lineHeight": 1.55,
+          "extraInset": 35
+        }
+      },
+      "footer": {
+        "top": 946,
+        "insetStart": 80,
+        "insetEnd": 80,
+        "brandSide": "start",
+        "logoSize": 66
+      },
+      "colors": {
+        "eyebrow": "#381810",
+        "number": "#782810",
+        "daysLeft": "#381810",
+        "divider": "#782810",
+        "arabic": "#281008",
+        "translation": "#382010",
+        "reference": "#782810",
+        "brandName": "#FFFFFF",
+        "brandUrl": "#FFD9A0",
+        "date": "#FFFFFF",
+        "note": "#F0E2D0"
+      }
+    },
+    {
+      "id": "sage_clouds",
+      "isEnabled": true,
+      "priority": 7,
+      "name": "Sage",
+      "background": {
+        "url": "https://dev.data.muslimsday.com/appdata/image/ramadan/sage_clouds.png",
+        "thumbUrl": "https://dev.data.muslimsday.com/appdata/image/ramadan/sage_clouds.png",
+        "version": 1,
+        "fallbackColor": "#C4E0CE"
+      },
+      "header": {
+        "eyebrowCenterY": 69,
+        "numberTop": 115,
+        "numberHeight": 109,
+        "numberAlign": "center"
+      },
+      "body": {
+        "top": 244,
+        "bottom": 610,
+        "insetStart": 105,
+        "insetEnd": 105,
+        "verticalAlign": "top",
+        "dividerWidth": 100,
+        "dividerThickness": 3,
+        "arabic": {
+          "maxFontSize": 54,
+          "minFontSize": 36,
+          "lineHeight": 1.5,
+          "extraInset": 0
+        },
+        "translation": {
+          "maxFontSize": 28,
+          "minFontSize": 20,
+          "lineHeight": 1.55,
+          "extraInset": 35
+        }
+      },
+      "footer": {
+        "top": 946,
+        "insetStart": 80,
+        "insetEnd": 80,
+        "brandSide": "start",
+        "logoSize": 66
+      },
+      "colors": {
+        "eyebrow": "#1B4D3A",
+        "number": "#1F5A3E",
+        "daysLeft": "#1B4D3A",
+        "divider": "#D4A017",
+        "arabic": "#1B4D3A",
+        "translation": "#204838",
+        "reference": "#105038",
+        "brandName": "#103828",
+        "brandUrl": "#2E7D4F",
+        "date": "#103828",
+        "note": "#2F5F4A"
+      }
+    }
+  ]
+}

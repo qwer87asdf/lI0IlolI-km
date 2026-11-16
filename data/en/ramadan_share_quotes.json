@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "eventType": "RAMADAN_START",
+  "language": "en",
+  "items": [
+    {
+      "id": "q-2-186",
+      "type": "verse",
+      "isEnabled": true,
+      "weight": 3,
+      "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ",
+      "translation": "And when My servants ask you concerning Me — indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.",
+      "translatorLabel": "Sahih International",
+      "reference": "Qur’an · Surah Al-Baqarah 2:186",
+      "surah": 2,
+      "ayah": 186
+    },
+    {
+      "id": "h-bukhari-38",
+      "type": "hadith",
+      "isEnabled": true,
+      "weight": 2,
+      "arabic": null,
+      "translation": "Whoever fasts Ramadan out of faith and seeking reward, his previous sins will be forgiven.",
+      "reference": "Hadith · Sahih al-Bukhari 38",
+      "grade": "sahih"
+    }
+  ]
+}
