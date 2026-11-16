@@ -42,6 +42,23 @@
             }
         },
         {
+            "type": "dynamic_ad",
+            "id": "pre-feed-ad",
+            "priority": 550,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "AUTHORIZED",
+                "NON_AUTHORIZED"
+            ],
+            "endTimestampInSecond": null,
+            "divId": "home-feed-medium-rectangle",
+            "adType": "LARGE_BANNER"
+        },
+        {
             "type": "feed",
             "id": "home_feed",
             "priority": 600,
@@ -58,5 +75,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1794758196000
+    "lastUpdated": 1794803534000
 }
