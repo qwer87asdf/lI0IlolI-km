@@ -132,5 +132,15 @@
     "name": "dua_exit_dialog",
     "url": "appdata/data/{lang}/dua_exit_dialog.json",
     "updated_at": 1791504000000
+  },
+  {
+    "name": "ramadan_share_templates",
+    "url": "appdata/data/ramadan_share_templates.json",
+    "updated_at": 1794824230000
+  },
+  {
+    "name": "ramadan_share_quotes",
+    "url": "appdata/data/{lang}/ramadan_share_quotes.json",
+    "updated_at": 1794824230000
   }
 ]
