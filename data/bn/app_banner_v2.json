@@ -12,7 +12,7 @@
             "supportedCountries": [],
             "action": {
                 "type": "web",
-                "url": "https://us06web.zoom.us/j/87155790312"
+                "url": "https://us06web.zoom.us/j/87155790312?pwd=yBvl7Kl7MZv4srJo0B9FcMJL62ce5m.1"
             },
             "schedule": {
                 "type": "recurring",
@@ -47,7 +47,7 @@
             "supportedCountries": [],
             "action": {
                 "type": "web",
-                "url": "https://us06web.zoom.us/j/86584243103"
+                "url": "https://us06web.zoom.us/j/86584243103?pwd=hzid2WuPCyowxOjr8SH7pfh4S8jcOg.1"
             },
             "schedule": {
                 "type": "recurring",
@@ -122,7 +122,7 @@
             "description": "আসুন, বিশ্বজুড়ে মুসলিম ভাইবোনদের সঙ্গে ৫ কোটি বার লা ইলাহা ইল্লাল্লাহ পড়ার উদ্যোগে শামিল হই।",
             "startTime": 1792381800000,
             "endTime": 1796061000000,
-            "isActive": true,
+            "isActive": false,
             "priority": 100,
             "supportedCountries": [],
             "action": {
