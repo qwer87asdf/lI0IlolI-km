@@ -24,18 +24,6 @@
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
     {
-        "id": 226,
-        "slug": "20261110-jumadal",
-        "title": "🌙 বাংলাদেশের আকাশে আজ জুমাদাল আখিরাহ্ মাসের চাঁদ দেখা যায়নি",
-        "subtitle": "এ মাসের আইয়ামে বীজের রোজা ২৪, ২৫ ও ২৬ নভেম্বর",
-        "image": "https://data.muslimsday.com/appdata/notification/image/Crescent_Moon_Announcement_at_Dusk-CdTY37fz.jpg",
-        "tags": [],
-        "published_at": "2026-11-10T09:37:33+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261110-jumadal.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
         "id": 222,
         "slug": "20261108-vlo-kaj",
         "title": "যাকে আপনি দেখতে পারেন না, হাশরের দিন কি সে-ই আপনার সমস্ত ভালো কাজের মালিক হতে চলেছে?",
@@ -452,18 +440,6 @@
         "tags": [],
         "published_at": "2026-09-23T08:14:42+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-Oprotim.json",
-        "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
-    },
-    {
-        "id": 94,
-        "slug": "20260920-barakah",
-        "title": "আমার মুসলিমস ডে নিয়ে এলো এবার ‘বারাকাহ পাস’!",
-        "subtitle": "আপনার বারাকাহ পাসটি সক্রিয় করে নিয়েছেন তো?",
-        "image": "https://data.muslimsday.com/appdata/notification/image/Barakah_Pass_Bangla-lt2W8GIX.jpg",
-        "tags": [],
-        "published_at": "2026-09-20T11:18:28+00:00",
-        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260920-barakah.json",
         "author": "Muslims Day",
         "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
     },
