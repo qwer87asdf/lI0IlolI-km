@@ -6,7 +6,12 @@
     "slug": "istikhara-dua",
     "title": "Istikhara Dua: When and How to Make the Right Decision in Islam",
     "excerpt": "Learn he benefits of Istikhara Dua. When and how it does matter most. What are the benefits and step by step guide to perform.",
-    "featuredImage": null,
+    "featuredImage": {
+        "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/962743c0-6a54-4886-a86a-66a7ccaf603e.png",
+        "alt": "",
+        "width": 1536,
+        "height": 1024
+    },
     "categories": [
         {
             "id": 3,
@@ -29,7 +34,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2026-07-23T07:37:57+00:00",
-    "updatedAt": "2026-11-16T13:23:21+00:00",
+    "updatedAt": "2026-11-16T13:24:58+00:00",
     "readingTimeMinutes": 9,
     "contentHash": "4f902c3d8e8ec02753bb60c48844b9c985cfd150355152fd6906b7df2ac26054",
     "url": "https://muslimsday.com/blog/istikhara-dua",
@@ -115,14 +120,16 @@
             "url": "https://muslimsday.com/blog/istikhara-dua",
             "siteName": "Muslims Day",
             "locale": "en_US",
+            "image": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/962743c0-6a54-4886-a86a-66a7ccaf603e.png",
             "publishedTime": "2026-07-23T07:37:57+00:00",
-            "modifiedTime": "2026-11-16T13:23:21+00:00",
+            "modifiedTime": "2026-11-16T13:24:58+00:00",
             "section": "Education"
         },
         "twitter": {
             "card": "summary_large_image",
             "title": "Istikhara Dua: When and How to Make the Right Decision in Islam",
-            "description": "Learn he benefits of Istikhara Dua. When and how it does matter most. What are the benefits and step by step guide to perform."
+            "description": "Learn he benefits of Istikhara Dua. When and how it does matter most. What are the benefits and step by step guide to perform.",
+            "image": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/962743c0-6a54-4886-a86a-66a7ccaf603e.png"
         },
         "hreflang": [
             {
@@ -157,7 +164,8 @@
                     }
                 },
                 "datePublished": "2026-07-23T07:37:57+00:00",
-                "dateModified": "2026-11-16T13:23:21+00:00",
+                "dateModified": "2026-11-16T13:24:58+00:00",
+                "image": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/962743c0-6a54-4886-a86a-66a7ccaf603e.png",
                 "author": {
                     "@type": "Person",
                     "name": "Shafayat"

@@ -42,7 +42,7 @@
             "id": 11,
             "translationId": 11,
             "language": "bn",
-            "slug": "jokhon-madina-holo-okhondo-pariber",
+            "slug": "jokhon-madina-holo_okhondo_pariber",
             "title": "ভ্রাতৃত্বের এক অনন্য মহাকাব্য : যখন মদিনা হলো এক অখণ্ড পরিবার—আনসার সিরিজ-০৭",
             "excerpt": "মক্কার মুহাজির ও মদিনার আনসারদের মাঝে কীভাবে গড়ে উঠেছিল রক্তের চেয়েও গাঢ় এক বিশ্বাসের বন্ধন?",
             "featuredImage": {
@@ -67,12 +67,12 @@
             ],
             "isSticky": false,
             "publishedAt": "2026-06-21T09:13:14+00:00",
-            "updatedAt": "2026-11-16T13:23:24+00:00",
+            "updatedAt": "2026-11-16T13:24:58+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "f560829d610c7e28e9ac2d84e39c643e780fa9ef1b7a1945a86788464ead2c98",
-            "url": "https://muslimsday.com/bn/blog/jokhon-madina-holo-okhondo-pariber",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo-okhondo-pariber.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo-okhondo-pariber.html"
+            "url": "https://muslimsday.com/bn/blog/jokhon-madina-holo_okhondo_pariber",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.html"
         },
         {
             "id": 12,

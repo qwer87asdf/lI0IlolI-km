@@ -16,7 +16,7 @@
     },
     {
         "from": "/blog/jokhon-madina-holo_okhondo_pariber",
-        "to": "/bn/blog/jokhon-madina-holo-okhondo-pariber",
+        "to": "/bn/blog/jokhon-madina-holo_okhondo_pariber",
         "status": 301
     },
     {
@@ -52,6 +52,11 @@
     {
         "from": "/blog/যাকাতের-কয়েকটি-আধুনিক-ম",
         "to": "/bn/blog/যাকাতের-কয়েকটি-আধুনিক-ম",
+        "status": 301
+    },
+    {
+        "from": "/bn/blog/jokhon-madina-holo-okhondo-pariber",
+        "to": "/bn/blog/jokhon-madina-holo_okhondo_pariber",
         "status": 301
     }
 ]

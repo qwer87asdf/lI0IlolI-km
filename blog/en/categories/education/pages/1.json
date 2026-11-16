@@ -26,9 +26,9 @@
             ],
             "isSticky": false,
             "publishedAt": "2026-08-03T11:25:07+00:00",
-            "updatedAt": "2026-11-16T13:19:11+00:00",
+            "updatedAt": "2026-11-16T13:24:52+00:00",
             "readingTimeMinutes": 10,
-            "contentHash": "64c30e52d0c90342d3a0a426020719038e3e8c604d2a57eafb3e11ec0a724b33",
+            "contentHash": "3eff5bea50dec34e9c6469295a538092ac26df7062ced107129bcfb6bc53a988",
             "url": "https://muslimsday.com/blog/tree-plantation-in-islam",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.html"
@@ -298,7 +298,12 @@
             "slug": "istikhara-dua",
             "title": "Istikhara Dua: When and How to Make the Right Decision in Islam",
             "excerpt": "Learn he benefits of Istikhara Dua. When and how it does matter most. What are the benefits and step by step guide to perform.",
-            "featuredImage": null,
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/962743c0-6a54-4886-a86a-66a7ccaf603e.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
             "categories": [
                 {
                     "id": 3,
@@ -321,7 +326,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2026-07-23T07:37:57+00:00",
-            "updatedAt": "2026-11-16T13:23:21+00:00",
+            "updatedAt": "2026-11-16T13:24:58+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "4f902c3d8e8ec02753bb60c48844b9c985cfd150355152fd6906b7df2ac26054",
             "url": "https://muslimsday.com/blog/istikhara-dua",
