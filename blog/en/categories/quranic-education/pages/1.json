@@ -1,0 +1,302 @@
+{
+    "category": "quranic-education",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 3,
+            "translationId": 3,
+            "language": "en",
+            "slug": "muslim-lifestyle-apps",
+            "title": "10 Must-Have Muslim Lifestyle Apps for New Muslims",
+            "excerpt": "Best muslim lifestyle apps suggestion for the new muslims who are in need ot daily guidance of islamic rules.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/8f4fea81-246c-400b-b189-402951159f30.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T11:54:37+00:00",
+            "updatedAt": "2026-11-16T13:20:39+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "39c967190e3f27b7373b6fb323e645a64b27d1c6de07b8a6c8e2342e042aa2d6",
+            "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.html"
+        },
+        {
+            "id": 4,
+            "translationId": 4,
+            "language": "en",
+            "slug": "sahabi-tree",
+            "title": "The Story of Bahira the Monk and the Sahabi Tree: What Really Happened",
+            "excerpt": "Know the real story of Sahabi tree in Jordan. The 1,500-Year-Old Tree That Sheltered Prophet Muhammad ﷺ",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/32d91ee7-febe-4846-8e13-ea9dd97ed0cb.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                },
+                {
+                    "id": 6,
+                    "slug": "story",
+                    "name": "Story",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T08:36:34+00:00",
+            "updatedAt": "2026-11-16T13:20:44+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
+            "url": "https://muslimsday.com/blog/sahabi-tree",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.html"
+        },
+        {
+            "id": 5,
+            "translationId": 5,
+            "language": "en",
+            "slug": "surah-yaseen-heart-of-quran",
+            "title": "Why Is Surah Yaseen Called the ‘Heart of the Quran?",
+            "excerpt": "Learn the explanation of Surah Yaseen being called the heart of The Quran. Benefits of Yaseen and how to and when recite it. Learn the hadith and other reference behind claim.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/98c91e95-9933-4064-b1cc-ae3ba6f1b151.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-29T06:17:22+00:00",
+            "updatedAt": "2026-11-16T13:21:07+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "2d03c928d0b0b8cf551a9f475daf973fbb958f4331aca696224fad365f569d98",
+            "url": "https://muslimsday.com/blog/surah-yaseen-heart-of-quran",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html"
+        },
+        {
+            "id": 6,
+            "translationId": 6,
+            "language": "en",
+            "slug": "qibla-finder",
+            "title": "Qibla Compass vs GPS-Based Qibla Finder: Which Is More Accurate?",
+            "excerpt": "Get to know the real differences between the Qibla finder; traditional and digital ones. How technologies make life easier to find qibla direction.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/eaca74d2-af7c-4f9c-9949-19cd8281e845.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-28T09:05:11+00:00",
+            "updatedAt": "2026-11-16T13:21:28+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "bd7f9a7ec3e59672aeb3656e621355978527a16cf6338f3f37e4a21a1fb998cd",
+            "url": "https://muslimsday.com/blog/qibla-finder",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/qibla-finder.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/qibla-finder.html"
+        },
+        {
+            "id": 7,
+            "translationId": 7,
+            "language": "en",
+            "slug": "short-vs-long-dua-qunoot",
+            "title": "Short vs Long Dua Qunoot: Different Versions Explained",
+            "excerpt": "Learn the explanation of short vs long dua qunoot. Learn the benefits of dua qunoot and when to perform it.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/15a2d732-89a8-4585-bf03-a6f924dd46e3.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-26T09:07:01+00:00",
+            "updatedAt": "2026-11-16T13:22:00+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "6cf8cdc4dab2822f92a0ddc1436f13d0f836ce67aebc4b252020dfb05493dc79",
+            "url": "https://muslimsday.com/blog/short-vs-long-dua-qunoot",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.html"
+        },
+        {
+            "id": 8,
+            "translationId": 8,
+            "language": "en",
+            "slug": "when-was-the-quran-written",
+            "title": "When Was the Quran Written? A Complete Timeline From Revelation to Compilation",
+            "excerpt": "Learn the history of When Was the Quran Written. Timeframe and date by date history has been showcased. A perfect guide for readers who want to know true history of Quran.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/76cd5a31-5a3b-4d7c-bc1a-7f47fb401fb4.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-26T05:16:30+00:00",
+            "updatedAt": "2026-11-16T13:22:53+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "1659ea51faa8835a1b3a19c4c25b9129a5383feb42515cfb51c04484ec2702d5",
+            "url": "https://muslimsday.com/blog/when-was-the-quran-written",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/when-was-the-quran-written.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/when-was-the-quran-written.html"
+        },
+        {
+            "id": 9,
+            "translationId": 9,
+            "language": "en",
+            "slug": "istikhara-dua",
+            "title": "Istikhara Dua: When and How to Make the Right Decision in Islam",
+            "excerpt": "Learn he benefits of Istikhara Dua. When and how it does matter most. What are the benefits and step by step guide to perform.",
+            "featuredImage": null,
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-23T07:37:57+00:00",
+            "updatedAt": "2026-11-16T13:23:21+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "4f902c3d8e8ec02753bb60c48844b9c985cfd150355152fd6906b7df2ac26054",
+            "url": "https://muslimsday.com/blog/istikhara-dua",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/istikhara-dua.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/istikhara-dua.html"
+        }
+    ]
+}
