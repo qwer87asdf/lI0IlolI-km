@@ -56,7 +56,7 @@
             ],
             "endTimestampInSecond": null,
             "divId": "home-feed-medium-rectangle",
-            "adType": "LARGE_BANNER"
+            "adType": "SQUARE"
         },
         {
             "type": "feed",
@@ -75,5 +75,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1794803534000
+    "lastUpdated": 1794817400000
 }
