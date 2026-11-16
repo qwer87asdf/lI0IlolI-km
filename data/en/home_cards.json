@@ -58,6 +58,25 @@
             }
         },
         {
+            "type": "countdown_timer",
+            "id": "ramadan_timer",
+            "priority": 100,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "timerConfig": {
+                "eventType": "RAMADAN_START",
+                "title": null,
+                "subtitle": null,
+                "showSeconds": true,
+                "compactMode": false
+            }
+        },
+        {
             "type": "banner",
             "id": "premium_upsell_2",
             "priority": 300,
@@ -181,5 +200,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1792594658000
+    "lastUpdated": 1794830152000
 }
