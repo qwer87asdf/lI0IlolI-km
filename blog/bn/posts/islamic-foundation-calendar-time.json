@@ -1,0 +1,153 @@
+{
+    "schemaVersion": 1,
+    "id": 258,
+    "translationId": 258,
+    "language": "bn",
+    "slug": "islamic-foundation-calendar-time",
+    "title": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+    "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+    "featuredImage": {
+        "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+        "alt": "",
+        "width": 640,
+        "height": 427
+    },
+    "categories": [
+        {
+            "id": 8,
+            "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+            "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+            "primary": true
+        }
+    ],
+    "isSticky": false,
+    "publishedAt": "2023-03-02T13:55:12+00:00",
+    "updatedAt": "2026-11-17T04:05:37+00:00",
+    "readingTimeMinutes": 2,
+    "contentHash": "a6b6ab0e6f5eaca49c98396f2a609af1bc4387b34655de2f08eae909830c6fa5",
+    "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time",
+    "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/islamic-foundation-calendar-time.json",
+    "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/islamic-foundation-calendar-time.html",
+    "html": "<p>Post Updated at 27 Feb, 2026 – 10:43 PM</p><p>মুসলিমস ডে অ্যাপ থেকে শুধুমাত্র রমজান মাসে ইসলামিক ফাউন্ডেশনের সাহরি ইফতারের ক্যালেন্ডার অনুযায়ী সময় দেখা যাবে। রমজান ব্যতীত অন্যান্য সময়ে স্ট্যান্ডার্ড পদ্ধতিতে সাহরি-ইফতার ও নামাজের ওয়াক্ত দেখা যাবে। যেই পদ্ধতি অন্যান্য আন্তর্জাতিক অ্যাপগুলো দেখিয়ে থাকে।</p><figure class=\"md-image\"><img src=\"https://data.muslimsday.com/appdata/blog/media/2026/11/11eed68c-baf7-4b5c-8a5e-f3d642628070.png\" alt=\"muslims-day-ifa-config\" width=\"520\" height=\"399\" loading=\"lazy\" decoding=\"async\"></figure><p>আপনি যদি রমজান মাসে ইসলামিক ফাউন্ডেশনের থেকে প্রকাশিত সাহরি-ইফতারের সময়সূচী অনুসরণ করতে চান। তাহলে নিচের উপরের দেখানো ছবির মত কনফিগারেশন সেট করুন। এর জন্য নিচের স্টেপগুলো ফলো করুনঃ</p><ol><li>নিশ্চিত করুন আপনার ফোনের অ্যাপটি গুগল প্লে স্টোর থেকে সর্বশেষ ভার্সনে আপডেট করা আছে</li><li>লোকেশন সেটিংস পেজ থেকে আপনার জেলা সিলেক্ট করুন (GPS সিলেক্ট করলে হবে না)</li><li>সেটিংস পেজ থেকে মাজহাব হিসাবে “হানাফী” সিলেক্ট করুন</li><li>সেটিংস পেজে গিয়ে “সাহরি ও ইফতারের সময় কিভাবে নির্ধারন করতে চান?” অপশনে গিয়ে ২য় অপশন “মূল সময়ের সাথে সতর্কতামূলক সময় বিয়োগ ও যোগ করতে চাই” সিলেক্ট করে ৩ মিনিট সেট করুন</li><li>উপরের অপশনের পরের অংশে “ইসলামিক ফাউন্ডেশনের সময় অনুযায়ী” সময় দেখানোর অপশনে টিক দিন</li></ol><p>তাই আপনি কোনো কারণে সেটিংস পরিবর্তন করে থাকলে একটা শর্টকাট সিস্টেম হতে পারে এরকমঃ<br> সেটিংস পেজে গিয়ে ডানপাশের উপরে থাকা “রিসেট” আইকনে ক্লিক করে আপনার অ্যাপের সেটিংসটি রিসেট করে নিন। এরপর লোকেশন সেটিংসে গিয়ে আপনার জেলা সিলেক্ট করুন। ব্যস হয়ে যাবে!</p><p>The post <a href=\"https://muslimsday.com/blog/islamic-foundation-calendar-time/\">মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
+    "toc": [],
+    "direction": "ltr",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.64b730fcb4.css",
+    "author": {
+        "name": "Hasan"
+    },
+    "tags": [],
+    "translations": {},
+    "languageChooser": [
+        {
+            "language": "bn",
+            "name": "Bangla",
+            "nativeName": "বাংলা",
+            "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/islamic-foundation-calendar-time.json",
+            "current": true
+        }
+    ],
+    "reads": {
+        "record": "https://backend.muslimsday.com/api/blog/posts/258/bn/reads",
+        "total": "https://backend.muslimsday.com/api/blog/posts/258/reads"
+    },
+    "ads": {
+        "left": null,
+        "right": null
+    },
+    "seo": {
+        "title": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+        "description": "শুধুমাত্র ঢাকা জেলার ক্ষেত্রে রমজান মাসে ইসলামিক ফাউন্ডেশনের সময় দেখার সুযোগ রয়েছে। অন্যান্য জেলার জন্য স্ট্যান্ডার্ড পদ্ধতিতে নির্ণয় করা হয়",
+        "canonical": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "openGraph": {
+            "type": "article",
+            "title": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+            "description": "শুধুমাত্র ঢাকা জেলার ক্ষেত্রে রমজান মাসে ইসলামিক ফাউন্ডেশনের সময় দেখার সুযোগ রয়েছে। অন্যান্য জেলার জন্য স্ট্যান্ডার্ড পদ্ধতিতে নির্ণয় করা হয়",
+            "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time",
+            "siteName": "Muslims Day",
+            "locale": "bn_BD",
+            "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+            "publishedTime": "2023-03-02T13:55:12+00:00",
+            "modifiedTime": "2026-11-17T04:05:37+00:00",
+            "section": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)"
+        },
+        "twitter": {
+            "card": "summary_large_image",
+            "title": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+            "description": "শুধুমাত্র ঢাকা জেলার ক্ষেত্রে রমজান মাসে ইসলামিক ফাউন্ডেশনের সময় দেখার সুযোগ রয়েছে। অন্যান্য জেলার জন্য স্ট্যান্ডার্ড পদ্ধতিতে নির্ণয় করা হয়",
+            "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg"
+        },
+        "hreflang": [
+            {
+                "lang": "bn",
+                "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time"
+            },
+            {
+                "lang": "x-default",
+                "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time"
+            }
+        ],
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+                "description": "শুধুমাত্র ঢাকা জেলার ক্ষেত্রে রমজান মাসে ইসলামিক ফাউন্ডেশনের সময় দেখার সুযোগ রয়েছে। অন্যান্য জেলার জন্য স্ট্যান্ডার্ড পদ্ধতিতে নির্ণয় করা হয়",
+                "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time"
+                },
+                "inLanguage": "bn",
+                "wordCount": 209,
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Muslims Day",
+                    "url": "https://muslimsday.com",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://muslimsday.com/favicon.svg"
+                    }
+                },
+                "datePublished": "2023-03-02T13:55:12+00:00",
+                "dateModified": "2026-11-17T04:05:37+00:00",
+                "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "author": {
+                    "@type": "Person",
+                    "name": "Hasan"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Muslims Day",
+                        "item": "https://muslimsday.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://muslimsday.com/bn/blog"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                        "item": "https://muslimsday.com/bn/blog/category/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE-faq"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+                        "item": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time"
+                    }
+                ]
+            }
+        ]
+    }
+}
