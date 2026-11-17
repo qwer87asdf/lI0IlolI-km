@@ -1,0 +1,583 @@
+{
+    "category": "কুরবানি",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 145,
+            "translationId": 145,
+            "language": "bn",
+            "slug": "ঈদুল-আযহার-সুন্নত-আমল",
+            "title": "ঈদ উল আযহার কয়েকটি মাসনূন আমল",
+            "excerpt": "Post Updated at 30 May, 2026 – 12:23 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/153987ee-5ba0-491b-b4e8-3e6317611f34.jpg",
+                "alt": "",
+                "width": 700,
+                "height": 394
+            },
+            "categories": [
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-06-16T13:52:42+00:00",
+            "updatedAt": "2026-11-17T04:03:29+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "4888655bc2dcfb280dbb44620cfe23057310d4e2d8b9c22f8e84d046be8afc2b",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%86%E0%A6%AF%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%B2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%86%E0%A6%AF%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%B2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%86%E0%A6%AF%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%B2.html"
+        },
+        {
+            "id": 146,
+            "translationId": 146,
+            "language": "bn",
+            "slug": "তাকবীরে-তাশরীক-মাসআলা",
+            "title": "তাকবীরে তাশরীক সংক্রান্ত কয়েকটি মাসআলা",
+            "excerpt": "Post Updated at 7 Sep, 2024 – 5:59 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/6309d3c6-b63f-4e4d-9132-7d8d59412a27.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-06-15T06:47:49+00:00",
+            "updatedAt": "2026-11-17T04:03:29+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "9053ed51e93923d7787a1c1398ba652e4dab67dd0706cd8a8d58ce8356950da8",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%80%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%80%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%80%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        },
+        {
+            "id": 147,
+            "translationId": 147,
+            "language": "bn",
+            "slug": "কুরবানির-গুরুত্ব-ও-ফযিলত",
+            "title": "কুরবানির গুরুত্ব ও ফযিলত",
+            "excerpt": "Post Updated at 27 May, 2026 – 3:59 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T16:18:25+00:00",
+            "updatedAt": "2026-11-17T04:03:33+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "087f6203280156583c41d304f150f4c54023a736c2f49f8db12edbf6396f297e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%93-%E0%A6%AB%E0%A6%AF%E0%A6%BF%E0%A6%B2%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%93-%E0%A6%AB%E0%A6%AF%E0%A6%BF%E0%A6%B2%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%93-%E0%A6%AB%E0%A6%AF%E0%A6%BF%E0%A6%B2%E0%A6%A4.html"
+        },
+        {
+            "id": 148,
+            "translationId": 148,
+            "language": "bn",
+            "slug": "কুরবানি-করা-ওয়াজিব",
+            "title": "কুরবানির বিধান (কুরবানি ওয়াজিব নাকি সুন্নত?)",
+            "excerpt": "Post Updated at 27 May, 2026 – 3:59 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T16:16:08+00:00",
+            "updatedAt": "2026-11-17T04:03:36+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "1f44ae7829a66c8148a2f0693a38a4109313f6265589178800c8d68db3581c58",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.html"
+        },
+        {
+            "id": 149,
+            "translationId": 149,
+            "language": "bn",
+            "slug": "কুরবানি-কার-ওপর-ওয়াজিব",
+            "title": "কুরবানি কার ওপর ওয়াজিব?",
+            "excerpt": "Post Updated at 27 May, 2026 – 4:00 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T16:13:06+00:00",
+            "updatedAt": "2026-11-17T04:03:36+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "7e2ee171ab8fea12e9d774d3c5744a9c8be421f4148c7b32f4e5e359782496a6",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.html"
+        },
+        {
+            "id": 150,
+            "translationId": 150,
+            "language": "bn",
+            "slug": "কুরবানির-সময়সীমা",
+            "title": "কুরবানির সময়সীমা",
+            "excerpt": "Post Updated at 27 May, 2024 – 7:52 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T15:24:56+00:00",
+            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "91b5da2affd0b1d7fa59b6078e6f3c8a667c34ec883e0c4ef0c749948ac65ff6",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE.html"
+        },
+        {
+            "id": 151,
+            "translationId": 151,
+            "language": "bn",
+            "slug": "কুরবানির-পশু-জবাই",
+            "title": "কুরবানির পশু জবাইয়ের মাসায়েল",
+            "excerpt": "Post Updated at 27 May, 2024 – 7:53 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T15:22:37+00:00",
+            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "3c2b0819660fa18007899741516360f26f46e7b865cb18eb4ad76b65464161a6",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%87",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%87.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%87.html"
+        },
+        {
+            "id": 152,
+            "translationId": 152,
+            "language": "bn",
+            "slug": "ঈসালে-সওয়াব-কুরবানি",
+            "title": "ঈসালে সওয়াবের জন্যে কুরবানি",
+            "excerpt": "Post Updated at 27 May, 2024 – 7:53 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T15:20:36+00:00",
+            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "2f8064de2bf616625a60f8fd6221a70b39467033036f01d14ec309368b0c70ed",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%88%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AC-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF.html"
+        },
+        {
+            "id": 153,
+            "translationId": 153,
+            "language": "bn",
+            "slug": "যৌথ-শরিকানায়-কুরবানি",
+            "title": "যৌথ (শরিকানা) কুরবানির মাসায়েল",
+            "excerpt": "Post Updated at 27 May, 2026 – 4:00 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T15:18:25+00:00",
+            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "2ff8f6687c303f8396070b3c55b5101b8ce2cec5016a0b097600acffe6b4b7cb",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%B6%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%B6%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%B6%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF.html"
+        },
+        {
+            "id": 154,
+            "translationId": 154,
+            "language": "bn",
+            "slug": "কুরবানির-গোশত-চামড়া",
+            "title": "কুরবানির গোশত ও চামড়া : আহার, দান, বণ্টন ও সংরক্ষণ",
+            "excerpt": "Post Updated at 27 May, 2024 – 7:58 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T15:16:21+00:00",
+            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "f4241be15ba33f000617f8f9d0d5a87314c54bb6a5bdde026e73a2103305e368",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B6%E0%A6%A4-%E0%A6%9A%E0%A6%BE%E0%A6%AE%E0%A6%A1%E0%A6%BC%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B6%E0%A6%A4-%E0%A6%9A%E0%A6%BE%E0%A6%AE%E0%A6%A1%E0%A6%BC%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B6%E0%A6%A4-%E0%A6%9A%E0%A6%BE%E0%A6%AE%E0%A6%A1%E0%A6%BC%E0%A6%BE.html"
+        },
+        {
+            "id": 155,
+            "translationId": 155,
+            "language": "bn",
+            "slug": "কুরবানির-পশু-দিয়ে-উপকৃত",
+            "title": "কুরবানির পশু দিয়ে উপকৃত হওয়ার বিধান",
+            "excerpt": "Post Updated at 27 May, 2024 – 7:57 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T15:13:29+00:00",
+            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "2a7b70591a62a349d1400f1e79f7d5b858883b10797a7ad58750319a2c5744e6",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A7%83%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A7%83%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A7%83%E0%A6%A4.html"
+        },
+        {
+            "id": 202,
+            "translationId": 202,
+            "language": "bn",
+            "slug": "কুরবানি-বিষয়ে-জিজ্ঞাসা",
+            "title": "কুরবানি সম্পর্কিত কয়েকটি সাধারণ জিজ্ঞাসা",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-06-20T01:02:09+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "d742dbecc1536c4677d6bb4d924f98131470621f7cd09548795a36545be27141",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE.html"
+        },
+        {
+            "id": 203,
+            "translationId": 203,
+            "language": "bn",
+            "slug": "হাজী-ঈদুল-আজহা-কুরবানি",
+            "title": "হাজীদের জন্য ঈদুল আজহার কুরবানি",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-06-12T06:58:18+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "a4608569e92bd131bed45a70e9d6fdd3eea2b6529118ee47f69f527ac6d0d743",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A7%80-%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%86%E0%A6%9C%E0%A6%B9%E0%A6%BE-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A7%80-%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%86%E0%A6%9C%E0%A6%B9%E0%A6%BE-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A7%80-%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%86%E0%A6%9C%E0%A6%B9%E0%A6%BE-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF.html"
+        },
+        {
+            "id": 206,
+            "translationId": 206,
+            "language": "bn",
+            "slug": "কুরবানির-ফজিলত-মাসায়েল",
+            "title": "কুরবানির ফজিলত ও মাসায়েল",
+            "excerpt": "Post Updated at 27 May, 2024 – 8:01 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-28T08:59:10+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "6d75bf13121f1b6ccd4199cb185def2b83e83b206ed823c63feb7cb75d7dc86c",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2.html"
+        },
+        {
+            "id": 207,
+            "translationId": 207,
+            "language": "bn",
+            "slug": "জিলহজের-১ম-দশকের-ফজিলত",
+            "title": "ফজিলতে পূর্ণ জিলহজের প্রথম দশক",
+            "excerpt": "Post Updated at 27 May, 2026 – 4:01 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-09T01:46:17+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "013e07071dba2019039bd730928ac38bc3dca885c49aa12bb37f71094cb25ca1",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A6%AE-%E0%A6%A6%E0%A6%B6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A6%AE-%E0%A6%A6%E0%A6%B6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A6%AE-%E0%A6%A6%E0%A6%B6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4.html"
+        }
+    ]
+}

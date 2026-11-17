@@ -1,0 +1,187 @@
+{
+    "category": "মন্দ-কাজ",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 32,
+            "translationId": 32,
+            "language": "bn",
+            "slug": "donation-collect-during-khutba",
+            "title": "একটি অনর্থক কাজ : খুৎবা চলাকালীন দান বাক্স চালানো",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 14,
+                    "slug": "মন্দ-কাজ",
+                    "name": "মন্দ কাজ",
+                    "primary": false
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-12-11T05:58:20+00:00",
+            "updatedAt": "2026-11-17T04:00:46+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "197cb9a34b138001908525dbf4ddf947ee04b335da613791d692819b23f077d4",
+            "url": "https://muslimsday.com/bn/blog/donation-collect-during-khutba",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/donation-collect-during-khutba.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/donation-collect-during-khutba.html"
+        },
+        {
+            "id": 128,
+            "translationId": 128,
+            "language": "bn",
+            "slug": "বর্ষবরণ-ও-অন্যদের-অনুসরণ",
+            "title": "বর্ষবরণ ও অন্যদের অনুসরণ : ইসলাম কী বলে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 52,
+                    "slug": "নববর্ষ",
+                    "name": "নববর্ষ",
+                    "primary": false
+                },
+                {
+                    "id": 14,
+                    "slug": "মন্দ-কাজ",
+                    "name": "মন্দ কাজ",
+                    "primary": false
+                },
+                {
+                    "id": 30,
+                    "slug": "হালাল-হারাম",
+                    "name": "হালাল - হারাম",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-19T16:54:16+00:00",
+            "updatedAt": "2026-11-17T04:03:06+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "9af136926300a5492b0648689381b9c5ded8db276cb8974e956f67a43ad03a29",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3.html"
+        },
+        {
+            "id": 129,
+            "translationId": 129,
+            "language": "bn",
+            "slug": "থার্টি-ফার্স্ট-নাইট",
+            "title": "থার্টি ফার্স্ট নাইট : আয়োজন, না আগ্রাসন?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 52,
+                    "slug": "নববর্ষ",
+                    "name": "নববর্ষ",
+                    "primary": false
+                },
+                {
+                    "id": 14,
+                    "slug": "মন্দ-কাজ",
+                    "name": "মন্দ কাজ",
+                    "primary": false
+                },
+                {
+                    "id": 22,
+                    "slug": "হুকুক-অধিকার",
+                    "name": "হুকুক - অধিকার",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-19T16:41:01+00:00",
+            "updatedAt": "2026-11-17T04:03:06+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "e3efd095a4353b305d5f51ddb95c5ad7b98236a5ef9cbc122bfd24594b9e5f01",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F.html"
+        },
+        {
+            "id": 135,
+            "translationId": 135,
+            "language": "bn",
+            "slug": "মন্দ-কাজে-প্রতিযোগিতা-না",
+            "title": "মন্দ কাজে প্রতিযোগিতা নয়",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 3:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7608c2b2-adb3-4f5e-96c7-48120771cc02.jpg",
+                "alt": "",
+                "width": 876,
+                "height": 584
+            },
+            "categories": [
+                {
+                    "id": 49,
+                    "slug": "কুরআনের-শিক্ষা",
+                    "name": "কুরআনের শিক্ষা",
+                    "primary": true
+                },
+                {
+                    "id": 55,
+                    "slug": "প্রতিযোগিতা",
+                    "name": "প্রতিযোগিতা",
+                    "primary": false
+                },
+                {
+                    "id": 14,
+                    "slug": "মন্দ-কাজ",
+                    "name": "মন্দ কাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-09-23T09:16:30+00:00",
+            "updatedAt": "2026-11-17T04:03:13+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "b5158156789978a837b548d7a9a43e2a2ecd2f9ecc1105bebe1c6f32409fa119",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BE.html"
+        }
+    ]
+}

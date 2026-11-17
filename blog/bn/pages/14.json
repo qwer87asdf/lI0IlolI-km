@@ -1,0 +1,468 @@
+{
+    "page": 14,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 270,
+            "translationId": 270,
+            "language": "bn",
+            "slug": "ঈদের-নামাজের-নিয়ম",
+            "title": "ঈদের নামাজের নিয়ম (অতিরিক্ত ৬ তাকবিরের সাথে)",
+            "excerpt": "Post Updated at 30 May, 2026 – 12:24 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-24T10:14:36+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "2524ad5bc129ed9074e041b15e8f8225bcc149e2a9dd4080b566545300e2258a",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%AE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%AE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%AE.html"
+        },
+        {
+            "id": 271,
+            "translationId": 271,
+            "language": "bn",
+            "slug": "দুখুলুল-মাসজিদ",
+            "title": "দুখুলুল মাসজিদ বা তাহিয়্যাতুল মাসজিদ",
+            "excerpt": "Post Updated at 8 Apr, 2023 – 1:53 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-24T10:00:04+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "608fc49ae9b2dd1658302911d2a7e02ee641fce9618baff330ed1efada2f4bd8",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A6%E0%A7%81%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%81%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%81%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6.html"
+        },
+        {
+            "id": 272,
+            "translationId": 272,
+            "language": "bn",
+            "slug": "সালাতুত-দুহার-ফজিলত",
+            "title": "সালাতুত দুহার (চাশত ও ইশরাক) ফজিলত",
+            "excerpt": "Post Updated at 24 Mar, 2025 – 8:22 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 27,
+                    "slug": "নফল",
+                    "name": "নফল",
+                    "primary": false
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-24T09:45:32+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "ec98ddd3a4d1f87fe7da633da75898445b5dfb5ec1d67e1c1c215b5b6cbaeafd",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%A4-%E0%A6%A6%E0%A7%81%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%A4-%E0%A6%A6%E0%A7%81%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%A4-%E0%A6%A6%E0%A7%81%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4.html"
+        },
+        {
+            "id": 273,
+            "translationId": 273,
+            "language": "bn",
+            "slug": "রুকু-সিজদা-সঠিকভাবে-আদায",
+            "title": "সালাতে রুকু সিজদা সঠিকভাবে আদায় করছি তো?",
+            "excerpt": "Post Updated at 29 Jul, 2025 – 12:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-24T09:27:09+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "726d760d138b8f4244b91ff507b9b3cddc29a0c2f85d5da0d1176d4543a0b722",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B8%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B8%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B8%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF.html"
+        },
+        {
+            "id": 274,
+            "translationId": 274,
+            "language": "bn",
+            "slug": "ওযু-করার-ধারাবাহিক-পদ্ধত",
+            "title": "সুন্নত মোতাবেক ওজু করার ধারাবাহিক পদ্ধতি",
+            "excerpt": "ওযুর ধারাবাহিকতা রক্ষা করা সুন্নাহ। বিভিন্ন হাদীস ও সাহাবীগণের আমল থেকে আমরা ওযুর ধারাবাহিকতা জানতে পারি। এখানে ওযুর ধারাবাহিকতা তুলে ধরা হলো\nThe post সুন্নত মোতাবেক ওজু করার ধারাবাহিক পদ্ধতি appeared first on Muslims Day Blog.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-18T07:09:01+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "b9d0535dfe404206a6ff3b5ee2030b9e6c37cd152ac72bf9bdc84f8bd3efb74e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%93%E0%A6%AF%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4.html"
+        },
+        {
+            "id": 275,
+            "translationId": 275,
+            "language": "bn",
+            "slug": "যেসব-কারণে-ওযু-ভাঙে-না",
+            "title": "যে সকল কারণে ওজু ভাঙ্গে না",
+            "excerpt": "কিছু বিষয় এমন, অনেকে মনে করেন, এগুলোর কারণে ওজু ভেঙে যাবে। আসলে এতে ওজু ভাঙবে না। এমন কিছু কারণ আমরা আজকের এই পোস্টে জেনে নিব\nThe post যে সকল কারণে ওজু ভাঙ্গে না appeared first on Muslims Day Blog.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-18T07:02:21+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "2b64963fa56dd3643a5ff6f4bb2122de1afe6cfbc1bb5d6fd5831395bf98d6e7",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%93%E0%A6%AF%E0%A7%81-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%93%E0%A6%AF%E0%A7%81-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%87-%E0%A6%A8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%93%E0%A6%AF%E0%A7%81-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%87-%E0%A6%A8%E0%A6%BE.html"
+        },
+        {
+            "id": 276,
+            "translationId": 276,
+            "language": "bn",
+            "slug": "উযূ-ভঙ্গের-কারণসমূহ",
+            "title": "ওযু ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 24 Feb, 2023 – 4:34 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T16:14:17+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "78463063a26e600ef5fc2dbaedee8864d3e47a2d6241d7d87f5f30d8f3b21558",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%89%E0%A6%AF%E0%A7%82-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%89%E0%A6%AF%E0%A7%82-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%89%E0%A6%AF%E0%A7%82-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.html"
+        },
+        {
+            "id": 277,
+            "translationId": 277,
+            "language": "bn",
+            "slug": "সালাত-ভঙ্গের-কারণসমূহ",
+            "title": "সালাত ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 1 Mar, 2023 – 3:16 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T10:24:57+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "5f84f0b4ff02a3c7e93a1b195feec68787bb5b032a7ce251c4b76ac4bfbc96d0",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.html"
+        },
+        {
+            "id": 278,
+            "translationId": 278,
+            "language": "bn",
+            "slug": "জুমআর-দিনের-আমল",
+            "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল",
+            "excerpt": "Post Updated at 20 Jun, 2024 – 11:00 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/db49968e-8e1a-4575-9356-8cc28b107a68.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 600
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T08:14:41+00:00",
+            "updatedAt": "2026-11-17T04:06:04+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "ecddbb564e5a7fa14ebeae846e8a2ccbfbff9e115749218aae035aef90518a9e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9C%E0%A7%81%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%B2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A7%81%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%B2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A7%81%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%B2.html"
+        },
+        {
+            "id": 279,
+            "translationId": 279,
+            "language": "bn",
+            "slug": "রমজান-মাসের-প্রস্তুতি",
+            "title": "রমজান মাসের প্রস্তুতি কেমন হবে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d616ee3-a349-48f5-8bd0-087f4b533c0e.jpg",
+                "alt": "",
+                "width": 2000,
+                "height": 1342
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T02:33:05+00:00",
+            "updatedAt": "2026-11-17T04:06:09+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "6a48fbd1c670dc301694b08aaf3e41a976a7c2af6b35b960251229a8c1f569d9",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF.html"
+        },
+        {
+            "id": 280,
+            "translationId": 280,
+            "language": "bn",
+            "slug": "বাংলা-তারিখ-নির্ধারণ",
+            "title": "বঙ্গাব্দ তারিখ নির্ধারণের পদ্ধতি",
+            "excerpt": "Post Updated at 21 Mar, 2023 – 9:10 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-01T14:45:21+00:00",
+            "updatedAt": "2026-11-17T04:06:09+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "9053e438275aa16ff60b4dc2f98fef41c8ead9650ace77234671e4bec541be04",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3.html"
+        },
+        {
+            "id": 281,
+            "translationId": 281,
+            "language": "bn",
+            "slug": "আজকের-হিজরি-তারিখ-কত",
+            "title": "মুসলিমস ডে অ্যাপের হিজরি তারিখ অন্যান্য ক্যালেন্ডারের সাথে মিলে না কেন?",
+            "excerpt": "Post Updated at 4 Aug, 2023 – 9:03 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-01T14:42:38+00:00",
+            "updatedAt": "2026-11-17T04:06:09+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "b19a16ff7516e0202557da09ea2a1c07593c71db483dec5ed3c523ba1c93120b",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BF%E0%A6%9C%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%95%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BF%E0%A6%9C%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%95%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BF%E0%A6%9C%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%95%E0%A6%A4.html"
+        },
+        {
+            "id": 282,
+            "translationId": 282,
+            "language": "bn",
+            "slug": "নামাজের-নিষিদ্ধ-সময়-কখন",
+            "title": "নামাজের নিষিদ্ধ সময় নির্ধারণের পদ্ধতি",
+            "excerpt": "Post Updated at 21 Mar, 2023 – 9:11 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-01T14:34:45+00:00",
+            "updatedAt": "2026-11-17T04:06:09+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "a3e6be9002aca61e9ec667b8e2b2106aaf4128e4f8e452b1f78cb05e184044c3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%96%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%96%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%96%E0%A6%A8.html"
+        }
+    ]
+}

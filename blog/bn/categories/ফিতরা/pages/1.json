@@ -1,0 +1,157 @@
+{
+    "category": "ফিতরা",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 231,
+            "translationId": 231,
+            "language": "bn",
+            "slug": "ফিতরা-কাকে-কখন-দিব",
+            "title": "ফিতরা কাকে দেয়া যাবে? কোন সময়ে ফিতরা আদায় করতে হয়?",
+            "excerpt": "Post Updated at 16 Mar, 2026 – 12:10 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T16:45:55+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "5f4a063524243cdd069beb417aa2199ea7f64e7bd1c3db94a565d2529c83b975",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%AC.html"
+        },
+        {
+            "id": 232,
+            "translationId": 232,
+            "language": "bn",
+            "slug": "ফিতরা-কেন-কার-উপর-ওয়াজিব",
+            "title": "ফিতরা কেন আমাদের উপর ওয়াজিব? কার উপর ওয়াজিব?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T16:37:24+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "6ad82409cd5bc927dc8fef93379dd6621216d9dfda2cefab8eec6f226807234d",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.html"
+        },
+        {
+            "id": 233,
+            "translationId": 233,
+            "language": "bn",
+            "slug": "ফিতরা-টাকা-নাকি-খাদ্য",
+            "title": "ফিতরা খাদ্য দিয়েই আদায় করতে হবে? নাকি টাকা দিয়েও আদায় করা যাবে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T04:16:01+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "5ff2f09387d3ca0c0e9cdc09c5c7171ff18ca57eb2121b35d50025da52c44961",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF.html"
+        },
+        {
+            "id": 234,
+            "translationId": 234,
+            "language": "bn",
+            "slug": "ফিতরা-কত-টাকা-মাসআলা",
+            "title": "২০২৬ সালের ফিতরার পরিমাণ ও মাসআলা",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:57 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T03:26:00+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "1f9cf07eef3d17bd48e407c45215abcacbb940e86ff8a87c93590f34862634ac",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        }
+    ]
+}

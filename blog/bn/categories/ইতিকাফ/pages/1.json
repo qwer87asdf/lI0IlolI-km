@@ -1,0 +1,103 @@
+{
+    "category": "ইতিকাফ",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 230,
+            "translationId": 230,
+            "language": "bn",
+            "slug": "বিনিময়-দিয়ে-ইতিকাফ-নয়",
+            "title": "বিনিময় দিয়ে ইতিকাফ নয়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 66,
+                    "slug": "ইতিকাফ",
+                    "name": "ইতিকাফ",
+                    "primary": false
+                },
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": false
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-07T18:40:33+00:00",
+            "updatedAt": "2026-11-17T04:05:16+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "21b92c5ed947c8b49b4e17867428faccd9172db41ecd415252f8cc19ad873c3f",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%AF%E0%A6%BC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%AF%E0%A6%BC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%AF%E0%A6%BC.html"
+        },
+        {
+            "id": 235,
+            "translationId": 235,
+            "language": "bn",
+            "slug": "ইতিকাফ-ফজিলত-মাসআলা",
+            "title": "ইতিকাফ : গুরুত্ব ফজিলত ও বিধান",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 66,
+                    "slug": "ইতিকাফ",
+                    "name": "ইতিকাফ",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-20T05:10:44+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "217ab38d7d89aeef887a2774a6e943d95e42dc2deb1a3e8d29cdfc06570037f9",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        }
+    ]
+}

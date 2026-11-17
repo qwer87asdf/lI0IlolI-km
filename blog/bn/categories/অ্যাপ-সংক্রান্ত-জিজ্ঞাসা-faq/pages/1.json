@@ -1,7 +1,7 @@
 {
     "category": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
     "page": 1,
-    "totalPages": 1,
+    "totalPages": 2,
     "items": [
         {
             "id": 18,
@@ -32,6 +32,588 @@
             "url": "https://muslimsday.com/bn/blog/durud-reminder",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/durud-reminder.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/durud-reminder.html"
+        },
+        {
+            "id": 25,
+            "translationId": 25,
+            "language": "bn",
+            "slug": "ইসলামিক-ফাউন্ডেশন-২০২৬",
+            "title": "ইসলামিক ফাউন্ডেশনের ২০২৬ রমজান ক্যালেন্ডারে কী পরিবর্তন এসেছে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 4:10 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/873f225e-2441-44d3-880e-8a145255eb67.jpg",
+                "alt": "",
+                "width": 700,
+                "height": 394
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-02-27T10:10:26+00:00",
+            "updatedAt": "2026-11-17T04:00:29+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "d2670c32dd99390aef5b1e398c2adb056d301d7c346f0fba352c3d80293e07f8",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC.html"
+        },
+        {
+            "id": 26,
+            "translationId": 26,
+            "language": "bn",
+            "slug": "ramadan-calendar-mismatch",
+            "title": "বিভিন্ন অ্যাপের সাহরি ইফতারের সময়ে ভিন্নতা আছে। আমরা কোনটা ফলো করব?",
+            "excerpt": "Post Updated at 21 Feb, 2026 – 7:17 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/24ac8aef-0016-478a-b386-186dbd4ac4be.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 480
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-02-21T13:09:47+00:00",
+            "updatedAt": "2026-11-17T04:00:38+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "b8c8745890c5770cb76640dad387b323283838db803d37c6ed4407c5f208efce",
+            "url": "https://muslimsday.com/bn/blog/ramadan-calendar-mismatch",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ramadan-calendar-mismatch.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ramadan-calendar-mismatch.html"
+        },
+        {
+            "id": 34,
+            "translationId": 34,
+            "language": "bn",
+            "slug": "contribute-as-subscription",
+            "title": "মুসলিমস ডে অ্যাপে কন্ট্রিবিউট করুন",
+            "excerpt": "Post Updated at 3 Feb, 2026 – 3:14 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5a44e344-43f7-40fc-9e9b-f516472c91f4.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 900
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-11-16T12:55:07+00:00",
+            "updatedAt": "2026-11-17T04:00:54+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "a9fb0705d59b18f72fbd41aee01dd53f7f1d872397400174de7ab01b87eeaa84",
+            "url": "https://muslimsday.com/bn/blog/contribute-as-subscription",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/contribute-as-subscription.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/contribute-as-subscription.html"
+        },
+        {
+            "id": 102,
+            "translationId": 102,
+            "language": "bn",
+            "slug": "why-different-time-in-muslims-day",
+            "title": "মুসলিমস ডে অ্যাপ : একেক ফোনে একেক রকম সময় দেখায় কেন?",
+            "excerpt": "Post Updated at 11 Apr, 2025 – 11:28 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-04-11T17:28:06+00:00",
+            "updatedAt": "2026-11-17T04:02:41+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "7128287281ff4b02f9242f4c1b96269c1d09034b544dd60c4d6f6204791ed9ee",
+            "url": "https://muslimsday.com/bn/blog/why-different-time-in-muslims-day",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/why-different-time-in-muslims-day.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/why-different-time-in-muslims-day.html"
+        },
+        {
+            "id": 104,
+            "translationId": 104,
+            "language": "bn",
+            "slug": "muslims-day-plan-for-2025",
+            "title": "২০২৫ সালে মুসলিমস ডে’র পরিকল্পনা কী?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/0bf99aad-9a1a-4dc2-bb5e-4898d002681b.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 848
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-03-26T09:07:52+00:00",
+            "updatedAt": "2026-11-17T04:02:46+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "e95a99e196071b7a129335a486ca0d75307d3f93857f6ac59fe3f9405d88306a",
+            "url": "https://muslimsday.com/bn/blog/muslims-day-plan-for-2025",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/muslims-day-plan-for-2025.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/muslims-day-plan-for-2025.html"
+        },
+        {
+            "id": 105,
+            "translationId": 105,
+            "language": "bn",
+            "slug": "calendar-page-mahfil-feed",
+            "title": "মুসলিমস ডে অ্যাপের ক্যালেন্ডার পেজ ও মাহফিল ফীড প্রসঙ্গে",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-03-25T06:55:33+00:00",
+            "updatedAt": "2026-11-17T04:02:53+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "55edecfd9f060a09142c3a82e3277b3d9e7b17bbf38c3baac6f029a52d6cf6e4",
+            "url": "https://muslimsday.com/bn/blog/calendar-page-mahfil-feed",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/calendar-page-mahfil-feed.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/calendar-page-mahfil-feed.html"
+        },
+        {
+            "id": 106,
+            "translationId": 106,
+            "language": "bn",
+            "slug": "2025-ifa-logic-changed",
+            "title": "২০২৫ সালে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডারে কী পরিবর্তন এসেছে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-03-01T17:02:18+00:00",
+            "updatedAt": "2026-11-17T04:02:53+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "c83faf22616eaeb2f7c50bd351bd0783849d77abe1d5db4b6792356fa272e55c",
+            "url": "https://muslimsday.com/bn/blog/2025-ifa-logic-changed",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/2025-ifa-logic-changed.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/2025-ifa-logic-changed.html"
+        },
+        {
+            "id": 107,
+            "translationId": 107,
+            "language": "bn",
+            "slug": "নামাজের-সময়ে-পার্থক্য",
+            "title": "মুসলিমস ডে’র সাথে অন্যান্য অ্যাপের সময়ের পার্থক্যের কারণ",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-02-27T00:51:59+00:00",
+            "updatedAt": "2026-11-17T04:02:53+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "a11532ff3e0dcaf4c1bb9675ad5d0e23411e9dee1a12be01476f5e6d671d7411",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF.html"
+        },
+        {
+            "id": 166,
+            "translationId": 166,
+            "language": "bn",
+            "slug": "মুসলিমস-ডে-অফলাইন-অ্যাপ",
+            "title": "মুসলিমস ডে অ্যাপ কি অফলাইনে চলে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-02-26T09:43:21+00:00",
+            "updatedAt": "2026-11-17T04:03:52+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "88adaf6a11120e15b307941a0b9d02673e952ad72f58d8379983c4fb7c170fb1",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%A1%E0%A7%87-%E0%A6%85%E0%A6%AB%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%A1%E0%A7%87-%E0%A6%85%E0%A6%AB%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%A1%E0%A7%87-%E0%A6%85%E0%A6%AB%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA.html"
+        },
+        {
+            "id": 220,
+            "translationId": 220,
+            "language": "bn",
+            "slug": "make-time-settings-automatic",
+            "title": "নামাজের সঠিক সময় দেখার জন্য ফোনের টাইম সেটিংস অটোমেটিক করে নিন",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-01T15:31:36+00:00",
+            "updatedAt": "2026-11-17T04:05:04+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "4311971fbdb533a681cc8d3bcd274f887b102e987b1c8a0afed6148816bd5e15",
+            "url": "https://muslimsday.com/bn/blog/make-time-settings-automatic",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/make-time-settings-automatic.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/make-time-settings-automatic.html"
+        },
+        {
+            "id": 223,
+            "translationId": 223,
+            "language": "bn",
+            "slug": "হাদীস-নম্বর-মিলে-না-কেন",
+            "title": "হাদীসের নম্বর অন্য অ্যাপের সাথে মিলে না কেন?",
+            "excerpt": "Post Updated at 21 Feb, 2024 – 5:33 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-23T05:55:44+00:00",
+            "updatedAt": "2026-11-17T04:05:08+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "96be7873dffea6aa962ca77f89c55f2bece058e9ed93722d5fac3650fe4ca7d3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8.html"
+        },
+        {
+            "id": 247,
+            "translationId": 247,
+            "language": "bn",
+            "slug": "sahri-iftar-card-reorder",
+            "title": "সাহরি-ইফতারের সময়ের কার্ডটি উপরের দিকে উঠাবো কিভাবে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-10T13:29:00+00:00",
+            "updatedAt": "2026-11-17T04:05:28+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "da013686faa7b7e38437afc01076a117faf6a7c04bc58f8c57aefa1f55eadcd5",
+            "url": "https://muslimsday.com/bn/blog/sahri-iftar-card-reorder",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/sahri-iftar-card-reorder.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/sahri-iftar-card-reorder.html"
+        },
+        {
+            "id": 257,
+            "translationId": 257,
+            "language": "bn",
+            "slug": "time-difference-ifa-muslims-day",
+            "title": "ইসলামিক ফাউন্ডেশনের সময়ের সাথে মুসলিমস ডে অ্যাপে দেখানো সময়ের মধ্যে কোনো পার্থক্য আছে কি?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-02T14:00:37+00:00",
+            "updatedAt": "2026-11-17T04:05:33+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "c36f708bb505ca04cdc13c8fb90bf72215ab1677081f4e9f7f6300e24c25ed20",
+            "url": "https://muslimsday.com/bn/blog/time-difference-ifa-muslims-day",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/time-difference-ifa-muslims-day.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/time-difference-ifa-muslims-day.html"
+        },
+        {
+            "id": 258,
+            "translationId": 258,
+            "language": "bn",
+            "slug": "islamic-foundation-calendar-time",
+            "title": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-02T13:55:12+00:00",
+            "updatedAt": "2026-11-17T04:05:37+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "a6b6ab0e6f5eaca49c98396f2a609af1bc4387b34655de2f08eae909830c6fa5",
+            "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/islamic-foundation-calendar-time.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/islamic-foundation-calendar-time.html"
+        },
+        {
+            "id": 259,
+            "translationId": 259,
+            "language": "bn",
+            "slug": "আজান-রিংটোন-নিষেধ",
+            "title": "মুসলিমস ডে অ্যাপে নামাজের অ্যালার্মে আজান প্লে হয় না কেন?",
+            "excerpt": "Post Updated at 28 Oct, 2025 – 8:24 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T15:36:06+00:00",
+            "updatedAt": "2026-11-17T04:05:37+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "70f2ad7070265db0d4b82b6a42202375f016e4fd283efd284a3085e797ee67c3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%B0%E0%A6%BF%E0%A6%82%E0%A6%9F%E0%A7%8B%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%A7",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%B0%E0%A6%BF%E0%A6%82%E0%A6%9F%E0%A7%8B%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%A7.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%B0%E0%A6%BF%E0%A6%82%E0%A6%9F%E0%A7%8B%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%A7.html"
+        },
+        {
+            "id": 260,
+            "translationId": 260,
+            "language": "bn",
+            "slug": "app-এ-কুরআন-তাফসীর-নাই-কেন",
+            "title": "মুসলিমস ডে অ্যাপে সম্পূর্ণ কুরআন ও তাফসীর নাই কেন?",
+            "excerpt": "Post Updated at 10 Mar, 2025 – 2:31 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T15:27:47+00:00",
+            "updatedAt": "2026-11-17T04:05:37+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "c19fff747f4ff8c648b14b1234abed3a6ad957638c09cd3f2811a022e7e52454",
+            "url": "https://muslimsday.com/bn/blog/app-%E0%A6%8F-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%95%E0%A7%87%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/app-%E0%A6%8F-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%95%E0%A7%87%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/app-%E0%A6%8F-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%95%E0%A7%87%E0%A6%A8.html"
+        },
+        {
+            "id": 263,
+            "translationId": 263,
+            "language": "bn",
+            "slug": "সূর্যাস্তের-সময়-আসর",
+            "title": "সূর্যাস্তের নিষিদ্ধ সময়ে কি আসরের নামাজ পড়া যায়?",
+            "excerpt": "Post Updated at 28 Oct, 2025 – 8:10 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:28:20+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "d325793f644e61094f28a70c21c439549462d904961780d746a2dcaf21a144a7",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%B8%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%B8%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%B8%E0%A6%B0.html"
+        },
+        {
+            "id": 264,
+            "translationId": 264,
+            "language": "bn",
+            "slug": "মাগরিবের-ওয়াক্ত-কত-সময়",
+            "title": "অ্যাপে মাগরিবের ওয়াক্ত এত বেশি সময় দেখানো হচ্ছে কেন?",
+            "excerpt": "Post Updated at 20 Jun, 2026 – 8:19 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:23:06+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "08667389587b3a40033ea077bf9ccd63eb48345434040f8defa21768b45b3398",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC.html"
+        },
+        {
+            "id": 265,
+            "translationId": 265,
+            "language": "bn",
+            "slug": "আরবির-বাংলা-উচ্চারণ",
+            "title": "দুআগুলোর বাংলা উচ্চারণ না দেয়ার কারণ",
+            "excerpt": "Post Updated at 14 Oct, 2025 – 6:29 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:18:50+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "43fea60645731c54e64c71fc9c471d1abfceea34dbb485ded0239c6413ba0d60",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3.html"
         }
     ]
 }

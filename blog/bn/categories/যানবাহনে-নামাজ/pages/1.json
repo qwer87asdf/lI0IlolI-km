@@ -1,0 +1,55 @@
+{
+    "category": "যানবাহনে-নামাজ",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 200,
+            "translationId": 200,
+            "language": "bn",
+            "slug": "যানবাহনে-নামাজের-পদ্ধতি",
+            "title": "যানবাহনে নামাজ আদায়ের পদ্ধতি",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 64,
+                    "slug": "যানবাহনে-নামাজ",
+                    "name": "যানবাহনে নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-01T23:54:30+00:00",
+            "updatedAt": "2026-11-17T04:04:56+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "4d9ff765dbdba1bca0a079ae062e9d50701de9533e8de63ec9b0329489e27834",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF.html"
+        }
+    ]
+}

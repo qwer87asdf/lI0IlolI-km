@@ -1,0 +1,55 @@
+{
+    "category": "নামাজের-সুন্নত",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 110,
+            "translationId": 110,
+            "language": "bn",
+            "slug": "নামাযের-ধারাবাহিক-সুন্নত",
+            "title": "নামাযের ধারাবাহিক সুন্নতসমূহ",
+            "excerpt": "Post Updated at 25 Feb, 2025 – 10:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 42,
+                    "slug": "নামাজের-সুন্নত",
+                    "name": "নামাজের সুন্নত",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T06:08:20+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "df233344d6a1245dfed5dd3ae460742aebc97ca0dbfae1e824f2741a9bf0b062",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4.html"
+        }
+    ]
+}

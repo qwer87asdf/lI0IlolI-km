@@ -1,0 +1,271 @@
+{
+    "category": "ইসলামি-সংস্কৃতি",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 36,
+            "translationId": 36,
+            "language": "bn",
+            "slug": "ওয়াজ-মাহফিল-নিবেদন",
+            "title": "ওয়াজ মাহফিলের কর্তৃপক্ষের সমীপে সবিনয় কিছু নিবেদন",
+            "excerpt": "Post Updated at 4 Nov, 2025 – 2:30 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5ae5dc85-386b-4bd5-8616-009520d62d04.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 19,
+                    "slug": "আদব",
+                    "name": "আদব",
+                    "primary": false
+                },
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 20,
+                    "slug": "ইলম-জ্ঞানচর্চা",
+                    "name": "ইলম - জ্ঞানচর্চা",
+                    "primary": false
+                },
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                },
+                {
+                    "id": 22,
+                    "slug": "হুকুক-অধিকার",
+                    "name": "হুকুক - অধিকার",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-11-04T04:36:28+00:00",
+            "updatedAt": "2026-11-17T04:01:02+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "b9f84f8d97700d4cb8e0ba9e0bef64320e72a82a6ad6c85005e492b1a35bd5b2",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%BF%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%BF%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%BF%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8.html"
+        },
+        {
+            "id": 37,
+            "translationId": 37,
+            "language": "bn",
+            "slug": "ইসলামি-বইমেলা-২০২৫",
+            "title": "আন্তর্জাতিক ইসলামি বইমেলা ২০২৫",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/50c23360-6309-4009-b766-69fbec2c1b9e.jpg",
+                "alt": "",
+                "width": 1420,
+                "height": 852
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 20,
+                    "slug": "ইলম-জ্ঞানচর্চা",
+                    "name": "ইলম - জ্ঞানচর্চা",
+                    "primary": false
+                },
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-09-29T07:22:52+00:00",
+            "updatedAt": "2026-11-17T04:01:06+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "c5852a4947cec3cab518db39a1869c42a46cbc12f65c67cb60f5335841bb2af9",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.html"
+        },
+        {
+            "id": 51,
+            "translationId": 51,
+            "language": "bn",
+            "slug": "জুতা-পরার-সুন্নত",
+            "title": "জুতা পরা সংক্রান্ত ইসলামের নির্দেশনা",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:35 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 563
+            },
+            "categories": [
+                {
+                    "id": 19,
+                    "slug": "আদব",
+                    "name": "আদব",
+                    "primary": false
+                },
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:35:13+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "2ab018df0e5b6d332ef36ac320a0b496710fe7a77b6df34b6effa71a3ca58e09",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9C%E0%A7%81%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A7%81%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A7%81%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4.html"
+        },
+        {
+            "id": 133,
+            "translationId": 133,
+            "language": "bn",
+            "slug": "বইপাঠ-ও-জ্ঞানচর্চা-ইসলাম",
+            "title": "বইপাঠ ও জ্ঞানচর্চা : ইসলামি দৃষ্টিকোণ",
+            "excerpt": "Post Updated at 31 Oct, 2024 – 7:38 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 20,
+                    "slug": "ইলম-জ্ঞানচর্চা",
+                    "name": "ইলম - জ্ঞানচর্চা",
+                    "primary": false
+                },
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-10-31T01:36:24+00:00",
+            "updatedAt": "2026-11-17T04:03:09+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "305a54d907b456c982a41debd5bbcaa3d54bad05cf457b19ae1f4d6812616701",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%A0-%E0%A6%93-%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A6%BE-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%A0-%E0%A6%93-%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A6%BE-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%A0-%E0%A6%93-%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A6%BE-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE.html"
+        },
+        {
+            "id": 156,
+            "translationId": 156,
+            "language": "bn",
+            "slug": "নবজাতকের-উপহার",
+            "title": "নবজাতকের জন্যে ইসলামের উপহার",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/52d4a977-068c-48ca-b8b8-f9e04e3b8c63.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 668
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                },
+                {
+                    "id": 59,
+                    "slug": "নবজাতক",
+                    "name": "নবজাতক",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-04-24T06:27:09+00:00",
+            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "46264613a0e28445a8e99ad8cea821a3a3eb11334f406f10b465b74f4dc1742f",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0.html"
+        },
+        {
+            "id": 278,
+            "translationId": 278,
+            "language": "bn",
+            "slug": "জুমআর-দিনের-আমল",
+            "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল",
+            "excerpt": "Post Updated at 20 Jun, 2024 – 11:00 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/db49968e-8e1a-4575-9356-8cc28b107a68.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 600
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T08:14:41+00:00",
+            "updatedAt": "2026-11-17T04:06:04+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "ecddbb564e5a7fa14ebeae846e8a2ccbfbff9e115749218aae035aef90518a9e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9C%E0%A7%81%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%B2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A7%81%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%B2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A7%81%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%B2.html"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "category": "রমযান",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 108,
+            "translationId": 108,
+            "language": "bn",
+            "slug": "রমযানুল-মুবারক-ও-আমাদের-উ",
+            "title": "রমযানুল মুবারক ও আমাদের উদাসীনতা",
+            "excerpt": "Post Updated at 1 Mar, 2026 – 3:05 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/784c525d-623d-4402-888c-c079c3dc0aee.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 40,
+                    "slug": "রমযান",
+                    "name": "রমযান",
+                    "primary": false
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-02-19T08:39:32+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "59faa15849c4e1d51952e6d2da07eac8121b8c0cee5abb5b30837014bc54fa42",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%95-%E0%A6%93-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%95-%E0%A6%93-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%95-%E0%A6%93-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89.html"
+        }
+    ]
+}

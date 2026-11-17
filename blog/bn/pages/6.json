@@ -1,0 +1,960 @@
+{
+    "page": 6,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 110,
+            "translationId": 110,
+            "language": "bn",
+            "slug": "নামাযের-ধারাবাহিক-সুন্নত",
+            "title": "নামাযের ধারাবাহিক সুন্নতসমূহ",
+            "excerpt": "Post Updated at 25 Feb, 2025 – 10:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 42,
+                    "slug": "নামাজের-সুন্নত",
+                    "name": "নামাজের সুন্নত",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T06:08:20+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "df233344d6a1245dfed5dd3ae460742aebc97ca0dbfae1e824f2741a9bf0b062",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4.html"
+        },
+        {
+            "id": 111,
+            "translationId": 111,
+            "language": "bn",
+            "slug": "কেরাত-সংক্রান্ত-মাসআলা",
+            "title": "কেরাত সংক্রান্ত মাসআলা",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 12:07 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 43,
+                    "slug": "কেরাত",
+                    "name": "কেরাত",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T06:07:41+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "9fff5fc622baf9c177e5bd05adde5da7825c0360374fda79b8c164e100003909",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        },
+        {
+            "id": 112,
+            "translationId": 112,
+            "language": "bn",
+            "slug": "নামাযে-কিবলামুখী-হওয়ার",
+            "title": "নামাযে কিবলামুখী হওয়ার বিধান",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 12:06 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 44,
+                    "slug": "কিবলা",
+                    "name": "কিবলা",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T06:06:25+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "e36fc8615af8658d3dcfb5ba6d83f9154a74fe53c101cdce268ba0f6149ac259",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0.html"
+        },
+        {
+            "id": 113,
+            "translationId": 113,
+            "language": "bn",
+            "slug": "রুকু-সিজদা-শেষ-বৈঠকের-মাস",
+            "title": "রুকু-সিজদা-শেষ বৈঠকের মাসায়েল",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 12:05 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 45,
+                    "slug": "রুকু-সিজদা-শেষ-বৈঠক",
+                    "name": "রুকু-সিজদা-শেষ বৈঠক",
+                    "primary": false
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T06:05:27+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "c237af156e2d810a34e95c612e8ff50054e0acf7c8e8ea3dd8ac441c48122325",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8.html"
+        },
+        {
+            "id": 114,
+            "translationId": 114,
+            "language": "bn",
+            "slug": "চেয়ারে-বসে-নামায-বিধান",
+            "title": "চেয়ারে বসে নামায আদায়ের বিধান",
+            "excerpt": "Post Updated at 14 Jun, 2025 – 8:04 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 46,
+                    "slug": "অসুস্থ-ব্যক্তির-নামাজ",
+                    "name": "অসুস্থ ব্যক্তির নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 47,
+                    "slug": "চেয়ারে-বসে-নামাজ",
+                    "name": "চেয়ারে বসে নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:58:11+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "273c9eafce7861d7322d8c10689bedaac2c370ad7b8d4f9d14580b94a4bfa4e4",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.html"
+        },
+        {
+            "id": 115,
+            "translationId": 115,
+            "language": "bn",
+            "slug": "অসুস্থ-ব্যক্তি-কীভাবে-না",
+            "title": "অসুস্থ ব্যক্তি কীভাবে নামায আদায় করবে",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 46,
+                    "slug": "অসুস্থ-ব্যক্তির-নামাজ",
+                    "name": "অসুস্থ ব্যক্তির নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:27:04+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "6a94cc577c47b78492b89e4586573ec1429e8cc0705d7ec249280d0b62860d6d",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%85%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%85%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%85%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE.html"
+        },
+        {
+            "id": 116,
+            "translationId": 116,
+            "language": "bn",
+            "slug": "জানাযার-নামাযের-বিধান",
+            "title": "জানাযার নামাযের বিধান",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 11:25 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 48,
+                    "slug": "জানাযা",
+                    "name": "জানাযা",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:25:05+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "a637582acc7ca98faee62e4c5ed63454dad444579b89f07ad7e4249a46bbc001",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.html"
+        },
+        {
+            "id": 117,
+            "translationId": 117,
+            "language": "bn",
+            "slug": "জানাযার-নামায-শুরু-থেকে-ন",
+            "title": "জানাযার নামায শুরু থেকে না পেলে করণীয়",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 11:22 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 48,
+                    "slug": "জানাযা",
+                    "name": "জানাযা",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:22:25+00:00",
+            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "dec2ff13045e40415f29b8470a3fa54e5ca46f5f7e17166ef5843f455a9e8652",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A8.html"
+        },
+        {
+            "id": 118,
+            "translationId": 118,
+            "language": "bn",
+            "slug": "গায়েবানা-ও-একাধিক-জানায",
+            "title": "গায়েবানা ও একাধিক জানাযার বিধান",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 11:17 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 48,
+                    "slug": "জানাযা",
+                    "name": "জানাযা",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:17:05+00:00",
+            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "6bb5da5b81c817a82e1bbd6c899072eade84478ad91f36f1cdb1a55a7be95c3b",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF.html"
+        },
+        {
+            "id": 119,
+            "translationId": 119,
+            "language": "bn",
+            "slug": "কাযা-নামাযের-পরিচয়-ও-বিধ",
+            "title": "কাযা নামাযের পরিচয় ও বিধান ",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 11:15 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 18,
+                    "slug": "কাযা-নামাজ",
+                    "name": "কাযা নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:15:44+00:00",
+            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "18084085a04fc55e0b75836f52a3b476b85893f13ff0dc9713e6d5e15ee72e5c",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%AF%E0%A6%BC-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%A7",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%AF%E0%A6%BC-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%A7.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%AF%E0%A6%BC-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%A7.html"
+        },
+        {
+            "id": 120,
+            "translationId": 120,
+            "language": "bn",
+            "slug": "কাযা-নামাযের-ধারাবাহিকতা",
+            "title": "কাযা নামাযের ধারাবাহিকতা রক্ষার বিধান",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 11:14 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 18,
+                    "slug": "কাযা-নামাজ",
+                    "name": "কাযা নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:14:05+00:00",
+            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "281b4bff1105362f7633652161f89308fce31a4fa287815382796be1fac77ac2",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE.html"
+        },
+        {
+            "id": 121,
+            "translationId": 121,
+            "language": "bn",
+            "slug": "কাযা-নামায-কি-জামাতে-আদায",
+            "title": "কাযা নামায কি জামাতে আদায় করা যায়",
+            "excerpt": "Post Updated at 2 Feb, 2025 – 2:56 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 18,
+                    "slug": "কাযা-নামাজ",
+                    "name": "কাযা নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:12:22+00:00",
+            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "f23de65bca3394420080356d970be943873a38a6db5befafe8e5046f2cef815d",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF.html"
+        },
+        {
+            "id": 122,
+            "translationId": 122,
+            "language": "bn",
+            "slug": "উমরী-কাযা-নামাযের-বিধান",
+            "title": "উমরী কাযা নামাযের বিধান",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 11:11 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 18,
+                    "slug": "কাযা-নামাজ",
+                    "name": "কাযা নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:11:15+00:00",
+            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "d4b7034750d7ce4a8ed4104a342e3ee006b85cd144c946700014c12f4189b780",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%89%E0%A6%AE%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%89%E0%A6%AE%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%89%E0%A6%AE%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.html"
+        },
+        {
+            "id": 123,
+            "translationId": 123,
+            "language": "bn",
+            "slug": "কাযা-নামায-কোথায়-কীভাবে",
+            "title": "কাযা নামায কোথায় কীভাবে আদায় করবেন ",
+            "excerpt": "Post Updated at 2 Feb, 2025 – 2:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 18,
+                    "slug": "কাযা-নামাজ",
+                    "name": "কাযা নামাজ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:09:40+00:00",
+            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "bdd599832b192bf1620a22a84f99280d3f68dfe90a10c6bf00c3dd6fb27de888",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87.html"
+        },
+        {
+            "id": 124,
+            "translationId": 124,
+            "language": "bn",
+            "slug": "নামাযে-নিয়তের-মাসআলা",
+            "title": "নামাযে নিয়তের মাসআলা",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 11:08 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 35,
+                    "slug": "নিয়ত",
+                    "name": "নিয়ত",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T05:08:02+00:00",
+            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "addf34f1492a97e57677decfefb964b380de1a2ced0db646c4884a6be5e2e225",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        },
+        {
+            "id": 125,
+            "translationId": 125,
+            "language": "bn",
+            "slug": "কুরআনের-ভাষায়-সফল-মুমিন-4",
+            "title": "কুরআনের ভাষায় সফল মুমিনের পুরস্কার",
+            "excerpt": "Post Updated at 30 Jan, 2025 – 10:47 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5d28a92e-41b4-4b8c-bb36-eda4c5b5ba13.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 49,
+                    "slug": "কুরআনের-শিক্ষা",
+                    "name": "কুরআনের শিক্ষা",
+                    "primary": true
+                },
+                {
+                    "id": 50,
+                    "slug": "সফল-মুমিন",
+                    "name": "সফল মুমিন",
+                    "primary": false
+                },
+                {
+                    "id": 51,
+                    "slug": "সফলতা",
+                    "name": "সফলতা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-30T04:47:48+00:00",
+            "updatedAt": "2026-11-17T04:03:02+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "08ea7b015d69abcc752bb88b8a6d39a7dac0902b5c4bd9858910f8c420225411",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%A8-4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%A8-4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%A8-4.html"
+        },
+        {
+            "id": 126,
+            "translationId": 126,
+            "language": "bn",
+            "slug": "নামায-ভঙ্গের-কারণসমূহ",
+            "title": "নামায ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 27 Jan, 2025 – 7:15 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-27T13:15:45+00:00",
+            "updatedAt": "2026-11-17T04:03:02+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "60af2bc9f0ffa3ddb7854ea09341f88addf22d3bc9bf880029a71ef2533c5742",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.html"
+        },
+        {
+            "id": 127,
+            "translationId": 127,
+            "language": "bn",
+            "slug": "নামাযের-মাকরুহ-বিষয়সমূহ",
+            "title": "নামাযের মাকরুহ বিষয়সমূহ",
+            "excerpt": "Post Updated at 15 Aug, 2025 – 7:05 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-01-26T15:13:10+00:00",
+            "updatedAt": "2026-11-17T04:03:02+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "667689de7bf97816bcb7089593f38071270918dcd5a160b6e3530a85f7e34d71",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.html"
+        },
+        {
+            "id": 128,
+            "translationId": 128,
+            "language": "bn",
+            "slug": "বর্ষবরণ-ও-অন্যদের-অনুসরণ",
+            "title": "বর্ষবরণ ও অন্যদের অনুসরণ : ইসলাম কী বলে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 52,
+                    "slug": "নববর্ষ",
+                    "name": "নববর্ষ",
+                    "primary": false
+                },
+                {
+                    "id": 14,
+                    "slug": "মন্দ-কাজ",
+                    "name": "মন্দ কাজ",
+                    "primary": false
+                },
+                {
+                    "id": 30,
+                    "slug": "হালাল-হারাম",
+                    "name": "হালাল - হারাম",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-19T16:54:16+00:00",
+            "updatedAt": "2026-11-17T04:03:06+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "9af136926300a5492b0648689381b9c5ded8db276cb8974e956f67a43ad03a29",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3.html"
+        },
+        {
+            "id": 129,
+            "translationId": 129,
+            "language": "bn",
+            "slug": "থার্টি-ফার্স্ট-নাইট",
+            "title": "থার্টি ফার্স্ট নাইট : আয়োজন, না আগ্রাসন?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 52,
+                    "slug": "নববর্ষ",
+                    "name": "নববর্ষ",
+                    "primary": false
+                },
+                {
+                    "id": 14,
+                    "slug": "মন্দ-কাজ",
+                    "name": "মন্দ কাজ",
+                    "primary": false
+                },
+                {
+                    "id": 22,
+                    "slug": "হুকুক-অধিকার",
+                    "name": "হুকুক - অধিকার",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-19T16:41:01+00:00",
+            "updatedAt": "2026-11-17T04:03:06+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "e3efd095a4353b305d5f51ddb95c5ad7b98236a5ef9cbc122bfd24594b9e5f01",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F.html"
+        }
+    ]
+}

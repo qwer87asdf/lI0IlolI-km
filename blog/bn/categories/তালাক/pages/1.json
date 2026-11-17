@@ -1,0 +1,55 @@
+{
+    "category": "তালাক",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 132,
+            "translationId": 132,
+            "language": "bn",
+            "slug": "তালাক-অজ্ঞতা-পরিণতি",
+            "title": "তালাক প্রসঙ্গে সামান্য অজ্ঞতার অসামান্য পরিণতি",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 12:34 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/0ada674f-b40e-4d89-9234-1d12ebc6320d.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 53,
+                    "slug": "তালাক",
+                    "name": "তালাক",
+                    "primary": false
+                },
+                {
+                    "id": 54,
+                    "slug": "নিকাহ-তালাক",
+                    "name": "নিকাহ-তালাক",
+                    "primary": false
+                },
+                {
+                    "id": 32,
+                    "slug": "বিয়ে-তালাক",
+                    "name": "বিয়ে-তালাক",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-02T16:08:46+00:00",
+            "updatedAt": "2026-11-17T04:03:09+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "985851b657731a8dbaf55df13d5d193123c06fe0da15202fa0e0e6390c37f066",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95-%E0%A6%85%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A3%E0%A6%A4%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95-%E0%A6%85%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A3%E0%A6%A4%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95-%E0%A6%85%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A3%E0%A6%A4%E0%A6%BF.html"
+        }
+    ]
+}

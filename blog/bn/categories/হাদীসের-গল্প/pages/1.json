@@ -1,0 +1,187 @@
+{
+    "category": "হাদীসের-গল্প",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 44,
+            "translationId": 44,
+            "language": "bn",
+            "slug": "লোক-দেখানো-আমল-শিরক",
+            "title": "লোক দেখানো আমল করা এক প্রকার শিরক",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 7:15 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:15:00+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "c48dbec26cc30c82908e833e31ee59e5f068b6c918be6a999fe0548efcaf7ed3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%95",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%95.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%95.html"
+        },
+        {
+            "id": 47,
+            "translationId": 47,
+            "language": "bn",
+            "slug": "সাহাবির-মেহমানদারীর-গল্প",
+            "title": "যে সাহাবীর মেহমানদারীতে আল্লাহ হেসেছিলেন",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:58 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:56:50+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "2739a307a32af111702a3880f5c0e520942a83e935063d0a163d667a26adca70",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA.html"
+        },
+        {
+            "id": 48,
+            "translationId": 48,
+            "language": "bn",
+            "slug": "খন্দকের-যুদ্ধে-মুজিজা",
+            "title": "খন্দকের যুদ্ধে নবীজির (সা) মু’জিজা",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:51 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 563
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:51:48+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "cdff7643a8813f837fedd76155a64e22b1c981b0cb10e3d804156594d57a31df",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%96%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%96%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%96%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A6%BE.html"
+        },
+        {
+            "id": 49,
+            "translationId": 49,
+            "language": "bn",
+            "slug": "বাগানে-মেঘের-পানি-বর্ষণ",
+            "title": "বাগানে মেঘের পানি বর্ষণ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:46 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:46:39+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "00c895e261e361e2e2710a4070c537e271e9120dee787ee12bf2910fd6b98ac5",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3.html"
+        },
+        {
+            "id": 50,
+            "translationId": 50,
+            "language": "bn",
+            "slug": "ঋণ-ফেরত-দেয়ার-ঘটনা",
+            "title": "ঋণ ফেরত দেয়ার একটি অলৌকিক ঘটনা",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:41 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/41b61f0f-f9f1-4287-86ba-a427d2b90814.jpg",
+                "alt": "",
+                "width": 728,
+                "height": 410
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:41:32+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "9038ea3b03e6cbbec5c5b25a26bfb944189cda51b96f26bbe6a2830f9a4afbc5",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%8B%E0%A6%A3-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%8B%E0%A6%A3-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%8B%E0%A6%A3-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE.html"
+        }
+    ]
+}

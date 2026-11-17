@@ -1,0 +1,151 @@
+{
+    "category": "বই-রিভিউ",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 39,
+            "translationId": 39,
+            "language": "bn",
+            "slug": "শীয়াদের-ভ্রান্ত-মতবাদ",
+            "title": "শীয়া মতবাদঃ বিবাদ বনাম ভ্রষ্টতা – বই রিভিউ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 7:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 531
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:49:26+00:00",
+            "updatedAt": "2026-11-17T04:01:18+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "61f3be7d16858e019d2e7d13f2c0ab37fa69ee86624a522e30c281b20e52b02e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6.html"
+        },
+        {
+            "id": 41,
+            "translationId": 41,
+            "language": "bn",
+            "slug": "মানসাঙ্ক-বই-রিভিউ",
+            "title": "মানসাঙ্ক – বই রিভিউ",
+            "excerpt": "Post Updated at 25 Aug, 2025 – 10:25 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:39:45+00:00",
+            "updatedAt": "2026-11-17T04:01:26+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "5b80a7bd7655b324d4b8f809fa3fbdf838dc894977bd3c67542a2aec8d3036db",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89.html"
+        },
+        {
+            "id": 43,
+            "translationId": 43,
+            "language": "bn",
+            "slug": "গল্পগুলো-অন্যরকম",
+            "title": "গল্পগুলো অন্যরকম – বই রিভিউ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 8:12 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d806cc1-ad6e-45a6-8fde-b642dfbf0155.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 601
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:21:03+00:00",
+            "updatedAt": "2026-11-17T04:01:33+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "4573dbc59db179071b332c9766f70ecf7cbaf9ad6f71d3f6956a5ec842bf96dc",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%95%E0%A6%AE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%95%E0%A6%AE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%95%E0%A6%AE.html"
+        },
+        {
+            "id": 45,
+            "translationId": 45,
+            "language": "bn",
+            "slug": "দুআ-কবুলের-গল্পগুলো-বই-রি",
+            "title": "দুআ কবুলের গল্পগুলো – বই রিভিউ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 7:11 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 531
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:11:03+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "7495ebb17b9350850b0ab97e3918edff6ed3db463e48f08a94645fd144c62867",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF.html"
+        }
+    ]
+}

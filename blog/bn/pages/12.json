@@ -1,0 +1,774 @@
+{
+    "page": 12,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 230,
+            "translationId": 230,
+            "language": "bn",
+            "slug": "বিনিময়-দিয়ে-ইতিকাফ-নয়",
+            "title": "বিনিময় দিয়ে ইতিকাফ নয়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 66,
+                    "slug": "ইতিকাফ",
+                    "name": "ইতিকাফ",
+                    "primary": false
+                },
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": false
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-07T18:40:33+00:00",
+            "updatedAt": "2026-11-17T04:05:16+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "21b92c5ed947c8b49b4e17867428faccd9172db41ecd415252f8cc19ad873c3f",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%AF%E0%A6%BC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%AF%E0%A6%BC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%AF%E0%A6%BC.html"
+        },
+        {
+            "id": 231,
+            "translationId": 231,
+            "language": "bn",
+            "slug": "ফিতরা-কাকে-কখন-দিব",
+            "title": "ফিতরা কাকে দেয়া যাবে? কোন সময়ে ফিতরা আদায় করতে হয়?",
+            "excerpt": "Post Updated at 16 Mar, 2026 – 12:10 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T16:45:55+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "5f4a063524243cdd069beb417aa2199ea7f64e7bd1c3db94a565d2529c83b975",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%AC.html"
+        },
+        {
+            "id": 232,
+            "translationId": 232,
+            "language": "bn",
+            "slug": "ফিতরা-কেন-কার-উপর-ওয়াজিব",
+            "title": "ফিতরা কেন আমাদের উপর ওয়াজিব? কার উপর ওয়াজিব?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T16:37:24+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "6ad82409cd5bc927dc8fef93379dd6621216d9dfda2cefab8eec6f226807234d",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.html"
+        },
+        {
+            "id": 233,
+            "translationId": 233,
+            "language": "bn",
+            "slug": "ফিতরা-টাকা-নাকি-খাদ্য",
+            "title": "ফিতরা খাদ্য দিয়েই আদায় করতে হবে? নাকি টাকা দিয়েও আদায় করা যাবে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T04:16:01+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "5ff2f09387d3ca0c0e9cdc09c5c7171ff18ca57eb2121b35d50025da52c44961",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF.html"
+        },
+        {
+            "id": 234,
+            "translationId": 234,
+            "language": "bn",
+            "slug": "ফিতরা-কত-টাকা-মাসআলা",
+            "title": "২০২৬ সালের ফিতরার পরিমাণ ও মাসআলা",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:57 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T03:26:00+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "1f9cf07eef3d17bd48e407c45215abcacbb940e86ff8a87c93590f34862634ac",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        },
+        {
+            "id": 235,
+            "translationId": 235,
+            "language": "bn",
+            "slug": "ইতিকাফ-ফজিলত-মাসআলা",
+            "title": "ইতিকাফ : গুরুত্ব ফজিলত ও বিধান",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 66,
+                    "slug": "ইতিকাফ",
+                    "name": "ইতিকাফ",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-20T05:10:44+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "217ab38d7d89aeef887a2774a6e943d95e42dc2deb1a3e8d29cdfc06570037f9",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        },
+        {
+            "id": 236,
+            "translationId": 236,
+            "language": "bn",
+            "slug": "মহিমান্বিত-রাত-শবে-কদর",
+            "title": "মহিমান্বিত রাত ‘শবে কদর’",
+            "excerpt": "Post Updated at 27 Mar, 2025 – 11:38 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 27,
+                    "slug": "নফল",
+                    "name": "নফল",
+                    "primary": false
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-20T04:14:01+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "b1e8c2a4ba903291f0ed5b04a33aabfeb2e01e7d383c5177d07a1a304d590a1a",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%B6%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%A6%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%B6%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%A6%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%B6%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%A6%E0%A6%B0.html"
+        },
+        {
+            "id": 237,
+            "translationId": 237,
+            "language": "bn",
+            "slug": "রোজার-সমসাময়িক-মাসআলা",
+            "title": "রোজার সমসাময়িক কিছু মাসাআলা",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:53 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-20T03:34:47+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "14b24abb41fcc3fefb2a3f31d614ed551a0edb8b5bff212245c9bfcb800e3a77",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        },
+        {
+            "id": 238,
+            "translationId": 238,
+            "language": "bn",
+            "slug": "দোয়া-স্বতন্ত্র-ইবাদত",
+            "title": "দোয়া একটি স্বতন্ত্র ইবাদত",
+            "excerpt": "Post Updated at 11 Aug, 2025 – 8:39 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/cce251ad-1b50-4c00-9d58-8616d331e9e7.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 532
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 29,
+                    "slug": "দোয়া",
+                    "name": "দোয়া",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-19T11:58:17+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "84958e35ccb9606ec1422d3f08673ef41eeb4d458cb50e127c0c29cc06339a4d",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%A4.html"
+        },
+        {
+            "id": 239,
+            "translationId": 239,
+            "language": "bn",
+            "slug": "রোজা-সংক্রান্ত-ভুল-ধারনা",
+            "title": "রোজা-রমজান সংক্রান্ত কয়েকটি সাধারণ ভুল",
+            "excerpt": "Post Updated at 16 Mar, 2026 – 12:11 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:34:02+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "cabc3eba226aa55243c7a49231075194c2c4f8a6baa0be36ffa7ea22e41d8a81",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A6%BE.html"
+        },
+        {
+            "id": 240,
+            "translationId": 240,
+            "language": "bn",
+            "slug": "মুসাফিরের-পরিচয়",
+            "title": "মুসাফিরের পরিচয়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 531
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:08:30+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "0589bbe61b824c7398b0de7e4a25a4ad4a7841bed83a5826fc31c88c0588f8b6",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%AF%E0%A6%BC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%AF%E0%A6%BC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%AF%E0%A6%BC.html"
+        },
+        {
+            "id": 241,
+            "translationId": 241,
+            "language": "bn",
+            "slug": "যাদের-জন্য-রোযা-না-রাখা",
+            "title": "যাদের জন্য রোযা না রাখার অনুমতি রয়েছে",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:06:22+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "8c9b226c9735b895cd413a8b2eeb3ceb803ee8ceccfa328bafa2f102f890b5a1",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B0%E0%A7%8B%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B0%E0%A7%8B%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B0%E0%A7%8B%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE.html"
+        },
+        {
+            "id": 242,
+            "translationId": 242,
+            "language": "bn",
+            "slug": "কসর-নামাজের-বিধান",
+            "title": "কসর নামাজের বিধান",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:03:21+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "c4afc56078edbcfd962b0f9c7cf3780d4943a57a665c89a089ad28f6f997195c",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%B8%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%B8%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%B8%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.html"
+        },
+        {
+            "id": 243,
+            "translationId": 243,
+            "language": "bn",
+            "slug": "রমযান-মাস-সিয়াম-তাকওয়া",
+            "title": "মাহে রমযান সিয়াম ও তাকওয়ার মাস",
+            "excerpt": "Post Updated at 16 Mar, 2026 – 12:12 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-17T05:18:07+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "4d1dd37abcdb351da31c8615b3525c618106a684edc901046785691bf823d923",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE-%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE-%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE-%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE.html"
+        },
+        {
+            "id": 244,
+            "translationId": 244,
+            "language": "bn",
+            "slug": "রোজা-ভঙ্গের-কারণসমূহ",
+            "title": "রোজা ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:56 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-13T04:04:25+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "3f8b8d47466338462f0037accd7671e2b834825166a110dbe2ef53b5fba4f161",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.html"
+        },
+        {
+            "id": 245,
+            "translationId": 245,
+            "language": "bn",
+            "slug": "রোজার-নিয়ত-মাসআলা",
+            "title": "রোজার নিয়ত সংক্রান্ত কয়েকটি মাসআলা",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:56 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-13T03:47:29+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "18635d5645af2a54d47633fbdd8a1ac0021cc2004d0b05899a39a662823212dd",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+        },
+        {
+            "id": 246,
+            "translationId": 246,
+            "language": "bn",
+            "slug": "যেসব-কারণে-রোজা-ভাঙ্গে-না",
+            "title": "রোজা ভঙ্গ হয় না এমন কয়েকটি কাজ (সংক্ষিপ্ত)",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:56 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-12T06:13:03+00:00",
+            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "836d2f55d781d5713878c4da3ddaa3f2f213947b6e6c555bc8caa192cc393b99",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BE.html"
+        },
+        {
+            "id": 247,
+            "translationId": 247,
+            "language": "bn",
+            "slug": "sahri-iftar-card-reorder",
+            "title": "সাহরি-ইফতারের সময়ের কার্ডটি উপরের দিকে উঠাবো কিভাবে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-10T13:29:00+00:00",
+            "updatedAt": "2026-11-17T04:05:28+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "da013686faa7b7e38437afc01076a117faf6a7c04bc58f8c57aefa1f55eadcd5",
+            "url": "https://muslimsday.com/bn/blog/sahri-iftar-card-reorder",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/sahri-iftar-card-reorder.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/sahri-iftar-card-reorder.html"
+        },
+        {
+            "id": 248,
+            "translationId": 248,
+            "language": "bn",
+            "slug": "রমজানের-খাবারের-হিসাব",
+            "title": "রমজানের খাবারের কোনো হিসাব নাই – একটি ভুল ধারনা",
+            "excerpt": "Post Updated at 10 Mar, 2023 – 9:34 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-10T03:31:55+00:00",
+            "updatedAt": "2026-11-17T04:05:28+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "dfc6715dd3338977e0de5f8d7dd59041670ebee84b3cad4a250d0bc44b66d8bd",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC.html"
+        },
+        {
+            "id": 249,
+            "translationId": 249,
+            "language": "bn",
+            "slug": "ভুলে-পানাহার-করলে-রোজা",
+            "title": "ভুলে পানাহার করলে সিয়াম ছেড়ে দেয়া যাবে না",
+            "excerpt": "Post Updated at 20 Mar, 2023 – 3:02 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-10T03:16:24+00:00",
+            "updatedAt": "2026-11-17T04:05:28+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "890db2a5136a205dd6e510394bd737b4deee88a3f2aba598b5dbc86bfe2f96c5",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE.html"
+        }
+    ]
+}

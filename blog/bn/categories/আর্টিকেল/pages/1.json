@@ -1,0 +1,763 @@
+{
+    "category": "আর্টিকেল",
+    "page": 1,
+    "totalPages": 4,
+    "items": [
+        {
+            "id": 33,
+            "translationId": 33,
+            "language": "bn",
+            "slug": "kadiyani-non-muslim-reason",
+            "title": "কাদিয়ানী সম্প্রদায় অমুসলিম হওয়ার কারণ",
+            "excerpt": "Post Updated at 13 Jan, 2026 – 10:39 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8f2a09f0-ca89-409b-b4c0-d4b7f0c2809b.jpg",
+                "alt": "",
+                "width": 900,
+                "height": 540
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 17,
+                    "slug": "ভ্রান্ত-মতবাদ",
+                    "name": "ভ্রান্ত মতবাদ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-11-18T05:09:14+00:00",
+            "updatedAt": "2026-11-17T04:00:50+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "86a4da5051d93d6bd7f57c7eabc3b8f85403f1ed49ecfb34ef631cf6310954b7",
+            "url": "https://muslimsday.com/bn/blog/kadiyani-non-muslim-reason",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/kadiyani-non-muslim-reason.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/kadiyani-non-muslim-reason.html"
+        },
+        {
+            "id": 36,
+            "translationId": 36,
+            "language": "bn",
+            "slug": "ওয়াজ-মাহফিল-নিবেদন",
+            "title": "ওয়াজ মাহফিলের কর্তৃপক্ষের সমীপে সবিনয় কিছু নিবেদন",
+            "excerpt": "Post Updated at 4 Nov, 2025 – 2:30 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5ae5dc85-386b-4bd5-8616-009520d62d04.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 19,
+                    "slug": "আদব",
+                    "name": "আদব",
+                    "primary": false
+                },
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 20,
+                    "slug": "ইলম-জ্ঞানচর্চা",
+                    "name": "ইলম - জ্ঞানচর্চা",
+                    "primary": false
+                },
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                },
+                {
+                    "id": 22,
+                    "slug": "হুকুক-অধিকার",
+                    "name": "হুকুক - অধিকার",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-11-04T04:36:28+00:00",
+            "updatedAt": "2026-11-17T04:01:02+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "b9f84f8d97700d4cb8e0ba9e0bef64320e72a82a6ad6c85005e492b1a35bd5b2",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%BF%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%BF%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%BF%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8.html"
+        },
+        {
+            "id": 37,
+            "translationId": 37,
+            "language": "bn",
+            "slug": "ইসলামি-বইমেলা-২০২৫",
+            "title": "আন্তর্জাতিক ইসলামি বইমেলা ২০২৫",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/50c23360-6309-4009-b766-69fbec2c1b9e.jpg",
+                "alt": "",
+                "width": 1420,
+                "height": 852
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 20,
+                    "slug": "ইলম-জ্ঞানচর্চা",
+                    "name": "ইলম - জ্ঞানচর্চা",
+                    "primary": false
+                },
+                {
+                    "id": 21,
+                    "slug": "ইসলামি-সংস্কৃতি",
+                    "name": "ইসলামি সংস্কৃতি",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-09-29T07:22:52+00:00",
+            "updatedAt": "2026-11-17T04:01:06+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "c5852a4947cec3cab518db39a1869c42a46cbc12f65c67cb60f5335841bb2af9",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.html"
+        },
+        {
+            "id": 39,
+            "translationId": 39,
+            "language": "bn",
+            "slug": "শীয়াদের-ভ্রান্ত-মতবাদ",
+            "title": "শীয়া মতবাদঃ বিবাদ বনাম ভ্রষ্টতা – বই রিভিউ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 7:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 531
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:49:26+00:00",
+            "updatedAt": "2026-11-17T04:01:18+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "61f3be7d16858e019d2e7d13f2c0ab37fa69ee86624a522e30c281b20e52b02e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6.html"
+        },
+        {
+            "id": 40,
+            "translationId": 40,
+            "language": "bn",
+            "slug": "মজলুম-দুআ-জালিমের-শাস্তি",
+            "title": "মজলুমের দুআ ও জালিমের শাস্তি",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 7:43 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/41b61f0f-f9f1-4287-86ba-a427d2b90814.jpg",
+                "alt": "",
+                "width": 728,
+                "height": 410
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:43:00+00:00",
+            "updatedAt": "2026-11-17T04:01:22+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "5bcf9d9594b86b08afef8aafa5105395c47264d2359a5fa5c59fb5efc6f68388",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%9C%E0%A6%B2%E0%A7%81%E0%A6%AE-%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%9C%E0%A6%B2%E0%A7%81%E0%A6%AE-%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%9C%E0%A6%B2%E0%A7%81%E0%A6%AE-%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF.html"
+        },
+        {
+            "id": 41,
+            "translationId": 41,
+            "language": "bn",
+            "slug": "মানসাঙ্ক-বই-রিভিউ",
+            "title": "মানসাঙ্ক – বই রিভিউ",
+            "excerpt": "Post Updated at 25 Aug, 2025 – 10:25 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:39:45+00:00",
+            "updatedAt": "2026-11-17T04:01:26+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "5b80a7bd7655b324d4b8f809fa3fbdf838dc894977bd3c67542a2aec8d3036db",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89.html"
+        },
+        {
+            "id": 42,
+            "translationId": 42,
+            "language": "bn",
+            "slug": "৩টি-গুনাহ-ও-শাস্তি",
+            "title": "বহুল প্রচলিত ৩টি গুনাহ ও তার শাস্তি",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 563
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:25:26+00:00",
+            "updatedAt": "2026-11-17T04:01:30+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "d61d052a023baa5f0fe74f3c5313ac326f9e8ee8a7571747c2db83c60b99dac3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A7%A9%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%B9-%E0%A6%93-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A7%A9%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%B9-%E0%A6%93-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A7%A9%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%B9-%E0%A6%93-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF.html"
+        },
+        {
+            "id": 43,
+            "translationId": 43,
+            "language": "bn",
+            "slug": "গল্পগুলো-অন্যরকম",
+            "title": "গল্পগুলো অন্যরকম – বই রিভিউ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 8:12 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d806cc1-ad6e-45a6-8fde-b642dfbf0155.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 601
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:21:03+00:00",
+            "updatedAt": "2026-11-17T04:01:33+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "4573dbc59db179071b332c9766f70ecf7cbaf9ad6f71d3f6956a5ec842bf96dc",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%95%E0%A6%AE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%95%E0%A6%AE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%95%E0%A6%AE.html"
+        },
+        {
+            "id": 44,
+            "translationId": 44,
+            "language": "bn",
+            "slug": "লোক-দেখানো-আমল-শিরক",
+            "title": "লোক দেখানো আমল করা এক প্রকার শিরক",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 7:15 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:15:00+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "c48dbec26cc30c82908e833e31ee59e5f068b6c918be6a999fe0548efcaf7ed3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%95",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%95.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%95.html"
+        },
+        {
+            "id": 45,
+            "translationId": 45,
+            "language": "bn",
+            "slug": "দুআ-কবুলের-গল্পগুলো-বই-রি",
+            "title": "দুআ কবুলের গল্পগুলো – বই রিভিউ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 7:11 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 531
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 24,
+                    "slug": "বই-রিভিউ",
+                    "name": "বই রিভিউ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:11:03+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "7495ebb17b9350850b0ab97e3918edff6ed3db463e48f08a94645fd144c62867",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A7%81%E0%A6%86-%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF.html"
+        },
+        {
+            "id": 46,
+            "translationId": 46,
+            "language": "bn",
+            "slug": "৫-পাপের-শাস্তি-দুনিয়ায়",
+            "title": "৫টি পাপের শাস্তি যা দুনিয়াতেই পেতে হবে",
+            "excerpt": "Post Updated at 1 Oct, 2025 – 9:28 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/41b61f0f-f9f1-4287-86ba-a427d2b90814.jpg",
+                "alt": "",
+                "width": 728,
+                "height": 410
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T01:03:00+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "dd120d104dc490f2c866b7fb3b60dee3dc4aa787542867cb8f74bab3b35794a4",
+            "url": "https://muslimsday.com/bn/blog/%E0%A7%AB-%E0%A6%AA%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A7%AB-%E0%A6%AA%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A7%AB-%E0%A6%AA%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC.html"
+        },
+        {
+            "id": 47,
+            "translationId": 47,
+            "language": "bn",
+            "slug": "সাহাবির-মেহমানদারীর-গল্প",
+            "title": "যে সাহাবীর মেহমানদারীতে আল্লাহ হেসেছিলেন",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:58 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:56:50+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "2739a307a32af111702a3880f5c0e520942a83e935063d0a163d667a26adca70",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA.html"
+        },
+        {
+            "id": 48,
+            "translationId": 48,
+            "language": "bn",
+            "slug": "খন্দকের-যুদ্ধে-মুজিজা",
+            "title": "খন্দকের যুদ্ধে নবীজির (সা) মু’জিজা",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:51 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 563
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:51:48+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "cdff7643a8813f837fedd76155a64e22b1c981b0cb10e3d804156594d57a31df",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%96%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%96%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%96%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A6%BE.html"
+        },
+        {
+            "id": 49,
+            "translationId": 49,
+            "language": "bn",
+            "slug": "বাগানে-মেঘের-পানি-বর্ষণ",
+            "title": "বাগানে মেঘের পানি বর্ষণ",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:46 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:46:39+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "00c895e261e361e2e2710a4070c537e271e9120dee787ee12bf2910fd6b98ac5",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3.html"
+        },
+        {
+            "id": 50,
+            "translationId": 50,
+            "language": "bn",
+            "slug": "ঋণ-ফেরত-দেয়ার-ঘটনা",
+            "title": "ঋণ ফেরত দেয়ার একটি অলৌকিক ঘটনা",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:41 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/41b61f0f-f9f1-4287-86ba-a427d2b90814.jpg",
+                "alt": "",
+                "width": 728,
+                "height": 410
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 25,
+                    "slug": "হাদীসের-গল্প",
+                    "name": "হাদীসের গল্প",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:41:32+00:00",
+            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "9038ea3b03e6cbbec5c5b25a26bfb944189cda51b96f26bbe6a2830f9a4afbc5",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%8B%E0%A6%A3-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%8B%E0%A6%A3-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%8B%E0%A6%A3-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE.html"
+        },
+        {
+            "id": 53,
+            "translationId": 53,
+            "language": "bn",
+            "slug": "শ্রেষ্ঠ-একটি-দুআ",
+            "title": "অন্যতম শ্রেষ্ঠ একটি দুআ ও তার ফজিলত",
+            "excerpt": "Post Updated at 11 Aug, 2025 – 8:40 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/0944d601-64d2-4e02-b242-b4bda822c4da.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 479
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 29,
+                    "slug": "দোয়া",
+                    "name": "দোয়া",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-08T16:02:21+00:00",
+            "updatedAt": "2026-11-17T04:01:42+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "ec710eb1f6c50aab9cc5f315a7c79383ce7c0e93cfdfc01afd05c32679cc76ff",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%86",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%86.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%86.html"
+        },
+        {
+            "id": 54,
+            "translationId": 54,
+            "language": "bn",
+            "slug": "সূরা-কাহফের-ফজিলত",
+            "title": "সূরা কাহফ তিলাওয়াত ও মুখস্থের ফজিলত",
+            "excerpt": "Post Updated at 8 Aug, 2025 – 8:54 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/3aa38029-6fd9-4c02-af0c-bb5ee222682d.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 27,
+                    "slug": "নফল",
+                    "name": "নফল",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-08T14:54:33+00:00",
+            "updatedAt": "2026-11-17T04:01:45+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "fcad30afb828bd510fc0644273b01893f297a636e0b487aea30522d565199188",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4.html"
+        },
+        {
+            "id": 55,
+            "translationId": 55,
+            "language": "bn",
+            "slug": "ধূমপান-করার-বিধান",
+            "title": "ধূমপান করার বিধান",
+            "excerpt": "Post Updated at 8 Aug, 2025 – 8:17 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 30,
+                    "slug": "হালাল-হারাম",
+                    "name": "হালাল - হারাম",
+                    "primary": false
+                },
+                {
+                    "id": 22,
+                    "slug": "হুকুক-অধিকার",
+                    "name": "হুকুক - অধিকার",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-08T14:17:53+00:00",
+            "updatedAt": "2026-11-17T04:01:49+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "4fb34a00e3e88c1cf506b3665aa80d347c0174444dd6bb02575ae8720ebf737c",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A7%E0%A7%82%E0%A6%AE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A7%E0%A7%82%E0%A6%AE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A7%E0%A7%82%E0%A6%AE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8.html"
+        },
+        {
+            "id": 101,
+            "translationId": 101,
+            "language": "bn",
+            "slug": "how-to-respond-to-gaza-genocide-2",
+            "title": "গাজায় গণহত্যার প্রেক্ষিতে আমাদের করণীয় (২)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/15f22f5a-4cb5-44b6-8cf5-5e30b8c9b7b5.jpg",
+                "alt": "",
+                "width": 728,
+                "height": 455
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 37,
+                    "slug": "ইসরাইল",
+                    "name": "ইসরাইল",
+                    "primary": false
+                },
+                {
+                    "id": 38,
+                    "slug": "গাজা",
+                    "name": "গাজা",
+                    "primary": false
+                },
+                {
+                    "id": 39,
+                    "slug": "ফিলিস্তিন",
+                    "name": "ফিলিস্তিন",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-04-21T14:40:49+00:00",
+            "updatedAt": "2026-11-17T04:02:38+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "8f8d65b11a2296d5f3c8b70c65901b062f8898d55176fd2494ed1c095bb366be",
+            "url": "https://muslimsday.com/bn/blog/how-to-respond-to-gaza-genocide-2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/how-to-respond-to-gaza-genocide-2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/how-to-respond-to-gaza-genocide-2.html"
+        },
+        {
+            "id": 103,
+            "translationId": 103,
+            "language": "bn",
+            "slug": "how-to-respond-to-gaza-genocide",
+            "title": "গাজায় গণহত্যার প্রেক্ষিতে আমাদের করণীয় (১)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/15f22f5a-4cb5-44b6-8cf5-5e30b8c9b7b5.jpg",
+                "alt": "",
+                "width": 728,
+                "height": 455
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 37,
+                    "slug": "ইসরাইল",
+                    "name": "ইসরাইল",
+                    "primary": false
+                },
+                {
+                    "id": 38,
+                    "slug": "গাজা",
+                    "name": "গাজা",
+                    "primary": false
+                },
+                {
+                    "id": 39,
+                    "slug": "ফিলিস্তিন",
+                    "name": "ফিলিস্তিন",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-04-11T16:09:15+00:00",
+            "updatedAt": "2026-11-17T04:02:41+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "063286e7c91e448a462e4bec5163cccca7ceae8654067115e47de3773c72f2f0",
+            "url": "https://muslimsday.com/bn/blog/how-to-respond-to-gaza-genocide",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/how-to-respond-to-gaza-genocide.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/how-to-respond-to-gaza-genocide.html"
+        }
+    ]
+}

@@ -1,0 +1,715 @@
+{
+    "category": "প্রচলিত-ভুল",
+    "page": 1,
+    "totalPages": 3,
+    "items": [
+        {
+            "id": 32,
+            "translationId": 32,
+            "language": "bn",
+            "slug": "donation-collect-during-khutba",
+            "title": "একটি অনর্থক কাজ : খুৎবা চলাকালীন দান বাক্স চালানো",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 14,
+                    "slug": "মন্দ-কাজ",
+                    "name": "মন্দ কাজ",
+                    "primary": false
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-12-11T05:58:20+00:00",
+            "updatedAt": "2026-11-17T04:00:46+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "197cb9a34b138001908525dbf4ddf947ee04b335da613791d692819b23f077d4",
+            "url": "https://muslimsday.com/bn/blog/donation-collect-during-khutba",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/donation-collect-during-khutba.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/donation-collect-during-khutba.html"
+        },
+        {
+            "id": 57,
+            "translationId": 57,
+            "language": "bn",
+            "slug": "খেজুর-বিচি-খাওয়া-হাস্যর",
+            "title": "নবীজির (সা) খেজুর খাওয়া বিষয়ক হাস্যরসের কিসসা",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 1:22 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T07:22:43+00:00",
+            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "ab640335a86165ddd8f4ac49e8906e0fdc9e67999f869dd41123b4bd6a984cf3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%B0.html"
+        },
+        {
+            "id": 58,
+            "translationId": 58,
+            "language": "bn",
+            "slug": "ফাতেমার-ঘরে-জান্নাতি-খাব",
+            "title": "নবীজির (সা) কন্যা ফাতেমা রা.-এর ঘরে জান্নাতের খাবার",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 1:17 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T07:16:21+00:00",
+            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "6232ce5595083a33f56c161d7441f527bdc52f0a9c5c12955aa361a03b271db9",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AB%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AB%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%AC.html"
+        },
+        {
+            "id": 59,
+            "translationId": 59,
+            "language": "bn",
+            "slug": "আবু-জেহেলের-গর্ত-খোঁড়া",
+            "title": "আবু জেহেলের গর্ত খোঁড়ার একটি ভিত্তিহীন কিচ্ছা",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 1:17 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T07:09:36+00:00",
+            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "38b18e7ccc7093f08e85382cd2c77e4deb63f75fa50ba8a83fae5260221fabab",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%86%E0%A6%AC%E0%A7%81-%E0%A6%9C%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%AC%E0%A7%81-%E0%A6%9C%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%AC%E0%A7%81-%E0%A6%9C%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%BE.html"
+        },
+        {
+            "id": 60,
+            "translationId": 60,
+            "language": "bn",
+            "slug": "দরুদ-শ্রবণকারী-মাছ-গল্প",
+            "title": "দরুদ শ্রবণকারী মাছের বানোয়াট কিচ্ছা",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 12:47 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T06:47:39+00:00",
+            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "cfa9d036762183f1a698c22543f94c4592f0e9686fc5a377b1a04ce984c57d1e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A6%E0%A6%B0%E0%A7%81%E0%A6%A6-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A3%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AE%E0%A6%BE%E0%A6%9B-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A6%B0%E0%A7%81%E0%A6%A6-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A3%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AE%E0%A6%BE%E0%A6%9B-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A6%B0%E0%A7%81%E0%A6%A6-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A3%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AE%E0%A6%BE%E0%A6%9B-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA.html"
+        },
+        {
+            "id": 61,
+            "translationId": 61,
+            "language": "bn",
+            "slug": "আলী-দান-বিষয়ক-কিসসা",
+            "title": "হযরত আলী (রা) এর দান বিষয়ক মিথ্যা কিসসা",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 11:55 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T05:55:28+00:00",
+            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "f68e3e5f3ef28e3334fd276469d15726da7058f58d308688dcedeb6f52ed7c5f",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%86%E0%A6%B2%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%95-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%B2%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%95-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%B2%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%95-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE.html"
+        },
+        {
+            "id": 62,
+            "translationId": 62,
+            "language": "bn",
+            "slug": "ওয়ায়েস-করনী-দাঁত-ভাঙার",
+            "title": "হযরত ওয়ায়েস করনী (রহ) এর দাঁত ভাঙ্গার মিথ্যা গল্প",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 11:49 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T05:49:05+00:00",
+            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "fefdf0643a5c23ca103733758f2058873cfcca04cc94a83d400a28a919639538",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A6%A8%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A6%A8%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A6%A8%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0.html"
+        },
+        {
+            "id": 63,
+            "translationId": 63,
+            "language": "bn",
+            "slug": "মিষ্টি-খেতে-না-করার-কিসসা",
+            "title": "নবীজির (সা) মিষ্টি খাওয়া সংক্রান্ত মিথ্যা গল্প",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 11:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T05:43:38+00:00",
+            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "c5a456a35b0da37744b93e8c90f84a9d64b789f1ce187a0e8086143a296d704c",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%96%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%96%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%96%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE.html"
+        },
+        {
+            "id": 64,
+            "translationId": 64,
+            "language": "bn",
+            "slug": "জিবরীল-বয়স-কিসসা",
+            "title": "জিবরীল (আ) এর বয়স সংক্রান্ত বানোয়াট কথা",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 11:40 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 31,
+                    "slug": "বানোয়াট-কিসসা-কাহিনী",
+                    "name": "বানোয়াট কিসসা কাহিনী",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-07T05:40:51+00:00",
+            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "0494b63ff310b742a255da33211db6d2ec61d718711c628117e896210fda3c75",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%80%E0%A6%B2-%E0%A6%AC%E0%A6%AF%E0%A6%BC%E0%A6%B8-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%80%E0%A6%B2-%E0%A6%AC%E0%A6%AF%E0%A6%BC%E0%A6%B8-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%80%E0%A6%B2-%E0%A6%AC%E0%A6%AF%E0%A6%BC%E0%A6%B8-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE.html"
+        },
+        {
+            "id": 65,
+            "translationId": 65,
+            "language": "bn",
+            "slug": "শুক্রবার-নখ-কাটা-কি-সুন্ন",
+            "title": "শুক্রবার দিনে নির্দিষ্ট পদ্ধতিতে নখ কাটাকে সুন্নত মনে করা",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 10:22 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T16:22:43+00:00",
+            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "7fe16de07f4461d2122867bdbe99f0fe4e4dc2cb3c6fb8717d9c7de5be66d0e8",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%96-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%96-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%96-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8.html"
+        },
+        {
+            "id": 66,
+            "translationId": 66,
+            "language": "bn",
+            "slug": "পায়ে-মেহেদী-জায়েজ",
+            "title": "পায়ে মেহেদী লাগানো কি জায়েজ?",
+            "excerpt": "Post Updated at 7 Aug, 2025 – 1:24 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 30,
+                    "slug": "হালাল-হারাম",
+                    "name": "হালাল - হারাম",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T16:18:28+00:00",
+            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "927a7e75a189ba79ba4eaa316e677a55e650e4667bc1fd3f80421cd2d015bcba",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C.html"
+        },
+        {
+            "id": 67,
+            "translationId": 67,
+            "language": "bn",
+            "slug": "পায়ে-সোনা-পরা-জায়েজ",
+            "title": "পায়ে স্বর্ণের অলংকার পরিধানকে নাজায়েজ মনে করা",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 10:14 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 563
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 30,
+                    "slug": "হালাল-হারাম",
+                    "name": "হালাল - হারাম",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T16:14:36+00:00",
+            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "a498b3acb1a519cb5641c1231b9a92ec45be1f618fdf1d5421e49d869c2f5f68",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C.html"
+        },
+        {
+            "id": 68,
+            "translationId": 68,
+            "language": "bn",
+            "slug": "হাঁটুর-উপর-কাপড়-অযু-ভঙ্গ",
+            "title": "হাঁটুর উপর কাপড় উঠে গেলে অযু ভেঙে যাওয়া",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 10:11 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 23,
+                    "slug": "তাহারাত-পবিত্রতা",
+                    "name": "তাহারাত - পবিত্রতা",
+                    "primary": false
+                },
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T16:11:25+00:00",
+            "updatedAt": "2026-11-17T04:02:01+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "ef98b857fa0bf6640aeb9de402b8394463fb2b7eacaabded0b2b3b9395fa3ce6",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A7%81%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC-%E0%A6%85%E0%A6%AF%E0%A7%81-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A7%81%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC-%E0%A6%85%E0%A6%AF%E0%A7%81-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A7%81%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC-%E0%A6%85%E0%A6%AF%E0%A7%81-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97.html"
+        },
+        {
+            "id": 69,
+            "translationId": 69,
+            "language": "bn",
+            "slug": "বিয়ের-আগে-পাত্রী-দেখা",
+            "title": "ছেলের পিতাও কি বিয়ের আগে পাত্রী দেখবে?",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 10:08 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/15c680d7-f899-4e9a-a72a-aa14ed8e3cb5.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 32,
+                    "slug": "বিয়ে-তালাক",
+                    "name": "বিয়ে-তালাক",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T16:08:35+00:00",
+            "updatedAt": "2026-11-17T04:02:04+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "bb8f81b86ed32ffea5f6c38ef5d25f0fd38180a4de9af7386e74ec4602accbbf",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE.html"
+        },
+        {
+            "id": 70,
+            "translationId": 70,
+            "language": "bn",
+            "slug": "আক্বিকার-গোশত-মা-বাবা-খেত",
+            "title": "সন্তানের আক্বিকার গোশত কি মা-বাবা খেতে পারবেন?",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 10:05 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/52d4a977-068c-48ca-b8b8-f9e04e3b8c63.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 668
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T16:05:13+00:00",
+            "updatedAt": "2026-11-17T04:02:08+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "1b8a4dd784ea9f9d3fb3e6d7e68d83b8b0c06c0d8fa733a9909fedf5afb16c34",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B6%E0%A6%A4-%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%96%E0%A7%87%E0%A6%A4",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B6%E0%A6%A4-%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%96%E0%A7%87%E0%A6%A4.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B6%E0%A6%A4-%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%96%E0%A7%87%E0%A6%A4.html"
+        },
+        {
+            "id": 71,
+            "translationId": 71,
+            "language": "bn",
+            "slug": "মহিলারা-পশু-জবাই-দিতে-পার",
+            "title": "মহিলাদের দ্বারা জবাইকৃত পশু কি হালাল নয়?",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 10:05 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T16:02:17+00:00",
+            "updatedAt": "2026-11-17T04:02:08+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "075184fccb82023e416102252d4d31e94f216f367de180787ee35316edbbf09a",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0.html"
+        },
+        {
+            "id": 72,
+            "translationId": 72,
+            "language": "bn",
+            "slug": "কাপড়ে-নাপাকি-লাগলে-শুধু",
+            "title": "কাপড়ে নাপাকি লাগলে শুধু তার একটি কোণা ধুলেই কি চলবে?",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 9:02 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 23,
+                    "slug": "তাহারাত-পবিত্রতা",
+                    "name": "তাহারাত - পবিত্রতা",
+                    "primary": false
+                },
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T15:02:30+00:00",
+            "updatedAt": "2026-11-17T04:02:08+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "6c5c267913a999fd11ef7215b51a1e3669ddb9d39117274339372e4ea3c9b84e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%B2%E0%A7%87-%E0%A6%B6%E0%A7%81%E0%A6%A7%E0%A7%81",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%B2%E0%A7%87-%E0%A6%B6%E0%A7%81%E0%A6%A7%E0%A7%81.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%B2%E0%A7%87-%E0%A6%B6%E0%A7%81%E0%A6%A7%E0%A7%81.html"
+        },
+        {
+            "id": 73,
+            "translationId": 73,
+            "language": "bn",
+            "slug": "কাপড়ে-কুকুরের-স্পর্শ",
+            "title": "কাপড়ে কুকুরের স্পর্শ লাগলে নাপাক মনে করা",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 9:00 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 23,
+                    "slug": "তাহারাত-পবিত্রতা",
+                    "name": "তাহারাত - পবিত্রতা",
+                    "primary": false
+                },
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T15:00:18+00:00",
+            "updatedAt": "2026-11-17T04:02:08+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "0c7793dea93f40c1f29155c5cb76add145f7abc09a06395010a5ea9ec5c5935a",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B6",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B6.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B6.html"
+        },
+        {
+            "id": 74,
+            "translationId": 74,
+            "language": "bn",
+            "slug": "শুভ-দিন-দেখে-বিয়ের-দিন-ঠি",
+            "title": "শুভ দিন দেখে বিয়ের দিন ঠিক করা",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 8:14 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/15c680d7-f899-4e9a-a72a-aa14ed8e3cb5.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 32,
+                    "slug": "বিয়ে-তালাক",
+                    "name": "বিয়ে-তালাক",
+                    "primary": false
+                },
+                {
+                    "id": 17,
+                    "slug": "ভ্রান্ত-মতবাদ",
+                    "name": "ভ্রান্ত মতবাদ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T14:14:22+00:00",
+            "updatedAt": "2026-11-17T04:02:08+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "05ea58342e80b96e01da4cfe31865599da5e4937a9b9b0783b3187b58a0d13a5",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A7%81%E0%A6%AD-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A0%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%81%E0%A6%AD-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A0%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%81%E0%A6%AD-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A0%E0%A6%BF.html"
+        },
+        {
+            "id": 75,
+            "translationId": 75,
+            "language": "bn",
+            "slug": "দাড়ি-রাখা-ওয়াজিব",
+            "title": "দাড়ি রাখা সুন্নত নাকি ওয়াজিব?",
+            "excerpt": "Post Updated at 6 Aug, 2025 – 8:02 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 563
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-06T14:02:19+00:00",
+            "updatedAt": "2026-11-17T04:02:08+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "0c5e31fb34f56196aafa18f24161113b1c6ca5682ec5b987eb86996cd169709e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A6%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A6%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%AC.html"
+        }
+    ]
+}

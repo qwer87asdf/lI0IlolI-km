@@ -1,0 +1,43 @@
+{
+    "category": "যাকাত",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 229,
+            "translationId": 229,
+            "language": "bn",
+            "slug": "যাকাত-কাকে-দেয়া-যাবে",
+            "title": "আপনার যাকাত কাদেরকে দেবেন",
+            "excerpt": "Post Updated at 15 Mar, 2024 – 12:18 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1caed9f4-e7ba-45c8-8932-5eece56baf85.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 65,
+                    "slug": "যাকাত",
+                    "name": "যাকাত",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-16T13:51:33+00:00",
+            "updatedAt": "2026-11-17T04:05:16+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "0327aec99deb27c0bd868030fad51ebe01fd715f9a594c25c2b4decdb82f8c44",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.html"
+        }
+    ]
+}

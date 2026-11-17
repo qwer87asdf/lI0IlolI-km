@@ -1,0 +1,756 @@
+{
+    "page": 11,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 210,
+            "translationId": 210,
+            "language": "bn",
+            "slug": "হজ-নারী-পুরুষের-পার্থক্য",
+            "title": "হজ-ওমরা আদায়ে নারী-পুরুষের মাঝে পার্থক্য",
+            "excerpt": "Post Updated at 9 May, 2023 – 12:47 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-09T01:36:08+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "5746cd01c18538be1f72c5eaa1c99a31c8fd75d7bfcc41e37a70e3b585171c9c",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%9C-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF.html"
+        },
+        {
+            "id": 211,
+            "translationId": 211,
+            "language": "bn",
+            "slug": "তামাত্তু-কিরান-আর-ইফরাদ-হ",
+            "title": "তামাত্তু কিরান আর ইফরাদ হজের পার্থক্য (হজের ধারাবাহিক আমলসমূহ-শেষ পর্ব)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-07T01:29:53+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "a25741d9c02e22092537831ba28d3bdba94798552762345f0abad109b97d8aeb",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%B0-%E0%A6%87%E0%A6%AB%E0%A6%B0%E0%A6%BE%E0%A6%A6-%E0%A6%B9",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%B0-%E0%A6%87%E0%A6%AB%E0%A6%B0%E0%A6%BE%E0%A6%A6-%E0%A6%B9.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%B0-%E0%A6%87%E0%A6%AB%E0%A6%B0%E0%A6%BE%E0%A6%A6-%E0%A6%B9.html"
+        },
+        {
+            "id": 212,
+            "translationId": 212,
+            "language": "bn",
+            "slug": "হজ-আদায়ের-ধারাবাহিক-আমল-6",
+            "title": "হজ আদায়ের ধারাবাহিক আমলসমূহ (৬)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-07T01:22:08+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "c67e3b52430b735c5b9a6d7186c35e619a3323adc88a0d27813727206396e88c",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%9C-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-6",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-6.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-6.html"
+        },
+        {
+            "id": 213,
+            "translationId": 213,
+            "language": "bn",
+            "slug": "হজের-ধারাবাহিক-আমল-৫",
+            "title": "হজ আদায়ের ধারাবাহিক আমলসমূহ (৫)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-07T01:02:35+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "85a04de13221d205ba3a4cd70c58f4572e1b22641a237a2cebff3bec05f234be",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A7%AB",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A7%AB.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A7%AB.html"
+        },
+        {
+            "id": 214,
+            "translationId": 214,
+            "language": "bn",
+            "slug": "হজের-ধারাবাহিক-আমল-৪",
+            "title": "হজ আদায়ের ধারাবাহিক আমলসমূহ – ৪ (১০ জিলহজ মুযদালিফায় অবস্থান)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-07T00:58:45+00:00",
+            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "73b9670870805f9f16a6842f1a5fa34b7cc30cc4578332bd3d62ce1585a631b2",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A7%AA",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A7%AA.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A7%AA.html"
+        },
+        {
+            "id": 215,
+            "translationId": 215,
+            "language": "bn",
+            "slug": "হজের-ধারাবাহিক-আমলসমূহ-৩",
+            "title": "হজের ধারাবাহিক আমলসমূহ – ৩ (৯ জিলহজ আরাফায় অবস্থান)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-07T00:51:03+00:00",
+            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "faf379a9792600b30d1b911e99c51948553fda166a089a3548bde5e16e9d6e78",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A9",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A9.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A9.html"
+        },
+        {
+            "id": 216,
+            "translationId": 216,
+            "language": "bn",
+            "slug": "হজের-ধারাবাহিক-আমলসমূহ-২",
+            "title": "হজের ধারাবাহিক আমলসমূহ – ২ (৮ জিলহজ মিনায় অবস্থান)",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-07T00:46:17+00:00",
+            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "8e779025a22798164fac90d08dc559b3ccf318839c514ce9e17942b34f829e88",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A8.html"
+        },
+        {
+            "id": 217,
+            "translationId": 217,
+            "language": "bn",
+            "slug": "হজের-ধারাবাহিক-আমলসমূহ-১",
+            "title": "হজের ধারাবাহিক আমলসমূহ – ১ (৮ জিলহজ)",
+            "excerpt": "Post Updated at 27 May, 2026 – 4:01 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-07T00:36:22+00:00",
+            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "8899fcbf32a4d66ca12d6fe50c10941c65fe3f29df129fb5a3f3aad8524479dc",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A7",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A7.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9-%E0%A7%A7.html"
+        },
+        {
+            "id": 218,
+            "translationId": 218,
+            "language": "bn",
+            "slug": "কবুল-হজ-কয়েকটি-লক্ষণীয়",
+            "title": "কবুল হজ : কয়েকটি লক্ষণীয় বিষয়",
+            "excerpt": "Post Updated at 15 May, 2026 – 5:54 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-05T16:44:11+00:00",
+            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "a2870b277d1424eba265ce0ca5af4b034d42470a56719ebeb2f2df3691c1d02b",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%9C-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%80%E0%A6%AF%E0%A6%BC",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%9C-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%80%E0%A6%AF%E0%A6%BC.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%9C-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%80%E0%A6%AF%E0%A6%BC.html"
+        },
+        {
+            "id": 219,
+            "translationId": 219,
+            "language": "bn",
+            "slug": "ওমরা-আদায়ের-পদ্ধতি",
+            "title": "ওমরা আদায়ের ধারাবাহিক পদ্ধতি",
+            "excerpt": "Post Updated at 27 May, 2026 – 4:01 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-04T16:48:36+00:00",
+            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "readingTimeMinutes": 12,
+            "contentHash": "2213c9a75e294004c0683a042b9ca1a4b6a48f8abf162abd37054ae1ade9096e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%93%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%93%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF.html"
+        },
+        {
+            "id": 220,
+            "translationId": 220,
+            "language": "bn",
+            "slug": "make-time-settings-automatic",
+            "title": "নামাজের সঠিক সময় দেখার জন্য ফোনের টাইম সেটিংস অটোমেটিক করে নিন",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-01T15:31:36+00:00",
+            "updatedAt": "2026-11-17T04:05:04+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "4311971fbdb533a681cc8d3bcd274f887b102e987b1c8a0afed6148816bd5e15",
+            "url": "https://muslimsday.com/bn/blog/make-time-settings-automatic",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/make-time-settings-automatic.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/make-time-settings-automatic.html"
+        },
+        {
+            "id": 221,
+            "translationId": 221,
+            "language": "bn",
+            "slug": "শ্রমিকের-দায়-ও-অধিকার",
+            "title": "ইসলামে শ্রমিকের দায় ও অধিকার",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d042549-da30-484e-8b64-4a553eb23b65.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 662
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 22,
+                    "slug": "হুকুক-অধিকার",
+                    "name": "হুকুক - অধিকার",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-30T00:31:13+00:00",
+            "updatedAt": "2026-11-17T04:05:08+00:00",
+            "readingTimeMinutes": 12,
+            "contentHash": "45d65787a217e8671e5e22da2dd2636ec81674c9292f121604a4e0f504608df6",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%93-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%93-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%93-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0.html"
+        },
+        {
+            "id": 222,
+            "translationId": 222,
+            "language": "bn",
+            "slug": "শ্রমিক-মালিক-সম্পর্ক",
+            "title": "ইসলামের দৃষ্টিতে শ্রমিক-মালিক সম্পর্ক",
+            "excerpt": "Post Updated at 30 Apr, 2023 – 11:13 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/15c680d7-f899-4e9a-a72a-aa14ed8e3cb5.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 22,
+                    "slug": "হুকুক-অধিকার",
+                    "name": "হুকুক - অধিকার",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-30T00:29:50+00:00",
+            "updatedAt": "2026-11-17T04:05:08+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "c5802a99cefa2fa271bee1b512b0d4b91a62e9d18853ee975d2503fae7805ccf",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95.html"
+        },
+        {
+            "id": 223,
+            "translationId": 223,
+            "language": "bn",
+            "slug": "হাদীস-নম্বর-মিলে-না-কেন",
+            "title": "হাদীসের নম্বর অন্য অ্যাপের সাথে মিলে না কেন?",
+            "excerpt": "Post Updated at 21 Feb, 2024 – 5:33 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-23T05:55:44+00:00",
+            "updatedAt": "2026-11-17T04:05:08+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "96be7873dffea6aa962ca77f89c55f2bece058e9ed93722d5fac3650fe4ca7d3",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8.html"
+        },
+        {
+            "id": 224,
+            "translationId": 224,
+            "language": "bn",
+            "slug": "ঈদ-উল-ফিতর-সুন্নত-আমল",
+            "title": "ঈদ উল ফিতর এর কয়েকটি মাসনুন আমল",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:56 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/df7f9193-65c0-45b2-83eb-d3f520dd03f8.jpg",
+                "alt": "",
+                "width": 1024,
+                "height": 576
+            },
+            "categories": [
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-21T05:57:13+00:00",
+            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "5ae85224bc63e63564b8173fd418601e10b8aacca9aed4f872cfdf07b4874f2e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%88%E0%A6%A6-%E0%A6%89%E0%A6%B2-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%B2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6-%E0%A6%89%E0%A6%B2-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%B2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6-%E0%A6%89%E0%A6%B2-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%B2.html"
+        },
+        {
+            "id": 225,
+            "translationId": 225,
+            "language": "bn",
+            "slug": "শাওয়ালের-ছয়-রোজা",
+            "title": "শাওয়ালের ছয়  রোজা: ঈদ পরবর্তী একটি গুরুত্বপূর্ণ আমল",
+            "excerpt": "Post Updated at 15 May, 2026 – 5:53 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 27,
+                    "slug": "নফল",
+                    "name": "নফল",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-21T04:27:19+00:00",
+            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "68c82bbfc572d56e6365d91748193d37c5847c3bab47127556018916b31ad09e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%B6%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A6%AF%E0%A6%BC-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A6%AF%E0%A6%BC-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%B6%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A6%AF%E0%A6%BC-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE.html"
+        },
+        {
+            "id": 226,
+            "translationId": 226,
+            "language": "bn",
+            "slug": "ঈদের-নামাজে-কয়েকটি-ভুল",
+            "title": "ঈদের নামাজের কয়েকটি সাধারণ ভুল",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:56 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-20T23:18:16+00:00",
+            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "405ea6c41bcf86aa9523ffd5172c1db7b0ff0976ff086255df17f51ce7996b67",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AD%E0%A7%81%E0%A6%B2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AD%E0%A7%81%E0%A6%B2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AD%E0%A7%81%E0%A6%B2.html"
+        },
+        {
+            "id": 227,
+            "translationId": 227,
+            "language": "bn",
+            "slug": "ঈদের-নামাজে-রাকাত-মিস-হলে",
+            "title": "ঈদের নামাজে কেউ মাসবুক  হলে করণীয়",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:56 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 41,
+                    "slug": "নামাজ-শিক্ষা",
+                    "name": "নামাজ শিক্ষা",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 15,
+                    "slug": "সালাত-নামাজ",
+                    "name": "সালাত - নামাজ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-20T23:15:07+00:00",
+            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "a7b94b479d8b429cdac7b91baca0f70f2d41858dcc6e31891f4a484b82e24f7e",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AE%E0%A6%BF%E0%A6%B8-%E0%A6%B9%E0%A6%B2%E0%A7%87",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AE%E0%A6%BF%E0%A6%B8-%E0%A6%B9%E0%A6%B2%E0%A7%87.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AE%E0%A6%BF%E0%A6%B8-%E0%A6%B9%E0%A6%B2%E0%A7%87.html"
+        },
+        {
+            "id": 228,
+            "translationId": 228,
+            "language": "bn",
+            "slug": "ঈদের-আনন্দে-রমজানের-সংযম",
+            "title": "ঈদের আনন্দ : রমজানের সংযম হারিয়ে যাচ্ছে না তো?",
+            "excerpt": "Post Updated at 15 May, 2026 – 5:53 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-20T23:09:28+00:00",
+            "updatedAt": "2026-11-17T04:05:13+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "455c9fc6e8b249d573c04c16b10881be4facac05e62b4504448e6aed26766ccd",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87-%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A6%AE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87-%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A6%AE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87-%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A6%AE.html"
+        },
+        {
+            "id": 229,
+            "translationId": 229,
+            "language": "bn",
+            "slug": "যাকাত-কাকে-দেয়া-যাবে",
+            "title": "আপনার যাকাত কাদেরকে দেবেন",
+            "excerpt": "Post Updated at 15 Mar, 2024 – 12:18 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1caed9f4-e7ba-45c8-8932-5eece56baf85.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 65,
+                    "slug": "যাকাত",
+                    "name": "যাকাত",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-16T13:51:33+00:00",
+            "updatedAt": "2026-11-17T04:05:16+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "0327aec99deb27c0bd868030fad51ebe01fd715f9a594c25c2b4decdb82f8c44",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.html"
+        }
+    ]
+}

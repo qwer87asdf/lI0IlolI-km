@@ -1,0 +1,49 @@
+{
+    "category": "ফিতনা",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 173,
+            "translationId": 173,
+            "language": "bn",
+            "slug": "ট্রান্সজেন্ডার-মতবাদ",
+            "title": "ট্রান্সজেন্ডারবাদ: জাতীয় অধঃপতনের এক অশনি সংকেত",
+            "excerpt": "Post Updated at 31 Oct, 2024 – 9:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 61,
+                    "slug": "ফিতনা",
+                    "name": "ফিতনা",
+                    "primary": false
+                },
+                {
+                    "id": 17,
+                    "slug": "ভ্রান্ত-মতবাদ",
+                    "name": "ভ্রান্ত মতবাদ",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-12-29T14:45:16+00:00",
+            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "fa9f462648ccc95d27d4c5958fe78df6c9abd2778634958888378f6c58c67f06",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6.html"
+        }
+    ]
+}
