@@ -1,0 +1,55 @@
+{
+    "category": "story",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 4,
+            "translationId": 4,
+            "language": "en",
+            "slug": "sahabi-tree",
+            "title": "The Story of Bahira the Monk and the Sahabi Tree: What Really Happened",
+            "excerpt": "Know the real story of Sahabi tree in Jordan. The 1,500-Year-Old Tree That Sheltered Prophet Muhammad ﷺ",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/6617dc81-b6b4-4a6e-a9bc-725862615ad4.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 3,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 4,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "story",
+                    "name": "Story",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T08:36:34+00:00",
+            "updatedAt": "2026-11-17T03:49:16+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
+            "url": "https://muslimsday.com/blog/sahabi-tree",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.html"
+        }
+    ]
+}

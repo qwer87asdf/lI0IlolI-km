@@ -1,0 +1,37 @@
+{
+    "category": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 18,
+            "translationId": 18,
+            "language": "bn",
+            "slug": "durud-reminder",
+            "title": "মুসলিমস ডে অ্যাপের নতুন ফিচার: দরূদ রিমাইন্ডার",
+            "excerpt": "একবার দরূদ পড়লে ১০ টি রহমত নাযিল হয়, ১০ টি নেকি লেখা হয়, ১০টি গুনাহ মাফ হয়। নিয়মিত দরূদ পড়তে মুসলিমস ডের দরূদ রিমাইন্ডার ফিচারটি ব্যবহার করুন",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/cd867827-1b69-4e86-9abf-a4ea52619005.png",
+                "alt": "",
+                "width": 800,
+                "height": 598
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-03-12T10:04:35+00:00",
+            "updatedAt": "2026-11-17T03:51:28+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "caeefeab905e8472032ee2fb81ce377e1925962cc58b8ec37f926599f11d4f48",
+            "url": "https://muslimsday.com/bn/blog/durud-reminder",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/durud-reminder.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/durud-reminder.html"
+        }
+    ]
+}

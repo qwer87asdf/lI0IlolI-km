@@ -1,0 +1,79 @@
+{
+    "category": "মাসআলা",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 19,
+            "translationId": 19,
+            "language": "bn",
+            "slug": "যাকাতের-কয়েকটি-আধুনিক-ম",
+            "title": "যাকাতের কয়েকটি আধুনিক মাসআলা",
+            "excerpt": "শেয়ার মার্কেটের যাকাত যারা শুধুমাত্র ব্যবসায়িক পণ্য হিসেবে শেয়ারের লেনদেন করেন, তারা যাকাত আদায় করবেন শেয়ারের মার্কেট ভ্যালু অনুযায়ী। তাদের যাকাতের বছর যেদিন পূর্ণ হবে, সেদিন শেয়ারবাজারে ওই শেয়ারের যে মূল্য থাকবে, সেই মূল্য হিসাব করেই যাকাত দিতে হবে। আর যারা কোম্পানির ডিভিডেন্ট (লভ্যাংশ) পাও",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 360
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 10,
+                    "slug": "যাকাত-ফিতরা",
+                    "name": "যাকাত-ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-03-08T17:06:05+00:00",
+            "updatedAt": "2026-11-17T03:51:31+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "2d76eccdc4e3ade0c6a751162b4069dc5644ec73b76c2420c4340f5aafc1decf",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AE",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AE.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AE.html"
+        },
+        {
+            "id": 20,
+            "translationId": 20,
+            "language": "bn",
+            "slug": "কাকে-যাকাত-দেয়া-যাবে",
+            "title": "যাকাত যাদেরকে দেয়া যাবে",
+            "excerpt": "স্বামী স্ত্রীকে বা স্ত্রী স্বামীকে যাকাত দিতে পারবে? বাবা-মাকে বা শ্বশুর শ্বাশুরিকে কি যাকাত দেয়া যায়? ভাই-বোন কি নিজেদেরকে যাকাত দিতে পারে?",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 360
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 10,
+                    "slug": "যাকাত-ফিতরা",
+                    "name": "যাকাত-ফিতরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-03-08T17:03:48+00:00",
+            "updatedAt": "2026-11-17T03:51:31+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "af3ce0714b99319e8ec87028432996027dbe81ef0f5ac8ac1552b2544c80d0c7",
+            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.html"
+        }
+    ]
+}

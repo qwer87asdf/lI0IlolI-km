@@ -1,0 +1,12 @@
+{
+    "schemaVersion": 1,
+    "language": "en",
+    "direction": "ltr",
+    "totalPosts": 9,
+    "pageSize": 20,
+    "totalPages": 1,
+    "updatedAt": "2026-11-17T03:53:13+00:00",
+    "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/pages/{page}.json",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.64b730fcb4.css",
+    "featured": []
+}
