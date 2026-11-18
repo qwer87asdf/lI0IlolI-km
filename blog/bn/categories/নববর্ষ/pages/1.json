@@ -47,9 +47,9 @@
             "updatedAt": "2026-11-17T04:03:06+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "9af136926300a5492b0648689381b9c5ded8db276cb8974e956f67a43ad03a29",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%AC%E0%A6%B0%E0%A6%A3-%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%B0%E0%A6%A3.html"
+            "url": "https://muslimsday.com/bn/blog/বর্ষবরণ-ও-অন্যদের-অনুসরণ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বর্ষবরণ-ও-অন্যদের-অনুসরণ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বর্ষবরণ-ও-অন্যদের-অনুসরণ.html"
         },
         {
             "id": 129,
@@ -95,9 +95,9 @@
             "updatedAt": "2026-11-17T04:03:06+00:00",
             "readingTimeMinutes": 6,
             "contentHash": "e3efd095a4353b305d5f51ddb95c5ad7b98236a5ef9cbc122bfd24594b9e5f01",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A5%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F.html"
+            "url": "https://muslimsday.com/bn/blog/থার্টি-ফার্স্ট-নাইট",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/থার্টি-ফার্স্ট-নাইট.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/থার্টি-ফার্স্ট-নাইট.html"
         }
     ]
 }

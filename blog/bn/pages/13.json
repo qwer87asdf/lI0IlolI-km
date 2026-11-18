@@ -3,6 +3,42 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 249,
+            "translationId": 249,
+            "language": "bn",
+            "slug": "ভুলে-পানাহার-করলে-রোজা",
+            "title": "ভুলে পানাহার করলে সিয়াম ছেড়ে দেয়া যাবে না",
+            "excerpt": "Post Updated at 20 Mar, 2023 – 3:02 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-10T03:16:24+00:00",
+            "updatedAt": "2026-11-17T04:05:28+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "890db2a5136a205dd6e510394bd737b4deee88a3f2aba598b5dbc86bfe2f96c5",
+            "url": "https://muslimsday.com/bn/blog/ভুলে-পানাহার-করলে-রোজা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ভুলে-পানাহার-করলে-রোজা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ভুলে-পানাহার-করলে-রোজা.html"
+        },
+        {
             "id": 250,
             "translationId": 250,
             "language": "bn",
@@ -661,42 +697,6 @@
             "url": "https://muslimsday.com/bn/blog/যে-কারণে-রোজা-ভঙ্গ-হয়-না",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যে-কারণে-রোজা-ভঙ্গ-হয়-না.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যে-কারণে-রোজা-ভঙ্গ-হয়-না.html"
-        },
-        {
-            "id": 269,
-            "translationId": 269,
-            "language": "bn",
-            "slug": "রোজা-ভঙ্গের-কারণ",
-            "title": "সাওম (রোজা) ভঙ্গের কারণসমূহ",
-            "excerpt": "Post Updated at 7 Apr, 2023 – 11:58 AM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
-                "alt": "",
-                "width": 1200,
-                "height": 805
-            },
-            "categories": [
-                {
-                    "id": 9,
-                    "slug": "মাসআলা",
-                    "name": "মাসআলা",
-                    "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2023-02-27T16:40:00+00:00",
-            "updatedAt": "2026-11-17T04:05:59+00:00",
-            "readingTimeMinutes": 5,
-            "contentHash": "4e317899ebce383dd7ed065323501b55301e10c35d442e77dc31bb1441399bb1",
-            "url": "https://muslimsday.com/bn/blog/রোজা-ভঙ্গের-কারণ",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণ.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণ.html"
         }
     ]
 }

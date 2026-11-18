@@ -3,6 +3,126 @@
     "totalPages": 1,
     "items": [
         {
+            "id": 287,
+            "translationId": 287,
+            "language": "en",
+            "slug": "laylat-al-qadr-2027",
+            "title": "Laylat al-Qadr 2027: Expected Dates, Dua and How to Prepare",
+            "excerpt": "Laylat al-Qadr 2027 is expected to fall on one of the odd nights in the last ten nights of Ramadan 1448. Ramadan is expected to begin on about 8 February 2027,…",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/fe9d9136-b865-43a9-bf1a-bfb008cc0324.webp",
+                "alt": "",
+                "width": 1200,
+                "height": 628
+            },
+            "categories": [
+                {
+                    "id": 70,
+                    "slug": "ramadan",
+                    "name": "Ramadan",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-11-05T10:26:15+00:00",
+            "updatedAt": "2026-11-18T10:36:51+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "a5ae7500aa63b874914ebecc5653b498cafdfd220485e4e1b0b583693515b2b3",
+            "url": "https://muslimsday.com/blog/laylat-al-qadr-2027",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/laylat-al-qadr-2027.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/laylat-al-qadr-2027.html"
+        },
+        {
+            "id": 286,
+            "translationId": 286,
+            "language": "en",
+            "slug": "ramadan-countdown-your-100-day-preparation-plan",
+            "title": "Ramadan Countdown: Your 100-Day Preparation Plan for Spiritual, Physical and Financial Readiness",
+            "excerpt": "Ramadan has a way of arriving before we feel ready. One moment, it seems months away. Suddenly, we are planning groceries, adjusting our sleep schedules, settin…",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/52c5a0ca-2353-41b1-a413-e75871655fe6.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 69,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-10-25T09:08:48+00:00",
+            "updatedAt": "2026-11-18T10:36:39+00:00",
+            "readingTimeMinutes": 12,
+            "contentHash": "1b4455917877ac491d81974d7e1472b8a7ad99b53c788236a6105108d0def122",
+            "url": "https://muslimsday.com/blog/ramadan-countdown-your-100-day-preparation-plan",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/ramadan-countdown-your-100-day-preparation-plan.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/ramadan-countdown-your-100-day-preparation-plan.html"
+        },
+        {
+            "id": 285,
+            "translationId": 285,
+            "language": "en",
+            "slug": "when-is-ramadan-2027",
+            "title": "When Is Ramadan 2027? Dates, Moon Sighting and Eid Prediction",
+            "excerpt": "Ramadan 2027 is expected to begin in February, bringing the holy month of fasting, prayer, Quran recitation, charity, and spiritual reflection to Muslims around…",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/628fadd8-ed85-4f78-9a35-1db22d73b727.jpg",
+                "alt": "",
+                "width": 1169,
+                "height": 658
+            },
+            "categories": [
+                {
+                    "id": 69,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-10-25T08:02:36+00:00",
+            "updatedAt": "2026-11-18T10:36:18+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "9dabf6d22f2ec118d0aedaceb1ce90d391f8f190692d440a3e3c31fe62c65102",
+            "url": "https://muslimsday.com/blog/when-is-ramadan-2027",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/when-is-ramadan-2027.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/when-is-ramadan-2027.html"
+        },
+        {
+            "id": 284,
+            "translationId": 284,
+            "language": "en",
+            "slug": "ramadan-guide-for-beginners",
+            "title": "The Complete Ramadan Guide for Beginners",
+            "excerpt": "Ramadan is the ninth month of the Islamic calendar and one of the holiest times of the year for Muslims. During this month, Muslims fast from dawn until sunset,…",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/40aed1cc-2e28-4cb5-bd06-cf5fd7b51b27.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 69,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-10-14T06:35:35+00:00",
+            "updatedAt": "2026-11-18T10:36:02+00:00",
+            "readingTimeMinutes": 13,
+            "contentHash": "a5bf2d7330408310aa9aaa90ad67d854f04f877144531fea456a3bb5ddb09a41",
+            "url": "https://muslimsday.com/blog/ramadan-guide-for-beginners",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/ramadan-guide-for-beginners.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/ramadan-guide-for-beginners.html"
+        },
+        {
             "id": 1,
             "translationId": 1,
             "language": "en",

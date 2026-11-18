@@ -3,6 +3,42 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 29,
+            "translationId": 29,
+            "language": "bn",
+            "slug": "সাহরিতে-পুষ্টিকর-খাবার",
+            "title": "সাহরিতে পুষ্টিকর খাবার ও সুষম খাদ্য পরিকল্পনা",
+            "excerpt": "Post Updated at 8 Feb, 2026 – 7:28 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/701d3c58-2adc-4e3d-8d99-09fc451f3844.jpg",
+                "alt": "",
+                "width": 612,
+                "height": 414
+            },
+            "categories": [
+                {
+                    "id": 11,
+                    "slug": "বিবিধ",
+                    "name": "বিবিধ",
+                    "primary": true
+                },
+                {
+                    "id": 12,
+                    "slug": "রমজানের-খাদ্যাভ্যাস",
+                    "name": "রমজানের খাদ্যাভ্যাস",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-02-08T13:28:23+00:00",
+            "updatedAt": "2026-11-17T04:00:41+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "8cbd6e7cf72817cd672578a962458f580d2c50bb7834292a6067cf396c60219a",
+            "url": "https://muslimsday.com/bn/blog/সাহরিতে-পুষ্টিকর-খাবার",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরিতে-পুষ্টিকর-খাবার.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরিতে-পুষ্টিকর-খাবার.html"
+        },
+        {
             "id": 30,
             "translationId": 30,
             "language": "bn",
@@ -697,42 +733,6 @@
             "url": "https://muslimsday.com/bn/blog/খন্দকের-যুদ্ধে-মুজিজা",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/খন্দকের-যুদ্ধে-মুজিজা.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/খন্দকের-যুদ্ধে-মুজিজা.html"
-        },
-        {
-            "id": 49,
-            "translationId": 49,
-            "language": "bn",
-            "slug": "বাগানে-মেঘের-পানি-বর্ষণ",
-            "title": "বাগানে মেঘের পানি বর্ষণ",
-            "excerpt": "Post Updated at 9 Aug, 2025 – 6:46 AM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
-                "alt": "",
-                "width": 1000,
-                "height": 686
-            },
-            "categories": [
-                {
-                    "id": 16,
-                    "slug": "আর্টিকেল",
-                    "name": "আর্টিকেল",
-                    "primary": true
-                },
-                {
-                    "id": 25,
-                    "slug": "হাদীসের-গল্প",
-                    "name": "হাদীসের গল্প",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2025-08-09T00:46:39+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
-            "readingTimeMinutes": 2,
-            "contentHash": "00c895e261e361e2e2710a4070c537e271e9120dee787ee12bf2910fd6b98ac5",
-            "url": "https://muslimsday.com/bn/blog/বাগানে-মেঘের-পানি-বর্ষণ",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বাগানে-মেঘের-পানি-বর্ষণ.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বাগানে-মেঘের-পানি-বর্ষণ.html"
         }
     ]
 }

@@ -3,6 +3,36 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 283,
+            "translationId": 283,
+            "language": "bn",
+            "slug": "জুলাই-ইমপ্যাক্ট",
+            "title": "মুসলিমস ডে অ্যাপ, জুলাই ২০২৬ কন্ট্রিবিউটর ইমপ্যাক্ট রিপোর্ট",
+            "excerpt": "আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহ।",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/ca6bf40a-7633-4378-8b74-27adc77df59b.png",
+                "alt": "",
+                "width": 960,
+                "height": 640
+            },
+            "categories": [
+                {
+                    "id": 68,
+                    "slug": "আপডেট",
+                    "name": "আপডেট",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-17T08:57:46+00:00",
+            "updatedAt": "2026-11-18T10:35:45+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "e72b1d49e5a7ac028548fe9310d097bf16010fd078cb94761dd4205da86936a8",
+            "url": "https://muslimsday.com/bn/blog/জুলাই-ইমপ্যাক্ট",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুলাই-ইমপ্যাক্ট.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুলাই-ইমপ্যাক্ট.html"
+        },
+        {
             "id": 10,
             "translationId": 10,
             "language": "bn",
@@ -667,42 +697,6 @@
             "url": "https://muslimsday.com/bn/blog/রোগীদের-রোজা-১",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোগীদের-রোজা-১.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোগীদের-রোজা-১.html"
-        },
-        {
-            "id": 29,
-            "translationId": 29,
-            "language": "bn",
-            "slug": "সাহরিতে-পুষ্টিকর-খাবার",
-            "title": "সাহরিতে পুষ্টিকর খাবার ও সুষম খাদ্য পরিকল্পনা",
-            "excerpt": "Post Updated at 8 Feb, 2026 – 7:28 PM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/701d3c58-2adc-4e3d-8d99-09fc451f3844.jpg",
-                "alt": "",
-                "width": 612,
-                "height": 414
-            },
-            "categories": [
-                {
-                    "id": 11,
-                    "slug": "বিবিধ",
-                    "name": "বিবিধ",
-                    "primary": true
-                },
-                {
-                    "id": 12,
-                    "slug": "রমজানের-খাদ্যাভ্যাস",
-                    "name": "রমজানের খাদ্যাভ্যাস",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-02-08T13:28:23+00:00",
-            "updatedAt": "2026-11-17T04:00:41+00:00",
-            "readingTimeMinutes": 2,
-            "contentHash": "8cbd6e7cf72817cd672578a962458f580d2c50bb7834292a6067cf396c60219a",
-            "url": "https://muslimsday.com/bn/blog/সাহরিতে-পুষ্টিকর-খাবার",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরিতে-পুষ্টিকর-খাবার.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরিতে-পুষ্টিকর-খাবার.html"
         }
     ]
 }

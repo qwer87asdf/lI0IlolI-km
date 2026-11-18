@@ -3,6 +3,48 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 189,
+            "translationId": 189,
+            "language": "bn",
+            "slug": "১২-রবিউল-আউয়াল",
+            "title": "১২ রবিউল আউয়াল কি নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের জন্মদিন?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7cb03733-718c-447f-b2ab-23e7edbc0735.png",
+                "alt": "",
+                "width": 1200,
+                "height": 675
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                },
+                {
+                    "id": 62,
+                    "slug": "বিদআত",
+                    "name": "বিদআত",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-09-27T04:15:39+00:00",
+            "updatedAt": "2026-11-17T04:04:34+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "f8ea5de837dc473c480d423769851e2247526e1afb9e48863ee53bbef1e7a1d6",
+            "url": "https://muslimsday.com/bn/blog/১২-রবিউল-আউয়াল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রবিউল-আউয়াল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রবিউল-আউয়াল.html"
+        },
+        {
             "id": 190,
             "translationId": 190,
             "language": "bn",
@@ -781,42 +823,6 @@
             "url": "https://muslimsday.com/bn/blog/হজ-আদায়ে-কমন-কিছু-ভুল",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হজ-আদায়ে-কমন-কিছু-ভুল.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হজ-আদায়ে-কমন-কিছু-ভুল.html"
-        },
-        {
-            "id": 209,
-            "translationId": 209,
-            "language": "bn",
-            "slug": "মাবরুর-হজ-জান্নাত",
-            "title": "মাবরুর হজ : জান্নাতই যার একমাত্র প্রতিদান",
-            "excerpt": "Post Updated at 23 May, 2023 – 7:31 AM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
-                "alt": "",
-                "width": 1280,
-                "height": 720
-            },
-            "categories": [
-                {
-                    "id": 16,
-                    "slug": "আর্টিকেল",
-                    "name": "আর্টিকেল",
-                    "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2023-05-09T01:41:19+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
-            "readingTimeMinutes": 11,
-            "contentHash": "792e369e174ff81fcf0b8ad9ac201accfc0e574fa2e1c387483cb87817cd89a2",
-            "url": "https://muslimsday.com/bn/blog/মাবরুর-হজ-জান্নাত",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাবরুর-হজ-জান্নাত.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাবরুর-হজ-জান্নাত.html"
         }
     ]
 }

@@ -41,9 +41,9 @@
             "updatedAt": "2026-11-17T04:02:25+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "14fb2967c1f6e10f02353311f2a725125671fdb004ac6910c9cd74087a787303",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4.html"
+            "url": "https://muslimsday.com/bn/blog/নামাজের-নিয়ত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-নিয়ত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-নিয়ত.html"
         },
         {
             "id": 124,
@@ -89,9 +89,9 @@
             "updatedAt": "2026-11-17T04:02:58+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "addf34f1492a97e57677decfefb964b380de1a2ced0db646c4884a6be5e2e225",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE.html"
+            "url": "https://muslimsday.com/bn/blog/নামাযে-নিয়তের-মাসআলা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাযে-নিয়তের-মাসআলা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাযে-নিয়তের-মাসআলা.html"
         }
     ]
 }

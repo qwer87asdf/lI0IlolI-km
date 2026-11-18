@@ -1,0 +1,37 @@
+{
+    "category": "ramadan",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 287,
+            "translationId": 287,
+            "language": "en",
+            "slug": "laylat-al-qadr-2027",
+            "title": "Laylat al-Qadr 2027: Expected Dates, Dua and How to Prepare",
+            "excerpt": "Laylat al-Qadr 2027 is expected to fall on one of the odd nights in the last ten nights of Ramadan 1448. Ramadan is expected to begin on about 8 February 2027,…",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/fe9d9136-b865-43a9-bf1a-bfb008cc0324.webp",
+                "alt": "",
+                "width": 1200,
+                "height": 628
+            },
+            "categories": [
+                {
+                    "id": 70,
+                    "slug": "ramadan",
+                    "name": "Ramadan",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-11-05T10:26:15+00:00",
+            "updatedAt": "2026-11-18T10:36:51+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "a5ae7500aa63b874914ebecc5653b498cafdfd220485e4e1b0b583693515b2b3",
+            "url": "https://muslimsday.com/blog/laylat-al-qadr-2027",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/laylat-al-qadr-2027.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/laylat-al-qadr-2027.html"
+        }
+    ]
+}

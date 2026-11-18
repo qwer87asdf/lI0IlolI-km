@@ -3,6 +3,36 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 169,
+            "translationId": 169,
+            "language": "bn",
+            "slug": "আল্লাহ-রব্বুল-আলামীন",
+            "title": "আল্লাহ ‘রব্বুল আলামীন’",
+            "excerpt": "Post Updated at 20 Feb, 2024 – 11:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7078ac80-689d-48de-bbef-20d4aa69904f.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 632
+            },
+            "categories": [
+                {
+                    "id": 49,
+                    "slug": "কুরআনের-শিক্ষা",
+                    "name": "কুরআনের শিক্ষা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-02-20T17:44:05+00:00",
+            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "b502f1802050850c7380e3a8b519e865fd90fa47a412f7637dc7020cc01c65c0",
+            "url": "https://muslimsday.com/bn/blog/আল্লাহ-রব্বুল-আলামীন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আল্লাহ-রব্বুল-আলামীন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আল্লাহ-রব্বুল-আলামীন.html"
+        },
+        {
             "id": 170,
             "translationId": 170,
             "language": "bn",
@@ -698,48 +728,6 @@
             "url": "https://muslimsday.com/bn/blog/ঈদে-মীলাদুন্নবীর-ইতিহাস",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদে-মীলাদুন্নবীর-ইতিহাস.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদে-মীলাদুন্নবীর-ইতিহাস.html"
-        },
-        {
-            "id": 189,
-            "translationId": 189,
-            "language": "bn",
-            "slug": "১২-রবিউল-আউয়াল",
-            "title": "১২ রবিউল আউয়াল কি নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের জন্মদিন?",
-            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7cb03733-718c-447f-b2ab-23e7edbc0735.png",
-                "alt": "",
-                "width": 1200,
-                "height": 675
-            },
-            "categories": [
-                {
-                    "id": 16,
-                    "slug": "আর্টিকেল",
-                    "name": "আর্টিকেল",
-                    "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 62,
-                    "slug": "বিদআত",
-                    "name": "বিদআত",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2023-09-27T04:15:39+00:00",
-            "updatedAt": "2026-11-17T04:04:34+00:00",
-            "readingTimeMinutes": 7,
-            "contentHash": "f8ea5de837dc473c480d423769851e2247526e1afb9e48863ee53bbef1e7a1d6",
-            "url": "https://muslimsday.com/bn/blog/১২-রবিউল-আউয়াল",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রবিউল-আউয়াল.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রবিউল-আউয়াল.html"
         }
     ]
 }

@@ -68,8 +68,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ইসলামের-ইতিহাস",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ইসলামের-ইতিহাস/pages/{page}.json"
     },
     {
         "id": 7,
@@ -80,8 +80,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%86%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%80%E0%A6%97%E0%A6%A3",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%86%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%80%E0%A6%97%E0%A6%A3/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/আনসার-সাহাবীগণ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/আনসার-সাহাবীগণ/pages/{page}.json"
     },
     {
         "id": 8,
@@ -92,8 +92,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE-faq",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE-faq/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq/pages/{page}.json"
     },
     {
         "id": 9,
@@ -104,8 +104,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/মাসআলা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/মাসআলা/pages/{page}.json"
     },
     {
         "id": 10,
@@ -116,8 +116,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/যাকাত-ফিতরা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/যাকাত-ফিতরা/pages/{page}.json"
     },
     {
         "id": 11,
@@ -128,8 +128,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A7",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A7/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/বিবিধ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/বিবিধ/pages/{page}.json"
     },
     {
         "id": 12,
@@ -140,8 +140,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/রমজানের-খাদ্যাভ্যাস",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/রমজানের-খাদ্যাভ্যাস/pages/{page}.json"
     },
     {
         "id": 13,
@@ -152,8 +152,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%AD%E0%A7%81%E0%A6%B2",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%AD%E0%A7%81%E0%A6%B2/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/প্রচলিত-ভুল",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/প্রচলিত-ভুল/pages/{page}.json"
     },
     {
         "id": 14,
@@ -164,8 +164,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%9C",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%9C/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/মন্দ-কাজ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/মন্দ-কাজ/pages/{page}.json"
     },
     {
         "id": 15,
@@ -176,8 +176,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A4-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/সালাত-নামাজ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/সালাত-নামাজ/pages/{page}.json"
     },
     {
         "id": 16,
@@ -188,8 +188,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/আর্টিকেল",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/আর্টিকেল/pages/{page}.json"
     },
     {
         "id": 17,
@@ -200,8 +200,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%A6/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ভ্রান্ত-মতবাদ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ভ্রান্ত-মতবাদ/pages/{page}.json"
     },
     {
         "id": 18,
@@ -212,8 +212,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/কাযা-নামাজ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/কাযা-নামাজ/pages/{page}.json"
     },
     {
         "id": 19,
@@ -224,8 +224,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%86%E0%A6%A6%E0%A6%AC",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%86%E0%A6%A6%E0%A6%AC/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/আদব",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/আদব/pages/{page}.json"
     },
     {
         "id": 20,
@@ -236,8 +236,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%87%E0%A6%B2%E0%A6%AE-%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%87%E0%A6%B2%E0%A6%AE-%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ইলম-জ্ঞানচর্চা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ইলম-জ্ঞানচর্চা/pages/{page}.json"
     },
     {
         "id": 21,
@@ -248,8 +248,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ইসলামি-সংস্কৃতি",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ইসলামি-সংস্কৃতি/pages/{page}.json"
     },
     {
         "id": 22,
@@ -260,8 +260,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B9%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%95-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B9%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%95-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/হুকুক-অধিকার",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/হুকুক-অধিকার/pages/{page}.json"
     },
     {
         "id": 23,
@@ -272,8 +272,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%AA%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%AA%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/তাহারাত-পবিত্রতা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/তাহারাত-পবিত্রতা/pages/{page}.json"
     },
     {
         "id": 24,
@@ -284,8 +284,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AC%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/বই-রিভিউ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/বই-রিভিউ/pages/{page}.json"
     },
     {
         "id": 25,
@@ -296,8 +296,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/হাদীসের-গল্প",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/হাদীসের-গল্প/pages/{page}.json"
     },
     {
         "id": 26,
@@ -308,8 +308,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%82%E0%A6%A8-%E0%A6%86%E0%A6%AE%E0%A6%B2",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%82%E0%A6%A8-%E0%A6%86%E0%A6%AE%E0%A6%B2/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/মাসনূন-আমল",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/মাসনূন-আমল/pages/{page}.json"
     },
     {
         "id": 27,
@@ -320,8 +320,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A8%E0%A6%AB%E0%A6%B2",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A8%E0%A6%AB%E0%A6%B2/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/নফল",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/নফল/pages/{page}.json"
     },
     {
         "id": 28,
@@ -332,8 +332,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/সুন্নত-নামাজ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/সুন্নত-নামাজ/pages/{page}.json"
     },
     {
         "id": 29,
@@ -344,8 +344,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/দোয়া",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/দোয়া/pages/{page}.json"
     },
     {
         "id": 30,
@@ -356,8 +356,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/হালাল-হারাম",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/হালাল-হারাম/pages/{page}.json"
     },
     {
         "id": 31,
@@ -368,8 +368,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9F-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%9F-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%B8%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/বানোয়াট-কিসসা-কাহিনী",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/বানোয়াট-কিসসা-কাহিনী/pages/{page}.json"
     },
     {
         "id": 32,
@@ -380,8 +380,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/বিয়ে-তালাক",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/বিয়ে-তালাক/pages/{page}.json"
     },
     {
         "id": 33,
@@ -392,8 +392,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AB%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%A4%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি/pages/{page}.json"
     },
     {
         "id": 34,
@@ -404,8 +404,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B8%E0%A6%BE%E0%A6%93%E0%A6%AE-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B8%E0%A6%BE%E0%A6%93%E0%A6%AE-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/সাওম-রোজা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/সাওম-রোজা/pages/{page}.json"
     },
     {
         "id": 35,
@@ -416,8 +416,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/নিয়ত",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/নিয়ত/pages/{page}.json"
     },
     {
         "id": 36,
@@ -428,8 +428,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A6%AE%E0%A6%B0%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A6%AE%E0%A6%B0%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/হজ-ওমরা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/হজ-ওমরা/pages/{page}.json"
     },
     {
         "id": 37,
@@ -440,8 +440,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B2",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B2/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ইসরাইল",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ইসরাইল/pages/{page}.json"
     },
     {
         "id": 38,
@@ -452,8 +452,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/গাজা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/গাজা/pages/{page}.json"
     },
     {
         "id": 39,
@@ -464,8 +464,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A8",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A8/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ফিলিস্তিন",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ফিলিস্তিন/pages/{page}.json"
     },
     {
         "id": 40,
@@ -476,8 +476,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/রমযান",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/রমযান/pages/{page}.json"
     },
     {
         "id": 41,
@@ -488,8 +488,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/নামাজ-শিক্ষা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/নামাজ-শিক্ষা/pages/{page}.json"
     },
     {
         "id": 42,
@@ -500,8 +500,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/নামাজের-সুন্নত",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/নামাজের-সুন্নত/pages/{page}.json"
     },
     {
         "id": 43,
@@ -512,8 +512,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%A4",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%A4/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/কেরাত",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/কেরাত/pages/{page}.json"
     },
     {
         "id": 44,
@@ -524,8 +524,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A6%B2%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A6%B2%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/কিবলা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/কিবলা/pages/{page}.json"
     },
     {
         "id": 45,
@@ -536,8 +536,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A6%A6%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/রুকু-সিজদা-শেষ-বৈঠক",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/রুকু-সিজদা-শেষ-বৈঠক/pages/{page}.json"
     },
     {
         "id": 46,
@@ -548,8 +548,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%85%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%85%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/অসুস্থ-ব্যক্তির-নামাজ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/অসুস্থ-ব্যক্তির-নামাজ/pages/{page}.json"
     },
     {
         "id": 47,
@@ -560,8 +560,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/চেয়ারে-বসে-নামাজ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/চেয়ারে-বসে-নামাজ/pages/{page}.json"
     },
     {
         "id": 48,
@@ -572,8 +572,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/জানাযা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/জানাযা/pages/{page}.json"
     },
     {
         "id": 49,
@@ -584,8 +584,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%86%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/কুরআনের-শিক্ষা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/কুরআনের-শিক্ষা/pages/{page}.json"
     },
     {
         "id": 50,
@@ -596,8 +596,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%A8",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%A8/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/সফল-মুমিন",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/সফল-মুমিন/pages/{page}.json"
     },
     {
         "id": 51,
@@ -608,8 +608,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B8%E0%A6%AB%E0%A6%B2%E0%A6%A4%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B8%E0%A6%AB%E0%A6%B2%E0%A6%A4%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/সফলতা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/সফলতা/pages/{page}.json"
     },
     {
         "id": 52,
@@ -620,8 +620,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A8%E0%A6%AC%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A8%E0%A6%AC%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/নববর্ষ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/নববর্ষ/pages/{page}.json"
     },
     {
         "id": 53,
@@ -632,8 +632,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/তালাক",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/তালাক/pages/{page}.json"
     },
     {
         "id": 54,
@@ -644,8 +644,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B9-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B9-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/নিকাহ-তালাক",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/নিকাহ-তালাক/pages/{page}.json"
     },
     {
         "id": 55,
@@ -656,8 +656,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/প্রতিযোগিতা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/প্রতিযোগিতা/pages/{page}.json"
     },
     {
         "id": 56,
@@ -668,8 +668,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%A6%E0%A6%95%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%A6%E0%A6%95%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/দান-সদকা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/দান-সদকা/pages/{page}.json"
     },
     {
         "id": 57,
@@ -680,8 +680,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%88%E0%A6%A6",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%88%E0%A6%A6/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ঈদ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ঈদ/pages/{page}.json"
     },
     {
         "id": 58,
@@ -692,8 +692,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/কুরবানি",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/কুরবানি/pages/{page}.json"
     },
     {
         "id": 59,
@@ -704,8 +704,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%A8%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%95",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%A8%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%95/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/নবজাতক",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/নবজাতক/pages/{page}.json"
     },
     {
         "id": 60,
@@ -716,8 +716,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE-%E0%A6%93-%E0%A6%B8%E0%A7%81%E0%A6%A6",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE-%E0%A6%93-%E0%A6%B8%E0%A7%81%E0%A6%A6/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/রিবা-ও-সুদ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/রিবা-ও-সুদ/pages/{page}.json"
     },
     {
         "id": 61,
@@ -728,8 +728,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%A8%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%A8%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ফিতনা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ফিতনা/pages/{page}.json"
     },
     {
         "id": 62,
@@ -740,8 +740,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%86%E0%A6%A4",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%86%E0%A6%A4/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/বিদআত",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/বিদআত/pages/{page}.json"
     },
     {
         "id": 63,
@@ -752,8 +752,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%B0%E0%A6%AE-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%B0%E0%A6%AE-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/মুহাররম-আশুরা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/মুহাররম-আশুরা/pages/{page}.json"
     },
     {
         "id": 64,
@@ -764,8 +764,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/যানবাহনে-নামাজ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/যানবাহনে-নামাজ/pages/{page}.json"
     },
     {
         "id": 65,
@@ -776,8 +776,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/যাকাত",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/যাকাত/pages/{page}.json"
     },
     {
         "id": 66,
@@ -788,8 +788,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AB/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ইতিকাফ",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ইতিকাফ/pages/{page}.json"
     },
     {
         "id": 67,
@@ -800,7 +800,43 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE",
-        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ফিতরা",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ফিতরা/pages/{page}.json"
+    },
+    {
+        "id": 68,
+        "slug": "আপডেট",
+        "name": "আপডেট",
+        "description": null,
+        "parent": null,
+        "count": 0,
+        "totalPosts": 0,
+        "totalPages": 1,
+        "url": "https://muslimsday.com/blog/category/আপডেট",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/আপডেট/pages/{page}.json"
+    },
+    {
+        "id": 69,
+        "slug": "আর্টিকেল",
+        "name": "আর্টিকেল",
+        "description": null,
+        "parent": null,
+        "count": 3,
+        "totalPosts": 3,
+        "totalPages": 1,
+        "url": "https://muslimsday.com/blog/category/আর্টিকেল",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/আর্টিকেল/pages/{page}.json"
+    },
+    {
+        "id": 70,
+        "slug": "ramadan",
+        "name": "Ramadan",
+        "description": null,
+        "parent": null,
+        "count": 1,
+        "totalPosts": 1,
+        "totalPages": 1,
+        "url": "https://muslimsday.com/blog/category/ramadan",
+        "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/en/categories/ramadan/pages/{page}.json"
     }
 ]

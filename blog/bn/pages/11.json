@@ -3,6 +3,42 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 209,
+            "translationId": 209,
+            "language": "bn",
+            "slug": "মাবরুর-হজ-জান্নাত",
+            "title": "মাবরুর হজ : জান্নাতই যার একমাত্র প্রতিদান",
+            "excerpt": "Post Updated at 23 May, 2023 – 7:31 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 36,
+                    "slug": "হজ-ওমরা",
+                    "name": "হজ - ওমরা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-09T01:41:19+00:00",
+            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "792e369e174ff81fcf0b8ad9ac201accfc0e574fa2e1c387483cb87817cd89a2",
+            "url": "https://muslimsday.com/bn/blog/মাবরুর-হজ-জান্নাত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাবরুর-হজ-জান্নাত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাবরুর-হজ-জান্নাত.html"
+        },
+        {
             "id": 210,
             "translationId": 210,
             "language": "bn",
@@ -715,42 +751,6 @@
             "url": "https://muslimsday.com/bn/blog/ঈদের-আনন্দে-রমজানের-সংযম",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদের-আনন্দে-রমজানের-সংযম.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদের-আনন্দে-রমজানের-সংযম.html"
-        },
-        {
-            "id": 229,
-            "translationId": 229,
-            "language": "bn",
-            "slug": "যাকাত-কাকে-দেয়া-যাবে",
-            "title": "আপনার যাকাত কাদেরকে দেবেন",
-            "excerpt": "Post Updated at 15 Mar, 2024 – 12:18 PM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1caed9f4-e7ba-45c8-8932-5eece56baf85.jpg",
-                "alt": "",
-                "width": 1000,
-                "height": 686
-            },
-            "categories": [
-                {
-                    "id": 9,
-                    "slug": "মাসআলা",
-                    "name": "মাসআলা",
-                    "primary": true
-                },
-                {
-                    "id": 65,
-                    "slug": "যাকাত",
-                    "name": "যাকাত",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2023-04-16T13:51:33+00:00",
-            "updatedAt": "2026-11-17T04:05:16+00:00",
-            "readingTimeMinutes": 5,
-            "contentHash": "0327aec99deb27c0bd868030fad51ebe01fd715f9a594c25c2b4decdb82f8c44",
-            "url": "https://muslimsday.com/bn/blog/যাকাত-কাকে-দেয়া-যাবে",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যাকাত-কাকে-দেয়া-যাবে.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যাকাত-কাকে-দেয়া-যাবে.html"
         }
     ]
 }

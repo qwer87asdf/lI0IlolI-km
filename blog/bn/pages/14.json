@@ -3,6 +3,42 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 269,
+            "translationId": 269,
+            "language": "bn",
+            "slug": "রোজা-ভঙ্গের-কারণ",
+            "title": "সাওম (রোজা) ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:58 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-27T16:40:00+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "4e317899ebce383dd7ed065323501b55301e10c35d442e77dc31bb1441399bb1",
+            "url": "https://muslimsday.com/bn/blog/রোজা-ভঙ্গের-কারণ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণ.html"
+        },
+        {
             "id": 270,
             "translationId": 270,
             "language": "bn",

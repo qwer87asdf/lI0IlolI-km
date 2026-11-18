@@ -1,0 +1,37 @@
+{
+    "category": "আপডেট",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 283,
+            "translationId": 283,
+            "language": "bn",
+            "slug": "জুলাই-ইমপ্যাক্ট",
+            "title": "মুসলিমস ডে অ্যাপ, জুলাই ২০২৬ কন্ট্রিবিউটর ইমপ্যাক্ট রিপোর্ট",
+            "excerpt": "আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহ।",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/ca6bf40a-7633-4378-8b74-27adc77df59b.png",
+                "alt": "",
+                "width": 960,
+                "height": 640
+            },
+            "categories": [
+                {
+                    "id": 68,
+                    "slug": "আপডেট",
+                    "name": "আপডেট",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-17T08:57:46+00:00",
+            "updatedAt": "2026-11-18T10:35:45+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "e72b1d49e5a7ac028548fe9310d097bf16010fd078cb94761dd4205da86936a8",
+            "url": "https://muslimsday.com/bn/blog/জুলাই-ইমপ্যাক্ট",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুলাই-ইমপ্যাক্ট.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুলাই-ইমপ্যাক্ট.html"
+        }
+    ]
+}

@@ -3,6 +3,42 @@
     "totalPages": 14,
     "items": [
         {
+            "id": 149,
+            "translationId": 149,
+            "language": "bn",
+            "slug": "কুরবানি-কার-ওপর-ওয়াজিব",
+            "title": "কুরবানি কার ওপর ওয়াজিব?",
+            "excerpt": "Post Updated at 27 May, 2026 – 4:00 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 58,
+                    "slug": "কুরবানি",
+                    "name": "কুরবানি",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T16:13:06+00:00",
+            "updatedAt": "2026-11-17T04:03:36+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "7e2ee171ab8fea12e9d774d3c5744a9c8be421f4148c7b32f4e5e359782496a6",
+            "url": "https://muslimsday.com/bn/blog/কুরবানি-কার-ওপর-ওয়াজিব",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানি-কার-ওপর-ওয়াজিব.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানি-কার-ওপর-ওয়াজিব.html"
+        },
+        {
             "id": 150,
             "translationId": 150,
             "language": "bn",
@@ -697,36 +733,6 @@
             "url": "https://muslimsday.com/bn/blog/সাহরির-শেষ-সময়",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরির-শেষ-সময়.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরির-শেষ-সময়.html"
-        },
-        {
-            "id": 169,
-            "translationId": 169,
-            "language": "bn",
-            "slug": "আল্লাহ-রব্বুল-আলামীন",
-            "title": "আল্লাহ ‘রব্বুল আলামীন’",
-            "excerpt": "Post Updated at 20 Feb, 2024 – 11:44 PM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7078ac80-689d-48de-bbef-20d4aa69904f.jpg",
-                "alt": "",
-                "width": 1000,
-                "height": 632
-            },
-            "categories": [
-                {
-                    "id": 49,
-                    "slug": "কুরআনের-শিক্ষা",
-                    "name": "কুরআনের শিক্ষা",
-                    "primary": true
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2024-02-20T17:44:05+00:00",
-            "updatedAt": "2026-11-17T04:04:09+00:00",
-            "readingTimeMinutes": 8,
-            "contentHash": "b502f1802050850c7380e3a8b519e865fd90fa47a412f7637dc7020cc01c65c0",
-            "url": "https://muslimsday.com/bn/blog/আল্লাহ-রব্বুল-আলামীন",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আল্লাহ-রব্বুল-আলামীন.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আল্লাহ-রব্বুল-আলামীন.html"
         }
     ]
 }

@@ -47,9 +47,9 @@
             "updatedAt": "2026-11-17T04:03:13+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "7aeaa9b785a6647829f540d310ae28cd506e05668168327fb5706f4333f4180a",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%86%E0%A6%95%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%95%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%86%E0%A6%95%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE.html"
+            "url": "https://muslimsday.com/bn/blog/আকস্মিক-বন্যায়-সহযোগিতা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আকস্মিক-বন্যায়-সহযোগিতা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আকস্মিক-বন্যায়-সহযোগিতা.html"
         },
         {
             "id": 194,
@@ -83,9 +83,9 @@
             "updatedAt": "2026-11-17T04:04:42+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "c3e052d3bf9e2f4a9fb4d86927e98639e2a37210768ed0a27b0313afbb86ce40",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%A8",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%A8.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%A8.html"
+            "url": "https://muslimsday.com/bn/blog/ইসলামে-বৃক্ষরোপন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইসলামে-বৃক্ষরোপন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইসলামে-বৃক্ষরোপন.html"
         }
     ]
 }
