@@ -82,17 +82,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-06T13:34:09+00:00",
-            "updatedAt": "2026-11-17T04:02:19+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "1067359b204f057634eb319003b64779b44d7a4e793481ed1549fe91acb49576",
             "url": "https://muslimsday.com/bn/blog/শবে-মেরাজ-জুতা-পরে-আরশে-গম",
@@ -144,12 +138,6 @@
             },
             "categories": [
                 {
-                    "id": 20,
-                    "slug": "ইলম-জ্ঞানচর্চা",
-                    "name": "ইলম - জ্ঞানচর্চা",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
@@ -158,7 +146,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2025-08-06T13:23:55+00:00",
-            "updatedAt": "2026-11-17T04:02:19+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "54cf4af1f603751e2e88dc4deb24ff11b690838603ce79cd4cdda644e9e6a962",
             "url": "https://muslimsday.com/bn/blog/ইলম-আলেম-সম্পর্কে-জাল-কথা",
@@ -184,17 +172,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T17:55:04+00:00",
-            "updatedAt": "2026-11-17T04:02:20+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "cf5d6bb079eb49f9f8ef23567285340877a34db3c7db7dedc21eaa7cf7d8640b",
             "url": "https://muslimsday.com/bn/blog/শবে-মেরাজ-উদযাপন",
@@ -220,23 +202,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T17:46:17+00:00",
-            "updatedAt": "2026-11-17T04:02:24+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "1c756febb2464714463397c2cdf9f64fe207683b7b6b25819e9fdfff3e18a771",
             "url": "https://muslimsday.com/bn/blog/তারাবীর-নামাজ-রোজা-কবুল",
@@ -262,17 +232,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T17:41:01+00:00",
-            "updatedAt": "2026-11-17T04:02:24+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "4e2213e18feb6a0009233b21426d96d35f4ca8b9f5929162a3adac203fa3361f",
             "url": "https://muslimsday.com/bn/blog/রোজা-টুথপেস্ট-দাঁত-মাজা",
@@ -298,17 +262,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:59:37+00:00",
-            "updatedAt": "2026-11-17T04:02:24+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "b96cff79a0b52bd390393a27d9d7437066a75d21892156fea27aa14bbf4a4e6d",
             "url": "https://muslimsday.com/bn/blog/ইমাম-রুকুতে-গেলেও-সানা-পড",
@@ -334,17 +292,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:56:37+00:00",
-            "updatedAt": "2026-11-17T04:02:24+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "86fe01b27a54e16687e6de7b1bcddcf56c00c13c36fbd81f7a141f1d86fffec3",
             "url": "https://muslimsday.com/bn/blog/আজানের-আগে-সুন্নত-পড়া",
@@ -370,17 +322,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:54:18+00:00",
-            "updatedAt": "2026-11-17T04:02:24+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "58df44051d5058d9716431973fdf7fa1e07287b7e441595e3b177b3caa8366b2",
             "url": "https://muslimsday.com/bn/blog/মসজিদে-আগে-বসা-পরে-নামাজ-প",
@@ -406,17 +352,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:51:44+00:00",
-            "updatedAt": "2026-11-17T04:02:24+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "370c28af8e9d62911a21a66290ef70269bffe43a52342169faece3d12b6bcb65",
             "url": "https://muslimsday.com/bn/blog/মাসবুক-ভুলে-সালাম-ফিরানো",
@@ -442,17 +382,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:49:48+00:00",
-            "updatedAt": "2026-11-17T04:02:24+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "7bc6c77920bc0c82ff2a81d4a0cdff53fb804805b819a957b7e7dca2c80d6474",
             "url": "https://muslimsday.com/bn/blog/কাতারের-মাঝে-সুন্নত-আদায",
@@ -478,17 +412,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:47:38+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "82bdd2f59b38f40876bdebae8286f92f81e587ac8770c8d7467c1bc5308ec5dd",
             "url": "https://muslimsday.com/bn/blog/সালাত-শেষ-বৈঠকে-অংশ-না-নেয",
@@ -514,17 +442,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:44:49+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "0adefafccff1ea5c64219a38fd7ee159f2cc066dec569158603db0ffa2170418",
             "url": "https://muslimsday.com/bn/blog/পাগড়ি-সহ-সালাত-আদায়",
@@ -550,17 +472,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:40:48+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "c531950e01705737ae168536ee3248e619cbb632b46d476bae32b620798d796c",
             "url": "https://muslimsday.com/bn/blog/সময়-বিবেচনা-সুন্নত-নামা",
@@ -586,17 +502,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:38:02+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "f5bd7f512e800a774f7585e41ead790b513a158a6235c992358c51b9efa5c566",
             "url": "https://muslimsday.com/bn/blog/সাহু-সিজদা-মাসবুক",
@@ -622,17 +532,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:22:43+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "19fa8e2bda2806379086d14d58ed6b6639cfc7f8f1bf2ec52324cac8d91ac505",
             "url": "https://muslimsday.com/bn/blog/নামাজ-মুমিনের-মেরাজ",
@@ -658,17 +562,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:18:32+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "b06dd3a374d6964c2e37373d0ee55058e2b52c95891fa7c6820ffc4deb8efd5b",
             "url": "https://muslimsday.com/bn/blog/জায়নামাজের-দোয়া",
@@ -690,27 +588,15 @@
             },
             "categories": [
                 {
-                    "id": 35,
-                    "slug": "নিয়ত",
-                    "name": "নিয়ত",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:11:43+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "14fb2967c1f6e10f02353311f2a725125671fdb004ac6910c9cd74087a787303",
             "url": "https://muslimsday.com/bn/blog/নামাজের-নিয়ত",

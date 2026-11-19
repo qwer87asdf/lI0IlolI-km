@@ -22,23 +22,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 40,
-                    "slug": "রমযান",
-                    "name": "রমযান",
-                    "primary": false
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-02-19T08:39:32+00:00",
-            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 11,
             "contentHash": "59faa15849c4e1d51952e6d2da07eac8121b8c0cee5abb5b30837014bc54fa42",
             "url": "https://muslimsday.com/bn/blog/রমযানুল-মুবারক-ও-আমাদের-উ",
@@ -70,23 +58,11 @@
                     "slug": "কুরআনের-শিক্ষা",
                     "name": "কুরআনের শিক্ষা",
                     "primary": true
-                },
-                {
-                    "id": 50,
-                    "slug": "সফল-মুমিন",
-                    "name": "সফল মুমিন",
-                    "primary": false
-                },
-                {
-                    "id": 51,
-                    "slug": "সফলতা",
-                    "name": "সফলতা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T04:47:48+00:00",
-            "updatedAt": "2026-11-17T04:03:02+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "08ea7b015d69abcc752bb88b8a6d39a7dac0902b5c4bd9858910f8c420225411",
             "url": "https://muslimsday.com/bn/blog/কুরআনের-ভাষায়-সফল-মুমিন-4",
@@ -112,29 +88,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 52,
-                    "slug": "নববর্ষ",
-                    "name": "নববর্ষ",
-                    "primary": false
-                },
-                {
-                    "id": 14,
-                    "slug": "মন্দ-কাজ",
-                    "name": "মন্দ কাজ",
-                    "primary": false
-                },
-                {
-                    "id": 30,
-                    "slug": "হালাল-হারাম",
-                    "name": "হালাল - হারাম",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-12-19T16:54:16+00:00",
-            "updatedAt": "2026-11-17T04:03:06+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "9af136926300a5492b0648689381b9c5ded8db276cb8974e956f67a43ad03a29",
             "url": "https://muslimsday.com/bn/blog/বর্ষবরণ-ও-অন্যদের-অনুসরণ",
@@ -160,29 +118,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 52,
-                    "slug": "নববর্ষ",
-                    "name": "নববর্ষ",
-                    "primary": false
-                },
-                {
-                    "id": 14,
-                    "slug": "মন্দ-কাজ",
-                    "name": "মন্দ কাজ",
-                    "primary": false
-                },
-                {
-                    "id": 22,
-                    "slug": "হুকুক-অধিকার",
-                    "name": "হুকুক - অধিকার",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-12-19T16:41:01+00:00",
-            "updatedAt": "2026-11-17T04:03:06+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 6,
             "contentHash": "e3efd095a4353b305d5f51ddb95c5ad7b98236a5ef9cbc122bfd24594b9e5f01",
             "url": "https://muslimsday.com/bn/blog/থার্টি-ফার্স্ট-নাইট",
@@ -208,23 +148,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 50,
-                    "slug": "সফল-মুমিন",
-                    "name": "সফল মুমিন",
-                    "primary": false
-                },
-                {
-                    "id": 51,
-                    "slug": "সফলতা",
-                    "name": "সফলতা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-12-02T16:42:29+00:00",
-            "updatedAt": "2026-11-17T04:03:06+00:00",
+            "updatedAt": "2026-11-19T08:09:13+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "f16b5e18591dd2baa2bdde5368ae54357528e4b488be8efb619962dde631e0e2",
             "url": "https://muslimsday.com/bn/blog/কুরআনের-ভাষায়-সফল-মুমিন-2",
@@ -250,29 +178,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 53,
-                    "slug": "তালাক",
-                    "name": "তালাক",
-                    "primary": false
-                },
-                {
-                    "id": 54,
-                    "slug": "নিকাহ-তালাক",
-                    "name": "নিকাহ-তালাক",
-                    "primary": false
-                },
-                {
-                    "id": 32,
-                    "slug": "বিয়ে-তালাক",
-                    "name": "বিয়ে-তালাক",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-12-02T16:08:46+00:00",
-            "updatedAt": "2026-11-17T04:03:09+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 10,
             "contentHash": "985851b657731a8dbaf55df13d5d193123c06fe0da15202fa0e0e6390c37f066",
             "url": "https://muslimsday.com/bn/blog/তালাক-অজ্ঞতা-পরিণতি",
@@ -298,23 +208,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 20,
-                    "slug": "ইলম-জ্ঞানচর্চা",
-                    "name": "ইলম - জ্ঞানচর্চা",
-                    "primary": false
-                },
-                {
-                    "id": 21,
-                    "slug": "ইসলামি-সংস্কৃতি",
-                    "name": "ইসলামি সংস্কৃতি",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-10-31T01:36:24+00:00",
-            "updatedAt": "2026-11-17T04:03:09+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "305a54d907b456c982a41debd5bbcaa3d54bad05cf457b19ae1f4d6812616701",
             "url": "https://muslimsday.com/bn/blog/বইপাঠ-ও-জ্ঞানচর্চা-ইসলাম",
@@ -346,23 +244,11 @@
                     "slug": "কুরআনের-শিক্ষা",
                     "name": "কুরআনের শিক্ষা",
                     "primary": true
-                },
-                {
-                    "id": 50,
-                    "slug": "সফল-মুমিন",
-                    "name": "সফল মুমিন",
-                    "primary": false
-                },
-                {
-                    "id": 51,
-                    "slug": "সফলতা",
-                    "name": "সফলতা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-10-30T02:20:13+00:00",
-            "updatedAt": "2026-11-17T04:03:09+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 10,
             "contentHash": "3bcdaf76293e834d8adce157e23f20fa6cb0c12481c5fd040cda1a978463d34d",
             "url": "https://muslimsday.com/bn/blog/কুরআনের-ভাষায়-সফল-মুমিন",
@@ -418,17 +304,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 55,
-                    "slug": "প্রতিযোগিতা",
-                    "name": "প্রতিযোগিতা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-09-10T03:08:57+00:00",
-            "updatedAt": "2026-11-17T04:03:13+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "b67e3adfaca714850b4d3d5df7c19516ddbb38b234016963378cbb1eb09f547e",
             "url": "https://muslimsday.com/bn/blog/নেক-কাজে-প্রতিযোগিতা",
@@ -454,29 +334,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 56,
-                    "slug": "দান-সদকা",
-                    "name": "দান-সদকা",
-                    "primary": false
-                },
-                {
-                    "id": 27,
-                    "slug": "নফল",
-                    "name": "নফল",
-                    "primary": false
-                },
-                {
-                    "id": 22,
-                    "slug": "হুকুক-অধিকার",
-                    "name": "হুকুক - অধিকার",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-08-26T06:37:36+00:00",
-            "updatedAt": "2026-11-17T04:03:13+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "7aeaa9b785a6647829f540d310ae28cd506e05668168327fb5706f4333f4180a",
             "url": "https://muslimsday.com/bn/blog/আকস্মিক-বন্যায়-সহযোগিতা",
@@ -502,23 +364,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 27,
-                    "slug": "নফল",
-                    "name": "নফল",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-08-22T03:17:52+00:00",
-            "updatedAt": "2026-11-17T04:03:13+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "bd4cf6482727ac3ccbabd2c21c97b1540df7cb6a59bd9fbdbc6b09f9718c7fad",
             "url": "https://muslimsday.com/bn/blog/নফল-নামাযের-ফযিলত",
@@ -604,17 +454,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 30,
-                    "slug": "হালাল-হারাম",
-                    "name": "হালাল - হারাম",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-07-06T15:33:08+00:00",
-            "updatedAt": "2026-11-17T04:03:20+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "14eba9c82993e134017d55e731c32ac0da9e5150c846c442a1b3da5171fbdd38",
             "url": "https://muslimsday.com/bn/blog/টাখনুর-নিচে-কাপড়-পরিধান",
@@ -700,23 +544,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 21,
-                    "slug": "ইসলামি-সংস্কৃতি",
-                    "name": "ইসলামি সংস্কৃতি",
-                    "primary": false
-                },
-                {
-                    "id": 59,
-                    "slug": "নবজাতক",
-                    "name": "নবজাতক",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-04-24T06:27:09+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "46264613a0e28445a8e99ad8cea821a3a3eb11334f406f10b465b74f4dc1742f",
             "url": "https://muslimsday.com/bn/blog/নবজাতকের-উপহার",
@@ -742,17 +574,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 60,
-                    "slug": "রিবা-ও-সুদ",
-                    "name": "রিবা ও সুদ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-04-06T03:35:25+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "cbad3eb091201425a51e773f7dc95fe5b37bc7a3fd69f44c9b6d14f9e1e1a14b",
             "url": "https://muslimsday.com/bn/blog/নতুন-টাকা-কেনা-বেচা-রিবা",
@@ -778,23 +604,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-03-26T21:37:09+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 15,
             "contentHash": "ebc24810a9c83b99ffb0a8946870e0a7c3c73d6dec77d6024ffd43113a4424b6",
             "url": "https://muslimsday.com/bn/blog/তারাবীর-নামায-২০-রাকাত",

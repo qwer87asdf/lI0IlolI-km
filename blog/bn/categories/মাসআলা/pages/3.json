@@ -18,12 +18,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -32,7 +26,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T15:13:29+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "2a7b70591a62a349d1400f1e79f7d5b858883b10797a7ad58750319a2c5744e6",
             "url": "https://muslimsday.com/bn/blog/কুরবানির-পশু-দিয়ে-উপকৃত",
@@ -54,27 +48,15 @@
             },
             "categories": [
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-04-23T07:06:10+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "9acbd8c0c46c692184a8d92111a53db752185fda328ee5359e311293a41d29f8",
             "url": "https://muslimsday.com/bn/blog/নামাজ-কাযা-হয়ে-যায়-কখন",
@@ -96,12 +78,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -110,7 +86,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-02-29T16:01:27+00:00",
-            "updatedAt": "2026-11-17T04:03:42+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "5297790319d887c8a458e25789e7f6ab93ab6cd2a45555febd52ca0c281130d6",
             "url": "https://muslimsday.com/bn/blog/ওজুর-মাসায়েল",
@@ -132,12 +108,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -146,7 +116,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-02-29T15:46:07+00:00",
-            "updatedAt": "2026-11-17T04:03:42+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "32adff3a4a57803bf50111c431f86aaac219c29047ba81fa00e0d8b7d2914085",
             "url": "https://muslimsday.com/bn/blog/ওজুর-ফরজসমূহ",
@@ -168,12 +138,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -182,7 +146,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-02-29T15:40:35+00:00",
-            "updatedAt": "2026-11-17T04:03:42+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "6a653a9406ffc2922ac2a3dba260dccce1b4c5ad302acc61c9ec4160830bd638",
             "url": "https://muslimsday.com/bn/blog/ওজুর-সুন্নতসমূহ",
@@ -208,17 +172,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-02-23T13:37:42+00:00",
-            "updatedAt": "2026-11-17T04:04:08+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "d491ab4b7caf5b9190416d0bd15f3a70a88cd1fe53b03cebc3fb63ebb3312509",
             "url": "https://muslimsday.com/bn/blog/সাহরির-শেষ-সময়",
@@ -240,12 +198,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -254,7 +206,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-02-16T16:19:45+00:00",
-            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "c0bb60d62d96aa82dc79ceb62eb309b0c7bf34bbc6fe0976469a321ba46b00cc",
             "url": "https://muslimsday.com/bn/blog/লজ্জাস্থান-স্পর্শ-ও-ওজু",
@@ -276,27 +228,15 @@
             },
             "categories": [
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-11-20T11:43:52+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "885fc49a5e52436b0a8ddacf536ef42d1a8252e9f550314fd86229405cb5c625",
             "url": "https://muslimsday.com/bn/blog/নামাজের-ওয়াজিবসমূহ",
@@ -324,27 +264,15 @@
                     "primary": false
                 },
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-11-19T08:05:18+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "7f6986b35424e41da07f3508420eb467b44230867e9db069d062b38f6c239bd7",
             "url": "https://muslimsday.com/bn/blog/নামাজের-ধারাবাহিক-বিবরণ",
@@ -366,12 +294,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -380,7 +302,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-15T09:07:37+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "44e604295e6a24d345e8ee558ce1ad8a5e8002b8f0820c5a5dc7221c332ab1a2",
             "url": "https://muslimsday.com/bn/blog/অসুস্থ-ব্যক্তির-ওজু-গোসল",
@@ -402,12 +324,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -416,7 +332,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-07T09:38:37+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "c6e073ea2bc1f3460c4427de40549d127f54c56a373b796e1c1dd81e3cfbb881",
             "url": "https://muslimsday.com/bn/blog/গোসলের-মাসায়েল",
@@ -438,12 +354,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -452,7 +362,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-04T05:34:55+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "57e011bb505e624c604faba96e3edde2997fdcd220a5651ac559dab3bb74e3f5",
             "url": "https://muslimsday.com/bn/blog/তায়াম্মুমের-বিধান",
@@ -474,12 +384,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -488,7 +392,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-04T05:17:29+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "ccb623fbaca9507ffc8e8f3bd335c208eb43e6834a3ddac420341c9e7fe2fa32",
             "url": "https://muslimsday.com/bn/blog/মোজার-উপর-মাসেহ-এর-বিধান",
@@ -510,12 +414,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -524,7 +422,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-02T16:24:28+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "fc53c59d8257bad0096dcdf7ba60a09d98fdcad02b9bde3cecb7b8b00024a78f",
             "url": "https://muslimsday.com/bn/blog/পানির-বিধান",
@@ -546,12 +444,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -560,7 +452,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-02T01:48:37+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 6,
             "contentHash": "c61aefdcb24cbbe11fead0a54eb004f9de6c3f077ce06d191d864e26227272f0",
             "url": "https://muslimsday.com/bn/blog/ওজু-কখন-ভাঙে-কখন-ভাঙে-না",
@@ -582,12 +474,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -596,7 +482,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-02T01:02:45+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "4d6602fd79bc725431b6f699a9029c3f3b05caf5aeff666e60898999ca70ff19",
             "url": "https://muslimsday.com/bn/blog/ওজু-করার-পদ্ধতি",
@@ -618,12 +504,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -632,7 +512,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-11-02T00:54:31+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "d0cc4161fc9badb29432e074463b32fe3f38d8528fe9e2b2426a76b6fa1184c0",
             "url": "https://muslimsday.com/bn/blog/মাজুর-ব্যক্তির-ওজু",
@@ -654,18 +534,6 @@
             },
             "categories": [
                 {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 62,
-                    "slug": "বিদআত",
-                    "name": "বিদআত",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -674,7 +542,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-09-25T02:07:25+00:00",
-            "updatedAt": "2026-11-17T04:04:34+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 6,
             "contentHash": "21c32eba7a96fb5ceabbb48fd22543bf20c9824a220bc56399fba799479c025d",
             "url": "https://muslimsday.com/bn/blog/জন্মদিন-পালনের-ইতিহাস",
@@ -696,33 +564,15 @@
             },
             "categories": [
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 64,
-                    "slug": "যানবাহনে-নামাজ",
-                    "name": "যানবাহনে নামাজ",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-07-01T23:54:30+00:00",
-            "updatedAt": "2026-11-17T04:04:56+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "4d9ff765dbdba1bca0a079ae062e9d50701de9533e8de63ec9b0329489e27834",
             "url": "https://muslimsday.com/bn/blog/যানবাহনে-নামাজের-পদ্ধতি",
@@ -748,17 +598,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-06-24T02:22:47+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "3c0c59a54917d5d4fc8bdf3871fb11af2049ee86f956a26d4eeb3493a19fee57",
             "url": "https://muslimsday.com/bn/blog/আরাফার-রোজা",

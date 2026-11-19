@@ -22,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2026-11-05T10:26:00+00:00",
-    "updatedAt": "2026-11-19T07:16:17+00:00",
+    "updatedAt": "2026-11-19T08:09:13+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "ec87505fa3f0b018170ad359cf3619476cda0ccc92cb1c2d90520bc66081aacd",
     "url": "https://muslimsday.com/blog/laylat-al-qadr-2027",
@@ -131,7 +131,24 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "dua",
+            "name": "dua"
+        },
+        {
+            "slug": "last-ten-nights",
+            "name": "last ten nights"
+        },
+        {
+            "slug": "laylat-al-qadr",
+            "name": "Laylat al-Qadr"
+        },
+        {
+            "slug": "ramadan-2027",
+            "name": "Ramadan 2027"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -165,7 +182,7 @@
             "locale": "en_US",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/fe9d9136-b865-43a9-bf1a-bfb008cc0324.webp",
             "publishedTime": "2026-11-05T10:26:00+00:00",
-            "modifiedTime": "2026-11-19T07:16:17+00:00",
+            "modifiedTime": "2026-11-19T08:09:13+00:00",
             "section": "Ramadan"
         },
         "twitter": {
@@ -207,7 +224,7 @@
                     }
                 },
                 "datePublished": "2026-11-05T10:26:00+00:00",
-                "dateModified": "2026-11-19T07:16:17+00:00",
+                "dateModified": "2026-11-19T08:09:13+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/fe9d9136-b865-43a9-bf1a-bfb008cc0324.webp",
                 "author": {
                     "@type": "Person",

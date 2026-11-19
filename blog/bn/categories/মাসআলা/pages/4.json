@@ -18,12 +18,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -32,7 +26,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-06-20T01:02:09+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "d742dbecc1536c4677d6bb4d924f98131470621f7cd09548795a36545be27141",
             "url": "https://muslimsday.com/bn/blog/কুরবানি-বিষয়ে-জিজ্ঞাসা",
@@ -54,27 +48,15 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-06-12T06:58:18+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "a4608569e92bd131bed45a70e9d6fdd3eea2b6529118ee47f69f527ac6d0d743",
             "url": "https://muslimsday.com/bn/blog/হাজী-ঈদুল-আজহা-কুরবানি",
@@ -100,17 +82,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-06-12T06:12:31+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "48e38c6579cd778ac86278419bada082f01dcb0c03c41c19129259d7e4800307",
             "url": "https://muslimsday.com/bn/blog/নারী-ও-পুরুষের-নামাজ",
@@ -142,17 +118,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-06-06T09:52:16+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 10,
             "contentHash": "84b30f0e736965696606a4d0fbd8e4aca9e995ddc144d14f925477f2ea0e8d0f",
             "url": "https://muslimsday.com/bn/blog/হজের-আধুনিক-কিছু-মাসায়ে",
@@ -174,12 +144,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -188,7 +152,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2023-05-28T08:59:10+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "6d75bf13121f1b6ccd4199cb185def2b83e83b206ed823c63feb7cb75d7dc86c",
             "url": "https://muslimsday.com/bn/blog/কুরবানির-ফজিলত-মাসায়েল",
@@ -220,17 +184,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-09T01:42:58+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 12,
             "contentHash": "58f8ea0a0e013c5f9ea0b89a9e103d52474b33951c94449bdb19f382fbc4f2a3",
             "url": "https://muslimsday.com/bn/blog/হজ-আদায়ে-কমন-কিছু-ভুল",
@@ -256,17 +214,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-09T01:36:08+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "5746cd01c18538be1f72c5eaa1c99a31c8fd75d7bfcc41e37a70e3b585171c9c",
             "url": "https://muslimsday.com/bn/blog/হজ-নারী-পুরুষের-পার্থক্য",
@@ -292,17 +244,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-07T01:29:53+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "a25741d9c02e22092537831ba28d3bdba94798552762345f0abad109b97d8aeb",
             "url": "https://muslimsday.com/bn/blog/তামাত্তু-কিরান-আর-ইফরাদ-হ",
@@ -328,17 +274,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-07T01:22:08+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "c67e3b52430b735c5b9a6d7186c35e619a3323adc88a0d27813727206396e88c",
             "url": "https://muslimsday.com/bn/blog/হজ-আদায়ের-ধারাবাহিক-আমল-6",
@@ -364,17 +304,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-07T01:02:35+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "85a04de13221d205ba3a4cd70c58f4572e1b22641a237a2cebff3bec05f234be",
             "url": "https://muslimsday.com/bn/blog/হজের-ধারাবাহিক-আমল-৫",
@@ -400,17 +334,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-07T00:58:45+00:00",
-            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "73b9670870805f9f16a6842f1a5fa34b7cc30cc4578332bd3d62ce1585a631b2",
             "url": "https://muslimsday.com/bn/blog/হজের-ধারাবাহিক-আমল-৪",
@@ -436,17 +364,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-07T00:51:03+00:00",
-            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "faf379a9792600b30d1b911e99c51948553fda166a089a3548bde5e16e9d6e78",
             "url": "https://muslimsday.com/bn/blog/হজের-ধারাবাহিক-আমলসমূহ-৩",
@@ -472,17 +394,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-07T00:46:17+00:00",
-            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "8e779025a22798164fac90d08dc559b3ccf318839c514ce9e17942b34f829e88",
             "url": "https://muslimsday.com/bn/blog/হজের-ধারাবাহিক-আমলসমূহ-২",
@@ -508,17 +424,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-07T00:36:22+00:00",
-            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "8899fcbf32a4d66ca12d6fe50c10941c65fe3f29df129fb5a3f3aad8524479dc",
             "url": "https://muslimsday.com/bn/blog/হজের-ধারাবাহিক-আমলসমূহ-১",
@@ -544,17 +454,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-04T16:48:36+00:00",
-            "updatedAt": "2026-11-17T04:04:58+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 12,
             "contentHash": "2213c9a75e294004c0683a042b9ca1a4b6a48f8abf162abd37054ae1ade9096e",
             "url": "https://muslimsday.com/bn/blog/ওমরা-আদায়ের-পদ্ধতি",
@@ -576,33 +480,15 @@
             },
             "categories": [
                 {
-                    "id": 57,
-                    "slug": "ঈদ",
-                    "name": "ঈদ",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-04-20T23:15:07+00:00",
-            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "a7b94b479d8b429cdac7b91baca0f70f2d41858dcc6e31891f4a484b82e24f7e",
             "url": "https://muslimsday.com/bn/blog/ঈদের-নামাজে-রাকাত-মিস-হলে",
@@ -628,17 +514,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 65,
-                    "slug": "যাকাত",
-                    "name": "যাকাত",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-04-16T13:51:33+00:00",
-            "updatedAt": "2026-11-17T04:05:16+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "0327aec99deb27c0bd868030fad51ebe01fd715f9a594c25c2b4decdb82f8c44",
             "url": "https://muslimsday.com/bn/blog/যাকাত-কাকে-দেয়া-যাবে",
@@ -660,12 +540,6 @@
             },
             "categories": [
                 {
-                    "id": 66,
-                    "slug": "ইতিকাফ",
-                    "name": "ইতিকাফ",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
@@ -676,17 +550,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": false
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-04-07T18:40:33+00:00",
-            "updatedAt": "2026-11-17T04:05:16+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "21b92c5ed947c8b49b4e17867428faccd9172db41ecd415252f8cc19ad873c3f",
             "url": "https://muslimsday.com/bn/blog/বিনিময়-দিয়ে-ইতিকাফ-নয়",
@@ -714,27 +582,15 @@
                     "primary": false
                 },
                 {
-                    "id": 66,
-                    "slug": "ইতিকাফ",
-                    "name": "ইতিকাফ",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-20T05:10:44+00:00",
-            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "217ab38d7d89aeef887a2774a6e943d95e42dc2deb1a3e8d29cdfc06570037f9",
             "url": "https://muslimsday.com/bn/blog/ইতিকাফ-ফজিলত-মাসআলা",
@@ -760,17 +616,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-20T03:34:47+00:00",
-            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "14b24abb41fcc3fefb2a3f31d614ed551a0edb8b5bff212245c9bfcb800e3a77",
             "url": "https://muslimsday.com/bn/blog/রোজার-সমসাময়িক-মাসআলা",

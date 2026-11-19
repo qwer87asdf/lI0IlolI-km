@@ -21,24 +21,30 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
                     "slug": "masnun-dua",
                     "name": "Masnun Dua",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "id": 4,
                     "slug": "quranic-education",
                     "name": "Quranic Education",
                     "primary": false
+                },
+                {
+                    "id": 71,
+                    "slug": "uncategorized",
+                    "name": "Uncategorized",
+                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-07-30T11:54:37+00:00",
-            "updatedAt": "2026-11-17T03:49:12+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 10,
             "contentHash": "afedfe6a80271b53cf36615daf4a7768ab09e63f60b32eeb8d95b6c1bb96cf6d",
             "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
@@ -63,7 +69,7 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
@@ -81,12 +87,12 @@
                     "id": 5,
                     "slug": "story",
                     "name": "Story",
-                    "primary": false
+                    "primary": true
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-07-30T08:36:34+00:00",
-            "updatedAt": "2026-11-17T03:49:16+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
             "url": "https://muslimsday.com/blog/sahabi-tree",
@@ -195,13 +201,13 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
                     "slug": "masnun-dua",
                     "name": "Masnun Dua",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "id": 4,
@@ -212,7 +218,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2026-07-26T09:07:01+00:00",
-            "updatedAt": "2026-11-17T03:50:09+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "1ef77592e6ec61936b45c2bb48c417b6c93f19384f619a39947fe1851746324f",
             "url": "https://muslimsday.com/blog/short-vs-long-dua-qunoot",
@@ -237,7 +243,7 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
@@ -250,11 +256,17 @@
                     "slug": "quranic-education",
                     "name": "Quranic Education",
                     "primary": false
+                },
+                {
+                    "id": 71,
+                    "slug": "uncategorized",
+                    "name": "Uncategorized",
+                    "primary": true
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-07-26T05:16:30+00:00",
-            "updatedAt": "2026-11-17T03:50:41+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 6,
             "contentHash": "fe3975e25edad65236a6e3adcfd91b7eda7f44c40463ea340a693ca60fb30efe",
             "url": "https://muslimsday.com/blog/when-was-the-quran-written",
@@ -279,7 +291,7 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
@@ -292,11 +304,17 @@
                     "slug": "quranic-education",
                     "name": "Quranic Education",
                     "primary": false
+                },
+                {
+                    "id": 71,
+                    "slug": "uncategorized",
+                    "name": "Uncategorized",
+                    "primary": true
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-07-23T07:37:57+00:00",
-            "updatedAt": "2026-11-17T03:51:02+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "a9e6ee8831c6650193682bb3977b5e9ea73ac4e2b7775bf9046a53c0e0881d75",
             "url": "https://muslimsday.com/blog/istikhara-dua",

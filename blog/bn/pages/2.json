@@ -21,17 +21,11 @@
                     "slug": "বিবিধ",
                     "name": "বিবিধ",
                     "primary": true
-                },
-                {
-                    "id": 12,
-                    "slug": "রমজানের-খাদ্যাভ্যাস",
-                    "name": "রমজানের খাদ্যাভ্যাস",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-02-08T13:28:23+00:00",
-            "updatedAt": "2026-11-17T04:00:41+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "8cbd6e7cf72817cd672578a962458f580d2c50bb7834292a6067cf396c60219a",
             "url": "https://muslimsday.com/bn/blog/সাহরিতে-পুষ্টিকর-খাবার",
@@ -57,17 +51,11 @@
                     "slug": "বিবিধ",
                     "name": "বিবিধ",
                     "primary": true
-                },
-                {
-                    "id": 12,
-                    "slug": "রমজানের-খাদ্যাভ্যাস",
-                    "name": "রমজানের খাদ্যাভ্যাস",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-02-08T13:22:15+00:00",
-            "updatedAt": "2026-11-17T04:00:41+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "c1f5979947c202c329eb15e36a728d9f9b5535facf1461ac4115c0945f8b0332",
             "url": "https://muslimsday.com/bn/blog/ইফতারে-স্বাস্থ্যকর-খাবার",
@@ -93,17 +81,11 @@
                     "slug": "বিবিধ",
                     "name": "বিবিধ",
                     "primary": true
-                },
-                {
-                    "id": 12,
-                    "slug": "রমজানের-খাদ্যাভ্যাস",
-                    "name": "রমজানের খাদ্যাভ্যাস",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-02-08T13:15:59+00:00",
-            "updatedAt": "2026-11-17T04:00:42+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "1f576f652ec72669d0ffceb6ac6cb8834799b2b4968f91e3cfa2984e9737aed8",
             "url": "https://muslimsday.com/bn/blog/রমজানে-খাদ্যাভ্যাস",
@@ -129,23 +111,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 14,
-                    "slug": "মন্দ-কাজ",
-                    "name": "মন্দ কাজ",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-12-11T05:58:20+00:00",
-            "updatedAt": "2026-11-17T04:00:46+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "197cb9a34b138001908525dbf4ddf947ee04b335da613791d692819b23f077d4",
             "url": "https://muslimsday.com/bn/blog/donation-collect-during-khutba",
@@ -171,17 +141,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 17,
-                    "slug": "ভ্রান্ত-মতবাদ",
-                    "name": "ভ্রান্ত মতবাদ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-11-18T05:09:14+00:00",
-            "updatedAt": "2026-11-17T04:00:50+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "86a4da5051d93d6bd7f57c7eabc3b8f85403f1ed49ecfb34ef631cf6310954b7",
             "url": "https://muslimsday.com/bn/blog/kadiyani-non-muslim-reason",
@@ -233,27 +197,15 @@
             },
             "categories": [
                 {
-                    "id": 18,
-                    "slug": "কাযা-নামাজ",
-                    "name": "কাযা নামাজ",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-11-07T16:01:22+00:00",
-            "updatedAt": "2026-11-17T04:00:58+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "80c7963232c3aa3f472218ded8421d9683a1154952ec7e0cec81c0bc6d0c7e7b",
             "url": "https://muslimsday.com/bn/blog/end-time-of-salatul-isha",
@@ -275,39 +227,15 @@
             },
             "categories": [
                 {
-                    "id": 19,
-                    "slug": "আদব",
-                    "name": "আদব",
-                    "primary": false
-                },
-                {
                     "id": 16,
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 20,
-                    "slug": "ইলম-জ্ঞানচর্চা",
-                    "name": "ইলম - জ্ঞানচর্চা",
-                    "primary": false
-                },
-                {
-                    "id": 21,
-                    "slug": "ইসলামি-সংস্কৃতি",
-                    "name": "ইসলামি সংস্কৃতি",
-                    "primary": false
-                },
-                {
-                    "id": 22,
-                    "slug": "হুকুক-অধিকার",
-                    "name": "হুকুক - অধিকার",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-11-04T04:36:28+00:00",
-            "updatedAt": "2026-11-17T04:01:02+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "b9f84f8d97700d4cb8e0ba9e0bef64320e72a82a6ad6c85005e492b1a35bd5b2",
             "url": "https://muslimsday.com/bn/blog/ওয়াজ-মাহফিল-নিবেদন",
@@ -333,23 +261,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 20,
-                    "slug": "ইলম-জ্ঞানচর্চা",
-                    "name": "ইলম - জ্ঞানচর্চা",
-                    "primary": false
-                },
-                {
-                    "id": 21,
-                    "slug": "ইসলামি-সংস্কৃতি",
-                    "name": "ইসলামি সংস্কৃতি",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-09-29T07:22:52+00:00",
-            "updatedAt": "2026-11-17T04:01:06+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "c5852a4947cec3cab518db39a1869c42a46cbc12f65c67cb60f5335841bb2af9",
             "url": "https://muslimsday.com/bn/blog/ইসলামি-বইমেলা-২০২৫",
@@ -371,12 +287,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -385,7 +295,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2025-09-11T15:45:18+00:00",
-            "updatedAt": "2026-11-17T04:01:14+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "df439d79123bf0ce15fb125900a13ad0985309a4c8147236560f122973338c02",
             "url": "https://muslimsday.com/bn/blog/ঘুম-পানি-পাত্র-হাত-ডুবানো",
@@ -411,17 +321,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 24,
-                    "slug": "বই-রিভিউ",
-                    "name": "বই রিভিউ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T01:49:26+00:00",
-            "updatedAt": "2026-11-17T04:01:18+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "61f3be7d16858e019d2e7d13f2c0ab37fa69ee86624a522e30c281b20e52b02e",
             "url": "https://muslimsday.com/bn/blog/শীয়াদের-ভ্রান্ত-মতবাদ",
@@ -477,17 +381,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 24,
-                    "slug": "বই-রিভিউ",
-                    "name": "বই রিভিউ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T01:39:45+00:00",
-            "updatedAt": "2026-11-17T04:01:26+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "5b80a7bd7655b324d4b8f809fa3fbdf838dc894977bd3c67542a2aec8d3036db",
             "url": "https://muslimsday.com/bn/blog/মানসাঙ্ক-বই-রিভিউ",
@@ -543,17 +441,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 24,
-                    "slug": "বই-রিভিউ",
-                    "name": "বই রিভিউ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T01:21:03+00:00",
-            "updatedAt": "2026-11-17T04:01:33+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "4573dbc59db179071b332c9766f70ecf7cbaf9ad6f71d3f6956a5ec842bf96dc",
             "url": "https://muslimsday.com/bn/blog/গল্পগুলো-অন্যরকম",
@@ -579,17 +471,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 25,
-                    "slug": "হাদীসের-গল্প",
-                    "name": "হাদীসের গল্প",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T01:15:00+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "c48dbec26cc30c82908e833e31ee59e5f068b6c918be6a999fe0548efcaf7ed3",
             "url": "https://muslimsday.com/bn/blog/লোক-দেখানো-আমল-শিরক",
@@ -615,17 +501,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 24,
-                    "slug": "বই-রিভিউ",
-                    "name": "বই রিভিউ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T01:11:03+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "7495ebb17b9350850b0ab97e3918edff6ed3db463e48f08a94645fd144c62867",
             "url": "https://muslimsday.com/bn/blog/দুআ-কবুলের-গল্পগুলো-বই-রি",
@@ -681,17 +561,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 25,
-                    "slug": "হাদীসের-গল্প",
-                    "name": "হাদীসের গল্প",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T00:56:50+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "2739a307a32af111702a3880f5c0e520942a83e935063d0a163d667a26adca70",
             "url": "https://muslimsday.com/bn/blog/সাহাবির-মেহমানদারীর-গল্প",
@@ -717,17 +591,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 25,
-                    "slug": "হাদীসের-গল্প",
-                    "name": "হাদীসের গল্প",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T00:51:48+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "cdff7643a8813f837fedd76155a64e22b1c981b0cb10e3d804156594d57a31df",
             "url": "https://muslimsday.com/bn/blog/খন্দকের-যুদ্ধে-মুজিজা",

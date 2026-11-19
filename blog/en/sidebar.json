@@ -61,24 +61,30 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
                     "slug": "masnun-dua",
                     "name": "Masnun Dua",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "id": 4,
                     "slug": "quranic-education",
                     "name": "Quranic Education",
                     "primary": false
+                },
+                {
+                    "id": 71,
+                    "slug": "uncategorized",
+                    "name": "Uncategorized",
+                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-07-30T11:54:37+00:00",
-            "updatedAt": "2026-11-17T03:49:12+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 10,
             "contentHash": "afedfe6a80271b53cf36615daf4a7768ab09e63f60b32eeb8d95b6c1bb96cf6d",
             "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
@@ -104,7 +110,7 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
@@ -122,12 +128,12 @@
                     "id": 5,
                     "slug": "story",
                     "name": "Story",
-                    "primary": false
+                    "primary": true
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-07-30T08:36:34+00:00",
-            "updatedAt": "2026-11-17T03:49:16+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
             "url": "https://muslimsday.com/blog/sahabi-tree",

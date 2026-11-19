@@ -142,17 +142,11 @@
                     "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
                     "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-02-01T14:34:45+00:00",
-            "updatedAt": "2026-11-17T04:06:09+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "a3e6be9002aca61e9ec667b8e2b2106aaf4128e4f8e452b1f78cb05e184044c3",
             "url": "https://muslimsday.com/bn/blog/নামাজের-নিষিদ্ধ-সময়-কখন",

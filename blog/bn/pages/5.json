@@ -21,17 +21,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:47:38+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "82bdd2f59b38f40876bdebae8286f92f81e587ac8770c8d7467c1bc5308ec5dd",
             "url": "https://muslimsday.com/bn/blog/সালাত-শেষ-বৈঠকে-অংশ-না-নেয",
@@ -57,17 +51,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:44:49+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "0adefafccff1ea5c64219a38fd7ee159f2cc066dec569158603db0ffa2170418",
             "url": "https://muslimsday.com/bn/blog/পাগড়ি-সহ-সালাত-আদায়",
@@ -93,17 +81,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:40:48+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "c531950e01705737ae168536ee3248e619cbb632b46d476bae32b620798d796c",
             "url": "https://muslimsday.com/bn/blog/সময়-বিবেচনা-সুন্নত-নামা",
@@ -129,17 +111,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:38:02+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "f5bd7f512e800a774f7585e41ead790b513a158a6235c992358c51b9efa5c566",
             "url": "https://muslimsday.com/bn/blog/সাহু-সিজদা-মাসবুক",
@@ -165,17 +141,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:22:43+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "19fa8e2bda2806379086d14d58ed6b6639cfc7f8f1bf2ec52324cac8d91ac505",
             "url": "https://muslimsday.com/bn/blog/নামাজ-মুমিনের-মেরাজ",
@@ -201,17 +171,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:18:32+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "b06dd3a374d6964c2e37373d0ee55058e2b52c95891fa7c6820ffc4deb8efd5b",
             "url": "https://muslimsday.com/bn/blog/জায়নামাজের-দোয়া",
@@ -233,27 +197,15 @@
             },
             "categories": [
                 {
-                    "id": 35,
-                    "slug": "নিয়ত",
-                    "name": "নিয়ত",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:11:43+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "14fb2967c1f6e10f02353311f2a725125671fdb004ac6910c9cd74087a787303",
             "url": "https://muslimsday.com/bn/blog/নামাজের-নিয়ত",
@@ -275,27 +227,15 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:07:17+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "c4def136e76b885867beff163bb7ed5e829c3a1b3d5855d5e19a670c2df82ac3",
             "url": "https://muslimsday.com/bn/blog/অযুর-নিয়ত",
@@ -321,17 +261,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-05-21T08:57:45+00:00",
-            "updatedAt": "2026-11-17T04:02:30+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "73e346631b704be3b29e2b29a7b6503afb60bc05fb454415c5b1d547a9a724a8",
             "url": "https://muslimsday.com/bn/blog/হজে-নারীদের-নামাজ",
@@ -357,17 +291,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-05-20T15:54:33+00:00",
-            "updatedAt": "2026-11-17T04:02:30+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "a72155f10697ec242443bf53db3c529f12a83f1dcda51bbe2bb90c44ca5487b8",
             "url": "https://muslimsday.com/bn/blog/নিয়ত-ছাড়া-ইহরাম-কাপড়",
@@ -393,17 +321,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-05-19T07:03:38+00:00",
-            "updatedAt": "2026-11-17T04:02:34+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "bd471aa356a043187b8f2b83d84fb5bb09128f64dc0cf7b2776da4b22e416958",
             "url": "https://muslimsday.com/bn/blog/হজ-নারী-পুরুষের-পার্থক্য-2",
@@ -429,17 +351,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-05-18T16:07:54+00:00",
-            "updatedAt": "2026-11-17T04:02:34+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "6cf0f5f4e8330623aad1b2d9976069aa6d3de795df1e3ae2268bab466a5dcb10",
             "url": "https://muslimsday.com/bn/blog/নফল-উমরার-বিধান",
@@ -465,29 +381,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 37,
-                    "slug": "ইসরাইল",
-                    "name": "ইসরাইল",
-                    "primary": false
-                },
-                {
-                    "id": 38,
-                    "slug": "গাজা",
-                    "name": "গাজা",
-                    "primary": false
-                },
-                {
-                    "id": 39,
-                    "slug": "ফিলিস্তিন",
-                    "name": "ফিলিস্তিন",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-04-21T14:40:49+00:00",
-            "updatedAt": "2026-11-17T04:02:38+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "8f8d65b11a2296d5f3c8b70c65901b062f8898d55176fd2494ed1c095bb366be",
             "url": "https://muslimsday.com/bn/blog/how-to-respond-to-gaza-genocide-2",
@@ -543,29 +441,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 37,
-                    "slug": "ইসরাইল",
-                    "name": "ইসরাইল",
-                    "primary": false
-                },
-                {
-                    "id": 38,
-                    "slug": "গাজা",
-                    "name": "গাজা",
-                    "primary": false
-                },
-                {
-                    "id": 39,
-                    "slug": "ফিলিস্তিন",
-                    "name": "ফিলিস্তিন",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-04-11T16:09:15+00:00",
-            "updatedAt": "2026-11-17T04:02:41+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "063286e7c91e448a462e4bec5163cccca7ceae8654067115e47de3773c72f2f0",
             "url": "https://muslimsday.com/bn/blog/how-to-respond-to-gaza-genocide",
@@ -711,23 +591,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 40,
-                    "slug": "রমযান",
-                    "name": "রমযান",
-                    "primary": false
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-02-19T08:39:32+00:00",
-            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 11,
             "contentHash": "59faa15849c4e1d51952e6d2da07eac8121b8c0cee5abb5b30837014bc54fa42",
             "url": "https://muslimsday.com/bn/blog/রমযানুল-মুবারক-ও-আমাদের-উ",

@@ -18,33 +18,15 @@
             },
             "categories": [
                 {
-                    "id": 48,
-                    "slug": "জানাযা",
-                    "name": "জানাযা",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:25:05+00:00",
-            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "a637582acc7ca98faee62e4c5ed63454dad444579b89f07ad7e4249a46bbc001",
             "url": "https://muslimsday.com/bn/blog/জানাযার-নামাযের-বিধান",
@@ -66,33 +48,15 @@
             },
             "categories": [
                 {
-                    "id": 48,
-                    "slug": "জানাযা",
-                    "name": "জানাযা",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:22:25+00:00",
-            "updatedAt": "2026-11-17T04:02:57+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "dec2ff13045e40415f29b8470a3fa54e5ca46f5f7e17166ef5843f455a9e8652",
             "url": "https://muslimsday.com/bn/blog/জানাযার-নামায-শুরু-থেকে-ন",
@@ -114,33 +78,15 @@
             },
             "categories": [
                 {
-                    "id": 48,
-                    "slug": "জানাযা",
-                    "name": "জানাযা",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:17:05+00:00",
-            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "6bb5da5b81c817a82e1bbd6c899072eade84478ad91f36f1cdb1a55a7be95c3b",
             "url": "https://muslimsday.com/bn/blog/গায়েবানা-ও-একাধিক-জানায",
@@ -162,33 +108,15 @@
             },
             "categories": [
                 {
-                    "id": 18,
-                    "slug": "কাযা-নামাজ",
-                    "name": "কাযা নামাজ",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:15:44+00:00",
-            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "18084085a04fc55e0b75836f52a3b476b85893f13ff0dc9713e6d5e15ee72e5c",
             "url": "https://muslimsday.com/bn/blog/কাযা-নামাযের-পরিচয়-ও-বিধ",
@@ -210,33 +138,15 @@
             },
             "categories": [
                 {
-                    "id": 18,
-                    "slug": "কাযা-নামাজ",
-                    "name": "কাযা নামাজ",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:14:05+00:00",
-            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "281b4bff1105362f7633652161f89308fce31a4fa287815382796be1fac77ac2",
             "url": "https://muslimsday.com/bn/blog/কাযা-নামাযের-ধারাবাহিকতা",
@@ -258,33 +168,15 @@
             },
             "categories": [
                 {
-                    "id": 18,
-                    "slug": "কাযা-নামাজ",
-                    "name": "কাযা নামাজ",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:12:22+00:00",
-            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "f23de65bca3394420080356d970be943873a38a6db5befafe8e5046f2cef815d",
             "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায",
@@ -306,33 +198,15 @@
             },
             "categories": [
                 {
-                    "id": 18,
-                    "slug": "কাযা-নামাজ",
-                    "name": "কাযা নামাজ",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:11:15+00:00",
-            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "d4b7034750d7ce4a8ed4104a342e3ee006b85cd144c946700014c12f4189b780",
             "url": "https://muslimsday.com/bn/blog/উমরী-কাযা-নামাযের-বিধান",
@@ -354,33 +228,15 @@
             },
             "categories": [
                 {
-                    "id": 18,
-                    "slug": "কাযা-নামাজ",
-                    "name": "কাযা নামাজ",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:09:40+00:00",
-            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "bdd599832b192bf1620a22a84f99280d3f68dfe90a10c6bf00c3dd6fb27de888",
             "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কোথায়-কীভাবে",
@@ -402,33 +258,15 @@
             },
             "categories": [
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
-                    "id": 35,
-                    "slug": "নিয়ত",
-                    "name": "নিয়ত",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-30T05:08:02+00:00",
-            "updatedAt": "2026-11-17T04:02:58+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "addf34f1492a97e57677decfefb964b380de1a2ced0db646c4884a6be5e2e225",
             "url": "https://muslimsday.com/bn/blog/নামাযে-নিয়তের-মাসআলা",
@@ -450,27 +288,15 @@
             },
             "categories": [
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-27T13:15:45+00:00",
-            "updatedAt": "2026-11-17T04:03:02+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "60af2bc9f0ffa3ddb7854ea09341f88addf22d3bc9bf880029a71ef2533c5742",
             "url": "https://muslimsday.com/bn/blog/নামায-ভঙ্গের-কারণসমূহ",
@@ -492,27 +318,15 @@
             },
             "categories": [
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-01-26T15:13:10+00:00",
-            "updatedAt": "2026-11-17T04:03:02+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "667689de7bf97816bcb7089593f38071270918dcd5a160b6e3530a85f7e34d71",
             "url": "https://muslimsday.com/bn/blog/নামাযের-মাকরুহ-বিষয়সমূহ",
@@ -534,18 +348,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -554,7 +356,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-06-15T06:47:49+00:00",
-            "updatedAt": "2026-11-17T04:03:29+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "9053ed51e93923d7787a1c1398ba652e4dab67dd0706cd8a8d58ce8356950da8",
             "url": "https://muslimsday.com/bn/blog/তাকবীরে-তাশরীক-মাসআলা",
@@ -576,12 +378,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -590,7 +386,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T16:18:25+00:00",
-            "updatedAt": "2026-11-17T04:03:33+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "087f6203280156583c41d304f150f4c54023a736c2f49f8db12edbf6396f297e",
             "url": "https://muslimsday.com/bn/blog/কুরবানির-গুরুত্ব-ও-ফযিলত",
@@ -612,12 +408,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -626,7 +416,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T16:16:08+00:00",
-            "updatedAt": "2026-11-17T04:03:36+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "1f44ae7829a66c8148a2f0693a38a4109313f6265589178800c8d68db3581c58",
             "url": "https://muslimsday.com/bn/blog/কুরবানি-করা-ওয়াজিব",
@@ -648,12 +438,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -662,7 +446,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T16:13:06+00:00",
-            "updatedAt": "2026-11-17T04:03:36+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "7e2ee171ab8fea12e9d774d3c5744a9c8be421f4148c7b32f4e5e359782496a6",
             "url": "https://muslimsday.com/bn/blog/কুরবানি-কার-ওপর-ওয়াজিব",
@@ -684,12 +468,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -698,7 +476,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T15:24:56+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "91b5da2affd0b1d7fa59b6078e6f3c8a667c34ec883e0c4ef0c749948ac65ff6",
             "url": "https://muslimsday.com/bn/blog/কুরবানির-সময়সীমা",
@@ -720,12 +498,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -734,7 +506,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T15:22:37+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "3c2b0819660fa18007899741516360f26f46e7b865cb18eb4ad76b65464161a6",
             "url": "https://muslimsday.com/bn/blog/কুরবানির-পশু-জবাই",
@@ -756,12 +528,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -770,7 +536,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T15:20:36+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "2f8064de2bf616625a60f8fd6221a70b39467033036f01d14ec309368b0c70ed",
             "url": "https://muslimsday.com/bn/blog/ঈসালে-সওয়াব-কুরবানি",
@@ -792,12 +558,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -806,7 +566,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T15:18:25+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "2ff8f6687c303f8396070b3c55b5101b8ce2cec5016a0b097600acffe6b4b7cb",
             "url": "https://muslimsday.com/bn/blog/যৌথ-শরিকানায়-কুরবানি",
@@ -828,12 +588,6 @@
             },
             "categories": [
                 {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
@@ -842,7 +596,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2024-05-26T15:16:21+00:00",
-            "updatedAt": "2026-11-17T04:03:37+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "f4241be15ba33f000617f8f9d0d5a87314c54bb6a5bdde026e73a2103305e368",
             "url": "https://muslimsday.com/bn/blog/কুরবানির-গোশত-চামড়া",

@@ -21,17 +21,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 25,
-                    "slug": "হাদীসের-গল্প",
-                    "name": "হাদীসের গল্প",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T00:46:39+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "00c895e261e361e2e2710a4070c537e271e9120dee787ee12bf2910fd6b98ac5",
             "url": "https://muslimsday.com/bn/blog/বাগানে-মেঘের-পানি-বর্ষণ",
@@ -57,17 +51,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 25,
-                    "slug": "হাদীসের-গল্প",
-                    "name": "হাদীসের গল্প",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T00:41:32+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "9038ea3b03e6cbbec5c5b25a26bfb944189cda51b96f26bbe6a2830f9a4afbc5",
             "url": "https://muslimsday.com/bn/blog/ঋণ-ফেরত-দেয়ার-ঘটনা",
@@ -89,18 +77,6 @@
             },
             "categories": [
                 {
-                    "id": 19,
-                    "slug": "আদব",
-                    "name": "আদব",
-                    "primary": false
-                },
-                {
-                    "id": 21,
-                    "slug": "ইসলামি-সংস্কৃতি",
-                    "name": "ইসলামি সংস্কৃতি",
-                    "primary": false
-                },
-                {
                     "id": 26,
                     "slug": "মাসনূন-আমল",
                     "name": "মাসনূন আমল",
@@ -109,7 +85,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2025-08-09T00:35:13+00:00",
-            "updatedAt": "2026-11-17T04:01:34+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "2ab018df0e5b6d332ef36ac320a0b496710fe7a77b6df34b6effa71a3ca58e09",
             "url": "https://muslimsday.com/bn/blog/জুতা-পরার-সুন্নত",
@@ -131,27 +107,15 @@
             },
             "categories": [
                 {
-                    "id": 27,
-                    "slug": "নফল",
-                    "name": "নফল",
-                    "primary": false
-                },
-                {
                     "id": 26,
                     "slug": "মাসনূন-আমল",
                     "name": "মাসনূন আমল",
                     "primary": true
-                },
-                {
-                    "id": 28,
-                    "slug": "সুন্নত-নামাজ",
-                    "name": "সুন্নত নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-08T16:06:54+00:00",
-            "updatedAt": "2026-11-17T04:01:38+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "1c21cdeba8380b490871cb94d6ca5233fb598a59bb77516dc553d04577f4658f",
             "url": "https://muslimsday.com/bn/blog/১২-রাকাত-সুন্নত-নামাজের-ফ",
@@ -177,17 +141,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 29,
-                    "slug": "দোয়া",
-                    "name": "দোয়া",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-08T16:02:21+00:00",
-            "updatedAt": "2026-11-17T04:01:42+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "ec710eb1f6c50aab9cc5f315a7c79383ce7c0e93cfdfc01afd05c32679cc76ff",
             "url": "https://muslimsday.com/bn/blog/শ্রেষ্ঠ-একটি-দুআ",
@@ -213,17 +171,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 27,
-                    "slug": "নফল",
-                    "name": "নফল",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-08T14:54:33+00:00",
-            "updatedAt": "2026-11-17T04:01:45+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "fcad30afb828bd510fc0644273b01893f297a636e0b487aea30522d565199188",
             "url": "https://muslimsday.com/bn/blog/সূরা-কাহফের-ফজিলত",
@@ -249,23 +201,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 30,
-                    "slug": "হালাল-হারাম",
-                    "name": "হালাল - হারাম",
-                    "primary": false
-                },
-                {
-                    "id": 22,
-                    "slug": "হুকুক-অধিকার",
-                    "name": "হুকুক - অধিকার",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-08T14:17:53+00:00",
-            "updatedAt": "2026-11-17T04:01:49+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "4fb34a00e3e88c1cf506b3665aa80d347c0174444dd6bb02575ae8720ebf737c",
             "url": "https://muslimsday.com/bn/blog/ধূমপান-করার-বিধান",
@@ -291,17 +231,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-08T09:35:05+00:00",
-            "updatedAt": "2026-11-17T04:01:52+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "e6460a9603acaf36f4bc16b37260518c1600c70ec5bfd1b81bd9e352ae7ea1fb",
             "url": "https://muslimsday.com/bn/blog/ফজরের-জামাত-সুন্নত-আদায়",
@@ -327,17 +261,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T07:22:43+00:00",
-            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "ab640335a86165ddd8f4ac49e8906e0fdc9e67999f869dd41123b4bd6a984cf3",
             "url": "https://muslimsday.com/bn/blog/খেজুর-বিচি-খাওয়া-হাস্যর",
@@ -363,17 +291,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T07:16:21+00:00",
-            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "6232ce5595083a33f56c161d7441f527bdc52f0a9c5c12955aa361a03b271db9",
             "url": "https://muslimsday.com/bn/blog/ফাতেমার-ঘরে-জান্নাতি-খাব",
@@ -399,17 +321,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T07:09:36+00:00",
-            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "38b18e7ccc7093f08e85382cd2c77e4deb63f75fa50ba8a83fae5260221fabab",
             "url": "https://muslimsday.com/bn/blog/আবু-জেহেলের-গর্ত-খোঁড়া",
@@ -435,17 +351,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T06:47:39+00:00",
-            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "cfa9d036762183f1a698c22543f94c4592f0e9686fc5a377b1a04ce984c57d1e",
             "url": "https://muslimsday.com/bn/blog/দরুদ-শ্রবণকারী-মাছ-গল্প",
@@ -471,17 +381,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T05:55:28+00:00",
-            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "f68e3e5f3ef28e3334fd276469d15726da7058f58d308688dcedeb6f52ed7c5f",
             "url": "https://muslimsday.com/bn/blog/আলী-দান-বিষয়ক-কিসসা",
@@ -507,17 +411,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T05:49:05+00:00",
-            "updatedAt": "2026-11-17T04:01:56+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "fefdf0643a5c23ca103733758f2058873cfcca04cc94a83d400a28a919639538",
             "url": "https://muslimsday.com/bn/blog/ওয়ায়েস-করনী-দাঁত-ভাঙার",
@@ -543,17 +441,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T05:43:38+00:00",
-            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "c5a456a35b0da37744b93e8c90f84a9d64b789f1ce187a0e8086143a296d704c",
             "url": "https://muslimsday.com/bn/blog/মিষ্টি-খেতে-না-করার-কিসসা",
@@ -579,17 +471,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 31,
-                    "slug": "বানোয়াট-কিসসা-কাহিনী",
-                    "name": "বানোয়াট কিসসা কাহিনী",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-07T05:40:51+00:00",
-            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "0494b63ff310b742a255da33211db6d2ec61d718711c628117e896210fda3c75",
             "url": "https://muslimsday.com/bn/blog/জিবরীল-বয়স-কিসসা",
@@ -645,17 +531,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 30,
-                    "slug": "হালাল-হারাম",
-                    "name": "হালাল - হারাম",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-06T16:18:28+00:00",
-            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "927a7e75a189ba79ba4eaa316e677a55e650e4667bc1fd3f80421cd2d015bcba",
             "url": "https://muslimsday.com/bn/blog/পায়ে-মেহেদী-জায়েজ",
@@ -681,17 +561,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 30,
-                    "slug": "হালাল-হারাম",
-                    "name": "হালাল - হারাম",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-06T16:14:36+00:00",
-            "updatedAt": "2026-11-17T04:01:57+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "a498b3acb1a519cb5641c1231b9a92ec45be1f618fdf1d5421e49d869c2f5f68",
             "url": "https://muslimsday.com/bn/blog/পায়ে-সোনা-পরা-জায়েজ",
@@ -713,12 +587,6 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
@@ -727,7 +595,7 @@
             ],
             "isSticky": false,
             "publishedAt": "2025-08-06T16:11:25+00:00",
-            "updatedAt": "2026-11-17T04:02:01+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "ef98b857fa0bf6640aeb9de402b8394463fb2b7eacaabded0b2b3b9395fa3ce6",
             "url": "https://muslimsday.com/bn/blog/হাঁটুর-উপর-কাপড়-অযু-ভঙ্গ",

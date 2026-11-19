@@ -27,27 +27,15 @@
             },
             "categories": [
                 {
-                    "id": 27,
-                    "slug": "নফল",
-                    "name": "নফল",
-                    "primary": false
-                },
-                {
                     "id": 26,
                     "slug": "মাসনূন-আমল",
                     "name": "মাসনূন আমল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-06T00:20:09+00:00",
-            "updatedAt": "2026-11-17T04:05:33+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 10,
             "contentHash": "25883351fb75a47f3b215e41942c5bf21fb0344834097912a8f9be9cb6b6a0f6",
             "url": "https://muslimsday.com/bn/blog/আইয়ামে-বীজ-রোজার-ফজিলত",
@@ -74,23 +62,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 67,
-                    "slug": "ফিতরা",
-                    "name": "ফিতরা",
-                    "primary": false
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-04-05T03:26:00+00:00",
-            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "1f9cf07eef3d17bd48e407c45215abcacbb940e86ff8a87c93590f34862634ac",
             "url": "https://muslimsday.com/bn/blog/ফিতরা-কত-টাকা-মাসআলা",
@@ -117,23 +93,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 62,
-                    "slug": "বিদআত",
-                    "name": "বিদআত",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-01T14:47:51+00:00",
-            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 23,
             "contentHash": "4b51355234d1a48122c7f5ff98178b9088c1c9430b803c09fd62b200a4881226",
             "url": "https://muslimsday.com/bn/blog/শবে-বরাত-ফজিলত-আমল-বিদআত",
@@ -193,33 +157,15 @@
                     "primary": false
                 },
                 {
-                    "id": 57,
-                    "slug": "ঈদ",
-                    "name": "ঈদ",
-                    "primary": false
-                },
-                {
-                    "id": 27,
-                    "slug": "নফল",
-                    "name": "নফল",
-                    "primary": false
-                },
-                {
                     "id": 26,
                     "slug": "মাসনূন-আমল",
                     "name": "মাসনূন আমল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-04-21T04:27:19+00:00",
-            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "68c82bbfc572d56e6365d91748193d37c5847c3bab47127556018916b31ad09e",
             "url": "https://muslimsday.com/bn/blog/শাওয়ালের-ছয়-রোজা",

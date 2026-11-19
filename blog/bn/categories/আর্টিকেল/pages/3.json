@@ -22,23 +22,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-03-13T09:15:42+00:00",
-            "updatedAt": "2026-11-17T04:03:41+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "c9bbb602619cbaafbc9d5bf2705b6c9418383f7ce9f5fd46c5f3b70cb4f5409f",
             "url": "https://muslimsday.com/bn/blog/৮-রাকাত-তারাবীর-শুরুর-কথা",
@@ -64,17 +52,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-02-29T17:38:35+00:00",
-            "updatedAt": "2026-11-17T04:03:41+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 6,
             "contentHash": "aeccaa3b8bb80f05d0e182695d008b946878072fcce8255411cb7405797dac67",
             "url": "https://muslimsday.com/bn/blog/শিশুদের-রোযার-অনুশীলন",
@@ -100,17 +82,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-02-26T06:59:14+00:00",
-            "updatedAt": "2026-11-17T04:04:04+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 11,
             "contentHash": "1c592f0590b61c25a2ce7a1e4fab43d92d37e2ab820fffa89a58df8845a94ebc",
             "url": "https://muslimsday.com/bn/blog/রমজান-২০২৪",
@@ -136,17 +112,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2024-01-13T17:47:06+00:00",
-            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "66e4b049b6a94750d2c7eeeb38155f5caf82be0546f04d4ba390187aefd7a029",
             "url": "https://muslimsday.com/bn/blog/রজব-মাস-করণীয়-ও-বর্জনীয়",
@@ -197,23 +167,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 61,
-                    "slug": "ফিতনা",
-                    "name": "ফিতনা",
-                    "primary": false
-                },
-                {
-                    "id": 17,
-                    "slug": "ভ্রান্ত-মতবাদ",
-                    "name": "ভ্রান্ত মতবাদ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-12-29T14:45:16+00:00",
-            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 11,
             "contentHash": "fa9f462648ccc95d27d4c5958fe78df6c9abd2778634958888378f6c58c67f06",
             "url": "https://muslimsday.com/bn/blog/ট্রান্সজেন্ডার-মতবাদ",
@@ -239,23 +197,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-12-12T09:17:08+00:00",
-            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "7c81e63e3c09171103ec75fda2c089cf415e95aae7efa4c3cdb428fba6bfd34c",
             "url": "https://muslimsday.com/bn/blog/নামাজের-ওয়াক্তসমূহ",
@@ -283,27 +229,15 @@
                     "primary": false
                 },
                 {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 9,
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-11-19T08:05:18+00:00",
-            "updatedAt": "2026-11-17T04:04:13+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "7f6986b35424e41da07f3508420eb467b44230867e9db069d062b38f6c239bd7",
             "url": "https://muslimsday.com/bn/blog/নামাজের-ধারাবাহিক-বিবরণ",
@@ -389,23 +323,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 62,
-                    "slug": "বিদআত",
-                    "name": "বিদআত",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-09-27T04:21:15+00:00",
-            "updatedAt": "2026-11-17T04:04:30+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 6,
             "contentHash": "2eba54990b6ddf19698d471298541d4e5aaa9a2021eb907470a14724b224d818",
             "url": "https://muslimsday.com/bn/blog/ঈদে-মীলাদুন্নবীর-ইতিহাস",
@@ -431,23 +353,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 62,
-                    "slug": "বিদআত",
-                    "name": "বিদআত",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-09-27T04:15:39+00:00",
-            "updatedAt": "2026-11-17T04:04:34+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 7,
             "contentHash": "f8ea5de837dc473c480d423769851e2247526e1afb9e48863ee53bbef1e7a1d6",
             "url": "https://muslimsday.com/bn/blog/১২-রবিউল-আউয়াল",
@@ -473,23 +383,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 29,
-                    "slug": "দোয়া",
-                    "name": "দোয়া",
-                    "primary": false
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-09-27T00:13:59+00:00",
-            "updatedAt": "2026-11-17T04:04:34+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "befa7e148d75845b3babd549a3244dcd0d4bb04df151c1fc8ad9af31e129afc3",
             "url": "https://muslimsday.com/bn/blog/জানাজা-নামাজ-দুআ-নিয়ম",
@@ -515,17 +413,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 56,
-                    "slug": "দান-সদকা",
-                    "name": "দান-সদকা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-08-03T11:52:20+00:00",
-            "updatedAt": "2026-11-17T04:04:42+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "c3e052d3bf9e2f4a9fb4d86927e98639e2a37210768ed0a27b0313afbb86ce40",
             "url": "https://muslimsday.com/bn/blog/ইসলামে-বৃক্ষরোপন",
@@ -553,27 +445,15 @@
                     "primary": true
                 },
                 {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
                     "id": 26,
                     "slug": "মাসনূন-আমল",
                     "name": "মাসনূন আমল",
-                    "primary": false
-                },
-                {
-                    "id": 63,
-                    "slug": "মুহাররম-আশুরা",
-                    "name": "মুহাররম - আশুরা",
                     "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-07-13T16:26:54+00:00",
-            "updatedAt": "2026-11-17T04:04:46+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "778d70e02a8ca514d711e6e3d314d6b2b4ee977fb50d400c06cb8375c6890cd7",
             "url": "https://muslimsday.com/bn/blog/মহিমান্বিত-আশুরার-ইতিহাস",
@@ -599,23 +479,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 63,
-                    "slug": "মুহাররম-আশুরা",
-                    "name": "মুহাররম - আশুরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-07-13T16:08:31+00:00",
-            "updatedAt": "2026-11-17T04:04:46+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 4,
             "contentHash": "984bbef5886b6800531b492ad088b2048ad14bbfdab6161eec0ef791b06a3fa2",
             "url": "https://muslimsday.com/bn/blog/মুহাররম-শোকের-মাস-নয়",
@@ -641,23 +509,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 63,
-                    "slug": "মুহাররম-আশুরা",
-                    "name": "মুহাররম - আশুরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-07-13T15:55:20+00:00",
-            "updatedAt": "2026-11-17T04:04:56+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "a99b0c89d69adf3f5e6fecd154ff37fee50e6f45e5779f29b7736c69e4f243ae",
             "url": "https://muslimsday.com/bn/blog/শিয়াদের-তাজিয়া-মিছিল",
@@ -683,23 +539,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 63,
-                    "slug": "মুহাররম-আশুরা",
-                    "name": "মুহাররম - আশুরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-07-13T10:10:12+00:00",
-            "updatedAt": "2026-11-17T04:04:56+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 5,
             "contentHash": "6767c3c7a0c802fa68864fc0b32dd981bc018910e820bba2a49635dd848407f7",
             "url": "https://muslimsday.com/bn/blog/মুহাররম-মাস-ফজিলত-ও-আমল",
@@ -725,29 +569,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 57,
-                    "slug": "ঈদ",
-                    "name": "ঈদ",
-                    "primary": false
-                },
-                {
-                    "id": 58,
-                    "slug": "কুরবানি",
-                    "name": "কুরবানি",
-                    "primary": false
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-09T01:46:17+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "013e07071dba2019039bd730928ac38bc3dca885c49aa12bb37f71094cb25ca1",
             "url": "https://muslimsday.com/bn/blog/জিলহজের-১ম-দশকের-ফজিলত",
@@ -773,17 +599,11 @@
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-09T01:41:19+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 11,
             "contentHash": "792e369e174ff81fcf0b8ad9ac201accfc0e574fa2e1c387483cb87817cd89a2",
             "url": "https://muslimsday.com/bn/blog/মাবরুর-হজ-জান্নাত",

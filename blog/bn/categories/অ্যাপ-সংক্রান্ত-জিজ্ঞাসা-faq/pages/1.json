@@ -532,17 +532,11 @@
                     "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
                     "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-01T14:28:20+00:00",
-            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "d325793f644e61094f28a70c21c439549462d904961780d746a2dcaf21a144a7",
             "url": "https://muslimsday.com/bn/blog/সূর্যাস্তের-সময়-আসর",
@@ -568,17 +562,11 @@
                     "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
                     "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-01T14:23:06+00:00",
-            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "08667389587b3a40033ea077bf9ccd63eb48345434040f8defa21768b45b3398",
             "url": "https://muslimsday.com/bn/blog/মাগরিবের-ওয়াক্ত-কত-সময়",

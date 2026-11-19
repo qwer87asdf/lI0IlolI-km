@@ -1,0 +1,151 @@
+{
+    "category": "uncategorized",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 3,
+            "translationId": 3,
+            "language": "en",
+            "slug": "muslim-lifestyle-apps",
+            "title": "10 Must-Have Muslim Lifestyle Apps for New Muslims",
+            "excerpt": "Best muslim lifestyle apps suggestion for the new muslims who are in need ot daily guidance of islamic rules.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/4618d301-1cc5-4688-81c6-5c7b14bc8a22.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": false
+                },
+                {
+                    "id": 3,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                },
+                {
+                    "id": 71,
+                    "slug": "uncategorized",
+                    "name": "Uncategorized",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T11:54:37+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "afedfe6a80271b53cf36615daf4a7768ab09e63f60b32eeb8d95b6c1bb96cf6d",
+            "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.html"
+        },
+        {
+            "id": 8,
+            "translationId": 8,
+            "language": "en",
+            "slug": "when-was-the-quran-written",
+            "title": "When Was the Quran Written? A Complete Timeline From Revelation to Compilation",
+            "excerpt": "Learn the history of When Was the Quran Written. Timeframe and date by date history has been showcased. A perfect guide for readers who want to know true history of Quran.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/796ee810-4628-4025-a09f-70fbe2f56ef1.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": false
+                },
+                {
+                    "id": 3,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 4,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                },
+                {
+                    "id": 71,
+                    "slug": "uncategorized",
+                    "name": "Uncategorized",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-26T05:16:30+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "fe3975e25edad65236a6e3adcfd91b7eda7f44c40463ea340a693ca60fb30efe",
+            "url": "https://muslimsday.com/blog/when-was-the-quran-written",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/when-was-the-quran-written.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/when-was-the-quran-written.html"
+        },
+        {
+            "id": 9,
+            "translationId": 9,
+            "language": "en",
+            "slug": "istikhara-dua",
+            "title": "Istikhara Dua: When and How to Make the Right Decision in Islam",
+            "excerpt": "Learn he benefits of Istikhara Dua. When and how it does matter most. What are the benefits and step by step guide to perform.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/6a7c33d1-2fff-4737-9fb6-3e570936c488.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": false
+                },
+                {
+                    "id": 3,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 4,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                },
+                {
+                    "id": 71,
+                    "slug": "uncategorized",
+                    "name": "Uncategorized",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-23T07:37:57+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "a9e6ee8831c6650193682bb3977b5e9ea73ac4e2b7775bf9046a53c0e0881d75",
+            "url": "https://muslimsday.com/blog/istikhara-dua",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/istikhara-dua.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/istikhara-dua.html"
+        }
+    ]
+}

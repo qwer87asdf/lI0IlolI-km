@@ -18,27 +18,15 @@
             },
             "categories": [
                 {
-                    "id": 23,
-                    "slug": "তাহারাত-পবিত্রতা",
-                    "name": "তাহারাত - পবিত্রতা",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2025-08-05T03:07:17+00:00",
-            "updatedAt": "2026-11-17T04:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "c4def136e76b885867beff163bb7ed5e829c3a1b3d5855d5e19a670c2df82ac3",
             "url": "https://muslimsday.com/bn/blog/অযুর-নিয়ত",
@@ -64,23 +52,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 33,
-                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-                    "primary": false
-                },
-                {
-                    "id": 62,
-                    "slug": "বিদআত",
-                    "name": "বিদআত",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-08-16T03:42:37+00:00",
-            "updatedAt": "2026-11-17T04:04:39+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "0ce72d85a6266a042b8b06c2acdf8f7a9f136fd4a5fed3017738053101773164",
             "url": "https://muslimsday.com/bn/blog/আখেরী-চাহার-সোম্বা-বিদআত",
@@ -112,17 +88,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-06-06T09:52:16+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
             "readingTimeMinutes": 10,
             "contentHash": "84b30f0e736965696606a4d0fbd8e4aca9e995ddc144d14f925477f2ea0e8d0f",
             "url": "https://muslimsday.com/bn/blog/হজের-আধুনিক-কিছু-মাসায়ে",
@@ -154,17 +124,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 36,
-                    "slug": "হজ-ওমরা",
-                    "name": "হজ - ওমরা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-05-09T01:42:58+00:00",
-            "updatedAt": "2026-11-17T04:04:57+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 12,
             "contentHash": "58f8ea0a0e013c5f9ea0b89a9e103d52474b33951c94449bdb19f382fbc4f2a3",
             "url": "https://muslimsday.com/bn/blog/হজ-আদায়ে-কমন-কিছু-ভুল",
@@ -186,33 +150,15 @@
             },
             "categories": [
                 {
-                    "id": 57,
-                    "slug": "ঈদ",
-                    "name": "ঈদ",
-                    "primary": false
-                },
-                {
-                    "id": 41,
-                    "slug": "নামাজ-শিক্ষা",
-                    "name": "নামাজ শিক্ষা",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 15,
-                    "slug": "সালাত-নামাজ",
-                    "name": "সালাত - নামাজ",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-04-20T23:18:16+00:00",
-            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "405ea6c41bcf86aa9523ffd5172c1db7b0ff0976ff086255df17f51ce7996b67",
             "url": "https://muslimsday.com/bn/blog/ঈদের-নামাজে-কয়েকটি-ভুল",
@@ -234,12 +180,6 @@
             },
             "categories": [
                 {
-                    "id": 66,
-                    "slug": "ইতিকাফ",
-                    "name": "ইতিকাফ",
-                    "primary": false
-                },
-                {
                     "id": 13,
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
@@ -250,17 +190,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": false
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-04-07T18:40:33+00:00",
-            "updatedAt": "2026-11-17T04:05:16+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "21b92c5ed947c8b49b4e17867428faccd9172db41ecd415252f8cc19ad873c3f",
             "url": "https://muslimsday.com/bn/blog/বিনিময়-দিয়ে-ইতিকাফ-নয়",
@@ -292,17 +226,11 @@
                     "slug": "মাসআলা",
                     "name": "মাসআলা",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-18T06:34:02+00:00",
-            "updatedAt": "2026-11-17T04:05:24+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 8,
             "contentHash": "cabc3eba226aa55243c7a49231075194c2c4f8a6baa0be36ffa7ea22e41d8a81",
             "url": "https://muslimsday.com/bn/blog/রোজা-সংক্রান্ত-ভুল-ধারনা",
@@ -328,17 +256,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-10T03:31:55+00:00",
-            "updatedAt": "2026-11-17T04:05:28+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "dfc6715dd3338977e0de5f8d7dd59041670ebee84b3cad4a250d0bc44b66d8bd",
             "url": "https://muslimsday.com/bn/blog/রমজানের-খাবারের-হিসাব",
@@ -364,17 +286,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-10T03:16:24+00:00",
-            "updatedAt": "2026-11-17T04:05:28+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "890db2a5136a205dd6e510394bd737b4deee88a3f2aba598b5dbc86bfe2f96c5",
             "url": "https://muslimsday.com/bn/blog/ভুলে-পানাহার-করলে-রোজা",
@@ -400,17 +316,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-06T15:12:17+00:00",
-            "updatedAt": "2026-11-17T04:05:29+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 1,
             "contentHash": "ea971ecc417bdd2ea7554b8a15ec54263f46ea19cb84f925d0e9cfa442443c14",
             "url": "https://muslimsday.com/bn/blog/সাহরি-না-খেলে-কি-রোজা-হবে",
@@ -436,17 +346,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-06T14:50:47+00:00",
-            "updatedAt": "2026-11-17T04:05:29+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "083f05f026c74963fb80f69bcd6b3ace3dd477c879a2bec283506f4cca249e33",
             "url": "https://muslimsday.com/bn/blog/ইফতার-সময়-মাগরিবের-আজান",
@@ -472,17 +376,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-06T14:43:50+00:00",
-            "updatedAt": "2026-11-17T04:05:29+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "2308512539d1edf5244fbb4614edcd550d053327ad05ab8cb59893edc4c1d8b4",
             "url": "https://muslimsday.com/bn/blog/ফজরের-আজান-পর্যন্ত-সাহরি",
@@ -508,17 +406,11 @@
                     "slug": "প্রচলিত-ভুল",
                     "name": "প্রচলিত ভুল",
                     "primary": true
-                },
-                {
-                    "id": 34,
-                    "slug": "সাওম-রোজা",
-                    "name": "সাওম - রোজা",
-                    "primary": false
                 }
             ],
             "isSticky": false,
             "publishedAt": "2023-03-06T00:42:45+00:00",
-            "updatedAt": "2026-11-17T04:05:29+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "89665c84c35eafbb0343f39e324e1dff156eb473ffe059c4f1d0df18e19afec7",
             "url": "https://muslimsday.com/bn/blog/রোজার-নিয়ত",

@@ -21,7 +21,7 @@
                     "id": 2,
                     "slug": "education",
                     "name": "Education",
-                    "primary": true
+                    "primary": false
                 },
                 {
                     "id": 3,
@@ -39,12 +39,12 @@
                     "id": 5,
                     "slug": "story",
                     "name": "Story",
-                    "primary": false
+                    "primary": true
                 }
             ],
             "isSticky": false,
             "publishedAt": "2026-07-30T08:36:34+00:00",
-            "updatedAt": "2026-11-17T03:49:16+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
             "readingTimeMinutes": 9,
             "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
             "url": "https://muslimsday.com/blog/sahabi-tree",
