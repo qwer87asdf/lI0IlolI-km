@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 25 Jan, 2025 – 12:21 PM</p><ol><li>ফরয নামাযের প্রথম দুই রাকাতে এবং অন্যান্য নামাযের প্রতি রাকাতে সূরা ফাতেহা পড়া।</li><li>উপরোক্ত রাকাতগুলোতে সূরা ফাতেহার পর অন্য কোনো সূরা কিংবা কমপক্ষে ছোট তিন আয়াত অথবা বড় এক আয়াত পড়া। সূরা ফাতেহার পর পঠিত অংশ যদি ছোট তিন আয়াত সমান হয় তাহলে ততটুকু দিয়েও নামায হয়ে যাবে।</li><li>রুকুর পর সোজা হয়ে দাঁড়ানো।</li><li>দুই সিজদার মাঝে সোজা হয়ে বসা।</li><li>ধীরস্থিরতার সঙ্গে রুকু-সিজদা আদায় করা।</li><li>প্রথম বৈঠক অর্থাৎ তিন বা চার রাকাত বিশিষ্ট নামাযে দুই রাকাতের পর বসা।</li><li>প্রথম ও শেষ বৈঠকে আত্তাহিয়্যাতু পড়া।</li><li>বিতির নামাযে দোয়ায়ে কুনুত পড়া।</li><li>আস্তের জায়গার আস্তে পড়া, জোরের জায়গার জোরে পড়া।</li><li>নামাযের শেষে ডানে-বামে সালাম ফেরানো।</li><li>ঈদের নামাযের অতিরিক্ত ছয় তাকবির বলা।</li></ol><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%b8%e0%a6%ae%e0%a7%82%e0%a6%b9/\">নামাজের ওয়াজিবসমূহ</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
@@ -61,8 +61,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/176/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "নামাজের ওয়াজিবসমূহ",
