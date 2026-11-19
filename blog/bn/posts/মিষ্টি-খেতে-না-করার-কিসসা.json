@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 31,
-            "slug": "বানোয়াট-কিসসা-কাহিনী",
-            "name": "বানোয়াট কিসসা কাহিনী",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-07T05:43:38+00:00",
-    "updatedAt": "2026-11-17T04:01:57+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "bf79aa74aa420a4bf0fc4a7934a062e9372f13ee730e3df6c08b85e7aeef1de5",
     "url": "https://muslimsday.com/bn/blog/মিষ্টি-খেতে-না-করার-কিসসা",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বানোয়াট-কিসসা-কাহিনী",
+            "name": "বানোয়াট কিসসা কাহিনী"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
             "publishedTime": "2025-08-07T05:43:38+00:00",
-            "modifiedTime": "2026-11-17T04:01:57+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-07T05:43:38+00:00",
-                "dateModified": "2026-11-17T04:01:57+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
                 "author": {
                     "@type": "Person",

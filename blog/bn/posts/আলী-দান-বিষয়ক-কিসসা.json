@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 31,
-            "slug": "বানোয়াট-কিসসা-কাহিনী",
-            "name": "বানোয়াট কিসসা কাহিনী",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-07T05:55:28+00:00",
-    "updatedAt": "2026-11-17T04:01:56+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "5aa8cdcc0af0f642786f19c16614afc969173c25a169330e0e95606e8e47bcd9",
     "url": "https://muslimsday.com/bn/blog/আলী-দান-বিষয়ক-কিসসা",
@@ -62,7 +56,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বানোয়াট-কিসসা-কাহিনী",
+            "name": "বানোয়াট কিসসা কাহিনী"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -96,7 +95,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
             "publishedTime": "2025-08-07T05:55:28+00:00",
-            "modifiedTime": "2026-11-17T04:01:56+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -138,7 +137,7 @@
                     }
                 },
                 "datePublished": "2025-08-07T05:55:28+00:00",
-                "dateModified": "2026-11-17T04:01:56+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
                 "author": {
                     "@type": "Person",

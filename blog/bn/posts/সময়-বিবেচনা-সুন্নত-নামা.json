@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-05T03:40:48+00:00",
-    "updatedAt": "2026-11-17T04:02:25+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "77053ca59d1d468b9dbd2bb492c54cbcbb51efe44b80661070aaa877b8b8c9a2",
     "url": "https://muslimsday.com/bn/blog/সময়-বিবেচনা-সুন্নত-নামা",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2025-08-05T03:40:48+00:00",
-            "modifiedTime": "2026-11-17T04:02:25+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-05T03:40:48+00:00",
-                "dateModified": "2026-11-17T04:02:25+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

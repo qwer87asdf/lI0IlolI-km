@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-05T17:55:04+00:00",
-    "updatedAt": "2026-11-17T04:02:20+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "a008199fbb4b0dd2819dd8ad4d833a46b67fabf87a8913f4844ea0e3049c01b2",
     "url": "https://muslimsday.com/bn/blog/শবে-মেরাজ-উদযাপন",
@@ -52,7 +46,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -86,7 +85,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/58430f57-df5c-4024-88da-221940a82ab0.jpg",
             "publishedTime": "2025-08-05T17:55:04+00:00",
-            "modifiedTime": "2026-11-17T04:02:20+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -128,7 +127,7 @@
                     }
                 },
                 "datePublished": "2025-08-05T17:55:04+00:00",
-                "dateModified": "2026-11-17T04:02:20+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/58430f57-df5c-4024-88da-221940a82ab0.jpg",
                 "author": {
                     "@type": "Person",

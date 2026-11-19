@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-05T17:41:01+00:00",
-    "updatedAt": "2026-11-17T04:02:24+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 1,
     "contentHash": "5b2cf44bff11eab0241283623c981a80d62d08bf832fad7734b82b17e721ea1f",
     "url": "https://muslimsday.com/bn/blog/রোজা-টুথপেস্ট-দাঁত-মাজা",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
             "publishedTime": "2025-08-05T17:41:01+00:00",
-            "modifiedTime": "2026-11-17T04:02:24+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-05T17:41:01+00:00",
-                "dateModified": "2026-11-17T04:02:24+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
                 "author": {
                     "@type": "Person",

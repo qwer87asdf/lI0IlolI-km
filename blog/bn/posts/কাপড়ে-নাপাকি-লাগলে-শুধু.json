@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 23,
-            "slug": "তাহারাত-পবিত্রতা",
-            "name": "তাহারাত - পবিত্রতা",
-            "primary": false
-        },
-        {
             "id": 13,
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2025-08-06T15:02:30+00:00",
-    "updatedAt": "2026-11-17T04:02:08+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 1,
     "contentHash": "e12f27b7a6b74e82f8405d54949022cb967d532332fe72cacecdf371bf251bd6",
     "url": "https://muslimsday.com/bn/blog/কাপড়ে-নাপাকি-লাগলে-শুধু",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তাহারাত-পবিত্রতা",
+            "name": "তাহারাত - পবিত্রতা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
             "publishedTime": "2025-08-06T15:02:30+00:00",
-            "modifiedTime": "2026-11-17T04:02:08+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-06T15:02:30+00:00",
-                "dateModified": "2026-11-17T04:02:08+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
                 "author": {
                     "@type": "Person",

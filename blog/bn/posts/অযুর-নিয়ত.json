@@ -14,27 +14,15 @@
     },
     "categories": [
         {
-            "id": 23,
-            "slug": "তাহারাত-পবিত্রতা",
-            "name": "তাহারাত - পবিত্রতা",
-            "primary": false
-        },
-        {
             "id": 13,
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-05T03:07:17+00:00",
-    "updatedAt": "2026-11-17T04:02:25+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 1,
     "contentHash": "3814956653171f0861c841b58ca7fa1524303d95af50264197aaccff39047434",
     "url": "https://muslimsday.com/bn/blog/অযুর-নিয়ত",
@@ -47,7 +35,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তাহারাত-পবিত্রতা",
+            "name": "তাহারাত - পবিত্রতা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -81,7 +78,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
             "publishedTime": "2025-08-05T03:07:17+00:00",
-            "modifiedTime": "2026-11-17T04:02:25+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -123,7 +120,7 @@
                     }
                 },
                 "datePublished": "2025-08-05T03:07:17+00:00",
-                "dateModified": "2026-11-17T04:02:25+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
                 "author": {
                     "@type": "Person",

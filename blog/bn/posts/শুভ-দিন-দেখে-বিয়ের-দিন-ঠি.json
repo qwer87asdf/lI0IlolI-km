@@ -18,23 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 32,
-            "slug": "বিয়ে-তালাক",
-            "name": "বিয়ে-তালাক",
-            "primary": false
-        },
-        {
-            "id": 17,
-            "slug": "ভ্রান্ত-মতবাদ",
-            "name": "ভ্রান্ত মতবাদ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-06T14:14:22+00:00",
-    "updatedAt": "2026-11-17T04:02:08+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "80ecf1576d81a0360c9e3303a6909b220c54da9a93e01901c0af9968750fadd4",
     "url": "https://muslimsday.com/bn/blog/শুভ-দিন-দেখে-বিয়ের-দিন-ঠি",
@@ -47,7 +35,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বিয়ে-তালাক",
+            "name": "বিয়ে-তালাক"
+        },
+        {
+            "slug": "ভ্রান্ত-মতবাদ",
+            "name": "ভ্রান্ত মতবাদ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -81,7 +78,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/15c680d7-f899-4e9a-a72a-aa14ed8e3cb5.jpg",
             "publishedTime": "2025-08-06T14:14:22+00:00",
-            "modifiedTime": "2026-11-17T04:02:08+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -123,7 +120,7 @@
                     }
                 },
                 "datePublished": "2025-08-06T14:14:22+00:00",
-                "dateModified": "2026-11-17T04:02:08+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/15c680d7-f899-4e9a-a72a-aa14ed8e3cb5.jpg",
                 "author": {
                     "@type": "Person",

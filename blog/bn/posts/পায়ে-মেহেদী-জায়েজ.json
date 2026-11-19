@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 30,
-            "slug": "হালাল-হারাম",
-            "name": "হালাল - হারাম",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-06T16:18:28+00:00",
-    "updatedAt": "2026-11-17T04:01:57+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "96823f750ae12c8a8d8af8b6338fcca5c3a47329a7c8b121185fb3250aeb8e8d",
     "url": "https://muslimsday.com/bn/blog/পায়ে-মেহেদী-জায়েজ",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হালাল-হারাম",
+            "name": "হালাল - হারাম"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
             "publishedTime": "2025-08-06T16:18:28+00:00",
-            "modifiedTime": "2026-11-17T04:01:57+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-06T16:18:28+00:00",
-                "dateModified": "2026-11-17T04:01:57+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
                 "author": {
                     "@type": "Person",

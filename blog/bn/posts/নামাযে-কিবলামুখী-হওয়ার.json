@@ -14,33 +14,15 @@
     },
     "categories": [
         {
-            "id": 44,
-            "slug": "কিবলা",
-            "name": "কিবলা",
-            "primary": false
-        },
-        {
-            "id": 41,
-            "slug": "নামাজ-শিক্ষা",
-            "name": "নামাজ শিক্ষা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-01-30T06:06:25+00:00",
-    "updatedAt": "2026-11-17T04:02:57+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "69c655fd51e54917b6458a4ce50697ee8e5c16af3fbd8aaac609ffde6823ce77",
     "url": "https://muslimsday.com/bn/blog/নামাযে-কিবলামুখী-হওয়ার",
@@ -69,7 +51,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "কিবলা",
+            "name": "কিবলা"
+        },
+        {
+            "slug": "নামাজ-শিক্ষা",
+            "name": "নামাজ শিক্ষা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -103,7 +98,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2025-01-30T06:06:25+00:00",
-            "modifiedTime": "2026-11-17T04:02:57+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -145,7 +140,7 @@
                     }
                 },
                 "datePublished": "2025-01-30T06:06:25+00:00",
-                "dateModified": "2026-11-17T04:02:57+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

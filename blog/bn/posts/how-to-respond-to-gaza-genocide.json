@@ -18,29 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 37,
-            "slug": "ইসরাইল",
-            "name": "ইসরাইল",
-            "primary": false
-        },
-        {
-            "id": 38,
-            "slug": "গাজা",
-            "name": "গাজা",
-            "primary": false
-        },
-        {
-            "id": 39,
-            "slug": "ফিলিস্তিন",
-            "name": "ফিলিস্তিন",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-04-11T16:09:15+00:00",
-    "updatedAt": "2026-11-17T04:02:41+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "8cf680891c1b06c2eb79d76cf7481f7565d8bee0313e31bc33589a42952f63af",
     "url": "https://muslimsday.com/bn/blog/how-to-respond-to-gaza-genocide",
@@ -74,7 +56,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ইসরাইল",
+            "name": "ইসরাইল"
+        },
+        {
+            "slug": "গাজা",
+            "name": "গাজা"
+        },
+        {
+            "slug": "ফিলিস্তিন",
+            "name": "ফিলিস্তিন"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -108,7 +103,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/15f22f5a-4cb5-44b6-8cf5-5e30b8c9b7b5.jpg",
             "publishedTime": "2025-04-11T16:09:15+00:00",
-            "modifiedTime": "2026-11-17T04:02:41+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -150,7 +145,7 @@
                     }
                 },
                 "datePublished": "2025-04-11T16:09:15+00:00",
-                "dateModified": "2026-11-17T04:02:41+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/15f22f5a-4cb5-44b6-8cf5-5e30b8c9b7b5.jpg",
                 "author": {
                     "@type": "Person",

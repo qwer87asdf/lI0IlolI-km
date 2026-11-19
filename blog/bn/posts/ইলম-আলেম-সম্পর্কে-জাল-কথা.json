@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 20,
-            "slug": "ইলম-জ্ঞানচর্চা",
-            "name": "ইলম - জ্ঞানচর্চা",
-            "primary": false
-        },
-        {
             "id": 13,
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2025-08-06T13:23:55+00:00",
-    "updatedAt": "2026-11-17T04:02:19+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "ba38274599f12690e0ffadf170dc03004c60afdabcf5ce9898e74a0b989744d6",
     "url": "https://muslimsday.com/bn/blog/ইলম-আলেম-সম্পর্কে-জাল-কথা",
@@ -82,7 +76,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ইলম-জ্ঞানচর্চা",
+            "name": "ইলম - জ্ঞানচর্চা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -116,7 +115,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
             "publishedTime": "2025-08-06T13:23:55+00:00",
-            "modifiedTime": "2026-11-17T04:02:19+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -158,7 +157,7 @@
                     }
                 },
                 "datePublished": "2025-08-06T13:23:55+00:00",
-                "dateModified": "2026-11-17T04:02:19+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
                 "author": {
                     "@type": "Person",
