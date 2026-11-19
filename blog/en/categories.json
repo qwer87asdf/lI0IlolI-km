@@ -8,8 +8,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
-        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/মাসআলা",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/মাসআলা/pages/{page}.json"
     },
     {
         "id": 2,
@@ -80,8 +80,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8",
-        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/ইসলামের-ইতিহাস",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/ইসলামের-ইতিহাস/pages/{page}.json"
     },
     {
         "id": 8,
@@ -92,8 +92,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%86%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%80%E0%A6%97%E0%A6%A3",
-        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/%E0%A6%86%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%80%E0%A6%97%E0%A6%A3/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/আনসার-সাহাবীগণ",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/আনসার-সাহাবীগণ/pages/{page}.json"
     },
     {
         "id": 9,
@@ -104,8 +104,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE-faq",
-        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE-faq/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq/pages/{page}.json"
     },
     {
         "id": 10,
@@ -116,8 +116,8 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE",
-        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/মাসআলা",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/মাসআলা/pages/{page}.json"
     },
     {
         "id": 11,
@@ -128,7 +128,19 @@
         "count": 0,
         "totalPosts": 0,
         "totalPages": 1,
-        "url": "https://muslimsday.com/blog/category/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE",
-        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE/pages/{page}.json"
+        "url": "https://muslimsday.com/blog/category/যাকাত-ফিতরা",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/যাকাত-ফিতরা/pages/{page}.json"
+    },
+    {
+        "id": 12,
+        "slug": "halal",
+        "name": "Halal",
+        "description": null,
+        "parent": null,
+        "count": 0,
+        "totalPosts": 0,
+        "totalPages": 1,
+        "url": "https://muslimsday.com/blog/category/halal",
+        "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/categories/halal/pages/{page}.json"
     }
 ]

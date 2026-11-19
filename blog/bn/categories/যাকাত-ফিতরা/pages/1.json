@@ -35,9 +35,9 @@
             "updatedAt": "2026-11-16T13:23:57+00:00",
             "readingTimeMinutes": 2,
             "contentHash": "2d76eccdc4e3ade0c6a751162b4069dc5644ec73b76c2420c4340f5aafc1decf",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AE",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AE.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AE.html"
+            "url": "https://muslimsday.com/bn/blog/যাকাতের-কয়েকটি-আধুনিক-ম",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/যাকাতের-কয়েকটি-আধুনিক-ম.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/যাকাতের-কয়েকটি-আধুনিক-ম.html"
         },
         {
             "id": 20,
@@ -71,9 +71,9 @@
             "updatedAt": "2026-11-16T13:23:57+00:00",
             "readingTimeMinutes": 3,
             "contentHash": "af3ce0714b99319e8ec87028432996027dbe81ef0f5ac8ac1552b2544c80d0c7",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87.html"
+            "url": "https://muslimsday.com/bn/blog/কাকে-যাকাত-দেয়া-যাবে",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/কাকে-যাকাত-দেয়া-যাবে.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/কাকে-যাকাত-দেয়া-যাবে.html"
         }
     ]
 }

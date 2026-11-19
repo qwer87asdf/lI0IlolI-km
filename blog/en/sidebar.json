@@ -1,0 +1,219 @@
+{
+    "schemaVersion": 1,
+    "language": "en",
+    "ads": {
+        "top": null,
+        "bottom": null
+    },
+    "topRead": [
+        {
+            "id": 2,
+            "translationId": 2,
+            "language": "en",
+            "slug": "tree-plantation-in-islam",
+            "title": "Tree plantation in Islam",
+            "excerpt": "Explore Tree Plantation in Islam with insights from the Qur'an and Hadith. Discover its spiritual rewards, environmental benefits, and Sadaqah Jariyah.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/a301650e-ce73-44d9-877c-794dd6723e0f.jpg",
+                "alt": "",
+                "width": 700,
+                "height": 400
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-03T11:25:07+00:00",
+            "updatedAt": "2026-11-16T13:24:52+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "3eff5bea50dec34e9c6469295a538092ac26df7062ced107129bcfb6bc53a988",
+            "url": "https://muslimsday.com/blog/tree-plantation-in-islam",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.html",
+            "reads": 2
+        },
+        {
+            "id": 3,
+            "translationId": 3,
+            "language": "en",
+            "slug": "muslim-lifestyle-apps",
+            "title": "10 Must-Have Muslim Lifestyle Apps for New Muslims",
+            "excerpt": "Best muslim lifestyle apps suggestion for the new muslims who are in need ot daily guidance of islamic rules.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/8f4fea81-246c-400b-b189-402951159f30.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T11:54:37+00:00",
+            "updatedAt": "2026-11-16T13:20:39+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "39c967190e3f27b7373b6fb323e645a64b27d1c6de07b8a6c8e2342e042aa2d6",
+            "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.html",
+            "reads": 1
+        },
+        {
+            "id": 4,
+            "translationId": 4,
+            "language": "en",
+            "slug": "sahabi-tree",
+            "title": "The Story of Bahira the Monk and the Sahabi Tree: What Really Happened",
+            "excerpt": "Know the real story of Sahabi tree in Jordan. The 1,500-Year-Old Tree That Sheltered Prophet Muhammad ﷺ",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/32d91ee7-febe-4846-8e13-ea9dd97ed0cb.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                },
+                {
+                    "id": 6,
+                    "slug": "story",
+                    "name": "Story",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T08:36:34+00:00",
+            "updatedAt": "2026-11-16T13:20:44+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
+            "url": "https://muslimsday.com/blog/sahabi-tree",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.html",
+            "reads": 1
+        },
+        {
+            "id": 5,
+            "translationId": 5,
+            "language": "en",
+            "slug": "surah-yaseen-heart-of-quran",
+            "title": "Why Is Surah Yaseen Called the ‘Heart of the Quran?",
+            "excerpt": "Learn the explanation of Surah Yaseen being called the heart of The Quran. Benefits of Yaseen and how to and when recite it. Learn the hadith and other reference behind claim.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/98c91e95-9933-4064-b1cc-ae3ba6f1b151.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-29T06:17:22+00:00",
+            "updatedAt": "2026-11-16T13:21:07+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "2d03c928d0b0b8cf551a9f475daf973fbb958f4331aca696224fad365f569d98",
+            "url": "https://muslimsday.com/blog/surah-yaseen-heart-of-quran",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html",
+            "reads": 1
+        },
+        {
+            "id": 7,
+            "translationId": 7,
+            "language": "en",
+            "slug": "short-vs-long-dua-qunoot",
+            "title": "Short vs Long Dua Qunoot: Different Versions Explained",
+            "excerpt": "Learn the explanation of short vs long dua qunoot. Learn the benefits of dua qunoot and when to perform it.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/15a2d732-89a8-4585-bf03-a6f924dd46e3.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-26T09:07:01+00:00",
+            "updatedAt": "2026-11-16T13:22:00+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "6cf8cdc4dab2822f92a0ddc1436f13d0f836ce67aebc4b252020dfb05493dc79",
+            "url": "https://muslimsday.com/blog/short-vs-long-dua-qunoot",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.html",
+            "reads": 1
+        }
+    ]
+}

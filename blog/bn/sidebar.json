@@ -1,0 +1,195 @@
+{
+    "schemaVersion": 1,
+    "language": "bn",
+    "ads": {
+        "top": null,
+        "bottom": null
+    },
+    "topRead": [
+        {
+            "id": 10,
+            "translationId": 10,
+            "language": "bn",
+            "slug": "jihader-prathomik-prostuti",
+            "title": "কুরাইশদের উসকানি ও জিহাদের প্রাথমিক প্রস্তুতি—আনসার সিরিজ-০৮",
+            "excerpt": "মদিনা রাষ্ট্রের উত্থানে কেন রাতের ঘুম হারাম হয়েছিল মক্কার কুরাইশদের? পড়ুন মুনাফিকদের সর্দার আব্দুল্লাহ ইবনে উবাইয়ের গোপন চক্রান্ত",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/9cae6172-ccb4-400f-bc1d-1fee419f3181.avif",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-06-23T09:24:14+00:00",
+            "updatedAt": "2026-11-16T13:23:24+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "37d6d20726fda6d7a1cd9187ec2337c0f190890d9054adab0b4bbdecca900528",
+            "url": "https://muslimsday.com/bn/blog/jihader-prathomik-prostuti",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jihader-prathomik-prostuti.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jihader-prathomik-prostuti.html",
+            "reads": 2
+        },
+        {
+            "id": 11,
+            "translationId": 11,
+            "language": "bn",
+            "slug": "jokhon-madina-holo_okhondo_pariber",
+            "title": "ভ্রাতৃত্বের এক অনন্য মহাকাব্য : যখন মদিনা হলো এক অখণ্ড পরিবার—আনসার সিরিজ-০৭",
+            "excerpt": "মক্কার মুহাজির ও মদিনার আনসারদের মাঝে কীভাবে গড়ে উঠেছিল রক্তের চেয়েও গাঢ় এক বিশ্বাসের বন্ধন?",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/9cae6172-ccb4-400f-bc1d-1fee419f3181.avif",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-06-21T09:13:14+00:00",
+            "updatedAt": "2026-11-16T13:24:58+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "f560829d610c7e28e9ac2d84e39c643e780fa9ef1b7a1945a86788464ead2c98",
+            "url": "https://muslimsday.com/bn/blog/jokhon-madina-holo_okhondo_pariber",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.html",
+            "reads": 1
+        },
+        {
+            "id": 13,
+            "translationId": 13,
+            "language": "bn",
+            "slug": "ditio-akabar-sopoth",
+            "title": "দ্বিতীয় আকাবার শপথ : হিজরতের এক মহাকাব্যিক রূপরেখা—আনসার সিরিজ-০৫",
+            "excerpt": "এই পর্বে আমরা জানতে পারব দ্বিতীয় দফায় আনসার সাহাবিদের বায়াত গ্রহণের সেই",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/84f6db29-af7d-4e3a-b95c-24e5ed58b62a.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-06-17T05:05:49+00:00",
+            "updatedAt": "2026-11-16T13:23:32+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "bba5c784c339712c90786616c130a93a4df40f1d9e221f3bf32d868567a2139c",
+            "url": "https://muslimsday.com/bn/blog/ditio-akabar-sopoth",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/ditio-akabar-sopoth.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/ditio-akabar-sopoth.html",
+            "reads": 1
+        },
+        {
+            "id": 12,
+            "translationId": 12,
+            "language": "bn",
+            "slug": "yasrib-jokhon-modinatun-nabi",
+            "title": "হিজরতের সেই মাহেন্দ্রক্ষণ : ইয়াসরিব যখন ‘মদিনাতুন নবী’ —আনসার সিরিজ-০৬",
+            "excerpt": "আকাবার শপথের পর ইয়াসরিব কীভাবে হয়ে উঠল মদিনাতুন নবী? পড়ুন ইসলামের ইতিহাসের সেই রুদ্ধশ্বাস হিজরতের গাথা, সাহাবীদের ত্যাগ",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/ed47bccc-36a2-46cb-98a9-437bb0622add.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-06-19T05:02:27+00:00",
+            "updatedAt": "2026-11-16T13:23:28+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "c956b47beb62b562f60f7c1e4b4bf7d25a587b75bdc7eda4a62098eddebec867",
+            "url": "https://muslimsday.com/bn/blog/yasrib-jokhon-modinatun-nabi",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/yasrib-jokhon-modinatun-nabi.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/yasrib-jokhon-modinatun-nabi.html",
+            "reads": 0
+        },
+        {
+            "id": 14,
+            "translationId": 14,
+            "language": "bn",
+            "slug": "story-of-ansar-sahabi-4",
+            "title": "ইয়াসরিবের হৃদয়ে ঈমানের মহাবিপ্লব—আনসার সিরিজ-০৪",
+            "excerpt": "তলোয়ার হাতে মুসআব (রা.)-কে হত্যা করতে এসে কীভাবে কুরআনের বাণীতে গলে গেল সা'দ ইবনে মুআযের হৃদয়? জানুন ইয়াসরিবের বুকে ইসলামের প্রথম মহাবিপ্লবের সেই রুদ্ধশ্বাস উপাখ্যান।",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/c2b1b43c-91b2-4005-826d-ea1cbb3595b2.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-05-17T10:17:01+00:00",
+            "updatedAt": "2026-11-16T13:23:36+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "7e5106e282e2207c329eb1d11ef21cf9a7eb317afba8745ca01e19894eac2ef4",
+            "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-4",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.html",
+            "reads": 0
+        }
+    ]
+}

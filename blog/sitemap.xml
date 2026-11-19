@@ -8,4 +8,16 @@
     <loc>https://dev.data.muslimsday.com/appdata/blog/sitemap-bn.xml</loc>
     <lastmod>2026-11-16T13:24:58+00:00</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>https://dev.data.muslimsday.com/appdata/blog/sitemap-ar.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev.data.muslimsday.com/appdata/blog/sitemap-id.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev.data.muslimsday.com/appdata/blog/sitemap-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://dev.data.muslimsday.com/appdata/blog/sitemap-ur.xml</loc>
+  </sitemap>
 </sitemapindex>

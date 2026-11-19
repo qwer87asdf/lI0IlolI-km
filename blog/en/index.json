@@ -8,5 +8,9 @@
     "updatedAt": "2026-11-16T13:24:58+00:00",
     "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/en/pages/{page}.json",
     "stylesheetUrl": "https://dev.data.muslimsday.com/appdata/blog/assets/blog-content.64b730fcb4.css",
+    "ads": {
+        "top": null,
+        "bottom": null
+    },
     "featured": []
 }
