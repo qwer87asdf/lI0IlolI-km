@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-02-24T09:45:32+00:00",
-    "updatedAt": "2026-11-17T04:06:00+00:00",
+    "updatedAt": "2026-11-19T08:09:22+00:00",
     "readingTimeMinutes": 5,
     "contentHash": "5a58288b73cc447632524ef79623a3f77522cf68357e9bd5ece50572fe2b62da",
     "url": "https://muslimsday.com/bn/blog/সালাতুত-দুহার-ফজিলত",
@@ -93,7 +81,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -127,7 +124,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2023-02-24T09:45:32+00:00",
-            "modifiedTime": "2026-11-17T04:06:00+00:00",
+            "modifiedTime": "2026-11-19T08:09:22+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -169,7 +166,7 @@
                     }
                 },
                 "datePublished": "2023-02-24T09:45:32+00:00",
-                "dateModified": "2026-11-17T04:06:00+00:00",
+                "dateModified": "2026-11-19T08:09:22+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-20T03:34:47+00:00",
-    "updatedAt": "2026-11-17T04:05:20+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 5,
     "contentHash": "ba1a9c418efed1102b6a4dd2cfc8ed6c0fb5edbfd299d9a0e60f8c159f0fa03e",
     "url": "https://muslimsday.com/bn/blog/রোজার-সমসাময়িক-মাসআলা",
@@ -87,7 +81,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -121,7 +120,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
             "publishedTime": "2023-03-20T03:34:47+00:00",
-            "modifiedTime": "2026-11-17T04:05:20+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -163,7 +162,7 @@
                     }
                 },
                 "datePublished": "2023-03-20T03:34:47+00:00",
-                "dateModified": "2026-11-17T04:05:20+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
                 "author": {
                     "@type": "Person",

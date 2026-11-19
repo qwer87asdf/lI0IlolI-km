@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-18T06:06:22+00:00",
-    "updatedAt": "2026-11-17T04:05:24+00:00",
+    "updatedAt": "2026-11-19T08:09:22+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "eaf11052b5d78e5bf6413b33da6d983c6a4c38714ea18575ca9b19a5377346a7",
     "url": "https://muslimsday.com/bn/blog/যাদের-জন্য-রোযা-না-রাখা",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
             "publishedTime": "2023-03-18T06:06:22+00:00",
-            "modifiedTime": "2026-11-17T04:05:24+00:00",
+            "modifiedTime": "2026-11-19T08:09:22+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-03-18T06:06:22+00:00",
-                "dateModified": "2026-11-17T04:05:24+00:00",
+                "dateModified": "2026-11-19T08:09:22+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
                 "author": {
                     "@type": "Person",

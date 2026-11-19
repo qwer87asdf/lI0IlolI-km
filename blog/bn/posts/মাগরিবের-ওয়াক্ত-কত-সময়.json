@@ -18,17 +18,11 @@
             "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
             "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-01T14:23:06+00:00",
-    "updatedAt": "2026-11-17T04:05:59+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 1,
     "contentHash": "3b1e685a3e9da28c3d0341086e635faeeefa40b3b2d805b49eb8b99c6662335a",
     "url": "https://muslimsday.com/bn/blog/মাগরিবের-ওয়াক্ত-কত-সময়",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
             "publishedTime": "2023-03-01T14:23:06+00:00",
-            "modifiedTime": "2026-11-17T04:05:59+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-03-01T14:23:06+00:00",
-                "dateModified": "2026-11-17T04:05:59+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
                 "author": {
                     "@type": "Person",

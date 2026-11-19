@@ -14,33 +14,15 @@
     },
     "categories": [
         {
-            "id": 57,
-            "slug": "ঈদ",
-            "name": "ঈদ",
-            "primary": false
-        },
-        {
-            "id": 41,
-            "slug": "নামাজ-শিক্ষা",
-            "name": "নামাজ শিক্ষা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-02-24T10:14:36+00:00",
-    "updatedAt": "2026-11-17T04:05:59+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "0a03cfbe8b0f5a7bba3c12de059ca2b9ede7b22d25a14b2f6e8ad47884f1baa4",
     "url": "https://muslimsday.com/bn/blog/ঈদের-নামাজের-নিয়ম",
@@ -94,7 +76,20 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ঈদ",
+            "name": "ঈদ"
+        },
+        {
+            "slug": "নামাজ-শিক্ষা",
+            "name": "নামাজ শিক্ষা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -128,7 +123,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2023-02-24T10:14:36+00:00",
-            "modifiedTime": "2026-11-17T04:05:59+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -170,7 +165,7 @@
                     }
                 },
                 "datePublished": "2023-02-24T10:14:36+00:00",
-                "dateModified": "2026-11-17T04:05:59+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

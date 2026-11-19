@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 65,
-            "slug": "যাকাত",
-            "name": "যাকাত",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-04-16T13:51:33+00:00",
-    "updatedAt": "2026-11-17T04:05:16+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 5,
     "contentHash": "fb61a812f6a299031d719035162378f874ebb53a4f196417f91f8b5ef56fd6f7",
     "url": "https://muslimsday.com/bn/blog/যাকাত-কাকে-দেয়া-যাবে",
@@ -82,7 +76,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "যাকাত",
+            "name": "যাকাত"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -116,7 +115,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1caed9f4-e7ba-45c8-8932-5eece56baf85.jpg",
             "publishedTime": "2023-04-16T13:51:33+00:00",
-            "modifiedTime": "2026-11-17T04:05:16+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -158,7 +157,7 @@
                     }
                 },
                 "datePublished": "2023-04-16T13:51:33+00:00",
-                "dateModified": "2026-11-17T04:05:16+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1caed9f4-e7ba-45c8-8932-5eece56baf85.jpg",
                 "author": {
                     "@type": "Person",

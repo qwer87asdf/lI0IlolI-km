@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-02-27T16:57:11+00:00",
-    "updatedAt": "2026-11-17T04:05:59+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 5,
     "contentHash": "d59c9931b66f6368a541db67dd8fa6a25b4d489e0b51032bc2268f96d24f73b2",
     "url": "https://muslimsday.com/bn/blog/যে-কারণে-রোজা-ভঙ্গ-হয়-না",
@@ -77,7 +71,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -111,7 +110,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
             "publishedTime": "2023-02-27T16:57:11+00:00",
-            "modifiedTime": "2026-11-17T04:05:59+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -153,7 +152,7 @@
                     }
                 },
                 "datePublished": "2023-02-27T16:57:11+00:00",
-                "dateModified": "2026-11-17T04:05:59+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
                 "author": {
                     "@type": "Person",

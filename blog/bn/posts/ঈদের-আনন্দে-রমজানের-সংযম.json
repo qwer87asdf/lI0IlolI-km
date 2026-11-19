@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 57,
-            "slug": "ঈদ",
-            "name": "ঈদ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-04-20T23:09:28+00:00",
-    "updatedAt": "2026-11-17T04:05:13+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 10,
     "contentHash": "1b0c896fb6e14ba6f1860f837d56e9752efc863d12dbde1d0dc8d2370d9eccd7",
     "url": "https://muslimsday.com/bn/blog/ঈদের-আনন্দে-রমজানের-সংযম",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ঈদ",
+            "name": "ঈদ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2023-04-20T23:09:28+00:00",
-            "modifiedTime": "2026-11-17T04:05:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-04-20T23:09:28+00:00",
-                "dateModified": "2026-11-17T04:05:13+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

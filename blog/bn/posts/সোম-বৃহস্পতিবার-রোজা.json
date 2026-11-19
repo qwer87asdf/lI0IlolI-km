@@ -14,27 +14,15 @@
     },
     "categories": [
         {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-06T00:30:57+00:00",
-    "updatedAt": "2026-11-17T04:05:29+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "c589dbc8b3e848201762bc2999b8c2818d211700581b41250c792a50f599c1ac",
     "url": "https://muslimsday.com/bn/blog/সোম-বৃহস্পতিবার-রোজা",
@@ -78,7 +66,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        },
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -112,7 +109,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
             "publishedTime": "2023-03-06T00:30:57+00:00",
-            "modifiedTime": "2026-11-17T04:05:29+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -154,7 +151,7 @@
                     }
                 },
                 "datePublished": "2023-03-06T00:30:57+00:00",
-                "dateModified": "2026-11-17T04:05:29+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
                 "author": {
                     "@type": "Person",

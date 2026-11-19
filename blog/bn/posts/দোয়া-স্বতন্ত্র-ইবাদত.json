@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 29,
-            "slug": "দোয়া",
-            "name": "দোয়া",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-19T11:58:17+00:00",
-    "updatedAt": "2026-11-17T04:05:24+00:00",
+    "updatedAt": "2026-11-19T08:09:22+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "1311c68cf6d438fc41630969cdca931d86d0bf4ab2828049718ae1a686ffdb0f",
     "url": "https://muslimsday.com/bn/blog/দোয়া-স্বতন্ত্র-ইবাদত",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "দোয়া",
+            "name": "দোয়া"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/cce251ad-1b50-4c00-9d58-8616d331e9e7.jpg",
             "publishedTime": "2023-03-19T11:58:17+00:00",
-            "modifiedTime": "2026-11-17T04:05:24+00:00",
+            "modifiedTime": "2026-11-19T08:09:22+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-03-19T11:58:17+00:00",
-                "dateModified": "2026-11-17T04:05:24+00:00",
+                "dateModified": "2026-11-19T08:09:22+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/cce251ad-1b50-4c00-9d58-8616d331e9e7.jpg",
                 "author": {
                     "@type": "Person",

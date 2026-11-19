@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 67,
-            "slug": "ফিতরা",
-            "name": "ফিতরা",
-            "primary": false
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-04-05T03:26:00+00:00",
-    "updatedAt": "2026-11-17T04:05:20+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "92d83f3938f7353256162e251ea97ad53e4191d57d61d91f3c7954db34621b75",
     "url": "https://muslimsday.com/bn/blog/ফিতরা-কত-টাকা-মাসআলা",
@@ -83,7 +71,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফিতরা",
+            "name": "ফিতরা"
+        },
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -117,7 +114,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
             "publishedTime": "2023-04-05T03:26:00+00:00",
-            "modifiedTime": "2026-11-17T04:05:20+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -159,7 +156,7 @@
                     }
                 },
                 "datePublished": "2023-04-05T03:26:00+00:00",
-                "dateModified": "2026-11-17T04:05:20+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
                 "author": {
                     "@type": "Person",

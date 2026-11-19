@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
-        },
-        {
-            "id": 62,
-            "slug": "বিদআত",
-            "name": "বিদআত",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-01T14:47:51+00:00",
-    "updatedAt": "2026-11-17T04:05:59+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 23,
     "contentHash": "8446882a286d1f7c9751fd87bb871e4533eab7653363417abe9cca0375836472",
     "url": "https://muslimsday.com/bn/blog/শবে-বরাত-ফজিলত-আমল-বিদআত",
@@ -133,7 +121,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        },
+        {
+            "slug": "বিদআত",
+            "name": "বিদআত"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -167,7 +164,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/eff5a75a-9b56-441c-b241-8b695d2fc112.jpg",
             "publishedTime": "2023-03-01T14:47:51+00:00",
-            "modifiedTime": "2026-11-17T04:05:59+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -209,7 +206,7 @@
                     }
                 },
                 "datePublished": "2023-03-01T14:47:51+00:00",
-                "dateModified": "2026-11-17T04:05:59+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/eff5a75a-9b56-441c-b241-8b695d2fc112.jpg",
                 "author": {
                     "@type": "Person",

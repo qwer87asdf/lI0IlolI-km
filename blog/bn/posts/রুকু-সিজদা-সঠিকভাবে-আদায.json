@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-02-24T09:27:09+00:00",
-    "updatedAt": "2026-11-17T04:06:00+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "96c28b4185cad8a633e94bda252be9df0f6ec5080b65090aa63b926b8568506b",
     "url": "https://muslimsday.com/bn/blog/রুকু-সিজদা-সঠিকভাবে-আদায",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2023-02-24T09:27:09+00:00",
-            "modifiedTime": "2026-11-17T04:06:00+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-02-24T09:27:09+00:00",
-                "dateModified": "2026-11-17T04:06:00+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

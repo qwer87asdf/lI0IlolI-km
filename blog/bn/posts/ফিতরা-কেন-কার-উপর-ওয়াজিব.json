@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 67,
-            "slug": "ফিতরা",
-            "name": "ফিতরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-04-05T16:37:24+00:00",
-    "updatedAt": "2026-11-17T04:05:20+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "1bb7cd88782697f1aa3fc23c4b728e9ae10b6fd2a979c4596ea0e9e13216156e",
     "url": "https://muslimsday.com/bn/blog/ফিতরা-কেন-কার-উপর-ওয়াজিব",
@@ -72,7 +66,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফিতরা",
+            "name": "ফিতরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -106,7 +105,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
             "publishedTime": "2023-04-05T16:37:24+00:00",
-            "modifiedTime": "2026-11-17T04:05:20+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -148,7 +147,7 @@
                     }
                 },
                 "datePublished": "2023-04-05T16:37:24+00:00",
-                "dateModified": "2026-11-17T04:05:20+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
                 "author": {
                     "@type": "Person",

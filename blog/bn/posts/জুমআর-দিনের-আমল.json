@@ -14,18 +14,6 @@
     },
     "categories": [
         {
-            "id": 21,
-            "slug": "ইসলামি-সংস্কৃতি",
-            "name": "ইসলামি সংস্কৃতি",
-            "primary": false
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
@@ -34,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2023-02-10T08:14:41+00:00",
-    "updatedAt": "2026-11-17T04:06:04+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "edd3e2e13de721f2b550d66cdc5bfb2fc9f5322522ecc8735a4568a1d9b3e425",
     "url": "https://muslimsday.com/bn/blog/জুমআর-দিনের-আমল",
@@ -113,7 +101,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ইসলামি-সংস্কৃতি",
+            "name": "ইসলামি সংস্কৃতি"
+        },
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -147,7 +144,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/db49968e-8e1a-4575-9356-8cc28b107a68.jpg",
             "publishedTime": "2023-02-10T08:14:41+00:00",
-            "modifiedTime": "2026-11-17T04:06:04+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -189,7 +186,7 @@
                     }
                 },
                 "datePublished": "2023-02-10T08:14:41+00:00",
-                "dateModified": "2026-11-17T04:06:04+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/db49968e-8e1a-4575-9356-8cc28b107a68.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-06T14:43:50+00:00",
-    "updatedAt": "2026-11-17T04:05:29+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "5dc4c19c9cbc6f206d4abddbf08a84ff8c8e36ccd4c1cc0331f8e92120f310af",
     "url": "https://muslimsday.com/bn/blog/ফজরের-আজান-পর্যন্ত-সাহরি",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
             "publishedTime": "2023-03-06T14:43:50+00:00",
-            "modifiedTime": "2026-11-17T04:05:29+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-03-06T14:43:50+00:00",
-                "dateModified": "2026-11-17T04:05:29+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
                 "author": {
                     "@type": "Person",

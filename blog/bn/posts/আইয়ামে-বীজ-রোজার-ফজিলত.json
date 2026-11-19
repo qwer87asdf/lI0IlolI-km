@@ -14,27 +14,15 @@
     },
     "categories": [
         {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-06T00:20:09+00:00",
-    "updatedAt": "2026-11-17T04:05:33+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 10,
     "contentHash": "f3b36acb316c0f8dfcb939b217c8b3791665dca3b3f7b384aa6f00eb45b98ec9",
     "url": "https://muslimsday.com/bn/blog/আইয়ামে-বীজ-রোজার-ফজিলত",
@@ -103,7 +91,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        },
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -137,7 +134,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8c795cb7-0a48-4caa-8732-9628aa4eb86a.jpg",
             "publishedTime": "2023-03-06T00:20:09+00:00",
-            "modifiedTime": "2026-11-17T04:05:33+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -179,7 +176,7 @@
                     }
                 },
                 "datePublished": "2023-03-06T00:20:09+00:00",
-                "dateModified": "2026-11-17T04:05:33+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8c795cb7-0a48-4caa-8732-9628aa4eb86a.jpg",
                 "author": {
                     "@type": "Person",

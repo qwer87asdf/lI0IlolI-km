@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-02-10T02:33:05+00:00",
-    "updatedAt": "2026-11-17T04:06:09+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 10,
     "contentHash": "6434ad05c8adb92484b0311f7df174ab15d85577d75b4a209d3bce8356ed6d82",
     "url": "https://muslimsday.com/bn/blog/রমজান-মাসের-প্রস্তুতি",
@@ -92,7 +86,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -126,7 +125,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d616ee3-a349-48f5-8bd0-087f4b533c0e.jpg",
             "publishedTime": "2023-02-10T02:33:05+00:00",
-            "modifiedTime": "2026-11-17T04:06:09+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -168,7 +167,7 @@
                     }
                 },
                 "datePublished": "2023-02-10T02:33:05+00:00",
-                "dateModified": "2026-11-17T04:06:09+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d616ee3-a349-48f5-8bd0-087f4b533c0e.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-02-10T10:24:57+00:00",
-    "updatedAt": "2026-11-17T04:06:00+00:00",
+    "updatedAt": "2026-11-19T08:09:22+00:00",
     "readingTimeMinutes": 1,
     "contentHash": "5f84f0b4ff02a3c7e93a1b195feec68787bb5b032a7ce251c4b76ac4bfbc96d0",
     "url": "https://muslimsday.com/bn/blog/সালাত-ভঙ্গের-কারণসমূহ",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2023-02-10T10:24:57+00:00",
-            "modifiedTime": "2026-11-17T04:06:00+00:00",
+            "modifiedTime": "2026-11-19T08:09:22+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-02-10T10:24:57+00:00",
-                "dateModified": "2026-11-17T04:06:00+00:00",
+                "dateModified": "2026-11-19T08:09:22+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

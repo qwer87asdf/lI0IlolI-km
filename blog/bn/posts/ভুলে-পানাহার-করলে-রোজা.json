@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-03-10T03:16:24+00:00",
-    "updatedAt": "2026-11-17T04:05:28+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 1,
     "contentHash": "2e6f01a9abfa077a5811a2f2dbc8bb5019329c6002433e8ba1438b5a96184358",
     "url": "https://muslimsday.com/bn/blog/ভুলে-পানাহার-করলে-রোজা",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
             "publishedTime": "2023-03-10T03:16:24+00:00",
-            "modifiedTime": "2026-11-17T04:05:28+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-03-10T03:16:24+00:00",
-                "dateModified": "2026-11-17T04:05:28+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
                 "author": {
                     "@type": "Person",
