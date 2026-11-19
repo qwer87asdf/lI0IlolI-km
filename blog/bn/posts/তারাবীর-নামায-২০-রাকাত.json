@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-03-26T21:37:09+00:00",
-    "updatedAt": "2026-11-17T04:03:37+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 15,
     "contentHash": "72feb2a9e4f89e3d2fa9e034ac0f8047ecf27326183c62a895da4552e280df94",
     "url": "https://muslimsday.com/bn/blog/তারাবীর-নামায-২০-রাকাত",
@@ -158,7 +146,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -192,7 +189,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2024-03-26T21:37:09+00:00",
-            "modifiedTime": "2026-11-17T04:03:37+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -234,7 +231,7 @@
                     }
                 },
                 "datePublished": "2024-03-26T21:37:09+00:00",
-                "dateModified": "2026-11-17T04:03:37+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

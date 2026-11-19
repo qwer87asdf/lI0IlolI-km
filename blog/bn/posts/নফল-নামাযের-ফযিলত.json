@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-08-22T03:17:52+00:00",
-    "updatedAt": "2026-11-17T04:03:13+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "ed9b55e9365b228f4bc7f73c5e39599402fd4378b41838a96e7ba33654c10818",
     "url": "https://muslimsday.com/bn/blog/নফল-নামাযের-ফযিলত",
@@ -58,7 +46,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -92,7 +89,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2024-08-22T03:17:52+00:00",
-            "modifiedTime": "2026-11-17T04:03:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -134,7 +131,7 @@
                     }
                 },
                 "datePublished": "2024-08-22T03:17:52+00:00",
-                "dateModified": "2026-11-17T04:03:13+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

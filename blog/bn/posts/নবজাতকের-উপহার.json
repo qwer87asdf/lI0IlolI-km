@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 21,
-            "slug": "ইসলামি-সংস্কৃতি",
-            "name": "ইসলামি সংস্কৃতি",
-            "primary": false
-        },
-        {
-            "id": 59,
-            "slug": "নবজাতক",
-            "name": "নবজাতক",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-04-24T06:27:09+00:00",
-    "updatedAt": "2026-11-17T04:03:37+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 5,
     "contentHash": "0c72ee60eb48c2e87e63e1acb165323506f2830d745e511356364df66fe6f264",
     "url": "https://muslimsday.com/bn/blog/নবজাতকের-উপহার",
@@ -88,7 +76,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ইসলামি-সংস্কৃতি",
+            "name": "ইসলামি সংস্কৃতি"
+        },
+        {
+            "slug": "নবজাতক",
+            "name": "নবজাতক"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -122,7 +119,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/52d4a977-068c-48ca-b8b8-f9e04e3b8c63.jpg",
             "publishedTime": "2024-04-24T06:27:09+00:00",
-            "modifiedTime": "2026-11-17T04:03:37+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -164,7 +161,7 @@
                     }
                 },
                 "datePublished": "2024-04-24T06:27:09+00:00",
-                "dateModified": "2026-11-17T04:03:37+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/52d4a977-068c-48ca-b8b8-f9e04e3b8c63.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,29 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 52,
-            "slug": "নববর্ষ",
-            "name": "নববর্ষ",
-            "primary": false
-        },
-        {
-            "id": 14,
-            "slug": "মন্দ-কাজ",
-            "name": "মন্দ কাজ",
-            "primary": false
-        },
-        {
-            "id": 30,
-            "slug": "হালাল-হারাম",
-            "name": "হালাল - হারাম",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-12-19T16:54:16+00:00",
-    "updatedAt": "2026-11-17T04:03:06+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "4d5e5a4bce6780cb3dc4c2d66b8eb1c1bb54b1f5118ff385397bc110f2944348",
     "url": "https://muslimsday.com/bn/blog/বর্ষবরণ-ও-অন্যদের-অনুসরণ",
@@ -79,7 +61,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নববর্ষ",
+            "name": "নববর্ষ"
+        },
+        {
+            "slug": "মন্দ-কাজ",
+            "name": "মন্দ কাজ"
+        },
+        {
+            "slug": "হালাল-হারাম",
+            "name": "হালাল - হারাম"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -113,7 +108,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
             "publishedTime": "2024-12-19T16:54:16+00:00",
-            "modifiedTime": "2026-11-17T04:03:06+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -155,7 +150,7 @@
                     }
                 },
                 "datePublished": "2024-12-19T16:54:16+00:00",
-                "dateModified": "2026-11-17T04:03:06+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
                 "author": {
                     "@type": "Person",

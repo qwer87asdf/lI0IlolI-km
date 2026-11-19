@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 41,
-            "slug": "নামাজ-শিক্ষা",
-            "name": "নামাজ শিক্ষা",
-            "primary": false
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-12-12T09:17:08+00:00",
-    "updatedAt": "2026-11-17T04:04:09+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "9c8f724526050cc0795faf2fd951c2824ff12d0a8902aaefb555e43937e974cb",
     "url": "https://muslimsday.com/bn/blog/নামাজের-ওয়াক্তসমূহ",
@@ -123,7 +111,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নামাজ-শিক্ষা",
+            "name": "নামাজ শিক্ষা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -157,7 +154,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2023-12-12T09:17:08+00:00",
-            "modifiedTime": "2026-11-17T04:04:09+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -199,7 +196,7 @@
                     }
                 },
                 "datePublished": "2023-12-12T09:17:08+00:00",
-                "dateModified": "2026-11-17T04:04:09+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

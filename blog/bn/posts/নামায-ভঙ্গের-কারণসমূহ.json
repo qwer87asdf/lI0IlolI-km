@@ -14,27 +14,15 @@
     },
     "categories": [
         {
-            "id": 41,
-            "slug": "নামাজ-শিক্ষা",
-            "name": "নামাজ শিক্ষা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-01-27T13:15:45+00:00",
-    "updatedAt": "2026-11-17T04:03:02+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "8ccb2e0fa1ef2faa2f3416fbc41caef9fd27652a516b9e8ce839ab3c9d6ec85a",
     "url": "https://muslimsday.com/bn/blog/নামায-ভঙ্গের-কারণসমূহ",
@@ -47,7 +35,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নামাজ-শিক্ষা",
+            "name": "নামাজ শিক্ষা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -81,7 +78,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2025-01-27T13:15:45+00:00",
-            "modifiedTime": "2026-11-17T04:03:02+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -123,7 +120,7 @@
                     }
                 },
                 "datePublished": "2025-01-27T13:15:45+00:00",
-                "dateModified": "2026-11-17T04:03:02+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-02-23T13:37:42+00:00",
-    "updatedAt": "2026-11-17T04:04:08+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 9,
     "contentHash": "7a909921d336fdc2e9eef63180507a40487386c1bae4388923e545f5eb164caa",
     "url": "https://muslimsday.com/bn/blog/সাহরির-শেষ-সময়",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
             "publishedTime": "2024-02-23T13:37:42+00:00",
-            "modifiedTime": "2026-11-17T04:04:08+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2024-02-23T13:37:42+00:00",
-                "dateModified": "2026-11-17T04:04:08+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
                 "author": {
                     "@type": "Person",

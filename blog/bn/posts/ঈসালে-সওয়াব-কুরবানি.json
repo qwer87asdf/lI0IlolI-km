@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 58,
-            "slug": "কুরবানি",
-            "name": "কুরবানি",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2024-05-26T15:20:36+00:00",
-    "updatedAt": "2026-11-17T04:03:37+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "8ce77e3e42ebf4a3cd6deabee398a98a28781e109aa9a5f05cff539d18003a64",
     "url": "https://muslimsday.com/bn/blog/ঈসালে-সওয়াব-কুরবানি",
@@ -62,7 +56,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "কুরবানি",
+            "name": "কুরবানি"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -96,7 +95,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
             "publishedTime": "2024-05-26T15:20:36+00:00",
-            "modifiedTime": "2026-11-17T04:03:37+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -138,7 +137,7 @@
                     }
                 },
                 "datePublished": "2024-05-26T15:20:36+00:00",
-                "dateModified": "2026-11-17T04:03:37+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
                 "author": {
                     "@type": "Person",

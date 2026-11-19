@@ -18,23 +18,11 @@
             "slug": "কুরআনের-শিক্ষা",
             "name": "কুরআনের শিক্ষা",
             "primary": true
-        },
-        {
-            "id": 55,
-            "slug": "প্রতিযোগিতা",
-            "name": "প্রতিযোগিতা",
-            "primary": false
-        },
-        {
-            "id": 14,
-            "slug": "মন্দ-কাজ",
-            "name": "মন্দ কাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-09-23T09:16:30+00:00",
-    "updatedAt": "2026-11-17T04:03:13+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "04a5f410ab20de62a8a614a280ffdc5eb83283b15350b014b2c5259109d98cb9",
     "url": "https://muslimsday.com/bn/blog/মন্দ-কাজে-প্রতিযোগিতা-না",
@@ -88,7 +76,16 @@
     "author": {
         "name": "মাওলানা সাকিব মাহমুদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "প্রতিযোগিতা",
+            "name": "প্রতিযোগিতা"
+        },
+        {
+            "slug": "মন্দ-কাজ",
+            "name": "মন্দ কাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -122,7 +119,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/7608c2b2-adb3-4f5e-96c7-48120771cc02.jpg",
             "publishedTime": "2024-09-23T09:16:30+00:00",
-            "modifiedTime": "2026-11-17T04:03:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "কুরআনের শিক্ষা"
         },
         "twitter": {
@@ -164,7 +161,7 @@
                     }
                 },
                 "datePublished": "2024-09-23T09:16:30+00:00",
-                "dateModified": "2026-11-17T04:03:13+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/7608c2b2-adb3-4f5e-96c7-48120771cc02.jpg",
                 "author": {
                     "@type": "Person",

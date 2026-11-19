@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 61,
-            "slug": "ফিতনা",
-            "name": "ফিতনা",
-            "primary": false
-        },
-        {
-            "id": 17,
-            "slug": "ভ্রান্ত-মতবাদ",
-            "name": "ভ্রান্ত মতবাদ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-12-29T14:45:16+00:00",
-    "updatedAt": "2026-11-17T04:04:09+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 11,
     "contentHash": "9d8daa391e28f9a778f1ed206ef8ddedd68889fe3cc69fa9eed554cf3a2ed745",
     "url": "https://muslimsday.com/bn/blog/ট্রান্সজেন্ডার-মতবাদ",
@@ -98,7 +86,16 @@
     "author": {
         "name": "মাওলানা মাহদী হোসাইন"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফিতনা",
+            "name": "ফিতনা"
+        },
+        {
+            "slug": "ভ্রান্ত-মতবাদ",
+            "name": "ভ্রান্ত মতবাদ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -132,7 +129,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
             "publishedTime": "2023-12-29T14:45:16+00:00",
-            "modifiedTime": "2026-11-17T04:04:09+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -174,7 +171,7 @@
                     }
                 },
                 "datePublished": "2023-12-29T14:45:16+00:00",
-                "dateModified": "2026-11-17T04:04:09+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
                 "author": {
                     "@type": "Person",

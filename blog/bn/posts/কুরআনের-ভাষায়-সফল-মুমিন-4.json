@@ -24,23 +24,11 @@
             "slug": "কুরআনের-শিক্ষা",
             "name": "কুরআনের শিক্ষা",
             "primary": true
-        },
-        {
-            "id": 50,
-            "slug": "সফল-মুমিন",
-            "name": "সফল মুমিন",
-            "primary": false
-        },
-        {
-            "id": 51,
-            "slug": "সফলতা",
-            "name": "সফলতা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-01-30T04:47:48+00:00",
-    "updatedAt": "2026-11-17T04:03:02+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "0e547b170a4e7425205a86a1f6fe96d541030272c083996eede7f7939f6052a2",
     "url": "https://muslimsday.com/bn/blog/কুরআনের-ভাষায়-সফল-মুমিন-4",
@@ -89,7 +77,16 @@
     "author": {
         "name": "মাওলানা সাকিব মাহমুদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সফল-মুমিন",
+            "name": "সফল মুমিন"
+        },
+        {
+            "slug": "সফলতা",
+            "name": "সফলতা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -123,7 +120,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5d28a92e-41b4-4b8c-bb36-eda4c5b5ba13.jpg",
             "publishedTime": "2025-01-30T04:47:48+00:00",
-            "modifiedTime": "2026-11-17T04:03:02+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "কুরআনের শিক্ষা"
         },
         "twitter": {
@@ -165,7 +162,7 @@
                     }
                 },
                 "datePublished": "2025-01-30T04:47:48+00:00",
-                "dateModified": "2026-11-17T04:03:02+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5d28a92e-41b4-4b8c-bb36-eda4c5b5ba13.jpg",
                 "author": {
                     "@type": "Person",

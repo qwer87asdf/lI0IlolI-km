@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-03-13T09:15:42+00:00",
-    "updatedAt": "2026-11-17T04:03:41+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "c3c8c896f63a3f493a1d782236420daeabda601bf28951a133a07e23fdc5f7b8",
     "url": "https://muslimsday.com/bn/blog/৮-রাকাত-তারাবীর-শুরুর-কথা",
@@ -58,7 +46,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -92,7 +89,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2024-03-13T09:15:42+00:00",
-            "modifiedTime": "2026-11-17T04:03:41+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -134,7 +131,7 @@
                     }
                 },
                 "datePublished": "2024-03-13T09:15:42+00:00",
-                "dateModified": "2026-11-17T04:03:41+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

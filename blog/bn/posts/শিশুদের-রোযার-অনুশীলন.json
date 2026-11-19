@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-02-29T17:38:35+00:00",
-    "updatedAt": "2026-11-17T04:03:41+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 6,
     "contentHash": "6b99478b6cab6263691098bba849d4716c335ad08dfec5569d875cd075d35f30",
     "url": "https://muslimsday.com/bn/blog/শিশুদের-রোযার-অনুশীলন",
@@ -52,7 +46,12 @@
     "author": {
         "name": "মাওলানা মাহদী হোসাইন"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -86,7 +85,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
             "publishedTime": "2024-02-29T17:38:35+00:00",
-            "modifiedTime": "2026-11-17T04:03:41+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -128,7 +127,7 @@
                     }
                 },
                 "datePublished": "2024-02-29T17:38:35+00:00",
-                "dateModified": "2026-11-17T04:03:41+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
                 "author": {
                     "@type": "Person",

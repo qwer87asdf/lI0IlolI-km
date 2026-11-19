@@ -20,27 +20,15 @@
             "primary": false
         },
         {
-            "id": 41,
-            "slug": "নামাজ-শিক্ষা",
-            "name": "নামাজ শিক্ষা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-11-19T08:05:18+00:00",
-    "updatedAt": "2026-11-17T04:04:13+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "d9e37ae11c3be764f29023cf342a3b2e598a361d076a56d9a84f2417c45da63f",
     "url": "https://muslimsday.com/bn/blog/নামাজের-ধারাবাহিক-বিবরণ",
@@ -104,7 +92,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নামাজ-শিক্ষা",
+            "name": "নামাজ শিক্ষা"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -138,7 +135,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2023-11-19T08:05:18+00:00",
-            "modifiedTime": "2026-11-17T04:04:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -180,7 +177,7 @@
                     }
                 },
                 "datePublished": "2023-11-19T08:05:18+00:00",
-                "dateModified": "2026-11-17T04:04:13+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

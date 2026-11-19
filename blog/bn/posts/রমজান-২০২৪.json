@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-02-26T06:59:14+00:00",
-    "updatedAt": "2026-11-17T04:04:04+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 11,
     "contentHash": "7f6d59fb0c4bfa483e164aabc4797ae5997828bf3837e0b6cddee06785dd81d8",
     "url": "https://muslimsday.com/bn/blog/রমজান-২০২৪",
@@ -72,7 +66,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -106,7 +105,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/0cbfacb3-e5a5-4dd7-97da-26ce1ffc1981.jpg",
             "publishedTime": "2024-02-26T06:59:14+00:00",
-            "modifiedTime": "2026-11-17T04:04:04+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -148,7 +147,7 @@
                     }
                 },
                 "datePublished": "2024-02-26T06:59:14+00:00",
-                "dateModified": "2026-11-17T04:04:04+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/0cbfacb3-e5a5-4dd7-97da-26ce1ffc1981.jpg",
                 "author": {
                     "@type": "Person",

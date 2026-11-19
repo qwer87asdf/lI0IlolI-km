@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 20,
-            "slug": "ইলম-জ্ঞানচর্চা",
-            "name": "ইলম - জ্ঞানচর্চা",
-            "primary": false
-        },
-        {
-            "id": 21,
-            "slug": "ইসলামি-সংস্কৃতি",
-            "name": "ইসলামি সংস্কৃতি",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-10-31T01:36:24+00:00",
-    "updatedAt": "2026-11-17T04:03:09+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "06abaa1977c2bb40ce338d983c628ff0173f2af7e6427137797d089712c48024",
     "url": "https://muslimsday.com/bn/blog/বইপাঠ-ও-জ্ঞানচর্চা-ইসলাম",
@@ -68,7 +56,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ইলম-জ্ঞানচর্চা",
+            "name": "ইলম - জ্ঞানচর্চা"
+        },
+        {
+            "slug": "ইসলামি-সংস্কৃতি",
+            "name": "ইসলামি সংস্কৃতি"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -102,7 +99,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
             "publishedTime": "2024-10-31T01:36:24+00:00",
-            "modifiedTime": "2026-11-17T04:03:09+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -144,7 +141,7 @@
                     }
                 },
                 "datePublished": "2024-10-31T01:36:24+00:00",
-                "dateModified": "2026-11-17T04:03:09+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
                 "author": {
                     "@type": "Person",

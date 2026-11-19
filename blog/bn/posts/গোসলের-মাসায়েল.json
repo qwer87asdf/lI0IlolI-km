@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 23,
-            "slug": "তাহারাত-পবিত্রতা",
-            "name": "তাহারাত - পবিত্রতা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2023-11-07T09:38:37+00:00",
-    "updatedAt": "2026-11-17T04:04:13+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "34ab9ea187b5f1bbd07335e186d803f8bcea7a6370d69c39547279ba1bd19782",
     "url": "https://muslimsday.com/bn/blog/গোসলের-মাসায়েল",
@@ -97,7 +91,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তাহারাত-পবিত্রতা",
+            "name": "তাহারাত - পবিত্রতা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -131,7 +130,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
             "publishedTime": "2023-11-07T09:38:37+00:00",
-            "modifiedTime": "2026-11-17T04:04:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -173,7 +172,7 @@
                     }
                 },
                 "datePublished": "2023-11-07T09:38:37+00:00",
-                "dateModified": "2026-11-17T04:04:13+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,29 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 52,
-            "slug": "নববর্ষ",
-            "name": "নববর্ষ",
-            "primary": false
-        },
-        {
-            "id": 14,
-            "slug": "মন্দ-কাজ",
-            "name": "মন্দ কাজ",
-            "primary": false
-        },
-        {
-            "id": 22,
-            "slug": "হুকুক-অধিকার",
-            "name": "হুকুক - অধিকার",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-12-19T16:41:01+00:00",
-    "updatedAt": "2026-11-17T04:03:06+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 6,
     "contentHash": "1c5c6e0406d814981e0e8643a29bcc542f63cae9b15ff8f95f4bd9141ae2fb91",
     "url": "https://muslimsday.com/bn/blog/থার্টি-ফার্স্ট-নাইট",
@@ -59,7 +41,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নববর্ষ",
+            "name": "নববর্ষ"
+        },
+        {
+            "slug": "মন্দ-কাজ",
+            "name": "মন্দ কাজ"
+        },
+        {
+            "slug": "হুকুক-অধিকার",
+            "name": "হুকুক - অধিকার"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -93,7 +88,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
             "publishedTime": "2024-12-19T16:41:01+00:00",
-            "modifiedTime": "2026-11-17T04:03:06+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -135,7 +130,7 @@
                     }
                 },
                 "datePublished": "2024-12-19T16:41:01+00:00",
-                "dateModified": "2026-11-17T04:03:06+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
                 "author": {
                     "@type": "Person",

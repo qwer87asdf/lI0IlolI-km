@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 30,
-            "slug": "হালাল-হারাম",
-            "name": "হালাল - হারাম",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-07-06T15:33:08+00:00",
-    "updatedAt": "2026-11-17T04:03:20+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "ee63797619e225b80efbf7c86aae10f791264bd5436b6f41cbbe24c053e57ff9",
     "url": "https://muslimsday.com/bn/blog/টাখনুর-নিচে-কাপড়-পরিধান",
@@ -62,7 +56,12 @@
     "author": {
         "name": "মাওলানা মাহদী হোসাইন"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হালাল-হারাম",
+            "name": "হালাল - হারাম"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -96,7 +95,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/6309d3c6-b63f-4e4d-9132-7d8d59412a27.jpg",
             "publishedTime": "2024-07-06T15:33:08+00:00",
-            "modifiedTime": "2026-11-17T04:03:20+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -138,7 +137,7 @@
                     }
                 },
                 "datePublished": "2024-07-06T15:33:08+00:00",
-                "dateModified": "2026-11-17T04:03:20+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/6309d3c6-b63f-4e4d-9132-7d8d59412a27.jpg",
                 "author": {
                     "@type": "Person",

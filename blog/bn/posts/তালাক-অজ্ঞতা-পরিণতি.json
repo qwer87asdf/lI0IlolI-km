@@ -18,29 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 53,
-            "slug": "তালাক",
-            "name": "তালাক",
-            "primary": false
-        },
-        {
-            "id": 54,
-            "slug": "নিকাহ-তালাক",
-            "name": "নিকাহ-তালাক",
-            "primary": false
-        },
-        {
-            "id": 32,
-            "slug": "বিয়ে-তালাক",
-            "name": "বিয়ে-তালাক",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-12-02T16:08:46+00:00",
-    "updatedAt": "2026-11-17T04:03:09+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 10,
     "contentHash": "821ec6fc86a5e486db4fb5aabc67da2c6022b4ad0d2b48d19decda3d9065b9fd",
     "url": "https://muslimsday.com/bn/blog/তালাক-অজ্ঞতা-পরিণতি",
@@ -53,7 +35,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তালাক",
+            "name": "তালাক"
+        },
+        {
+            "slug": "নিকাহ-তালাক",
+            "name": "নিকাহ-তালাক"
+        },
+        {
+            "slug": "বিয়ে-তালাক",
+            "name": "বিয়ে-তালাক"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -87,7 +82,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/0ada674f-b40e-4d89-9234-1d12ebc6320d.jpg",
             "publishedTime": "2024-12-02T16:08:46+00:00",
-            "modifiedTime": "2026-11-17T04:03:09+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -129,7 +124,7 @@
                     }
                 },
                 "datePublished": "2024-12-02T16:08:46+00:00",
-                "dateModified": "2026-11-17T04:03:09+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/0ada674f-b40e-4d89-9234-1d12ebc6320d.jpg",
                 "author": {
                     "@type": "Person",

@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2023-11-25T05:02:25+00:00",
-    "updatedAt": "2026-11-17T04:04:13+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "b91e3ca3a1c1aa020dbd01aa2b72465d41e6416c096c847780e60b998ed134d1",
     "url": "https://muslimsday.com/bn/blog/শীতকালের-বিশেষ-আমল",
@@ -77,7 +71,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -111,7 +110,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/ecc4216f-0354-4633-a3ba-591cab936596.jpg",
             "publishedTime": "2023-11-25T05:02:25+00:00",
-            "modifiedTime": "2026-11-17T04:04:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -153,7 +152,7 @@
                     }
                 },
                 "datePublished": "2023-11-25T05:02:25+00:00",
-                "dateModified": "2026-11-17T04:04:13+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/ecc4216f-0354-4633-a3ba-591cab936596.jpg",
                 "author": {
                     "@type": "Person",

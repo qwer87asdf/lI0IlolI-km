@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 23,
-            "slug": "তাহারাত-পবিত্রতা",
-            "name": "তাহারাত - পবিত্রতা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2024-02-16T16:19:45+00:00",
-    "updatedAt": "2026-11-17T04:04:09+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "6d2ca03c54fbf56727457414e74bcd7fe0b2a6bef6751b8426b05cd36869ac03",
     "url": "https://muslimsday.com/bn/blog/লজ্জাস্থান-স্পর্শ-ও-ওজু",
@@ -47,7 +41,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তাহারাত-পবিত্রতা",
+            "name": "তাহারাত - পবিত্রতা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -81,7 +80,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
             "publishedTime": "2024-02-16T16:19:45+00:00",
-            "modifiedTime": "2026-11-17T04:04:09+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -123,7 +122,7 @@
                     }
                 },
                 "datePublished": "2024-02-16T16:19:45+00:00",
-                "dateModified": "2026-11-17T04:04:09+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
                 "author": {
                     "@type": "Person",

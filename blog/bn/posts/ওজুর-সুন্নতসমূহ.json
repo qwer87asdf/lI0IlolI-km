@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 23,
-            "slug": "তাহারাত-পবিত্রতা",
-            "name": "তাহারাত - পবিত্রতা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2024-02-29T15:40:35+00:00",
-    "updatedAt": "2026-11-17T04:03:42+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 5,
     "contentHash": "ee291acb6978689f604dedc53a062753aec8cca9a3252a4b1c240f201f7226ea",
     "url": "https://muslimsday.com/bn/blog/ওজুর-সুন্নতসমূহ",
@@ -117,7 +111,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তাহারাত-পবিত্রতা",
+            "name": "তাহারাত - পবিত্রতা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -151,7 +150,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
             "publishedTime": "2024-02-29T15:40:35+00:00",
-            "modifiedTime": "2026-11-17T04:03:42+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -193,7 +192,7 @@
                     }
                 },
                 "datePublished": "2024-02-29T15:40:35+00:00",
-                "dateModified": "2026-11-17T04:03:42+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
                 "author": {
                     "@type": "Person",

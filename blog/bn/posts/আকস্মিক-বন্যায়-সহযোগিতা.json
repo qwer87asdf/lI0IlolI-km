@@ -18,29 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 56,
-            "slug": "দান-সদকা",
-            "name": "দান-সদকা",
-            "primary": false
-        },
-        {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
-        },
-        {
-            "id": 22,
-            "slug": "হুকুক-অধিকার",
-            "name": "হুকুক - অধিকার",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2024-08-26T06:37:36+00:00",
-    "updatedAt": "2026-11-17T04:03:13+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "231479ee22c738258b3dd8e233990b2ffbd96ba8c7ecc9d10bb0de557813a7bf",
     "url": "https://muslimsday.com/bn/blog/আকস্মিক-বন্যায়-সহযোগিতা",
@@ -64,7 +46,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "দান-সদকা",
+            "name": "দান-সদকা"
+        },
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        },
+        {
+            "slug": "হুকুক-অধিকার",
+            "name": "হুকুক - অধিকার"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -98,7 +93,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
             "publishedTime": "2024-08-26T06:37:36+00:00",
-            "modifiedTime": "2026-11-17T04:03:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -140,7 +135,7 @@
                     }
                 },
                 "datePublished": "2024-08-26T06:37:36+00:00",
-                "dateModified": "2026-11-17T04:03:13+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
                 "author": {
                     "@type": "Person",
