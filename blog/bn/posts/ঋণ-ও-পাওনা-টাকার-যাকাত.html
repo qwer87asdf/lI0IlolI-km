@@ -378,7 +378,12 @@ html.md-dark .md-document { background: #0d131c; }
 .md-document .md-article__reads::before { content: ' · '; }
 
 /* Ad slots */
-.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; }
+.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; min-height: 250px; }
+/* Collapse as soon as the ad tag reports no fill, or the isolated copy measures zero. */
+.md-blog-content .md-ad:has([data-nofill="1"]),
+.md-blog-content .md-ad--empty { min-height: 0; margin-block: 0; }
+.md-blog-content .md-ad--isolated iframe { display: block; width: 100%; min-height: 250px; border: 0; }
+.md-blog-content .md-ad--preview { min-height: 0; }
 .md-blog-content .md-ad--preview iframe { width: 100%; min-height: 120px; border: 1px dashed var(--md-border); border-radius: 8px; background: var(--md-surface); }
 
 </style>

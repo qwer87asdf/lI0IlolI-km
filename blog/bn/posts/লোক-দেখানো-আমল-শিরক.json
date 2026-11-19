@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 9 Aug, 2025 – 7:15 AM</p><p>আবূ সাঈদ আল-খুদরী (রাঃ) বর্ণনা করেন,</p><p>আমরা একদিন দাজ্জালের কথা আলোচনা করছিলাম। এমন সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছে এলেন। তিনি বললেন :</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><blockquote><p>আমি কি তোমাদেরকে এমন বিষয়ের সংবাদ দিব না, যে বিষয়টি আমার কাছে মাসীহ দাজ্জালের চাইতেও ভয়ঙ্কর?</p><p>সাহাবীগণ বললেন : অবশ্যই।</p><p>তিনি বললেন : তা হচ্ছে গোপন শিরক। (যেমন,) একজন মানুষ দাঁড়িয়ে শুধু এ জন্যই তার নামাজকে খুব সুন্দরভাবে আদায় করে যে, কোন মানুষ তার নামাজ দেখছে।</p></blockquote><p>(ইবনু মাজাহ, হাদীস ৪২০৪)</p><p>আল্লাহ আমাদেরকে এরকম গোপন শিরক ও লোক দেখানো আমল থেকে রক্ষা করুন। আমীন।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%b2%e0%a7%8b%e0%a6%95-%e0%a6%a6%e0%a7%87%e0%a6%96%e0%a6%be%e0%a6%a8%e0%a7%8b-%e0%a6%86%e0%a6%ae%e0%a6%b2-%e0%a6%b6%e0%a6%bf%e0%a6%b0%e0%a6%95/\">লোক দেখানো আমল করা এক প্রকার শিরক</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/44/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "লোক দেখানো আমল করা এক প্রকার শিরক",
