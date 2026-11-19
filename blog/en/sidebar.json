@@ -13,37 +13,6 @@
     },
     "topRead": [
         {
-            "id": 1,
-            "translationId": 1,
-            "language": "en",
-            "slug": "contributors-impact-on-july-2026",
-            "title": "One Month, 61 Million Reminders: Contributors Impact Throughout the July 2026",
-            "excerpt": "Get the update of contributors impact throughout the month of july 2026. How people from all over the world helped us to reach many muslims and helping us making ummah better everyday.",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/ac0a5012-fdc0-44ad-aac0-a6a19d6823cf.png",
-                "alt": "",
-                "width": 1254,
-                "height": 706
-            },
-            "categories": [
-                {
-                    "id": 2,
-                    "slug": "updates",
-                    "name": "Updates",
-                    "primary": true
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-08-17T07:47:14+00:00",
-            "updatedAt": "2026-11-16T13:19:07+00:00",
-            "readingTimeMinutes": 8,
-            "contentHash": "29c12fe63f6a683e6edb359ac46e25ee759794515a0fbe0e03ffcfc4fc999110",
-            "url": "https://muslimsday.com/blog/contributors-impact-on-july-2026",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.html",
-            "reads": 3
-        },
-        {
             "id": 2,
             "translationId": 2,
             "language": "en",
@@ -72,7 +41,81 @@
             "url": "https://muslimsday.com/blog/tree-plantation-in-islam",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.html",
-            "reads": 3
+            "reads": 22
+        },
+        {
+            "id": 1,
+            "translationId": 1,
+            "language": "en",
+            "slug": "contributors-impact-on-july-2026",
+            "title": "One Month, 61 Million Reminders: Contributors Impact Throughout the July 2026",
+            "excerpt": "Get the update of contributors impact throughout the month of july 2026. How people from all over the world helped us to reach many muslims and helping us making ummah better everyday.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/ac0a5012-fdc0-44ad-aac0-a6a19d6823cf.png",
+                "alt": "",
+                "width": 1254,
+                "height": 706
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "updates",
+                    "name": "Updates",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-17T07:47:14+00:00",
+            "updatedAt": "2026-11-16T13:19:07+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "29c12fe63f6a683e6edb359ac46e25ee759794515a0fbe0e03ffcfc4fc999110",
+            "url": "https://muslimsday.com/blog/contributors-impact-on-july-2026",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.html",
+            "reads": 9
+        },
+        {
+            "id": 5,
+            "translationId": 5,
+            "language": "en",
+            "slug": "surah-yaseen-heart-of-quran",
+            "title": "Why Is Surah Yaseen Called the ‘Heart of the Quran?",
+            "excerpt": "Learn the explanation of Surah Yaseen being called the heart of The Quran. Benefits of Yaseen and how to and when recite it. Learn the hadith and other reference behind claim.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/98c91e95-9933-4064-b1cc-ae3ba6f1b151.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-29T06:17:22+00:00",
+            "updatedAt": "2026-11-16T13:21:07+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "2d03c928d0b0b8cf551a9f475daf973fbb958f4331aca696224fad365f569d98",
+            "url": "https://muslimsday.com/blog/surah-yaseen-heart-of-quran",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html",
+            "reads": 4
         },
         {
             "id": 3,
@@ -164,49 +207,6 @@
             "url": "https://muslimsday.com/blog/sahabi-tree",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.html",
-            "reads": 1
-        },
-        {
-            "id": 5,
-            "translationId": 5,
-            "language": "en",
-            "slug": "surah-yaseen-heart-of-quran",
-            "title": "Why Is Surah Yaseen Called the ‘Heart of the Quran?",
-            "excerpt": "Learn the explanation of Surah Yaseen being called the heart of The Quran. Benefits of Yaseen and how to and when recite it. Learn the hadith and other reference behind claim.",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/98c91e95-9933-4064-b1cc-ae3ba6f1b151.jpg",
-                "alt": "",
-                "width": 1075,
-                "height": 716
-            },
-            "categories": [
-                {
-                    "id": 3,
-                    "slug": "education",
-                    "name": "Education",
-                    "primary": true
-                },
-                {
-                    "id": 4,
-                    "slug": "masnun-dua",
-                    "name": "Masnun Dua",
-                    "primary": false
-                },
-                {
-                    "id": 5,
-                    "slug": "quranic-education",
-                    "name": "Quranic Education",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-07-29T06:17:22+00:00",
-            "updatedAt": "2026-11-16T13:21:07+00:00",
-            "readingTimeMinutes": 9,
-            "contentHash": "2d03c928d0b0b8cf551a9f475daf973fbb958f4331aca696224fad365f569d98",
-            "url": "https://muslimsday.com/blog/surah-yaseen-heart-of-quran",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html",
             "reads": 1
         }
     ]
