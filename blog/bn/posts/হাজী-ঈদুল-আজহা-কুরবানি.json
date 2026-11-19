@@ -14,27 +14,15 @@
     },
     "categories": [
         {
-            "id": 58,
-            "slug": "কুরবানি",
-            "name": "কুরবানি",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 36,
-            "slug": "হজ-ওমরা",
-            "name": "হজ - ওমরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-06-12T06:58:18+00:00",
-    "updatedAt": "2026-11-17T04:04:57+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "7f1ebff87a42b0a9bd0b3993d2bd4fe04800992b56c4d565a5b5be8b24c88096",
     "url": "https://muslimsday.com/bn/blog/হাজী-ঈদুল-আজহা-কুরবানি",
@@ -47,7 +35,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "কুরবানি",
+            "name": "কুরবানি"
+        },
+        {
+            "slug": "হজ-ওমরা",
+            "name": "হজ - ওমরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -81,7 +78,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
             "publishedTime": "2023-06-12T06:58:18+00:00",
-            "modifiedTime": "2026-11-17T04:04:57+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -123,7 +120,7 @@
                     }
                 },
                 "datePublished": "2023-06-12T06:58:18+00:00",
-                "dateModified": "2026-11-17T04:04:57+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
                 "author": {
                     "@type": "Person",

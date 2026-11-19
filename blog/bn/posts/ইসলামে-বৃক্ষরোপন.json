@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 56,
-            "slug": "দান-সদকা",
-            "name": "দান-সদকা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-08-03T11:52:20+00:00",
-    "updatedAt": "2026-11-17T04:04:42+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "a8e5962567425b980b1f183f158e4ef52bf23726b41c0f740430946f18a07ace",
     "url": "https://muslimsday.com/bn/blog/ইসলামে-বৃক্ষরোপন",
@@ -67,7 +61,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "দান-সদকা",
+            "name": "দান-সদকা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -101,7 +100,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/d1c7627f-864d-4a02-a79e-7b59f39572ae.jpg",
             "publishedTime": "2023-08-03T11:52:20+00:00",
-            "modifiedTime": "2026-11-17T04:04:42+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -143,7 +142,7 @@
                     }
                 },
                 "datePublished": "2023-08-03T11:52:20+00:00",
-                "dateModified": "2026-11-17T04:04:42+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/d1c7627f-864d-4a02-a79e-7b59f39572ae.jpg",
                 "author": {
                     "@type": "Person",

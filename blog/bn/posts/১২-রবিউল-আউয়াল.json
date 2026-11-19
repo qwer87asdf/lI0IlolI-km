@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
-        },
-        {
-            "id": 62,
-            "slug": "বিদআত",
-            "name": "বিদআত",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-09-27T04:15:39+00:00",
-    "updatedAt": "2026-11-17T04:04:34+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "448daf2c4bb6a6f6f4cbffc652e4ed13b9a45dc47c7b5b9d0a166475c88291b0",
     "url": "https://muslimsday.com/bn/blog/১২-রবিউল-আউয়াল",
@@ -73,7 +61,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        },
+        {
+            "slug": "বিদআত",
+            "name": "বিদআত"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -107,7 +104,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/7cb03733-718c-447f-b2ab-23e7edbc0735.png",
             "publishedTime": "2023-09-27T04:15:39+00:00",
-            "modifiedTime": "2026-11-17T04:04:34+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -149,7 +146,7 @@
                     }
                 },
                 "datePublished": "2023-09-27T04:15:39+00:00",
-                "dateModified": "2026-11-17T04:04:34+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/7cb03733-718c-447f-b2ab-23e7edbc0735.png",
                 "author": {
                     "@type": "Person",

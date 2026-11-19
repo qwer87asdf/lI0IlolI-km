@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-06-12T06:12:31+00:00",
-    "updatedAt": "2026-11-17T04:04:57+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "ba1162387e972547e6f2ee3e1df8894a3d09b7a584f55f521c176796631c7e82",
     "url": "https://muslimsday.com/bn/blog/নারী-ও-পুরুষের-নামাজ",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
             "publishedTime": "2023-06-12T06:12:31+00:00",
-            "modifiedTime": "2026-11-17T04:04:57+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-06-12T06:12:31+00:00",
-                "dateModified": "2026-11-17T04:04:57+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
                 "author": {
                     "@type": "Person",

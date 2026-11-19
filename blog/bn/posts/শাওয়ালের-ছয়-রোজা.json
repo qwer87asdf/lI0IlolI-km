@@ -20,33 +20,15 @@
             "primary": false
         },
         {
-            "id": 57,
-            "slug": "ঈদ",
-            "name": "ঈদ",
-            "primary": false
-        },
-        {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
             "primary": true
-        },
-        {
-            "id": 34,
-            "slug": "সাওম-রোজা",
-            "name": "সাওম - রোজা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-04-21T04:27:19+00:00",
-    "updatedAt": "2026-11-17T04:05:12+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "4da3cad9d90a97245a2a797885d66d7cc19930fddb9a0e0f2422213bf5100770",
     "url": "https://muslimsday.com/bn/blog/শাওয়ালের-ছয়-রোজা",
@@ -90,7 +72,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ঈদ",
+            "name": "ঈদ"
+        },
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        },
+        {
+            "slug": "সাওম-রোজা",
+            "name": "সাওম - রোজা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -124,7 +119,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
             "publishedTime": "2023-04-21T04:27:19+00:00",
-            "modifiedTime": "2026-11-17T04:05:12+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -166,7 +161,7 @@
                     }
                 },
                 "datePublished": "2023-04-21T04:27:19+00:00",
-                "dateModified": "2026-11-17T04:05:12+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
                 "author": {
                     "@type": "Person",

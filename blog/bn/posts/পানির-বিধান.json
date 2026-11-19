@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 23,
-            "slug": "তাহারাত-পবিত্রতা",
-            "name": "তাহারাত - পবিত্রতা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2023-11-02T16:24:28+00:00",
-    "updatedAt": "2026-11-17T04:04:13+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "e9888901c5f07d4fd31aba01e442c6b257d0ba442ed11009072ae080247e6bc2",
     "url": "https://muslimsday.com/bn/blog/পানির-বিধান",
@@ -67,7 +61,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তাহারাত-পবিত্রতা",
+            "name": "তাহারাত - পবিত্রতা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -101,7 +100,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
             "publishedTime": "2023-11-02T16:24:28+00:00",
-            "modifiedTime": "2026-11-17T04:04:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -143,7 +142,7 @@
                     }
                 },
                 "datePublished": "2023-11-02T16:24:28+00:00",
-                "dateModified": "2026-11-17T04:04:13+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
                 "author": {
                     "@type": "Person",

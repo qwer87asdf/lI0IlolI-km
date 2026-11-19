@@ -18,29 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 57,
-            "slug": "ঈদ",
-            "name": "ঈদ",
-            "primary": false
-        },
-        {
-            "id": 58,
-            "slug": "কুরবানি",
-            "name": "কুরবানি",
-            "primary": false
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-05-09T01:46:17+00:00",
-    "updatedAt": "2026-11-17T04:04:57+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "cc62c0093c8a8d15f51cc300f978d40dfe619cdd149e7ea229be850c9396ebc9",
     "url": "https://muslimsday.com/bn/blog/জিলহজের-১ম-দশকের-ফজিলত",
@@ -104,7 +86,20 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ঈদ",
+            "name": "ঈদ"
+        },
+        {
+            "slug": "কুরবানি",
+            "name": "কুরবানি"
+        },
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -138,7 +133,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2023-05-09T01:46:17+00:00",
-            "modifiedTime": "2026-11-17T04:04:57+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -180,7 +175,7 @@
                     }
                 },
                 "datePublished": "2023-05-09T01:46:17+00:00",
-                "dateModified": "2026-11-17T04:04:57+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

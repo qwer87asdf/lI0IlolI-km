@@ -14,18 +14,6 @@
     },
     "categories": [
         {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
-        },
-        {
-            "id": 62,
-            "slug": "বিদআত",
-            "name": "বিদআত",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
@@ -34,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2023-09-25T02:07:25+00:00",
-    "updatedAt": "2026-11-17T04:04:34+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 6,
     "contentHash": "540be354ee379b3d1248315ef0f379e9cfd3cfa9f6c8568c8ae486403452a88b",
     "url": "https://muslimsday.com/bn/blog/জন্মদিন-পালনের-ইতিহাস",
@@ -88,7 +76,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        },
+        {
+            "slug": "বিদআত",
+            "name": "বিদআত"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -122,7 +119,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
             "publishedTime": "2023-09-25T02:07:25+00:00",
-            "modifiedTime": "2026-11-17T04:04:34+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -164,7 +161,7 @@
                     }
                 },
                 "datePublished": "2023-09-25T02:07:25+00:00",
-                "dateModified": "2026-11-17T04:04:34+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
                 "author": {
                     "@type": "Person",

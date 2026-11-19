@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 22,
-            "slug": "হুকুক-অধিকার",
-            "name": "হুকুক - অধিকার",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-04-30T00:31:13+00:00",
-    "updatedAt": "2026-11-17T04:05:08+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 12,
     "contentHash": "0add2b7af5bc61ded0e466a6537900343514ff925b95d373be52516ae7e051ae",
     "url": "https://muslimsday.com/bn/blog/শ্রমিকের-দায়-ও-অধিকার",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হুকুক-অধিকার",
+            "name": "হুকুক - অধিকার"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d042549-da30-484e-8b64-4a553eb23b65.jpg",
             "publishedTime": "2023-04-30T00:31:13+00:00",
-            "modifiedTime": "2026-11-17T04:05:08+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-04-30T00:31:13+00:00",
-                "dateModified": "2026-11-17T04:05:08+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d042549-da30-484e-8b64-4a553eb23b65.jpg",
                 "author": {
                     "@type": "Person",

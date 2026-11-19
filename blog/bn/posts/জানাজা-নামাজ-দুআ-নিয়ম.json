@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 29,
-            "slug": "দোয়া",
-            "name": "দোয়া",
-            "primary": false
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-09-27T00:13:59+00:00",
-    "updatedAt": "2026-11-17T04:04:34+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "fcbe9c9c84e573efc4c8f6ec2088bb1b7ef30e879566c81370afd06c1e23d489",
     "url": "https://muslimsday.com/bn/blog/জানাজা-নামাজ-দুআ-নিয়ম",
@@ -118,7 +106,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "দোয়া",
+            "name": "দোয়া"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -152,7 +149,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
             "publishedTime": "2023-09-27T00:13:59+00:00",
-            "modifiedTime": "2026-11-17T04:04:34+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -194,7 +191,7 @@
                     }
                 },
                 "datePublished": "2023-09-27T00:13:59+00:00",
-                "dateModified": "2026-11-17T04:04:34+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",

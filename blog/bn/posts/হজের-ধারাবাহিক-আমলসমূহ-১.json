@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 36,
-            "slug": "হজ-ওমরা",
-            "name": "হজ - ওমরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-05-07T00:36:22+00:00",
-    "updatedAt": "2026-11-17T04:04:58+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "24c8dccf786b807c4c319305ab5971783ee9f4c8f10e8cd6a3e22ca9dafca20e",
     "url": "https://muslimsday.com/bn/blog/হজের-ধারাবাহিক-আমলসমূহ-১",
@@ -62,7 +56,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হজ-ওমরা",
+            "name": "হজ - ওমরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -96,7 +95,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
             "publishedTime": "2023-05-07T00:36:22+00:00",
-            "modifiedTime": "2026-11-17T04:04:58+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -138,7 +137,7 @@
                     }
                 },
                 "datePublished": "2023-05-07T00:36:22+00:00",
-                "dateModified": "2026-11-17T04:04:58+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
                 "author": {
                     "@type": "Person",

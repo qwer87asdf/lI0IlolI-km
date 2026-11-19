@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 57,
-            "slug": "ঈদ",
-            "name": "ঈদ",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2023-04-21T05:57:13+00:00",
-    "updatedAt": "2026-11-17T04:05:12+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "e5f26be83cce6f18252b3f5cee0e6eee199f1f9930154de76c25b9c39a8e8a3e",
     "url": "https://muslimsday.com/bn/blog/ঈদ-উল-ফিতর-সুন্নত-আমল",
@@ -117,7 +111,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ঈদ",
+            "name": "ঈদ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -151,7 +150,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/df7f9193-65c0-45b2-83eb-d3f520dd03f8.jpg",
             "publishedTime": "2023-04-21T05:57:13+00:00",
-            "modifiedTime": "2026-11-17T04:05:12+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -193,7 +192,7 @@
                     }
                 },
                 "datePublished": "2023-04-21T05:57:13+00:00",
-                "dateModified": "2026-11-17T04:05:12+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/df7f9193-65c0-45b2-83eb-d3f520dd03f8.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 36,
-            "slug": "হজ-ওমরা",
-            "name": "হজ - ওমরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-05-04T16:48:36+00:00",
-    "updatedAt": "2026-11-17T04:04:58+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 12,
     "contentHash": "d462f3f55fd8372f537aabc6ad0f395af006deeb5ada7239f40e1240b6fcef7c",
     "url": "https://muslimsday.com/bn/blog/ওমরা-আদায়ের-পদ্ধতি",
@@ -162,7 +156,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হজ-ওমরা",
+            "name": "হজ - ওমরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -196,7 +195,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
             "publishedTime": "2023-05-04T16:48:36+00:00",
-            "modifiedTime": "2026-11-17T04:04:58+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -238,7 +237,7 @@
                     }
                 },
                 "datePublished": "2023-05-04T16:48:36+00:00",
-                "dateModified": "2026-11-17T04:04:58+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
                 "author": {
                     "@type": "Person",

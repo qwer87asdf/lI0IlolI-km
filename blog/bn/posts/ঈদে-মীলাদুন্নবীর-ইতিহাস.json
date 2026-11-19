@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
-        },
-        {
-            "id": 62,
-            "slug": "বিদআত",
-            "name": "বিদআত",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-09-27T04:21:15+00:00",
-    "updatedAt": "2026-11-17T04:04:30+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 6,
     "contentHash": "e9af18e2de31b69abd40fbb4607178697b4883b7e67ad1c8240be1a18e7c654d",
     "url": "https://muslimsday.com/bn/blog/ঈদে-মীলাদুন্নবীর-ইতিহাস",
@@ -68,7 +56,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        },
+        {
+            "slug": "বিদআত",
+            "name": "বিদআত"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -102,7 +99,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
             "publishedTime": "2023-09-27T04:21:15+00:00",
-            "modifiedTime": "2026-11-17T04:04:30+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -144,7 +141,7 @@
                     }
                 },
                 "datePublished": "2023-09-27T04:21:15+00:00",
-                "dateModified": "2026-11-17T04:04:30+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
                 "author": {
                     "@type": "Person",

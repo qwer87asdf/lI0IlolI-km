@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 22,
-            "slug": "হুকুক-অধিকার",
-            "name": "হুকুক - অধিকার",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-04-30T00:29:50+00:00",
-    "updatedAt": "2026-11-17T04:05:08+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 9,
     "contentHash": "a2263b8b378499238d854d59073945ffc2d2bae637de56fc03bb36850dc3348a",
     "url": "https://muslimsday.com/bn/blog/শ্রমিক-মালিক-সম্পর্ক",
@@ -41,7 +35,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হুকুক-অধিকার",
+            "name": "হুকুক - অধিকার"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/15c680d7-f899-4e9a-a72a-aa14ed8e3cb5.jpg",
             "publishedTime": "2023-04-30T00:29:50+00:00",
-            "modifiedTime": "2026-11-17T04:05:08+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2023-04-30T00:29:50+00:00",
-                "dateModified": "2026-11-17T04:05:08+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/15c680d7-f899-4e9a-a72a-aa14ed8e3cb5.jpg",
                 "author": {
                     "@type": "Person",

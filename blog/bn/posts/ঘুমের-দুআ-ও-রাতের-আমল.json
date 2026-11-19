@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 29,
-            "slug": "দোয়া",
-            "name": "দোয়া",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2023-08-04T10:57:45+00:00",
-    "updatedAt": "2026-11-17T04:04:42+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 10,
     "contentHash": "43120dfc929285621b9e6395f27cec1b09a29017f15169bd10145f9fb4f504c2",
     "url": "https://muslimsday.com/bn/blog/ঘুমের-দুআ-ও-রাতের-আমল",
@@ -147,7 +141,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "দোয়া",
+            "name": "দোয়া"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -181,7 +180,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/63eddc5f-0754-4e6c-b65c-eea0c6403378.jpg",
             "publishedTime": "2023-08-04T10:57:45+00:00",
-            "modifiedTime": "2026-11-17T04:04:42+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -223,7 +222,7 @@
                     }
                 },
                 "datePublished": "2023-08-04T10:57:45+00:00",
-                "dateModified": "2026-11-17T04:04:42+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/63eddc5f-0754-4e6c-b65c-eea0c6403378.jpg",
                 "author": {
                     "@type": "Person",

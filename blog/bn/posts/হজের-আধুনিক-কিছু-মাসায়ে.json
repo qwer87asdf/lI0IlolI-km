@@ -24,17 +24,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 36,
-            "slug": "হজ-ওমরা",
-            "name": "হজ - ওমরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-06-06T09:52:16+00:00",
-    "updatedAt": "2026-11-17T04:04:57+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 10,
     "contentHash": "f55933dd28f35a5c2c4b03012240edc29a64a00dbec91caa1f61d3e5bf33d710",
     "url": "https://muslimsday.com/bn/blog/হজের-আধুনিক-কিছু-মাসায়ে",
@@ -103,7 +97,12 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হজ-ওমরা",
+            "name": "হজ - ওমরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -137,7 +136,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
             "publishedTime": "2023-06-06T09:52:16+00:00",
-            "modifiedTime": "2026-11-17T04:04:57+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -179,7 +178,7 @@
                     }
                 },
                 "datePublished": "2023-06-06T09:52:16+00:00",
-                "dateModified": "2026-11-17T04:04:57+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
                 "author": {
                     "@type": "Person",

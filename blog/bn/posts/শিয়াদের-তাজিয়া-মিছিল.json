@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
-        },
-        {
-            "id": 63,
-            "slug": "মুহাররম-আশুরা",
-            "name": "মুহাররম - আশুরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-07-13T15:55:20+00:00",
-    "updatedAt": "2026-11-17T04:04:56+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 9,
     "contentHash": "93bb13208d0b7e4fd308b81b9804855ea1a814354444781a1cd146f8f431c2f2",
     "url": "https://muslimsday.com/bn/blog/শিয়াদের-তাজিয়া-মিছিল",
@@ -68,7 +56,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        },
+        {
+            "slug": "মুহাররম-আশুরা",
+            "name": "মুহাররম - আশুরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -102,7 +99,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1ba8a0b6-ef95-4894-9803-be670c6a0b7e.jpg",
             "publishedTime": "2023-07-13T15:55:20+00:00",
-            "modifiedTime": "2026-11-17T04:04:56+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -144,7 +141,7 @@
                     }
                 },
                 "datePublished": "2023-07-13T15:55:20+00:00",
-                "dateModified": "2026-11-17T04:04:56+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1ba8a0b6-ef95-4894-9803-be670c6a0b7e.jpg",
                 "author": {
                     "@type": "Person",

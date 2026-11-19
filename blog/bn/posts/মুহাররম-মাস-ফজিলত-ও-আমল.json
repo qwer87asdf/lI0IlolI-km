@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 33,
-            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
-            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
-            "primary": false
-        },
-        {
-            "id": 63,
-            "slug": "মুহাররম-আশুরা",
-            "name": "মুহাররম - আশুরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2023-07-13T10:10:12+00:00",
-    "updatedAt": "2026-11-17T04:04:56+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 5,
     "contentHash": "6d998d125ee92641ef5abdfa52ce02ba8725c4d78c1ca3cf1fe89158ce7e207a",
     "url": "https://muslimsday.com/bn/blog/মুহাররম-মাস-ফজিলত-ও-আমল",
@@ -63,7 +51,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+            "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি"
+        },
+        {
+            "slug": "মুহাররম-আশুরা",
+            "name": "মুহাররম - আশুরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -97,7 +94,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88868996-a9e5-4b07-8988-2c4591fefcb9.jpg",
             "publishedTime": "2023-07-13T10:10:12+00:00",
-            "modifiedTime": "2026-11-17T04:04:56+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -139,7 +136,7 @@
                     }
                 },
                 "datePublished": "2023-07-13T10:10:12+00:00",
-                "dateModified": "2026-11-17T04:04:56+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88868996-a9e5-4b07-8988-2c4591fefcb9.jpg",
                 "author": {
                     "@type": "Person",
