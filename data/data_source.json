@@ -132,5 +132,6 @@
     "name": "ramadan_share_quotes",
     "url": "appdata/data/{lang}/ramadan_share_quotes.json",
     "updated_at": 1794824230000
-  }
+  },
+  { "name": "home_cards_v2", "url": "appdata/data/{lang}/home_cards_v2.json", "updated_at": 1795000000000 }
 ]
