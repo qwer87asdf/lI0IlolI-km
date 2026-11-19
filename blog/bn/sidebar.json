@@ -41,7 +41,38 @@
             "url": "https://muslimsday.com/bn/blog/আইয়ামে-বীজ-রোজার-ফজিলত",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.html",
-            "reads": 409061
+            "reads": 600153
+        },
+        {
+            "id": 193,
+            "translationId": 193,
+            "language": "bn",
+            "slug": "ঘুমের-দুআ-ও-রাতের-আমল",
+            "title": "ঘুমাতে যাওয়ার আগের মাসনূন আমল ও দুআসমূহ",
+            "excerpt": "Post Updated at 4 Sep, 2023 – 5:41 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/63eddc5f-0754-4e6c-b65c-eea0c6403378.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-08-04T10:57:45+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "91e6d94315ec3862c10d0b5facbe35d2ae78eb51fec3d6341c2651586c29afcb",
+            "url": "https://muslimsday.com/bn/blog/ঘুমের-দুআ-ও-রাতের-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.html",
+            "reads": 372813
         },
         {
             "id": 234,
@@ -72,20 +103,20 @@
             "url": "https://muslimsday.com/bn/blog/ফিতরা-কত-টাকা-মাসআলা",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফিতরা-কত-টাকা-মাসআলা.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফিতরা-কত-টাকা-মাসআলা.html",
-            "reads": 318740
+            "reads": 330588
         },
         {
-            "id": 262,
-            "translationId": 262,
+            "id": 156,
+            "translationId": 156,
             "language": "bn",
-            "slug": "শবে-বরাত-ফজিলত-আমল-বিদআত",
-            "title": "সুন্নাহর আলোকে শবে বরাতের ফজিলত ও আমল – করণীয় ও বর্জনীয়",
-            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "slug": "নবজাতকের-উপহার",
+            "title": "নবজাতকের জন্যে ইসলামের উপহার",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
             "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/eff5a75a-9b56-441c-b241-8b695d2fc112.jpg",
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/52d4a977-068c-48ca-b8b8-f9e04e3b8c63.jpg",
                 "alt": "",
-                "width": 800,
-                "height": 533
+                "width": 1000,
+                "height": 668
             },
             "categories": [
                 {
@@ -96,82 +127,45 @@
                 }
             ],
             "isSticky": false,
-            "publishedAt": "2023-03-01T14:47:51+00:00",
-            "updatedAt": "2026-11-19T08:09:18+00:00",
-            "readingTimeMinutes": 23,
-            "contentHash": "4b51355234d1a48122c7f5ff98178b9088c1c9430b803c09fd62b200a4881226",
-            "url": "https://muslimsday.com/bn/blog/শবে-বরাত-ফজিলত-আমল-বিদআত",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শবে-বরাত-ফজিলত-আমল-বিদআত.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শবে-বরাত-ফজিলত-আমল-বিদআত.html",
-            "reads": 209666
+            "publishedAt": "2024-04-24T06:27:09+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "46264613a0e28445a8e99ad8cea821a3a3eb11334f406f10b465b74f4dc1742f",
+            "url": "https://muslimsday.com/bn/blog/নবজাতকের-উপহার",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নবজাতকের-উপহার.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নবজাতকের-উপহার.html",
+            "reads": 244095
         },
         {
-            "id": 106,
-            "translationId": 106,
+            "id": 173,
+            "translationId": 173,
             "language": "bn",
-            "slug": "2025-ifa-logic-changed",
-            "title": "২০২৫ সালে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডারে কী পরিবর্তন এসেছে?",
-            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "slug": "ট্রান্সজেন্ডার-মতবাদ",
+            "title": "ট্রান্সজেন্ডারবাদ: জাতীয় অধঃপতনের এক অশনি সংকেত",
+            "excerpt": "Post Updated at 31 Oct, 2024 – 9:50 AM",
             "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
                 "alt": "",
-                "width": 640,
-                "height": 427
-            },
-            "categories": [
-                {
-                    "id": 8,
-                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
-                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
-                    "primary": true
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2025-03-01T17:02:18+00:00",
-            "updatedAt": "2026-11-17T04:02:53+00:00",
-            "readingTimeMinutes": 2,
-            "contentHash": "c83faf22616eaeb2f7c50bd351bd0783849d77abe1d5db4b6792356fa272e55c",
-            "url": "https://muslimsday.com/bn/blog/2025-ifa-logic-changed",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/2025-ifa-logic-changed.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/2025-ifa-logic-changed.html",
-            "reads": 204700
-        },
-        {
-            "id": 225,
-            "translationId": 225,
-            "language": "bn",
-            "slug": "শাওয়ালের-ছয়-রোজা",
-            "title": "শাওয়ালের ছয়  রোজা: ঈদ পরবর্তী একটি গুরুত্বপূর্ণ আমল",
-            "excerpt": "Post Updated at 15 May, 2026 – 5:53 PM",
-            "featuredImage": {
-                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
-                "alt": "",
-                "width": 1200,
-                "height": 800
+                "width": 1000,
+                "height": 667
             },
             "categories": [
                 {
                     "id": 16,
                     "slug": "আর্টিকেল",
                     "name": "আর্টিকেল",
-                    "primary": false
-                },
-                {
-                    "id": 26,
-                    "slug": "মাসনূন-আমল",
-                    "name": "মাসনূন আমল",
                     "primary": true
                 }
             ],
             "isSticky": false,
-            "publishedAt": "2023-04-21T04:27:19+00:00",
-            "updatedAt": "2026-11-19T08:09:15+00:00",
-            "readingTimeMinutes": 8,
-            "contentHash": "68c82bbfc572d56e6365d91748193d37c5847c3bab47127556018916b31ad09e",
-            "url": "https://muslimsday.com/bn/blog/শাওয়ালের-ছয়-রোজা",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শাওয়ালের-ছয়-রোজা.json",
-            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শাওয়ালের-ছয়-রোজা.html",
-            "reads": 138450
+            "publishedAt": "2023-12-29T14:45:16+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "fa9f462648ccc95d27d4c5958fe78df6c9abd2778634958888378f6c58c67f06",
+            "url": "https://muslimsday.com/bn/blog/ট্রান্সজেন্ডার-মতবাদ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ট্রান্সজেন্ডার-মতবাদ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ট্রান্সজেন্ডার-মতবাদ.html",
+            "reads": 242835
         }
     ]
 }
