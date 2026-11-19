@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 24,
-            "slug": "বই-রিভিউ",
-            "name": "বই রিভিউ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-09T01:11:03+00:00",
-    "updatedAt": "2026-11-17T04:01:34+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "5936e4db0546ed0cb2a562364e61143b63a2141d10a7ba3c2f8876a66f810e28",
     "url": "https://muslimsday.com/bn/blog/দুআ-কবুলের-গল্পগুলো-বই-রি",
@@ -62,7 +56,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বই-রিভিউ",
+            "name": "বই রিভিউ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -96,7 +95,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
             "publishedTime": "2025-08-09T01:11:03+00:00",
-            "modifiedTime": "2026-11-17T04:01:34+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -138,7 +137,7 @@
                     }
                 },
                 "datePublished": "2025-08-09T01:11:03+00:00",
-                "dateModified": "2026-11-17T04:01:34+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
                 "author": {
                     "@type": "Person",

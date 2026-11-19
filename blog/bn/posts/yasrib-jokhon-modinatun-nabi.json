@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 7,
-            "slug": "আনসার-সাহাবীগণ",
-            "name": "আনসার সাহাবীগণ",
-            "primary": false
-        },
-        {
             "id": 6,
             "slug": "ইসলামের-ইতিহাস",
             "name": "ইসলামের ইতিহাস",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2026-06-19T05:02:27+00:00",
-    "updatedAt": "2026-11-17T03:51:09+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 6,
     "contentHash": "adf066485136008a5ed906a5b0af6f9174c2d63ed7dcff2d5156024619e3775d",
     "url": "https://muslimsday.com/bn/blog/yasrib-jokhon-modinatun-nabi",
@@ -77,7 +71,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "আনসার-সাহাবীগণ",
+            "name": "আনসার সাহাবীগণ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -111,7 +110,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/66fc217b-3756-43b2-843f-1291991789d8.jpg",
             "publishedTime": "2026-06-19T05:02:27+00:00",
-            "modifiedTime": "2026-11-17T03:51:09+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "ইসলামের ইতিহাস"
         },
         "twitter": {
@@ -153,7 +152,7 @@
                     }
                 },
                 "datePublished": "2026-06-19T05:02:27+00:00",
-                "dateModified": "2026-11-17T03:51:09+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/66fc217b-3756-43b2-843f-1291991789d8.jpg",
                 "author": {
                     "@type": "Person",

@@ -17,7 +17,7 @@
             "id": 2,
             "slug": "education",
             "name": "Education",
-            "primary": true
+            "primary": false
         },
         {
             "id": 3,
@@ -35,12 +35,12 @@
             "id": 5,
             "slug": "story",
             "name": "Story",
-            "primary": false
+            "primary": true
         }
     ],
     "isSticky": false,
     "publishedAt": "2026-07-30T08:36:34+00:00",
-    "updatedAt": "2026-11-17T03:49:16+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 9,
     "contentHash": "9aaeb135a24fe321f617d610a0af833faa9e606120fee5ba8bb53e7faf639eee",
     "url": "https://muslimsday.com/blog/sahabi-tree",
@@ -138,8 +138,8 @@
             "locale": "en_US",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/6617dc81-b6b4-4a6e-a9bc-725862615ad4.jpg",
             "publishedTime": "2026-07-30T08:36:34+00:00",
-            "modifiedTime": "2026-11-17T03:49:16+00:00",
-            "section": "Education"
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
+            "section": "Story"
         },
         "twitter": {
             "card": "summary_large_image",
@@ -180,7 +180,7 @@
                     }
                 },
                 "datePublished": "2026-07-30T08:36:34+00:00",
-                "dateModified": "2026-11-17T03:49:16+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/6617dc81-b6b4-4a6e-a9bc-725862615ad4.jpg",
                 "author": {
                     "@type": "Person",
@@ -206,8 +206,8 @@
                     {
                         "@type": "ListItem",
                         "position": 3,
-                        "name": "Education",
-                        "item": "https://muslimsday.com/blog/category/education"
+                        "name": "Story",
+                        "item": "https://muslimsday.com/blog/category/story"
                     },
                     {
                         "@type": "ListItem",

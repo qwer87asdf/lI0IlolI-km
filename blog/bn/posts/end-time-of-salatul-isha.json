@@ -14,27 +14,15 @@
     },
     "categories": [
         {
-            "id": 18,
-            "slug": "কাযা-নামাজ",
-            "name": "কাযা নামাজ",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-11-07T16:01:22+00:00",
-    "updatedAt": "2026-11-17T04:00:58+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 9,
     "contentHash": "5368aa9fc417bf6772c0a3cae687af4462978f9fb1b8ccaf3dc6072157c9d29c",
     "url": "https://muslimsday.com/bn/blog/end-time-of-salatul-isha",
@@ -128,7 +116,16 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "কাযা-নামাজ",
+            "name": "কাযা নামাজ"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -162,7 +159,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/939e7cc1-cedc-428f-afcf-83f15627192e.jpg",
             "publishedTime": "2025-11-07T16:01:22+00:00",
-            "modifiedTime": "2026-11-17T04:00:58+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -204,7 +201,7 @@
                     }
                 },
                 "datePublished": "2025-11-07T16:01:22+00:00",
-                "dateModified": "2026-11-17T04:00:58+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/939e7cc1-cedc-428f-afcf-83f15627192e.jpg",
                 "author": {
                     "@type": "Person",

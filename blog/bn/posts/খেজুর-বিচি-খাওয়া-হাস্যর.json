@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 31,
-            "slug": "বানোয়াট-কিসসা-কাহিনী",
-            "name": "বানোয়াট কিসসা কাহিনী",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-07T07:22:43+00:00",
-    "updatedAt": "2026-11-17T04:01:56+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "f45e412ceb8becc15baada07e260c3a8a798f3471b0d5eabc0b7da8c60eb8c28",
     "url": "https://muslimsday.com/bn/blog/খেজুর-বিচি-খাওয়া-হাস্যর",
@@ -47,7 +41,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বানোয়াট-কিসসা-কাহিনী",
+            "name": "বানোয়াট কিসসা কাহিনী"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -81,7 +80,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
             "publishedTime": "2025-08-07T07:22:43+00:00",
-            "modifiedTime": "2026-11-17T04:01:56+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -123,7 +122,7 @@
                     }
                 },
                 "datePublished": "2025-08-07T07:22:43+00:00",
-                "dateModified": "2026-11-17T04:01:56+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
                 "author": {
                     "@type": "Person",

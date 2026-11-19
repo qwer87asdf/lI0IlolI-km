@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 7,
-            "slug": "আনসার-সাহাবীগণ",
-            "name": "আনসার সাহাবীগণ",
-            "primary": false
-        },
-        {
             "id": 6,
             "slug": "ইসলামের-ইতিহাস",
             "name": "ইসলামের ইতিহাস",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2026-06-17T05:05:49+00:00",
-    "updatedAt": "2026-11-17T03:51:13+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "24671414a69964bf320fee8bb71f04d9a4b32d92bfdeb0200f8ef97d88b887fc",
     "url": "https://muslimsday.com/bn/blog/ditio-akabar-sopoth",
@@ -82,7 +76,12 @@
     "author": {
         "name": "Enamul"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "আনসার-সাহাবীগণ",
+            "name": "আনসার সাহাবীগণ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -116,7 +115,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/11cdb8d3-3f7b-433e-8000-f446cb45e3f3.jpg",
             "publishedTime": "2026-06-17T05:05:49+00:00",
-            "modifiedTime": "2026-11-17T03:51:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "ইসলামের ইতিহাস"
         },
         "twitter": {
@@ -158,7 +157,7 @@
                     }
                 },
                 "datePublished": "2026-06-17T05:05:49+00:00",
-                "dateModified": "2026-11-17T03:51:13+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/11cdb8d3-3f7b-433e-8000-f446cb45e3f3.jpg",
                 "author": {
                     "@type": "Person",

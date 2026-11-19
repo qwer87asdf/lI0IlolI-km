@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 27,
-            "slug": "নফল",
-            "name": "নফল",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-08T14:54:33+00:00",
-    "updatedAt": "2026-11-17T04:01:45+00:00",
+    "updatedAt": "2026-11-19T08:09:18+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "89e0909b38d0626e61b5836448fca60ad31c1b9cd84b80e2012c812941c349f1",
     "url": "https://muslimsday.com/bn/blog/সূরা-কাহফের-ফজিলত",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "নফল",
+            "name": "নফল"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/3aa38029-6fd9-4c02-af0c-bb5ee222682d.jpg",
             "publishedTime": "2025-08-08T14:54:33+00:00",
-            "modifiedTime": "2026-11-17T04:01:45+00:00",
+            "modifiedTime": "2026-11-19T08:09:18+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-08T14:54:33+00:00",
-                "dateModified": "2026-11-17T04:01:45+00:00",
+                "dateModified": "2026-11-19T08:09:18+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/3aa38029-6fd9-4c02-af0c-bb5ee222682d.jpg",
                 "author": {
                     "@type": "Person",

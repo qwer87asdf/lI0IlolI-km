@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 17,
-            "slug": "ভ্রান্ত-মতবাদ",
-            "name": "ভ্রান্ত মতবাদ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-11-18T05:09:14+00:00",
-    "updatedAt": "2026-11-17T04:00:50+00:00",
+    "updatedAt": "2026-11-19T08:09:15+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "32bdd5538eddd9029083063cca0af42081f2002da126bfa5d11c4c07b197780a",
     "url": "https://muslimsday.com/bn/blog/kadiyani-non-muslim-reason",
@@ -52,7 +46,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ভ্রান্ত-মতবাদ",
+            "name": "ভ্রান্ত মতবাদ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -86,7 +85,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8f2a09f0-ca89-409b-b4c0-d4b7f0c2809b.jpg",
             "publishedTime": "2025-11-18T05:09:14+00:00",
-            "modifiedTime": "2026-11-17T04:00:50+00:00",
+            "modifiedTime": "2026-11-19T08:09:15+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -128,7 +127,7 @@
                     }
                 },
                 "datePublished": "2025-11-18T05:09:14+00:00",
-                "dateModified": "2026-11-17T04:00:50+00:00",
+                "dateModified": "2026-11-19T08:09:15+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/8f2a09f0-ca89-409b-b4c0-d4b7f0c2809b.jpg",
                 "author": {
                     "@type": "Person",

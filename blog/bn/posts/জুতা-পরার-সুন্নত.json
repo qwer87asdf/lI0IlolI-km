@@ -14,18 +14,6 @@
     },
     "categories": [
         {
-            "id": 19,
-            "slug": "আদব",
-            "name": "আদব",
-            "primary": false
-        },
-        {
-            "id": 21,
-            "slug": "ইসলামি-সংস্কৃতি",
-            "name": "ইসলামি সংস্কৃতি",
-            "primary": false
-        },
-        {
             "id": 26,
             "slug": "মাসনূন-আমল",
             "name": "মাসনূন আমল",
@@ -34,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2025-08-09T00:35:13+00:00",
-    "updatedAt": "2026-11-17T04:01:34+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "4a9d37707c2480b8a2b44456bb02bb0723e2a5335ebed8c2d4be75ef389df667",
     "url": "https://muslimsday.com/bn/blog/জুতা-পরার-সুন্নত",
@@ -63,7 +51,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "আদব",
+            "name": "আদব"
+        },
+        {
+            "slug": "ইসলামি-সংস্কৃতি",
+            "name": "ইসলামি সংস্কৃতি"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -97,7 +94,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
             "publishedTime": "2025-08-09T00:35:13+00:00",
-            "modifiedTime": "2026-11-17T04:01:34+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "মাসনূন আমল"
         },
         "twitter": {
@@ -139,7 +136,7 @@
                     }
                 },
                 "datePublished": "2025-08-09T00:35:13+00:00",
-                "dateModified": "2026-11-17T04:01:34+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
                 "author": {
                     "@type": "Person",

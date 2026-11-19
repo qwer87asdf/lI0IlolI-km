@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 29,
-            "slug": "দোয়া",
-            "name": "দোয়া",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-08T16:02:21+00:00",
-    "updatedAt": "2026-11-17T04:01:42+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "e6e98fd0351901fcd25989a4fe7accb98bf4c1ad45bc49b470396e04b97cfcb9",
     "url": "https://muslimsday.com/bn/blog/শ্রেষ্ঠ-একটি-দুআ",
@@ -52,7 +46,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "দোয়া",
+            "name": "দোয়া"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -86,7 +85,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/0944d601-64d2-4e02-b242-b4bda822c4da.jpg",
             "publishedTime": "2025-08-08T16:02:21+00:00",
-            "modifiedTime": "2026-11-17T04:01:42+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -128,7 +127,7 @@
                     }
                 },
                 "datePublished": "2025-08-08T16:02:21+00:00",
-                "dateModified": "2026-11-17T04:01:42+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/0944d601-64d2-4e02-b242-b4bda822c4da.jpg",
                 "author": {
                     "@type": "Person",

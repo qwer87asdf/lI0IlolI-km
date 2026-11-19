@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 30,
-            "slug": "হালাল-হারাম",
-            "name": "হালাল - হারাম",
-            "primary": false
-        },
-        {
-            "id": 22,
-            "slug": "হুকুক-অধিকার",
-            "name": "হুকুক - অধিকার",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-08T14:17:53+00:00",
-    "updatedAt": "2026-11-17T04:01:49+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "e9d62f2c6b9e6034ae8404faea0acdb6ce69a3fa8292814cb933df8238b81983",
     "url": "https://muslimsday.com/bn/blog/ধূমপান-করার-বিধান",
@@ -53,7 +41,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হালাল-হারাম",
+            "name": "হালাল - হারাম"
+        },
+        {
+            "slug": "হুকুক-অধিকার",
+            "name": "হুকুক - অধিকার"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -87,7 +84,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
             "publishedTime": "2025-08-08T14:17:53+00:00",
-            "modifiedTime": "2026-11-17T04:01:49+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -129,7 +126,7 @@
                     }
                 },
                 "datePublished": "2025-08-08T14:17:53+00:00",
-                "dateModified": "2026-11-17T04:01:49+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,23 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 20,
-            "slug": "ইলম-জ্ঞানচর্চা",
-            "name": "ইলম - জ্ঞানচর্চা",
-            "primary": false
-        },
-        {
-            "id": 21,
-            "slug": "ইসলামি-সংস্কৃতি",
-            "name": "ইসলামি সংস্কৃতি",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-09-29T07:22:52+00:00",
-    "updatedAt": "2026-11-17T04:01:06+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "d4506ccbf2b1dce0d3eb2244a6e0a2a580c0777d44737d2d8e99ba1f20225d73",
     "url": "https://muslimsday.com/bn/blog/ইসলামি-বইমেলা-২০২৫",
@@ -98,7 +86,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "ইলম-জ্ঞানচর্চা",
+            "name": "ইলম - জ্ঞানচর্চা"
+        },
+        {
+            "slug": "ইসলামি-সংস্কৃতি",
+            "name": "ইসলামি সংস্কৃতি"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -132,7 +129,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/50c23360-6309-4009-b766-69fbec2c1b9e.jpg",
             "publishedTime": "2025-09-29T07:22:52+00:00",
-            "modifiedTime": "2026-11-17T04:01:06+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -174,7 +171,7 @@
                     }
                 },
                 "datePublished": "2025-09-29T07:22:52+00:00",
-                "dateModified": "2026-11-17T04:01:06+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/50c23360-6309-4009-b766-69fbec2c1b9e.jpg",
                 "author": {
                     "@type": "Person",

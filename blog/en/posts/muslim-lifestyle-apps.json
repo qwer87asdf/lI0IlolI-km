@@ -17,24 +17,30 @@
             "id": 2,
             "slug": "education",
             "name": "Education",
-            "primary": true
+            "primary": false
         },
         {
             "id": 3,
             "slug": "masnun-dua",
             "name": "Masnun Dua",
-            "primary": false
+            "primary": true
         },
         {
             "id": 4,
             "slug": "quranic-education",
             "name": "Quranic Education",
             "primary": false
+        },
+        {
+            "id": 71,
+            "slug": "uncategorized",
+            "name": "Uncategorized",
+            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2026-07-30T11:54:37+00:00",
-    "updatedAt": "2026-11-17T03:49:12+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 10,
     "contentHash": "d1cf81c8bfb4b311fd1b90a6aaf0162d6abd9b8f44f57e68354a0835c814064b",
     "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
@@ -142,8 +148,8 @@
             "locale": "en_US",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/4618d301-1cc5-4688-81c6-5c7b14bc8a22.png",
             "publishedTime": "2026-07-30T11:54:37+00:00",
-            "modifiedTime": "2026-11-17T03:49:12+00:00",
-            "section": "Education"
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
+            "section": "Masnun Dua"
         },
         "twitter": {
             "card": "summary_large_image",
@@ -184,7 +190,7 @@
                     }
                 },
                 "datePublished": "2026-07-30T11:54:37+00:00",
-                "dateModified": "2026-11-17T03:49:12+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/4618d301-1cc5-4688-81c6-5c7b14bc8a22.png",
                 "author": {
                     "@type": "Person",
@@ -210,8 +216,8 @@
                     {
                         "@type": "ListItem",
                         "position": 3,
-                        "name": "Education",
-                        "item": "https://muslimsday.com/blog/category/education"
+                        "name": "Masnun Dua",
+                        "item": "https://muslimsday.com/blog/category/masnun-dua"
                     },
                     {
                         "@type": "ListItem",

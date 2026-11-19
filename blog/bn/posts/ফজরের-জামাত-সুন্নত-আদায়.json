@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-08T09:35:05+00:00",
-    "updatedAt": "2026-11-17T04:01:52+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "c7beee2896ca8a65abca0d006684148ab6691829da574504cea74b0f007d8004",
     "url": "https://muslimsday.com/bn/blog/ফজরের-জামাত-সুন্নত-আদায়",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
             "publishedTime": "2025-08-08T09:35:05+00:00",
-            "modifiedTime": "2026-11-17T04:01:52+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-08T09:35:05+00:00",
-                "dateModified": "2026-11-17T04:01:52+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
                 "author": {
                     "@type": "Person",

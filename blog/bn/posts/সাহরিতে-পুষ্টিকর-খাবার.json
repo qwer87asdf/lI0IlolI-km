@@ -18,17 +18,11 @@
             "slug": "বিবিধ",
             "name": "বিবিধ",
             "primary": true
-        },
-        {
-            "id": 12,
-            "slug": "রমজানের-খাদ্যাভ্যাস",
-            "name": "রমজানের খাদ্যাভ্যাস",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2026-02-08T13:28:23+00:00",
-    "updatedAt": "2026-11-17T04:00:41+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "6ec197f062189513dfab43acef45f34cc6794edd2c14bd80b0b46c01d36a40a8",
     "url": "https://muslimsday.com/bn/blog/সাহরিতে-পুষ্টিকর-খাবার",
@@ -57,7 +51,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "রমজানের-খাদ্যাভ্যাস",
+            "name": "রমজানের খাদ্যাভ্যাস"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -91,7 +90,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/701d3c58-2adc-4e3d-8d99-09fc451f3844.jpg",
             "publishedTime": "2026-02-08T13:28:23+00:00",
-            "modifiedTime": "2026-11-17T04:00:41+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "বিবিধ"
         },
         "twitter": {
@@ -133,7 +132,7 @@
                     }
                 },
                 "datePublished": "2026-02-08T13:28:23+00:00",
-                "dateModified": "2026-11-17T04:00:41+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/701d3c58-2adc-4e3d-8d99-09fc451f3844.jpg",
                 "author": {
                     "@type": "Person",

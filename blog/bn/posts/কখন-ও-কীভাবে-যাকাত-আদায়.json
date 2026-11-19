@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 10,
-            "slug": "যাকাত-ফিতরা",
-            "name": "যাকাত-ফিতরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2026-03-08T16:58:30+00:00",
-    "updatedAt": "2026-11-17T04:00:21+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "c3e6c7ecacd49c4238d6309d1f5cecca1421f988d4903c700023559e6e407ad0",
     "url": "https://muslimsday.com/bn/blog/কখন-ও-কীভাবে-যাকাত-আদায়",
@@ -57,7 +51,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "যাকাত-ফিতরা",
+            "name": "যাকাত-ফিতরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -91,7 +90,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
             "publishedTime": "2026-03-08T16:58:30+00:00",
-            "modifiedTime": "2026-11-17T04:00:21+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -133,7 +132,7 @@
                     }
                 },
                 "datePublished": "2026-03-08T16:58:30+00:00",
-                "dateModified": "2026-11-17T04:00:21+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
                 "author": {
                     "@type": "Person",

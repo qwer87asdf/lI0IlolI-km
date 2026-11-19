@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 24,
-            "slug": "বই-রিভিউ",
-            "name": "বই রিভিউ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-09T01:39:45+00:00",
-    "updatedAt": "2026-11-17T04:01:26+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 8,
     "contentHash": "9afa790fdf44052c91b7ead2282a75b924847d680dadc28cd39ba67bef59345f",
     "url": "https://muslimsday.com/bn/blog/মানসাঙ্ক-বই-রিভিউ",
@@ -77,7 +71,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বই-রিভিউ",
+            "name": "বই রিভিউ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -111,7 +110,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
             "publishedTime": "2025-08-09T01:39:45+00:00",
-            "modifiedTime": "2026-11-17T04:01:26+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -153,7 +152,7 @@
                     }
                 },
                 "datePublished": "2025-08-09T01:39:45+00:00",
-                "dateModified": "2026-11-17T04:01:26+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5250d5f7-6155-41e1-8a94-9136df0dd417.jpg",
                 "author": {
                     "@type": "Person",

@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 25,
-            "slug": "হাদীসের-গল্প",
-            "name": "হাদীসের গল্প",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-09T00:41:32+00:00",
-    "updatedAt": "2026-11-17T04:01:34+00:00",
+    "updatedAt": "2026-11-19T08:09:21+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "4e4d97fc8803a13524c5ef2eacc802f045697c7eaff0f3c8cf2ab35fda04e8e5",
     "url": "https://muslimsday.com/bn/blog/ঋণ-ফেরত-দেয়ার-ঘটনা",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "হাদীসের-গল্প",
+            "name": "হাদীসের গল্প"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/41b61f0f-f9f1-4287-86ba-a427d2b90814.jpg",
             "publishedTime": "2025-08-09T00:41:32+00:00",
-            "modifiedTime": "2026-11-17T04:01:34+00:00",
+            "modifiedTime": "2026-11-19T08:09:21+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2025-08-09T00:41:32+00:00",
-                "dateModified": "2026-11-17T04:01:34+00:00",
+                "dateModified": "2026-11-19T08:09:21+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/41b61f0f-f9f1-4287-86ba-a427d2b90814.jpg",
                 "author": {
                     "@type": "Person",

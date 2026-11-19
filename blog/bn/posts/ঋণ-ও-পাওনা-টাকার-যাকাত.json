@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 10,
-            "slug": "যাকাত-ফিতরা",
-            "name": "যাকাত-ফিতরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2026-03-08T16:43:37+00:00",
-    "updatedAt": "2026-11-17T04:00:21+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "dc561377dd0f0144aa19747723a20c7aa6198033ba5a1e6fdc87a3afe8e267a8",
     "url": "https://muslimsday.com/bn/blog/ঋণ-ও-পাওনা-টাকার-যাকাত",
@@ -41,7 +35,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "যাকাত-ফিতরা",
+            "name": "যাকাত-ফিতরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -75,7 +74,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
             "publishedTime": "2026-03-08T16:43:37+00:00",
-            "modifiedTime": "2026-11-17T04:00:21+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -117,7 +116,7 @@
                     }
                 },
                 "datePublished": "2026-03-08T16:43:37+00:00",
-                "dateModified": "2026-11-17T04:00:21+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
                 "author": {
                     "@type": "Person",

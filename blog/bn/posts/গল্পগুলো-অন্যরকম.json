@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 24,
-            "slug": "বই-রিভিউ",
-            "name": "বই রিভিউ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-09T01:21:03+00:00",
-    "updatedAt": "2026-11-17T04:01:33+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "71713d83e6fa99a8efb1094e297b2dc73162563814fb99d4d24dde2792a2da51",
     "url": "https://muslimsday.com/bn/blog/গল্পগুলো-অন্যরকম",
@@ -47,7 +41,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বই-রিভিউ",
+            "name": "বই রিভিউ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -81,7 +80,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d806cc1-ad6e-45a6-8fde-b642dfbf0155.jpg",
             "publishedTime": "2025-08-09T01:21:03+00:00",
-            "modifiedTime": "2026-11-17T04:01:33+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -123,7 +122,7 @@
                     }
                 },
                 "datePublished": "2025-08-09T01:21:03+00:00",
-                "dateModified": "2026-11-17T04:01:33+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/2d806cc1-ad6e-45a6-8fde-b642dfbf0155.jpg",
                 "author": {
                     "@type": "Person",

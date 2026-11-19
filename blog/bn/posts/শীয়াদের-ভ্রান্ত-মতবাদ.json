@@ -18,17 +18,11 @@
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 24,
-            "slug": "বই-রিভিউ",
-            "name": "বই রিভিউ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-09T01:49:26+00:00",
-    "updatedAt": "2026-11-17T04:01:18+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "37622958e22558fac1392cd27ae58d35ace9634c6c42cdafc7b32cf9ddf81267",
     "url": "https://muslimsday.com/bn/blog/শীয়াদের-ভ্রান্ত-মতবাদ",
@@ -57,7 +51,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বই-রিভিউ",
+            "name": "বই রিভিউ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -91,7 +90,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
             "publishedTime": "2025-08-09T01:49:26+00:00",
-            "modifiedTime": "2026-11-17T04:01:18+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -133,7 +132,7 @@
                     }
                 },
                 "datePublished": "2025-08-09T01:49:26+00:00",
-                "dateModified": "2026-11-17T04:01:18+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
                 "author": {
                     "@type": "Person",

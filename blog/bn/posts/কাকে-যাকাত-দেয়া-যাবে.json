@@ -18,17 +18,11 @@
             "slug": "মাসআলা",
             "name": "মাসআলা",
             "primary": true
-        },
-        {
-            "id": 10,
-            "slug": "যাকাত-ফিতরা",
-            "name": "যাকাত-ফিতরা",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2026-03-08T17:03:48+00:00",
-    "updatedAt": "2026-11-17T03:51:31+00:00",
+    "updatedAt": "2026-11-19T08:09:20+00:00",
     "readingTimeMinutes": 3,
     "contentHash": "af3ce0714b99319e8ec87028432996027dbe81ef0f5ac8ac1552b2544c80d0c7",
     "url": "https://muslimsday.com/bn/blog/কাকে-যাকাত-দেয়া-যাবে",
@@ -52,7 +46,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "যাকাত-ফিতরা",
+            "name": "যাকাত-ফিতরা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -86,7 +85,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
             "publishedTime": "2026-03-08T17:03:48+00:00",
-            "modifiedTime": "2026-11-17T03:51:31+00:00",
+            "modifiedTime": "2026-11-19T08:09:20+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -128,7 +127,7 @@
                     }
                 },
                 "datePublished": "2026-03-08T17:03:48+00:00",
-                "dateModified": "2026-11-17T03:51:31+00:00",
+                "dateModified": "2026-11-19T08:09:20+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
                 "author": {
                     "@type": "Person",

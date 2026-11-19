@@ -14,39 +14,15 @@
     },
     "categories": [
         {
-            "id": 19,
-            "slug": "আদব",
-            "name": "আদব",
-            "primary": false
-        },
-        {
             "id": 16,
             "slug": "আর্টিকেল",
             "name": "আর্টিকেল",
             "primary": true
-        },
-        {
-            "id": 20,
-            "slug": "ইলম-জ্ঞানচর্চা",
-            "name": "ইলম - জ্ঞানচর্চা",
-            "primary": false
-        },
-        {
-            "id": 21,
-            "slug": "ইসলামি-সংস্কৃতি",
-            "name": "ইসলামি সংস্কৃতি",
-            "primary": false
-        },
-        {
-            "id": 22,
-            "slug": "হুকুক-অধিকার",
-            "name": "হুকুক - অধিকার",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-11-04T04:36:28+00:00",
-    "updatedAt": "2026-11-17T04:01:02+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 9,
     "contentHash": "97283243c5836b11390e8bd9b8e3eabe0c89c33e683c12dfb05ad908c3ec09a5",
     "url": "https://muslimsday.com/bn/blog/ওয়াজ-মাহফিল-নিবেদন",
@@ -95,7 +71,24 @@
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "আদব",
+            "name": "আদব"
+        },
+        {
+            "slug": "ইলম-জ্ঞানচর্চা",
+            "name": "ইলম - জ্ঞানচর্চা"
+        },
+        {
+            "slug": "ইসলামি-সংস্কৃতি",
+            "name": "ইসলামি সংস্কৃতি"
+        },
+        {
+            "slug": "হুকুক-অধিকার",
+            "name": "হুকুক - অধিকার"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -129,7 +122,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5ae5dc85-386b-4bd5-8616-009520d62d04.jpg",
             "publishedTime": "2025-11-04T04:36:28+00:00",
-            "modifiedTime": "2026-11-17T04:01:02+00:00",
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
             "section": "আর্টিকেল"
         },
         "twitter": {
@@ -171,7 +164,7 @@
                     }
                 },
                 "datePublished": "2025-11-04T04:36:28+00:00",
-                "dateModified": "2026-11-17T04:01:02+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5ae5dc85-386b-4bd5-8616-009520d62d04.jpg",
                 "author": {
                     "@type": "Person",

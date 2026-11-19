@@ -18,23 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 14,
-            "slug": "মন্দ-কাজ",
-            "name": "মন্দ কাজ",
-            "primary": false
-        },
-        {
-            "id": 15,
-            "slug": "সালাত-নামাজ",
-            "name": "সালাত - নামাজ",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-12-11T05:58:20+00:00",
-    "updatedAt": "2026-11-17T04:00:46+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 2,
     "contentHash": "87f4b69c66ec67d373f3e33f75c32ec261432d3d5d8f0937b5fb08ec1439a246",
     "url": "https://muslimsday.com/bn/blog/donation-collect-during-khutba",
@@ -53,7 +41,16 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "মন্দ-কাজ",
+            "name": "মন্দ কাজ"
+        },
+        {
+            "slug": "সালাত-নামাজ",
+            "name": "সালাত - নামাজ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -87,7 +84,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
             "publishedTime": "2025-12-11T05:58:20+00:00",
-            "modifiedTime": "2026-11-17T04:00:46+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -129,7 +126,7 @@
                     }
                 },
                 "datePublished": "2025-12-11T05:58:20+00:00",
-                "dateModified": "2026-11-17T04:00:46+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
                 "author": {
                     "@type": "Person",

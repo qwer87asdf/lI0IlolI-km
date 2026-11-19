@@ -18,17 +18,11 @@
             "slug": "প্রচলিত-ভুল",
             "name": "প্রচলিত ভুল",
             "primary": true
-        },
-        {
-            "id": 31,
-            "slug": "বানোয়াট-কিসসা-কাহিনী",
-            "name": "বানোয়াট কিসসা কাহিনী",
-            "primary": false
         }
     ],
     "isSticky": false,
     "publishedAt": "2025-08-07T07:16:21+00:00",
-    "updatedAt": "2026-11-17T04:01:56+00:00",
+    "updatedAt": "2026-11-19T08:09:19+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "b3fb80c29bd12eb386724e47e3e4363ad6045fd1f9b312dd865dd3694e274c28",
     "url": "https://muslimsday.com/bn/blog/ফাতেমার-ঘরে-জান্নাতি-খাব",
@@ -52,7 +46,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "বানোয়াট-কিসসা-কাহিনী",
+            "name": "বানোয়াট কিসসা কাহিনী"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -86,7 +85,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
             "publishedTime": "2025-08-07T07:16:21+00:00",
-            "modifiedTime": "2026-11-17T04:01:56+00:00",
+            "modifiedTime": "2026-11-19T08:09:19+00:00",
             "section": "প্রচলিত ভুল"
         },
         "twitter": {
@@ -128,7 +127,7 @@
                     }
                 },
                 "datePublished": "2025-08-07T07:16:21+00:00",
-                "dateModified": "2026-11-17T04:01:56+00:00",
+                "dateModified": "2026-11-19T08:09:19+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/88515718-947b-4388-91f8-468eb3a8ebd6.jpg",
                 "author": {
                     "@type": "Person",

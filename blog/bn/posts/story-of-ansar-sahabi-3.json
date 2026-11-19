@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 7,
-            "slug": "আনসার-সাহাবীগণ",
-            "name": "আনসার সাহাবীগণ",
-            "primary": false
-        },
-        {
             "id": 6,
             "slug": "ইসলামের-ইতিহাস",
             "name": "ইসলামের ইতিহাস",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2026-05-17T09:14:30+00:00",
-    "updatedAt": "2026-11-17T03:51:19+00:00",
+    "updatedAt": "2026-11-19T08:09:17+00:00",
     "readingTimeMinutes": 6,
     "contentHash": "8b75bd054065e8261505f061f604dbce03d7337618eb112dd482737794210ca0",
     "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-3",
@@ -67,7 +61,12 @@
     "author": {
         "name": "Enamul"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "আনসার-সাহাবীগণ",
+            "name": "আনসার সাহাবীগণ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -101,7 +100,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b6dabc9e-8792-40b5-b755-d9a4e676f1b1.jpg",
             "publishedTime": "2026-05-17T09:14:30+00:00",
-            "modifiedTime": "2026-11-17T03:51:19+00:00",
+            "modifiedTime": "2026-11-19T08:09:17+00:00",
             "section": "ইসলামের ইতিহাস"
         },
         "twitter": {
@@ -143,7 +142,7 @@
                     }
                 },
                 "datePublished": "2026-05-17T09:14:30+00:00",
-                "dateModified": "2026-11-17T03:51:19+00:00",
+                "dateModified": "2026-11-19T08:09:17+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b6dabc9e-8792-40b5-b755-d9a4e676f1b1.jpg",
                 "author": {
                     "@type": "Person",

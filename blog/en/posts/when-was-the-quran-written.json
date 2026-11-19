@@ -17,7 +17,7 @@
             "id": 2,
             "slug": "education",
             "name": "Education",
-            "primary": true
+            "primary": false
         },
         {
             "id": 3,
@@ -30,11 +30,17 @@
             "slug": "quranic-education",
             "name": "Quranic Education",
             "primary": false
+        },
+        {
+            "id": 71,
+            "slug": "uncategorized",
+            "name": "Uncategorized",
+            "primary": true
         }
     ],
     "isSticky": false,
     "publishedAt": "2026-07-26T05:16:30+00:00",
-    "updatedAt": "2026-11-17T03:50:41+00:00",
+    "updatedAt": "2026-11-19T08:09:14+00:00",
     "readingTimeMinutes": 6,
     "contentHash": "908b991b23984548e9ce71c38cea6bfff570abf9c767f96d7d33ac9c6d4d2138",
     "url": "https://muslimsday.com/blog/when-was-the-quran-written",
@@ -127,8 +133,8 @@
             "locale": "en_US",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/796ee810-4628-4025-a09f-70fbe2f56ef1.png",
             "publishedTime": "2026-07-26T05:16:30+00:00",
-            "modifiedTime": "2026-11-17T03:50:41+00:00",
-            "section": "Education"
+            "modifiedTime": "2026-11-19T08:09:14+00:00",
+            "section": "Uncategorized"
         },
         "twitter": {
             "card": "summary_large_image",
@@ -169,7 +175,7 @@
                     }
                 },
                 "datePublished": "2026-07-26T05:16:30+00:00",
-                "dateModified": "2026-11-17T03:50:41+00:00",
+                "dateModified": "2026-11-19T08:09:14+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/796ee810-4628-4025-a09f-70fbe2f56ef1.png",
                 "author": {
                     "@type": "Person",
@@ -195,8 +201,8 @@
                     {
                         "@type": "ListItem",
                         "position": 3,
-                        "name": "Education",
-                        "item": "https://muslimsday.com/blog/category/education"
+                        "name": "Uncategorized",
+                        "item": "https://muslimsday.com/blog/category/uncategorized"
                     },
                     {
                         "@type": "ListItem",

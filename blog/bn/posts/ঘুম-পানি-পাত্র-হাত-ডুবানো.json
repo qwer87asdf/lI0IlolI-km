@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 23,
-            "slug": "তাহারাত-পবিত্রতা",
-            "name": "তাহারাত - পবিত্রতা",
-            "primary": false
-        },
-        {
             "id": 9,
             "slug": "মাসআলা",
             "name": "মাসআলা",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2025-09-11T15:45:18+00:00",
-    "updatedAt": "2026-11-17T04:01:14+00:00",
+    "updatedAt": "2026-11-19T08:09:16+00:00",
     "readingTimeMinutes": 4,
     "contentHash": "60e914411642b79b7b64d7f28943aedf5fa907ec65c69939fd2ab2077ce10650",
     "url": "https://muslimsday.com/bn/blog/ঘুম-পানি-পাত্র-হাত-ডুবানো",
@@ -57,7 +51,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "তাহারাত-পবিত্রতা",
+            "name": "তাহারাত - পবিত্রতা"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -91,7 +90,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/93ae8be3-a027-43f2-8550-64d256bbe4fd.jpg",
             "publishedTime": "2025-09-11T15:45:18+00:00",
-            "modifiedTime": "2026-11-17T04:01:14+00:00",
+            "modifiedTime": "2026-11-19T08:09:16+00:00",
             "section": "মাসআলা"
         },
         "twitter": {
@@ -133,7 +132,7 @@
                     }
                 },
                 "datePublished": "2025-09-11T15:45:18+00:00",
-                "dateModified": "2026-11-17T04:01:14+00:00",
+                "dateModified": "2026-11-19T08:09:16+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/93ae8be3-a027-43f2-8550-64d256bbe4fd.jpg",
                 "author": {
                     "@type": "Person",

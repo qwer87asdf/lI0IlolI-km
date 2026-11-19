@@ -14,12 +14,6 @@
     },
     "categories": [
         {
-            "id": 7,
-            "slug": "আনসার-সাহাবীগণ",
-            "name": "আনসার সাহাবীগণ",
-            "primary": false
-        },
-        {
             "id": 6,
             "slug": "ইসলামের-ইতিহাস",
             "name": "ইসলামের ইতিহাস",
@@ -28,7 +22,7 @@
     ],
     "isSticky": false,
     "publishedAt": "2026-06-21T09:13:14+00:00",
-    "updatedAt": "2026-11-17T03:53:13+00:00",
+    "updatedAt": "2026-11-19T08:09:13+00:00",
     "readingTimeMinutes": 7,
     "contentHash": "cb2add8af8ab0eba9bc307460e4dde6cabba506ac4d7b724a97d8a28cc3099d4",
     "url": "https://muslimsday.com/bn/blog/jokhon-madina-holo_okhondo_pariber",
@@ -72,7 +66,12 @@
     "author": {
         "name": "Muslims Day Desk"
     },
-    "tags": [],
+    "tags": [
+        {
+            "slug": "আনসার-সাহাবীগণ",
+            "name": "আনসার সাহাবীগণ"
+        }
+    ],
     "translations": {},
     "languageChooser": [
         {
@@ -106,7 +105,7 @@
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b9f90b95-0904-40a4-8677-af98d76c8366.avif",
             "publishedTime": "2026-06-21T09:13:14+00:00",
-            "modifiedTime": "2026-11-17T03:53:13+00:00",
+            "modifiedTime": "2026-11-19T08:09:13+00:00",
             "section": "ইসলামের ইতিহাস"
         },
         "twitter": {
@@ -148,7 +147,7 @@
                     }
                 },
                 "datePublished": "2026-06-21T09:13:14+00:00",
-                "dateModified": "2026-11-17T03:53:13+00:00",
+                "dateModified": "2026-11-19T08:09:13+00:00",
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b9f90b95-0904-40a4-8677-af98d76c8366.avif",
                 "author": {
                     "@type": "Person",
