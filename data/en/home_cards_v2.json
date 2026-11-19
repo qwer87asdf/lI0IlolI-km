@@ -14,8 +14,8 @@
         { "id":"tasbeeh","title":"Tasbeeh","iconId":"TASBIH","iconUrl":".../{theme}/tasbeeh.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"tasbeeh"} }
       ] },
     { "type": "app_banners", "id": "app_banners", "priority": 200, "isEnabled": true, "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"] },
-    { "type": "continue_today", "id": "continue_today", "priority": 300, "isEnabled": true,
-      "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"], "showLastRead": true, "showTasbeeh": true, "showDailyAmal": true },
+    { "type": "daily_amal", "id": "daily_amal", "priority": 300, "isEnabled": true,
+  "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"] },
     { "type": "qaza", "id": "qaza", "priority": 400, "isEnabled": true, "visibleTo": ["AUTHORIZED","PAID"] },
     { "type": "banner", "id": "premium_upsells", "priority": 450, "isEnabled": true, "supportedLanguages": ["en","bn"],
       "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"], "endTimestampInSecond": null,
