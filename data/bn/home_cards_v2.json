@@ -1,0 +1,37 @@
+{
+  "lastUpdated": 1795000000000,
+  "items": [
+    { "type": "top_features", "id": "top_features", "priority": 100, "isEnabled": true,
+      "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"], "title": "Top features",
+      "shortcuts": [
+        { "id":"habit_tracker","title":"Tracker","iconId":"HABIT_HISTORY","iconUrl":"","isEnabled":true,"tileType":"HABIT_TRACKER","action":{"type":"screen","routeKey":"habit-tracker"} },
+        { "id":"quran","title":"Quran","iconId":"QURAN","iconUrl":"https://dev.data.muslimsday.com/appdata/image/{theme}/quran.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"quran-chapter-list"} },
+        { "id":"qibla","title":"Qibla","iconId":"QIBLA","iconUrl":".../{theme}/qibla_compass.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"qibla-compass"} },
+        { "id":"ruqyah","title":"Ruqyah","iconId":"TOOLS","iconUrl":".../{theme}/ruqyah.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"ruqyah-category"} },
+        { "id":"tilawat","title":"Tilawat","iconId":"QURAN","iconUrl":".../{theme}/tilawat.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"mushaf-tilawat"} },
+        { "id":"tafsir","title":"Tafsir","iconId":"KNOWLEDGE","iconUrl":".../{theme}/quran_knowledge.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"tafsir"} },
+        { "id":"names99","title":"99 Names","iconId":"MOSQUE","iconUrl":".../{theme}/names_99.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"names99"} },
+        { "id":"tasbeeh","title":"Tasbeeh","iconId":"TASBIH","iconUrl":".../{theme}/tasbeeh.png","isEnabled":true,"tileType":"ICON","action":{"type":"screen","routeKey":"tasbeeh"} }
+      ] },
+    { "type": "app_banners", "id": "app_banners", "priority": 200, "isEnabled": true, "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"] },
+    { "type": "daily_amal", "id": "daily_amal", "priority": 300, "isEnabled": true,
+  "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"] },
+    { "type": "qaza", "id": "qaza", "priority": 400, "isEnabled": true, "visibleTo": ["AUTHORIZED","PAID"] },
+    { "type": "banner", "id": "premium_upsells", "priority": 450, "isEnabled": true, "supportedLanguages": ["en","bn"],
+      "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"], "endTimestampInSecond": null,
+      "bannerConfig": { "title":"Support Muslims Day App", "subtitle":"Your contributions help countless Muslims in their Ibadah",
+        "buttonText":"Try Now", "bannerType":"PRIMARY", "iconId":"CROWN", "iconUrl":null,
+        "action": { "type":"url", "url":"https://id.kahf.co/pay/muslimsday" } } },
+    { "type": "countdown_timer", "id": "ramadan_countdown", "priority": 500, "isEnabled": true,
+      "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"], "endTimestampInSecond": null,
+      "timerConfig": { "eventType":"RAMADAN_START", "title":"Ramadan Countdown", "subtitle":"Days until the holy month starts", "showSeconds":true, "compactMode":false } },
+    { "type": "dua_of_the_moment", "id": "daily_dua", "priority": 550, "isEnabled": true,
+      "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"], "endTimestampInSecond": null,
+      "duaContent": { "id":1, "title":"Dua of the Moment", "subtitle":"Sunan Abu Dawood",
+        "content":"Allahumma bika asbahna wa bika amsayna wa bika nahya wa bika namutu wa ilayka-nnushur.", "audioUrls":[] } },
+    { "type": "dynamic_ad", "id": "pre_feed_ad", "priority": 800, "isEnabled": true,
+      "visibleTo": ["NON_AUTHORIZED","AUTHORIZED","PAID"], "endTimestampInSecond": null,
+      "divId": "home-feed-native-ad", "adType": "NATIVE" },
+    { "type": "feed", "id": "feed_section", "priority": 900, "isEnabled": true }
+  ]
+}
