@@ -43,15 +43,15 @@
     "updatedAt": "2026-11-17T04:02:58+00:00",
     "readingTimeMinutes": 1,
     "contentHash": "f23de65bca3394420080356d970be943873a38a6db5befafe8e5046f2cef815d",
-    "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF",
-    "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF.json",
-    "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF.html",
+    "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায",
+    "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কাযা-নামায-কি-জামাতে-আদায.json",
+    "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কাযা-নামায-কি-জামাতে-আদায.html",
     "html": "<p>Post Updated at 2 Feb, 2025 – 2:56 PM</p><p>যদি একসঙ্গে কয়েকজনের কোনো নামায কাযা হয়ে যায়, তাহলে তারা চাইলে সে কাযা নামায জামাতেও আদায় করতে পারে। তবে জামাতে কাযা নামায আদায় করার জন্যে সকলের নামায এক হওয়া জরুরি। যদি কারও জোহর, কারও আসর কিংবা কারও কোনো একদিনের জোহর, কারও অন্য আরেকদিনের জোহর হয়, তাহলে এ নামায জামাতে আদায় করা যাবে না। কাযা নামাযের জামাতে কেরাতের বিধান মূল নামাযের কেরাতের মতোই। অর্থাৎ জোহর ও আসরের জামাতে আস্তে আস্তে কেরাত পড়বে, ফজর, মাগরিব ও ইশায় জোরে কেরাত পড়বে, এমনকি দিনের বেলা জামাত করলেও।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%95%e0%a6%be%e0%a6%af%e0%a6%be-%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%af-%e0%a6%95%e0%a6%bf-%e0%a6%9c%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%87-%e0%a6%86%e0%a6%a6%e0%a6%be%e0%a6%af/\">কাযা নামায কি জামাতে আদায় করা যায়</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.64b730fcb4.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
     "author": {
-        "name": "Hasan"
+        "name": "মাওলানা শিব্বীর আহমদ"
     },
     "tags": [],
     "translations": {},
@@ -60,8 +60,8 @@
             "language": "bn",
             "name": "Bangla",
             "nativeName": "বাংলা",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF.json",
+            "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কাযা-নামায-কি-জামাতে-আদায.json",
             "current": true
         }
     ],
@@ -76,13 +76,13 @@
     "seo": {
         "title": "কাযা নামায কি জামাতে আদায় করা যায়",
         "description": "Post Updated at 2 Feb, 2025 – 2:56 PM",
-        "canonical": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF",
+        "canonical": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায",
         "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
         "openGraph": {
             "type": "article",
             "title": "কাযা নামায কি জামাতে আদায় করা যায়",
             "description": "Post Updated at 2 Feb, 2025 – 2:56 PM",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF",
+            "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায",
             "siteName": "Muslims Day",
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
@@ -99,11 +99,11 @@
         "hreflang": [
             {
                 "lang": "bn",
-                "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF"
+                "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায"
             },
             {
                 "lang": "x-default",
-                "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF"
+                "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায"
             }
         ],
         "jsonLd": [
@@ -112,10 +112,10 @@
                 "@type": "BlogPosting",
                 "headline": "কাযা নামায কি জামাতে আদায় করা যায়",
                 "description": "Post Updated at 2 Feb, 2025 – 2:56 PM",
-                "url": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF",
+                "url": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায",
                 "mainEntityOfPage": {
                     "@type": "WebPage",
-                    "@id": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF"
+                    "@id": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায"
                 },
                 "inLanguage": "bn",
                 "wordCount": 106,
@@ -133,7 +133,7 @@
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
                 "author": {
                     "@type": "Person",
-                    "name": "Hasan"
+                    "name": "মাওলানা শিব্বীর আহমদ"
                 }
             },
             {
@@ -156,13 +156,13 @@
                         "@type": "ListItem",
                         "position": 3,
                         "name": "মাসআলা",
-                        "item": "https://muslimsday.com/bn/blog/category/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%86%E0%A6%B2%E0%A6%BE"
+                        "item": "https://muslimsday.com/bn/blog/category/মাসআলা"
                     },
                     {
                         "@type": "ListItem",
                         "position": 4,
                         "name": "কাযা নামায কি জামাতে আদায় করা যায়",
-                        "item": "https://muslimsday.com/bn/blog/%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF-%E0%A6%95%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF"
+                        "item": "https://muslimsday.com/bn/blog/কাযা-নামায-কি-জামাতে-আদায"
                     }
                 ]
             }

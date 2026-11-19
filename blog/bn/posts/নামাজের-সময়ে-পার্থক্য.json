@@ -24,16 +24,16 @@
     "publishedAt": "2025-02-27T00:51:59+00:00",
     "updatedAt": "2026-11-17T04:02:53+00:00",
     "readingTimeMinutes": 2,
-    "contentHash": "a11532ff3e0dcaf4c1bb9675ad5d0e23411e9dee1a12be01476f5e6d671d7411",
-    "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF",
-    "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF.json",
-    "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF.html",
-    "html": "<p>Post Updated at 27 Feb, 2026 – 10:55 PM</p><p>বিভিন্ন অ্যাপের মধ্যে নামাজের সময় নিয়ে তুলনা করলে দেখা যাবে ২-১ মিনিটের পার্থক্য রয়েছে। প্লে স্টোরে যত অ্যাপ রয়েছে সকল অ্যাপে নামাজের সময় নির্ণয় করার জন্য একই পদ্ধতি অবলম্বন করা হয় না। তাই কিছু পার্থক্য দেখাতে পারে। ছোট এই পার্থক্যটি তাই খুব বেশি ধর্তব্য নয়। এমন কি বর্তমানে মুসলিমস ডে অ্যান্ড্রয়েড ও iOS ভার্সনের মাঝেও পার্থক্য রয়েছে ভিন্ন কোডবেজ ও ভিন্ন ইমপ্লিমেন্টেশনের জন্য। যদিও আগামীতে এই পার্থক্য ঘুঁচিয়ে নিয়ে আসার লক্ষ্যে আমরা কাজ করে যাচ্ছি।</p><p>এই ২-১ মিনিট পার্থক্যের বাস্তবতার জন্য আমরা রিকমেন্ড করি, একদম margin time (প্রান্তিক সময়) এ নামাজ না পড়ে ৪-৫ মিনিট আগপিছ করে পড়ার জন্য। অর্থাৎ ওয়াক্ত শুরু হওয়ার ১ম মিনিটেই নামাজ না পড়ে ৪-৫ মিনিট পর নামাজ পড়লে ইনশাআল্লাহ ভুল ওয়াক্তে নামাজ পড়া থেকে বেঁচে যাওয়া যাবে।</p><p>ভিন্ন ভিন্ন অ্যাপের হিসাব-নিকাশ কেন ভিন্ন হয় একটা উদাহরণ দিলে বিষয়টা পরিষ্কার হবে আশা করি।</p><p>আমরা জানি যুহরের ওয়াক্ত শুরু হয় সূর্য যখন মধ্য আকাশ থেকে ঢলে পড়ে তখন। ধরুন কোনো অ্যাপ হিসাব করেছে সূর্য মধ্য আকাশ থেকে 0.01 ডিগ্রি ঢললেই যুহরের ওয়াক্ত শুরু হবে। অন্য আরেকটি অ্যাপ হিসাব করেছে 0.05 ডিগ্রি ঢললে যুহরের ওয়াক্ত শুরু হবে। দুটিই ঢলে পড়া। হাদীসে ঢলে পড়ার কথা রয়েছে, কিন্তু কত ডিগ্রি ঢললে যুহর শুরু হবে সেটা নির্দিষ্ট ভাবে বলা নাই। তাই অ্যাপ অনুযায়ী এই ডিগ্রি আলাদা হওয়ায় সময়ের ক্ষেত্রে ২-১ মিনিট পার্থক্য হতে পারে।</p><p>এই ছোট পার্থক্যের কারণে আমরা কোনো অ্যাপের সময়কেই ভুল বলি না। অ্যাকুরেসির দিক থেকে কোনোটা একটু কম কোনোটা একটু বেশি। তাই একাধিক সময় সামনে আসলে যেটা অধিকতর নিরাপদ মনে হয় সেটা অনুসরণ করা যেতে পারে।</p><p>এমন কি মুসলিমস ডে অ্যাপই একেক ফোনে একেক রকম সময় দেখাতে পারে। কী কী কারণে একই অ্যাপ ভিন্ন ভিন্ন ফোনে ভিন্ন ভিন্ন সময় দেখায় <a href=\"https://muslimsday.com/blog/why-different-time-in-muslims-day/\">সে সম্পর্কে জানতে এই লেখাটি পড়ুন</a>।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%ae%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a6%95%e0%a7%8d%e0%a6%af/\">মুসলিমস ডে’র সাথে অন্যান্য অ্যাপের সময়ের পার্থক্যের কারণ</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
+    "contentHash": "4919e82a143593d65e2481c1900bf0229153cd5e19a85a73f9bc2aeda5301e17",
+    "url": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য",
+    "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-সময়ে-পার্থক্য.json",
+    "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-সময়ে-পার্থক্য.html",
+    "html": "<p>Post Updated at 27 Feb, 2026 – 10:55 PM</p><p>বিভিন্ন অ্যাপের মধ্যে নামাজের সময় নিয়ে তুলনা করলে দেখা যাবে ২-১ মিনিটের পার্থক্য রয়েছে। প্লে স্টোরে যত অ্যাপ রয়েছে সকল অ্যাপে নামাজের সময় নির্ণয় করার জন্য একই পদ্ধতি অবলম্বন করা হয় না। তাই কিছু পার্থক্য দেখাতে পারে। ছোট এই পার্থক্যটি তাই খুব বেশি ধর্তব্য নয়। এমন কি বর্তমানে মুসলিমস ডে অ্যান্ড্রয়েড ও iOS ভার্সনের মাঝেও পার্থক্য রয়েছে ভিন্ন কোডবেজ ও ভিন্ন ইমপ্লিমেন্টেশনের জন্য। যদিও আগামীতে এই পার্থক্য ঘুঁচিয়ে নিয়ে আসার লক্ষ্যে আমরা কাজ করে যাচ্ছি।</p><p>এই ২-১ মিনিট পার্থক্যের বাস্তবতার জন্য আমরা রিকমেন্ড করি, একদম margin time (প্রান্তিক সময়) এ নামাজ না পড়ে ৪-৫ মিনিট আগপিছ করে পড়ার জন্য। অর্থাৎ ওয়াক্ত শুরু হওয়ার ১ম মিনিটেই নামাজ না পড়ে ৪-৫ মিনিট পর নামাজ পড়লে ইনশাআল্লাহ ভুল ওয়াক্তে নামাজ পড়া থেকে বেঁচে যাওয়া যাবে।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>ভিন্ন ভিন্ন অ্যাপের হিসাব-নিকাশ কেন ভিন্ন হয় একটা উদাহরণ দিলে বিষয়টা পরিষ্কার হবে আশা করি।</p><p>আমরা জানি যুহরের ওয়াক্ত শুরু হয় সূর্য যখন মধ্য আকাশ থেকে ঢলে পড়ে তখন। ধরুন কোনো অ্যাপ হিসাব করেছে সূর্য মধ্য আকাশ থেকে 0.01 ডিগ্রি ঢললেই যুহরের ওয়াক্ত শুরু হবে। অন্য আরেকটি অ্যাপ হিসাব করেছে 0.05 ডিগ্রি ঢললে যুহরের ওয়াক্ত শুরু হবে। দুটিই ঢলে পড়া। হাদীসে ঢলে পড়ার কথা রয়েছে, কিন্তু কত ডিগ্রি ঢললে যুহর শুরু হবে সেটা নির্দিষ্ট ভাবে বলা নাই। তাই অ্যাপ অনুযায়ী এই ডিগ্রি আলাদা হওয়ায় সময়ের ক্ষেত্রে ২-১ মিনিট পার্থক্য হতে পারে।</p><p>এই ছোট পার্থক্যের কারণে আমরা কোনো অ্যাপের সময়কেই ভুল বলি না। অ্যাকুরেসির দিক থেকে কোনোটা একটু কম কোনোটা একটু বেশি। তাই একাধিক সময় সামনে আসলে যেটা অধিকতর নিরাপদ মনে হয় সেটা অনুসরণ করা যেতে পারে।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>এমন কি মুসলিমস ডে অ্যাপই একেক ফোনে একেক রকম সময় দেখাতে পারে। কী কী কারণে একই অ্যাপ ভিন্ন ভিন্ন ফোনে ভিন্ন ভিন্ন সময় দেখায় <a href=\"https://muslimsday.com/blog/why-different-time-in-muslims-day/\">সে সম্পর্কে জানতে এই লেখাটি পড়ুন</a>।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%ae%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a6%95%e0%a7%8d%e0%a6%af/\">মুসলিমস ডে’র সাথে অন্যান্য অ্যাপের সময়ের পার্থক্যের কারণ</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.64b730fcb4.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
     "author": {
-        "name": "Hasan"
+        "name": "Muslims Day Desk"
     },
     "tags": [],
     "translations": {},
@@ -42,8 +42,8 @@
             "language": "bn",
             "name": "Bangla",
             "nativeName": "বাংলা",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF",
-            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF.json",
+            "url": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-সময়ে-পার্থক্য.json",
             "current": true
         }
     ],
@@ -58,13 +58,13 @@
     "seo": {
         "title": "মুসলিমস ডে’র সাথে অন্যান্য অ্যাপের সময়ের পার্থক্যের কারণ",
         "description": "Post Updated at 27 Feb, 2026 – 10:55 PM",
-        "canonical": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF",
+        "canonical": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য",
         "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
         "openGraph": {
             "type": "article",
             "title": "মুসলিমস ডে’র সাথে অন্যান্য অ্যাপের সময়ের পার্থক্যের কারণ",
             "description": "Post Updated at 27 Feb, 2026 – 10:55 PM",
-            "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF",
+            "url": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য",
             "siteName": "Muslims Day",
             "locale": "bn_BD",
             "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
@@ -81,11 +81,11 @@
         "hreflang": [
             {
                 "lang": "bn",
-                "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF"
+                "url": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য"
             },
             {
                 "lang": "x-default",
-                "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF"
+                "url": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য"
             }
         ],
         "jsonLd": [
@@ -94,10 +94,10 @@
                 "@type": "BlogPosting",
                 "headline": "মুসলিমস ডে’র সাথে অন্যান্য অ্যাপের সময়ের পার্থক্যের কারণ",
                 "description": "Post Updated at 27 Feb, 2026 – 10:55 PM",
-                "url": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF",
+                "url": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য",
                 "mainEntityOfPage": {
                     "@type": "WebPage",
-                    "@id": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF"
+                    "@id": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য"
                 },
                 "inLanguage": "bn",
                 "wordCount": 302,
@@ -115,7 +115,7 @@
                 "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
                 "author": {
                     "@type": "Person",
-                    "name": "Hasan"
+                    "name": "Muslims Day Desk"
                 }
             },
             {
@@ -138,13 +138,13 @@
                         "@type": "ListItem",
                         "position": 3,
                         "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
-                        "item": "https://muslimsday.com/bn/blog/category/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BE-faq"
+                        "item": "https://muslimsday.com/bn/blog/category/অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq"
                     },
                     {
                         "@type": "ListItem",
                         "position": 4,
                         "name": "মুসলিমস ডে’র সাথে অন্যান্য অ্যাপের সময়ের পার্থক্যের কারণ",
-                        "item": "https://muslimsday.com/bn/blog/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E0%A7%8D%E0%A6%AF"
+                        "item": "https://muslimsday.com/bn/blog/নামাজের-সময়ে-পার্থক্য"
                     }
                 ]
             }
