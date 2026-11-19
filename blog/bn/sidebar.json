@@ -1,0 +1,225 @@
+{
+    "schemaVersion": 1,
+    "language": "bn",
+    "ads": {
+        "top": null,
+        "bottom": null
+    },
+    "topRead": [
+        {
+            "id": 256,
+            "translationId": 256,
+            "language": "bn",
+            "slug": "আইয়ামে-বীজ-রোজার-ফজিলত",
+            "title": "আইয়ামে বীজ এর রোজা – ফজিলত, বিধান ও মাসআলা",
+            "excerpt": "Post Updated at 13 Sep, 2026 – 2:15 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8c795cb7-0a48-4caa-8732-9628aa4eb86a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 900
+            },
+            "categories": [
+                {
+                    "id": 27,
+                    "slug": "নফল",
+                    "name": "নফল",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T00:20:09+00:00",
+            "updatedAt": "2026-11-17T04:05:33+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "25883351fb75a47f3b215e41942c5bf21fb0344834097912a8f9be9cb6b6a0f6",
+            "url": "https://muslimsday.com/bn/blog/আইয়ামে-বীজ-রোজার-ফজিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.html",
+            "reads": 409059
+        },
+        {
+            "id": 234,
+            "translationId": 234,
+            "language": "bn",
+            "slug": "ফিতরা-কত-টাকা-মাসআলা",
+            "title": "২০২৬ সালের ফিতরার পরিমাণ ও মাসআলা",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:57 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 67,
+                    "slug": "ফিতরা",
+                    "name": "ফিতরা",
+                    "primary": false
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T03:26:00+00:00",
+            "updatedAt": "2026-11-17T04:05:20+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "1f9cf07eef3d17bd48e407c45215abcacbb940e86ff8a87c93590f34862634ac",
+            "url": "https://muslimsday.com/bn/blog/ফিতরা-কত-টাকা-মাসআলা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফিতরা-কত-টাকা-মাসআলা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফিতরা-কত-টাকা-মাসআলা.html",
+            "reads": 318740
+        },
+        {
+            "id": 262,
+            "translationId": 262,
+            "language": "bn",
+            "slug": "শবে-বরাত-ফজিলত-আমল-বিদআত",
+            "title": "সুন্নাহর আলোকে শবে বরাতের ফজিলত ও আমল – করণীয় ও বর্জনীয়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/eff5a75a-9b56-441c-b241-8b695d2fc112.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 33,
+                    "slug": "ফজিলতপূর্ণ-ও-বিশেষ-দিন-রাত্রি",
+                    "name": "ফজিলতপূর্ণ ও বিশেষ দিন-রাত্রি",
+                    "primary": false
+                },
+                {
+                    "id": 62,
+                    "slug": "বিদআত",
+                    "name": "বিদআত",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:47:51+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 23,
+            "contentHash": "4b51355234d1a48122c7f5ff98178b9088c1c9430b803c09fd62b200a4881226",
+            "url": "https://muslimsday.com/bn/blog/শবে-বরাত-ফজিলত-আমল-বিদআত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শবে-বরাত-ফজিলত-আমল-বিদআত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শবে-বরাত-ফজিলত-আমল-বিদআত.html",
+            "reads": 209666
+        },
+        {
+            "id": 106,
+            "translationId": 106,
+            "language": "bn",
+            "slug": "2025-ifa-logic-changed",
+            "title": "২০২৫ সালে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডারে কী পরিবর্তন এসেছে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-03-01T17:02:18+00:00",
+            "updatedAt": "2026-11-17T04:02:53+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "c83faf22616eaeb2f7c50bd351bd0783849d77abe1d5db4b6792356fa272e55c",
+            "url": "https://muslimsday.com/bn/blog/2025-ifa-logic-changed",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/2025-ifa-logic-changed.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/2025-ifa-logic-changed.html",
+            "reads": 204699
+        },
+        {
+            "id": 225,
+            "translationId": 225,
+            "language": "bn",
+            "slug": "শাওয়ালের-ছয়-রোজা",
+            "title": "শাওয়ালের ছয়  রোজা: ঈদ পরবর্তী একটি গুরুত্বপূর্ণ আমল",
+            "excerpt": "Post Updated at 15 May, 2026 – 5:53 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 57,
+                    "slug": "ঈদ",
+                    "name": "ঈদ",
+                    "primary": false
+                },
+                {
+                    "id": 27,
+                    "slug": "নফল",
+                    "name": "নফল",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                },
+                {
+                    "id": 34,
+                    "slug": "সাওম-রোজা",
+                    "name": "সাওম - রোজা",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-21T04:27:19+00:00",
+            "updatedAt": "2026-11-17T04:05:12+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "68c82bbfc572d56e6365d91748193d37c5847c3bab47127556018916b31ad09e",
+            "url": "https://muslimsday.com/bn/blog/শাওয়ালের-ছয়-রোজা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শাওয়ালের-ছয়-রোজা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শাওয়ালের-ছয়-রোজা.html",
+            "reads": 138450
+        }
+    ]
+}

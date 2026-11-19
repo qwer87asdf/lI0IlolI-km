@@ -1,0 +1,207 @@
+{
+    "schemaVersion": 1,
+    "language": "en",
+    "ads": {
+        "top": null,
+        "bottom": null
+    },
+    "topRead": [
+        {
+            "id": 1,
+            "translationId": 1,
+            "language": "en",
+            "slug": "contributors-impact-on-july-2026",
+            "title": "One Month, 61 Million Reminders: Contributors Impact Throughout the July 2026",
+            "excerpt": "Get the update of contributors impact throughout the month of july 2026. How people from all over the world helped us to reach many muslims and helping us making ummah better everyday.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7004bc3b-09dd-4c27-8b57-6ce1f60215c4.png",
+                "alt": "",
+                "width": 1254,
+                "height": 706
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "slug": "updates",
+                    "name": "Updates",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-17T07:47:14+00:00",
+            "updatedAt": "2026-11-17T03:48:11+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "044c60c20e3d10b2b2cbb242e71dbd43914359fdd8889f6353688258b0ec8c79",
+            "url": "https://muslimsday.com/blog/contributors-impact-on-july-2026",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.html",
+            "reads": 434
+        },
+        {
+            "id": 3,
+            "translationId": 3,
+            "language": "en",
+            "slug": "muslim-lifestyle-apps",
+            "title": "10 Must-Have Muslim Lifestyle Apps for New Muslims",
+            "excerpt": "Best muslim lifestyle apps suggestion for the new muslims who are in need ot daily guidance of islamic rules.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/4618d301-1cc5-4688-81c6-5c7b14bc8a22.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 3,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 4,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T11:54:37+00:00",
+            "updatedAt": "2026-11-17T03:49:12+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "afedfe6a80271b53cf36615daf4a7768ab09e63f60b32eeb8d95b6c1bb96cf6d",
+            "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.html",
+            "reads": 265
+        },
+        {
+            "id": 4,
+            "translationId": 4,
+            "language": "en",
+            "slug": "sahabi-tree",
+            "title": "The Story of Bahira the Monk and the Sahabi Tree: What Really Happened",
+            "excerpt": "Know the real story of Sahabi tree in Jordan. The 1,500-Year-Old Tree That Sheltered Prophet Muhammad ﷺ",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/6617dc81-b6b4-4a6e-a9bc-725862615ad4.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 3,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 4,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "story",
+                    "name": "Story",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T08:36:34+00:00",
+            "updatedAt": "2026-11-17T03:49:16+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
+            "url": "https://muslimsday.com/blog/sahabi-tree",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.html",
+            "reads": 254
+        },
+        {
+            "id": 2,
+            "translationId": 2,
+            "language": "en",
+            "slug": "tree-plantation-in-islam",
+            "title": "Tree plantation in Islam",
+            "excerpt": "Explore Tree Plantation in Islam with insights from the Qur'an and Hadith. Discover its spiritual rewards, environmental benefits, and Sadaqah Jariyah.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/d1c7627f-864d-4a02-a79e-7b59f39572ae.jpg",
+                "alt": "",
+                "width": 700,
+                "height": 400
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-03T11:25:07+00:00",
+            "updatedAt": "2026-11-17T03:53:13+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "53da040b38b803e34182fd71ba3d521c4ace923848567dd9511b5a08a0e76769",
+            "url": "https://muslimsday.com/blog/tree-plantation-in-islam",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/tree-plantation-in-islam.html",
+            "reads": 198
+        },
+        {
+            "id": 5,
+            "translationId": 5,
+            "language": "en",
+            "slug": "surah-yaseen-heart-of-quran",
+            "title": "Why Is Surah Yaseen Called the ‘Heart of the Quran?",
+            "excerpt": "Learn the explanation of Surah Yaseen being called the heart of The Quran. Benefits of Yaseen and how to and when recite it. Learn the hadith and other reference behind claim.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/f94bfa52-91ee-4b27-80e5-94c60d0e4a45.jpg",
+                "alt": "",
+                "width": 1075,
+                "height": 716
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 3,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 4,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-29T06:17:22+00:00",
+            "updatedAt": "2026-11-17T03:49:35+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "afd21b109605063db478235fe2d9885d137e2c271634a9261daecb273a9b60d4",
+            "url": "https://muslimsday.com/blog/surah-yaseen-heart-of-quran",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html",
+            "reads": 106
+        }
+    ]
+}
