@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 5 Aug, 2025 – 9:47 AM</p><p>কোনো কোনো মানুষকে দেখা যায়, যদি জামাতের শেষ বৈঠকের (আত্তাহিয়্যাতুর সময়) সময় উপস্থিত হন তাহলে জামাতে শরীক না হয়ে নিজে নিজে আলাদা নামায পড়তে দাঁড়িয়ে যান। তাদের ধারণা, জামাত তো শেষই হয়ে গেছে এখন আর শরীক হয়ে কী হবে!</p><p>এটি একটি ভুল আমল। শেষ বৈঠকের সময় উপস্থিত হলেও জামাতে শরীক হয়ে যাবে এবং ইমামের সালাম ফেরানোর পর উঠে নামায আদায় করবে। কারণ, শেষ বৈঠকে শরীক হলেও জামাতের মৌলিক সওয়াব পাওয়া যাবে। -আততামহীদ ৭/৬৯; আদ্দুররুল মুখতার ২/৫৯</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p><strong>রেফারেন্সঃ</strong></p><p><a href=\"https://www.alkawsar.com/bn/article/1862/\">https://www.alkawsar.com/bn/article/1862/</a></p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%b8%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%a4-%e0%a6%b6%e0%a7%87%e0%a6%b7-%e0%a6%ac%e0%a7%88%e0%a6%a0%e0%a6%95%e0%a7%87-%e0%a6%85%e0%a6%82%e0%a6%b6-%e0%a6%a8%e0%a6%be-%e0%a6%a8%e0%a7%87%e0%a6%af/\">সালাতের শেষ বৈঠকের সময় উপস্থিত হলে জামাতে শরীক না হওয়া</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/89/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "সালাতের শেষ বৈঠকের সময় উপস্থিত হলে জামাতে শরীক না হওয়া",

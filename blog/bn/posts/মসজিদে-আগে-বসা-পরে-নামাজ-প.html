@@ -378,7 +378,12 @@ html.md-dark .md-document { background: #0d131c; }
 .md-document .md-article__reads::before { content: ' · '; }
 
 /* Ad slots */
-.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; }
+.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; min-height: 250px; }
+/* Collapse as soon as the ad tag reports no fill, or the isolated copy measures zero. */
+.md-blog-content .md-ad:has([data-nofill="1"]),
+.md-blog-content .md-ad--empty { min-height: 0; margin-block: 0; }
+.md-blog-content .md-ad--isolated iframe { display: block; width: 100%; min-height: 250px; border: 0; }
+.md-blog-content .md-ad--preview { min-height: 0; }
 .md-blog-content .md-ad--preview iframe { width: 100%; min-height: 120px; border: 1px dashed var(--md-border); border-radius: 8px; background: var(--md-surface); }
 
 </style>
@@ -392,8 +397,8 @@ html.md-dark .md-document { background: #0d131c; }
 <p class="md-article__meta">Muslims Day Desk ·  <time datetime="2025-08-05T03:54:18+00:00">5 Aug 2025</time> · 1 min read<span class="md-article__reads" data-md-reads hidden></span></p>
 </header>
 <p>Post Updated at 5 Aug, 2025 – 9:54 AM</p><p>অনেক মানুষকে দেখা যায় তারা মসজিদে এসে প্রথমে একটু বসেন তারপর নামায শুরু করেন। এটি ঠিক নয়। বরং মসজিদে গিয়ে প্রথম কাজ হবে নামায।</p><p>হাদীস শরীফে এসেছে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, যখন কেউ মসজিদে প্রবেশ করবে তখন যেন দুই রাকাত নামায পড়া ছাড়া না বসে। সহীহ বুখারী, হাদীস ১১৬৭; সহীহ মুসলিম, হাদীস ৭১৪<br> মোটকথা মসজিদে প্রবেশ করে প্রথম কাজ হবে নামায, যদি তা নামাযের সময় হয়ে থাকে।</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>মসজিদে প্রবেশের পর পর্যাপ্ত সময় থাকলে তাহিয়্যাতুল মসজিদ পড়বে, সে সময় না থাকলে নির্ধারিত ওয়াক্তের সুন্নত পড়বে সেটাই তাহিয়্যাতুল মসজিদ বলে গণ্য হবে।</p><p><strong>রেফারেন্সঃ</strong></p><p>https://www.alkawsar.com/bn/article/764/</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>The post <a href="https://muslimsday.com/blog/%e0%a6%ae%e0%a6%b8%e0%a6%9c%e0%a6%bf%e0%a6%a6%e0%a7%87-%e0%a6%86%e0%a6%97%e0%a7%87-%e0%a6%ac%e0%a6%b8%e0%a6%be-%e0%a6%aa%e0%a6%b0%e0%a7%87-%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%9c-%e0%a6%aa/">মসজিদে প্রবেশ করে আগে বসা পরে সালাতে দাঁড়ানো</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
+<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>মসজিদে প্রবেশের পর পর্যাপ্ত সময় থাকলে তাহিয়্যাতুল মসজিদ পড়বে, সে সময় না থাকলে নির্ধারিত ওয়াক্তের সুন্নত পড়বে সেটাই তাহিয়্যাতুল মসজিদ বলে গণ্য হবে।</p><p><strong>রেফারেন্সঃ</strong></p><p>https://www.alkawsar.com/bn/article/764/</p><div class="md-ad md-ad--isolated" data-ad="3"><iframe srcdoc="&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;" title="Advertisement" loading="lazy" scrolling="no"></iframe></div><p>The post <a href="https://muslimsday.com/blog/%e0%a6%ae%e0%a6%b8%e0%a6%9c%e0%a6%bf%e0%a6%a6%e0%a7%87-%e0%a6%86%e0%a6%97%e0%a7%87-%e0%a6%ac%e0%a6%b8%e0%a6%be-%e0%a6%aa%e0%a6%b0%e0%a7%87-%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%9c-%e0%a6%aa/">মসজিদে প্রবেশ করে আগে বসা পরে সালাতে দাঁড়ানো</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
 </article>
 <script>
 (function () {

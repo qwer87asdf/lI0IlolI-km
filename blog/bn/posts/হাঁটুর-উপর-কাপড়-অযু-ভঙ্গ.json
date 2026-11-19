@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 6 Aug, 2025 – 10:11 PM</p><p>অনেককে বলতে শোনা যায়, অযু করার পর কোনোভাবে হাঁটু খুলে গেলে অর্থাৎ হাঁটু দেখা গেলে বা হাঁটুর উপর কাপড় উঠে গেলে অযু ভেঙ্গে যায়। তেমনি পা ধৌত করার সময় যদি হাঁটু খুলে যায় তাহলেও যতটুকু অযু করা হয়েছে তা ভেঙ্গে যায়। তাই আবার শুরু থেকে অযু করতে হবে। এ কারণে অনেককে নতুন করে অযু করতেও দেখা যায়।</p><p>এ ধারণা ঠিক নয়। হাঁটু সতরের অন্তর্ভুক্ত এবং তা ঢেকে রাখা অপরিহার্য। পা ধোয়ার সময় সতর্কতার সাথে ধোয়া উচিত যেন হাঁটু খুলে না যায়। কিন্তু এ কথা ঠিক নয় যে, হাঁটু খুলে গেলে অযু ভেঙ্গে যায় কিংবা অযুর মাঝে এমনটি হলে নতুন করে অযু করা জরুরি!!</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>অযু ভঙ্গের কারণগুলো তো মাশাআল্লাহ মকতবের ছোট ছোট শিশুরাও জানে। তাতে সতর খুলে যাওয়ার কথা নেই।</p><p>রেফারেন্সঃ<br> <a href=\"https://www.alkawsar.com/bn/article/556/\">https://www.alkawsar.com/bn/article/556/</a></p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%b9%e0%a6%be%e0%a6%81%e0%a6%9f%e0%a7%81%e0%a6%b0-%e0%a6%89%e0%a6%aa%e0%a6%b0-%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a6%a1%e0%a6%bc-%e0%a6%85%e0%a6%af%e0%a7%81-%e0%a6%ad%e0%a6%99%e0%a7%8d%e0%a6%97/\">হাঁটুর উপর কাপড় উঠে গেলে অযু ভেঙে যাওয়া</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/68/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "হাঁটুর উপর কাপড় উঠে গেলে অযু ভেঙে যাওয়া",

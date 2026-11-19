@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 5 Aug, 2025 – 11:41 PM</p><p>অনেকের মধ্যে এরকম ধারনা আছে যে সিয়ামরত অবস্থায় পেস্ট দিয়ে দাঁত মাজলে সিয়াম ভঙ্গ হয়। এটি সঠিক নয়। সিয়ামরত অবস্থায় টুথপেস্ট বা মাজন দিয়ে দাঁত মাজা মাকরুহ বা অপছন্দনীয়। কিন্তু সরাসরি একে সিয়াম ভঙ্গের কারণ বলা যায় না।</p><p>তবে দাঁত মাজার সময় টুথপেস্ট বা মাজন যদি গলায় চলে যায় তাহলে সিয়াম ভঙ্গ হয়ে যাবে। তাই সতর্কতার জন্য আমাদের উচিত, যদি ব্রাশ-পেস্ট ব্যবহার করতেই হয় তবে সাহরি খাওয়ার পর সাহরির শেষ সময়ের আগেই টুথপেস্ট দিয়ে দাঁত ব্রাশ করা। আর দিনের অন্যান্য সময়ে মিসওয়াক করা।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%b0%e0%a7%8b%e0%a6%9c%e0%a6%be-%e0%a6%9f%e0%a7%81%e0%a6%a5%e0%a6%aa%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%a6%e0%a6%be%e0%a6%81%e0%a6%a4-%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%be/\">সিয়ামরত অবস্থায় টুথপেস্ট দিয়ে দাঁত না মাজা</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/83/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "সিয়ামরত অবস্থায় টুথপেস্ট দিয়ে দাঁত না মাজা",

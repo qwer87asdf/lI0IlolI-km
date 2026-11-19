@@ -378,7 +378,12 @@ html.md-dark .md-document { background: #0d131c; }
 .md-document .md-article__reads::before { content: ' · '; }
 
 /* Ad slots */
-.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; }
+.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; min-height: 250px; }
+/* Collapse as soon as the ad tag reports no fill, or the isolated copy measures zero. */
+.md-blog-content .md-ad:has([data-nofill="1"]),
+.md-blog-content .md-ad--empty { min-height: 0; margin-block: 0; }
+.md-blog-content .md-ad--isolated iframe { display: block; width: 100%; min-height: 250px; border: 0; }
+.md-blog-content .md-ad--preview { min-height: 0; }
 .md-blog-content .md-ad--preview iframe { width: 100%; min-height: 120px; border: 1px dashed var(--md-border); border-radius: 8px; background: var(--md-surface); }
 
 </style>
@@ -392,8 +397,8 @@ html.md-dark .md-document { background: #0d131c; }
 <p class="md-article__meta">Muslims Day Desk ·  <time datetime="2025-08-06T14:02:19+00:00">6 Aug 2025</time> · 1 min read<span class="md-article__reads" data-md-reads hidden></span></p>
 </header>
 <p>Post Updated at 6 Aug, 2025 – 8:02 PM</p><p>দাড়ি ইসলামের শিআর ও পরিচয়-চিহ্ন হিসেবে গণ্য। দাড়ি লম্বা করা এবং মোচ খাটো করা দ্বীনে তাওহীদের শিক্ষা, যা সকল নবীর শরীয়তে ছিল।</p><p>দাড়ি লম্বা রাখা ওয়াজিব এবং এক মুষ্ঠি থেকে খাটো করা নাজায়েয। যেহেতু দাড়ি রাখা সকল নবীর পবিত্র রীতি ছিল তাই একে ‘সুন্নত’ও বলা হয়। এতে কারো কারো ভুল ধারণা সৃষ্টি হয়েছে যে, দাড়ি লম্বা করাও অন্যান্য সাধারণ সুন্নতের মতো একটি সুন্নত। অতএব তা করলে ভালো, না করলেও গুনাহ নেই!</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>এটা একদম ভুল ধারণা!</p><p>দাড়ি এমন কোনো সুন্নত নয়, যা রাখা-না রাখার স্বাধীনতা রয়েছে, এটা একটা ‘<strong>সুন্নতে ওয়াজিবা</strong>’। অর্থাৎ সুন্নতে মুয়াক্কাদা থেকেও এর গুরুত্ব বেশি এবং এটা পরিত্যাগ করলে গুনাহ হয়।</p><p>দেখুন, দাড়ি কামানো বা এক মুষ্ঠি থেকে ছোট রাখা এমন এক গুনাহ, যা মানুষের সঙ্গে সর্বদা সংযুক্ত থাকে এবং এমন একটি গুনাহ, যা গোপন করারও কোনো উপায় নেই। এটা একটা প্রকাশ্য গুনাহ, যা খুবই ভয়াবহ। তদুপরি দাড়ির সঙ্গে এই আচরণটা করা হয় সুন্নতের প্রতি অনীহা এবং অনৈসলামিক ফ্যাশনের প্রতি আকর্ষণের কারণে। এ অবস্থায় তো ঈমানের ব্যাপারেই শঙ্কিত হতে হয়।</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>রেফারেন্সঃ<br> <a href="https://www.alkawsar.com/bn/article/1424/">https://www.alkawsar.com/bn/article/1424/</a></p><p>The post <a href="https://muslimsday.com/blog/%e0%a6%a6%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%bf-%e0%a6%b0%e0%a6%be%e0%a6%96%e0%a6%be-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%9c%e0%a6%bf%e0%a6%ac/">দাড়ি রাখা সুন্নত নাকি ওয়াজিব?</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
+<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>এটা একদম ভুল ধারণা!</p><p>দাড়ি এমন কোনো সুন্নত নয়, যা রাখা-না রাখার স্বাধীনতা রয়েছে, এটা একটা ‘<strong>সুন্নতে ওয়াজিবা</strong>’। অর্থাৎ সুন্নতে মুয়াক্কাদা থেকেও এর গুরুত্ব বেশি এবং এটা পরিত্যাগ করলে গুনাহ হয়।</p><p>দেখুন, দাড়ি কামানো বা এক মুষ্ঠি থেকে ছোট রাখা এমন এক গুনাহ, যা মানুষের সঙ্গে সর্বদা সংযুক্ত থাকে এবং এমন একটি গুনাহ, যা গোপন করারও কোনো উপায় নেই। এটা একটা প্রকাশ্য গুনাহ, যা খুবই ভয়াবহ। তদুপরি দাড়ির সঙ্গে এই আচরণটা করা হয় সুন্নতের প্রতি অনীহা এবং অনৈসলামিক ফ্যাশনের প্রতি আকর্ষণের কারণে। এ অবস্থায় তো ঈমানের ব্যাপারেই শঙ্কিত হতে হয়।</p><div class="md-ad md-ad--isolated" data-ad="3"><iframe srcdoc="&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;" title="Advertisement" loading="lazy" scrolling="no"></iframe></div><p>রেফারেন্সঃ<br> <a href="https://www.alkawsar.com/bn/article/1424/">https://www.alkawsar.com/bn/article/1424/</a></p><p>The post <a href="https://muslimsday.com/blog/%e0%a6%a6%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%bf-%e0%a6%b0%e0%a6%be%e0%a6%96%e0%a6%be-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%9c%e0%a6%bf%e0%a6%ac/">দাড়ি রাখা সুন্নত নাকি ওয়াজিব?</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
 </article>
 <script>
 (function () {

@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 5 Aug, 2025 – 9:59 AM</p><p>‘ছানা’ পড়া সুন্নত। নামাযে নিয়ত বাঁধার পর প্রথম কাজ হল ছানা পড়া। কেউ একা নামায পড়ুক বা জামাতে উভয় অবস্থায় ছানা পড়তে হয়। কিন্তু এক্ষেত্রে অনেকের যে ভুলটা হয়ে থাকে তা হল, ইমামকে যদি রুকুতে পায় তাহলে প্রথমে তাকবীর বলে হাত বাঁধে তারপর দ্রুত ছানা পড়ে রুকুতে যায়। অনেক সময় ছানা পড়তে পড়তে ইমামের রুকু শেষ হয়ে যায় ফলে ঐ রাকাত ছুটে যায়। এটা ঠিক নয়।</p><p>এ অবস্থায় ছানা পড়তে হবে না হাতও বাঁধতে হবে না; বরং নিয়ম হল, প্রথমে দাঁড়ানো অবস্থায় দুহাত তুলে তাকবীরে তাহরীমা বলে হাত ছেড়ে দেবে, তারপর দাঁড়ানো থেকে তাকবীর বলে রুকুতে যাবে।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>এ ক্ষেত্রে অনেকে আরেকটি ভুল করে থাকে, ইমাম রুকুতে চলে গেছে, এখন দ্রুত রুকুতে শরীক হয়ে রাকাত ধরা দরকার, তা না করে এসময়ও আরবীতে উচ্চারণ করে নিয়ত পড়তে থাকে, ফলে ঐ রাকাত পায় না। এটা আরও বড় ভুল।</p><p><strong>রেফারেন্সঃ</strong><br> <a href=\"https://www.alkawsar.com/bn/article/743/\">https://www.alkawsar.com/bn/article/743/</a></p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%87%e0%a6%ae%e0%a6%be%e0%a6%ae-%e0%a6%b0%e0%a7%81%e0%a6%95%e0%a7%81%e0%a6%a4%e0%a7%87-%e0%a6%97%e0%a7%87%e0%a6%b2%e0%a7%87%e0%a6%93-%e0%a6%b8%e0%a6%be%e0%a6%a8%e0%a6%be-%e0%a6%aa%e0%a6%a1/\">ইমাম রুকুতে চলে গেলেও সানা পড়া</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/84/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "ইমাম রুকুতে চলে গেলেও সানা পড়া",

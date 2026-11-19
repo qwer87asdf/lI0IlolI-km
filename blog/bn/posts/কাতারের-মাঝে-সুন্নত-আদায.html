@@ -378,7 +378,12 @@ html.md-dark .md-document { background: #0d131c; }
 .md-document .md-article__reads::before { content: ' · '; }
 
 /* Ad slots */
-.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; }
+.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; min-height: 250px; }
+/* Collapse as soon as the ad tag reports no fill, or the isolated copy measures zero. */
+.md-blog-content .md-ad:has([data-nofill="1"]),
+.md-blog-content .md-ad--empty { min-height: 0; margin-block: 0; }
+.md-blog-content .md-ad--isolated iframe { display: block; width: 100%; min-height: 250px; border: 0; }
+.md-blog-content .md-ad--preview { min-height: 0; }
 .md-blog-content .md-ad--preview iframe { width: 100%; min-height: 120px; border: 1px dashed var(--md-border); border-radius: 8px; background: var(--md-surface); }
 
 </style>
@@ -392,8 +397,8 @@ html.md-dark .md-document { background: #0d131c; }
 <p class="md-article__meta">Muslims Day Desk ·  <time datetime="2025-08-05T03:49:48+00:00">5 Aug 2025</time> · 1 min read<span class="md-article__reads" data-md-reads hidden></span></p>
 </header>
 <p>Post Updated at 5 Aug, 2025 – 9:49 AM</p><p>ফজরের আগের দুই রাকাত সুন্নতের অনেক গুরুত্ব। এ দুই রাকাত বাসা থেকে আদায় করে আসাই উত্তম। আর মসজিদে আদায় করলে জামাত শুরু হওয়ার আগেই আদায় করে নেওয়া। আগে যদি আদায় করা না যায় এবং দেখা যায় সুন্নত আদায় করে জামাত পেয়ে যাবে তাহলে মসজিদের বারান্দা বা পিলারের পিছনে আদায় করে নিবে। কিন্তু কিছু মানুষকে দেখা যায়, জামাত চলা অবস্থায় জামাতের কাতারের সাথেই বা কাতারের মাঝে দাঁড়িয়ে সুন্নত আদায় করছে।</p><p>এটি একটি ভুল আমল। এ থেকে বেঁচে থাকা জরুরি।</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>উল্লেখ্য, যদি ফজরের সুন্নত আদায় করে জামাত পাওয়ার সম্ভাবনা না থাকে বা জামাত থেকে পিছনে পৃথক হয়ে সুন্নত আদায় করার মত জায়গা না থাকে তাহলে সুন্নত না পড়ে জামাতে শরীক হয়ে যাবে এবং সুর্যোদয়ের পর এ সুন্নত আদায় করে নিবে। -ফাতাওয়া হিন্দিয়া১/১২০; রদ্দুল মুহতার ২/৫৬-৫৮</p><p><strong>রেফারেন্সঃ</strong></p><p>https://www.alkawsar.com/bn/article/1836/</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>The post <a href="https://muslimsday.com/blog/%e0%a6%95%e0%a6%be%e0%a6%a4%e0%a6%be%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%9d%e0%a7%87-%e0%a6%b8%e0%a7%81%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%a4-%e0%a6%86%e0%a6%a6%e0%a6%be%e0%a6%af/">জামায়াতের সময় কাতারের মাঝে সুন্নত আদায় করা</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
+<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>উল্লেখ্য, যদি ফজরের সুন্নত আদায় করে জামাত পাওয়ার সম্ভাবনা না থাকে বা জামাত থেকে পিছনে পৃথক হয়ে সুন্নত আদায় করার মত জায়গা না থাকে তাহলে সুন্নত না পড়ে জামাতে শরীক হয়ে যাবে এবং সুর্যোদয়ের পর এ সুন্নত আদায় করে নিবে। -ফাতাওয়া হিন্দিয়া১/১২০; রদ্দুল মুহতার ২/৫৬-৫৮</p><p><strong>রেফারেন্সঃ</strong></p><p>https://www.alkawsar.com/bn/article/1836/</p><div class="md-ad md-ad--isolated" data-ad="3"><iframe srcdoc="&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;" title="Advertisement" loading="lazy" scrolling="no"></iframe></div><p>The post <a href="https://muslimsday.com/blog/%e0%a6%95%e0%a6%be%e0%a6%a4%e0%a6%be%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%9d%e0%a7%87-%e0%a6%b8%e0%a7%81%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%a4-%e0%a6%86%e0%a6%a6%e0%a6%be%e0%a6%af/">জামায়াতের সময় কাতারের মাঝে সুন্নত আদায় করা</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
 </article>
 <script>
 (function () {
