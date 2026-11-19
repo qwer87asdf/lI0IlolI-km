@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 5 Aug, 2025 – 9:33 AM</p><p><strong>‘নামায মুমিনের মেরাজ’</strong> কথাটা একটা প্রসিদ্ধ উক্তি। কেউ কেউ একে হাদীস মনে করে থাকেন। কিন্তু হাদীসের প্রসিদ্ধ কিতাবসমূহে এটা পাওয়া যায় না। তবে এ কথাটার মর্ম বিভিন্ন সহীহ হাদীস থেকে আহরণ করা যায়। এ জন্য একথাটা একটি প্রসিদ্ধ উক্তি হিসেবেই বলা উচিত, হাদীস হিসেবে নয়।</p><p>হাদীস বলতে হলে নিম্নোক্ত কোনো সহীহ হাদীস উল্লেখ করা যায়-</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><blockquote><p>‘মুমিন যখন নামাযে দাড়ায় তখন সে তার রবের সঙ্গে একান্তে কথা বলে।’ (সহীহ বুখারী, হাদীস ৪১৩)</p></blockquote><blockquote><p>‘তোমাদের কেউ যখন নামাযে দাড়ায় তখন সে আল্লাহর সঙ্গে একান্তে কথা বলে, যতক্ষণ সে তার জায়নামাযে থাকে।’ (সহীহ বুখারী, হাদীস : ৪২৬)</p></blockquote><p>আল্লাহ আমাদেরকে প্রচলিত ভুলগুলো থেকে বেঁচে থাকার তাওফিক দান করুন। এমন কথাকে হাদীস হিসাবে যেন আমরা প্রচার না করি যেগুলো আসলে হাদীস নয়। আল্লাহর রাসূলের (সা) নামে এমন কথা বলা থেকে আল্লাহ আমাদের রক্ষা করুন যেই কথা রাসূল (সা) বলেন নি।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%9c-%e0%a6%ae%e0%a7%81%e0%a6%ae%e0%a6%bf%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a7%87%e0%a6%b0%e0%a6%be%e0%a6%9c/\">নামাজ মুমিনের মেরাজ – এটি হাদীস নয়</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/93/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "নামাজ মুমিনের মেরাজ – এটি হাদীস নয়",

@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 2 Feb, 2025 – 2:55 PM</p><p>ইচ্ছাকৃত নামায সময়মতো আদায় না করা একটি ভয়াবহ গোনাহের কাজ। তাই আপনার কাযা নামাযের বিষয়টি যথাসম্ভব গোপন রাখতে চেষ্টা করুন। এমনভাবে কাযা নামায পড়ুন, যেন অন্য কেউ দেখে আপনার নামায কাযা হওয়ার বিষয়টি বুঝতে না পারে। মসজিদে অন্য মুসল্লিদের উপস্থিতিতে পড়তে চাইলে এমন সময় পড়ুন, যখন নফল নামায পড়া যায়। যেমন, জোহরের আগে কিংবা পরে। এসময় যদি আপনি দুই রাকাত বা চার রাকাত কাযা নামায পড়েন তাহলে যারা দেখবে তারা এটাকে নফল নামায মনে করবে, কাযা মনে করবে না। কিন্তু আপনি যদি ফজরের পর সূর্যোদয়ের পূর্বে মসজিদে দুই-চার রাকাত কাযা নামায আদায় করেন তখন অন্য কেউ দেখে আপনাকে বলতে পারে- এখন কীসের নামায পড়লেন? ফলে আপনি নিজেই বলতে বাধ্য হবেন : আমি অমুক কাযা নামায পড়েছি। আর এভাবে আপনার নামায কাযা হয়ে যাওয়ার বিষয়টি অন্যকে জানিয়ে আরেকটি ভুল করলেন। [রদ্দুল মুহতার, ২/৫৩৯]</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%95%e0%a6%be%e0%a6%af%e0%a6%be-%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%af-%e0%a6%95%e0%a7%8b%e0%a6%a5%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%95%e0%a7%80%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87/\">কাযা নামায কোথায় কীভাবে আদায় করবেন </a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
@@ -65,8 +65,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/123/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "কাযা নামায কোথায় কীভাবে আদায় করবেন",

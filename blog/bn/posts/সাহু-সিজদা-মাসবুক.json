@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 5 Aug, 2025 – 9:38 AM</p><p>যে ব্যক্তি ইমামের সাথে পুরো নামায পায়নি; বরং কিছু রাকাত ছুটে গেছে তাকে মাসবুক বলে।</p><p>কিছু মানুষকে দেখা যায়, মাসবুক অবস্থায়ও ইমাম সাহু সিজদার জন্য সালাম ফেরালে তারাও ইমামের সাথে সালাম ফেরায়। এটি একটি ভুল আমল।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>নিয়ম হল, মাসবুক ব্যক্তি ইমামের সাথে সাহু সিজদার জন্য সালাম ফেরাবে না; বরং সালাম ফিরানো ছাড়া শুধু সাহু সিজদায় শরীক হবে। অবশ্য কখনো ভুলে ইমামের সাথে সাহু সিজদার সালাম ফিরিয়ে ফেললে (কাজটি নিয়মসম্মত না হলেও) নামায ফাসেদ হবে না এবং এ জন্য নিজ নামায শেষে সাহু সিজদাও করতে হবে না। (দ্র. বাদায়েউস সানায়ে ১/৪২২; রদ্দুল মুহতার ২/৮২; হালবাতুল মুজাল্লী ২/৪৫২)</p><p>রেফারেন্সঃ<br> মাসিক আলকাউসার<br> <a href=\"https://www.alkawsar.com/bn/article/2693/\">https://www.alkawsar.com/bn/article/2693/</a></p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%b8%e0%a6%be%e0%a6%b9%e0%a7%81-%e0%a6%b8%e0%a6%bf%e0%a6%9c%e0%a6%a6%e0%a6%be-%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%ac%e0%a7%81%e0%a6%95/\">ইমামের সাহু সিজদায় মাসবুক ব্যক্তিরও সালাম ফিরানো</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/92/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "ইমামের সাহু সিজদায় মাসবুক ব্যক্তিরও সালাম ফিরানো",

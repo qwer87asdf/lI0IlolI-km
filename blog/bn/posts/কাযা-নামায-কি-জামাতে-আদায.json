@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 2 Feb, 2025 – 2:56 PM</p><p>যদি একসঙ্গে কয়েকজনের কোনো নামায কাযা হয়ে যায়, তাহলে তারা চাইলে সে কাযা নামায জামাতেও আদায় করতে পারে। তবে জামাতে কাযা নামায আদায় করার জন্যে সকলের নামায এক হওয়া জরুরি। যদি কারও জোহর, কারও আসর কিংবা কারও কোনো একদিনের জোহর, কারও অন্য আরেকদিনের জোহর হয়, তাহলে এ নামায জামাতে আদায় করা যাবে না। কাযা নামাযের জামাতে কেরাতের বিধান মূল নামাযের কেরাতের মতোই। অর্থাৎ জোহর ও আসরের জামাতে আস্তে আস্তে কেরাত পড়বে, ফজর, মাগরিব ও ইশায় জোরে কেরাত পড়বে, এমনকি দিনের বেলা জামাত করলেও।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%95%e0%a6%be%e0%a6%af%e0%a6%be-%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%af-%e0%a6%95%e0%a6%bf-%e0%a6%9c%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%87-%e0%a6%86%e0%a6%a6%e0%a6%be%e0%a6%af/\">কাযা নামায কি জামাতে আদায় করা যায়</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
@@ -65,8 +65,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/121/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "কাযা নামায কি জামাতে আদায় করা যায়",

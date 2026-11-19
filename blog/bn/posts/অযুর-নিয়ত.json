@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 5 Aug, 2025 – 9:14 AM</p><p>নিয়ত অর্থ ইচ্ছা করা, সংকল্প করা। মনে মনে আমরা পবিত্র হওয়ার উদ্দেশ্যে যখন অযুখানায় প্রবেশ করি সেটাই অযুর নিয়ত। অযুর শুরুতে মুখে উচ্চারণ করে কোনো নিয়ত পড়ার কথা হাদীস শরীফে বর্ণিত হয়নি। বিভিন্ন বইতে যে সকল নিয়তের বাক্যগুলো দেয়া থাকে সেগুলো আরবি ভাষী কোনো ব্যক্তির বানানো। তাই অযুর শুরুতে সেই আরবি বাক্যগুলো মুখে উচ্চারণ করাকে জরুরি বা বেশি সওয়াবের কাজ মনে করা বিদআত।</p><p>অযু-গোসলের নিয়তের ব্যাপারে একটা উদাহরণ দেয়া যেতে পারে। ধরা যাক দুইজন ব্যক্তি একটি খালের উপরের বাঁশের সাঁকো পার হচ্ছেন। একজন এসেছেন গোসল করার উদ্দেশ্যে। তিনি এসে সাঁকো থেকে লাফ দিলেন। অপর জন গোসলের উদ্দেশ্যে আসেন নি, বরং তাল সামলাতে না পেরে পড়ে গেছেন। প্রথম ব্যক্তির গোসল হবে নিয়তসহ। আর দ্বিতীয় ব্যক্তির গোসল হবে ঠিকই কিন্তু নিয়ত ব্যতীত। নিয়তের কারণে প্রথম ব্যক্তি গোসলের সওয়াব পাবেন। আর দ্বিতীয় ব্যক্তির গোসল হয়েছে ঠিকই, কিন্তু নিয়ত না করার কারণে তিনি গোসল করার সওয়াব থেকে বঞ্চিত হবেন।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%85%e0%a6%af%e0%a7%81%e0%a6%b0-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%a4/\">অযুর শুরুতে বিশেষ বাক্যে নিয়ত পাঠ করা</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -61,8 +61,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/96/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "অযুর শুরুতে বিশেষ বাক্যে নিয়ত পাঠ করা",

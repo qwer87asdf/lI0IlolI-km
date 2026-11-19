@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 5 Aug, 2025 – 9:18 AM</p><p>আমাদের সমাজে প্রচলিত আছে নামাজ শুরুর আগে এ দুআটি পড়তে হয়- “ইন্নি ওয়াজ্জাহতু, ওয়াজহিয়া লিল্লাজি…”। একে বলা হয় জায়নামাজের দুআ। বিভিন্ন অনির্ভরযোগ্য নামাজ শিক্ষা বইতে এ দুআর উল্লেখ রয়েছে।</p><p>নামাজ শুরুর আগে এই দুআ পড়ার বিষয়টি নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সুন্নাহ দ্বারা প্রমাণিত নয়। নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নামাজ শুরুর আগে কখনো এই দুআ পড়েছেন বা পড়তে বলেছেন বলে হাদীসে পাওয়া যায় না। নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুধুমাত্র “আল্লাহু আকবার” বলে নামাজ শুরু করতেন। এর আগে অন্য কোনো দুআ পড়তেন না।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>তবে কোনো কোনো হাদীসে পাওয়া যায়, নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো নফল নামাজে তাকবীরে তাহরীমার পর ‘ছানা’ হিসেবে ‘ইন্নী ওয়াজ্জাহতু .. ‘ দুআটি পড়তেন। [সহীহ মুসলিম, হাদীস ৭৭১]</p><p>তাই আমরা কথিত জায়নামাজের দুআটি পড়া থেকে বিরত থাকব। নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যেভাবে নামাজ আদায় করেছেন সেভাবে নামাজ আদায় করব। আল্লাহ আমাদের তাওফীক দান করুন।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%9c%e0%a6%be%e0%a6%af%e0%a6%bc%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%a6%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be/\">সালাত শুরুর আগে জায়নামাজের দুআ পড়া</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/94/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "সালাত শুরুর আগে জায়নামাজের দুআ পড়া",
