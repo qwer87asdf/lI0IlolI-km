@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 10 Mar, 2025 – 2:31 PM</p><p>আমাদের অ্যাপে মুসহাফ দেখে সম্পূর্ণ কুরআন রিডিং পড়ার ব্যবস্থা রয়েছে। তবে কুরআনের তাফসীর পড়ার সুযোগ নাই। হাদীসের কিতাব পড়ার সুযোগ নাই। এগুলোর পিছনে প্রথম কারণ হচ্ছে আমাদের আর্থিক ও কারিগরি সক্ষমতার অভাব। দ্বিতীয় কারণটি হচ্ছে উপরের এই বিষয় নিয়ে আলাদা স্বতন্ত্র অ্যাপ রয়েছে। একই বিষয়ে অন্যান্য প্রতিষ্ঠান যেখানে এত এফোর্ট দিচ্ছেন। আবার নতুন করে আমরা এখনই সেই কাজগুলোতে সময় ও শ্রম দিতে চাচ্ছি না।</p><p>তাফসীরের বিভিন্ন কিতাব অ্যাপে যোগ করা। সেগুলোর বিশুদ্ধতা যাচাই করা। প্রয়োজনীয় সকল ফিচার সহ ডেভেলপ করার ক্যাপাবিলিটি আপাতত আমাদের নাই। যে পরিমাণ ফিচার তাফসীরের জন্য দরকার, সেটি আলাদা অ্যাপ হওয়াই উচিত। আর তাফসীরের জন্য প্লে স্টোরে প্রচুর অ্যাপ রয়েছে। ঐ একই কাজ আমরা আবার নতুন করে করাটা আমাদের জন্য এখন জরুরি মনে করছি না।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>এসব কারণে আমরা আপাতত অ্যাপে সম্পূর্ণ কুরআন অনুবাদ, তাফসীর, হাদীস ইত্যাদি ফিচার যোগ করছি না। তবে আগামীতে যদি আমাদের সেই সামর্থ্য হয়। আমরা যদি কোয়ালিটির ব্যাপারে নিশ্চিত হতে পারি। তখন ইনশাআল্লাহ করা হতে পারে।</p><p>The post <a href=\"https://muslimsday.com/blog/app-%e0%a6%8f-%e0%a6%95%e0%a7%81%e0%a6%b0%e0%a6%86%e0%a6%a8-%e0%a6%a4%e0%a6%be%e0%a6%ab%e0%a6%b8%e0%a7%80%e0%a6%b0-%e0%a6%a8%e0%a6%be%e0%a6%87-%e0%a6%95%e0%a7%87%e0%a6%a8/\">মুসলিমস ডে অ্যাপে সম্পূর্ণ কুরআন ও তাফসীর নাই কেন?</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -52,8 +52,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/260/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "মুসলিমস ডে অ্যাপে সম্পূর্ণ কুরআন ও তাফসীর নাই কেন?",

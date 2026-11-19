@@ -378,7 +378,12 @@ html.md-dark .md-document { background: #0d131c; }
 .md-document .md-article__reads::before { content: ' · '; }
 
 /* Ad slots */
-.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; }
+.md-blog-content .md-ad { margin-block: 0 1.5em; text-align: center; overflow: hidden; min-height: 250px; }
+/* Collapse as soon as the ad tag reports no fill, or the isolated copy measures zero. */
+.md-blog-content .md-ad:has([data-nofill="1"]),
+.md-blog-content .md-ad--empty { min-height: 0; margin-block: 0; }
+.md-blog-content .md-ad--isolated iframe { display: block; width: 100%; min-height: 250px; border: 0; }
+.md-blog-content .md-ad--preview { min-height: 0; }
 .md-blog-content .md-ad--preview iframe { width: 100%; min-height: 120px; border: 1px dashed var(--md-border); border-radius: 8px; background: var(--md-surface); }
 
 </style>
@@ -392,8 +397,8 @@ html.md-dark .md-document { background: #0d131c; }
 <p class="md-article__meta">Muslims Day Desk ·  <time datetime="2023-03-06T15:12:17+00:00">6 Mar 2023</time> · 1 min read<span class="md-article__reads" data-md-reads hidden></span></p>
 </header>
 <p>Post Updated at 7 Apr, 2023 – 12:03 PM</p><p>আমাদের সমাজে অনেকের মাঝে ভুল ধারনা রয়েছে যে সাহরি না খেলে সিয়াম আদায় হবে না। এটা সম্পূর্ণ ভুল ধারনা।</p><p>সাহরি খাওয়া একটি গুরুত্বপূর্ণ সুন্নাহ। নবীজি (সা) সাহরি খেতে উৎসাহ দিয়েছেন। কিন্তু কোনো কারণে যদি সাহরি খেতে না পারা যায় সেজন্য সিয়ামের কোনো ক্ষতি হবে না।</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>রামাদানের সিয়ামের ক্ষেত্রে সাহরি খেতে না পারলেও সিয়াম পালন করতেই হবে। সাহরি খাওয়া হয় নি – এই অযুহাতে সিয়াম ছেড়ে দেয়া যাবে না।</p><p>অজ্ঞতাবশত কেউ কেউ বলে থাকেন “সাহরি না খেলে সেটা রোজা হয় না। বরং উপোষ থাকা হয়”। এই কথাটি সঠিক নয়।</p><p>মোট কথা, সাহরি খেতে না পারলেও রমাদানের রোজা রাখতেই হবে।</p><div class="md-ad" data-ad="3"><script async src="https://serve.kahfads.com/tag.js" data-placement="pl_7dd2c7f38cc348f5"></script>
-<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>The post <a href="https://muslimsday.com/blog/%e0%a6%b8%e0%a6%be%e0%a6%b9%e0%a6%b0%e0%a6%bf-%e0%a6%a8%e0%a6%be-%e0%a6%96%e0%a7%87%e0%a6%b2%e0%a7%87-%e0%a6%95%e0%a6%bf-%e0%a6%b0%e0%a7%8b%e0%a6%9c%e0%a6%be-%e0%a6%b9%e0%a6%ac%e0%a7%87/">সাহরি না খেলে রোজা হবে না – এমন মনে করা ভুল</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
+<div id="ad-pl_7dd2c7f38cc348f5"></div></div><p>রামাদানের সিয়ামের ক্ষেত্রে সাহরি খেতে না পারলেও সিয়াম পালন করতেই হবে। সাহরি খাওয়া হয় নি – এই অযুহাতে সিয়াম ছেড়ে দেয়া যাবে না।</p><p>অজ্ঞতাবশত কেউ কেউ বলে থাকেন “সাহরি না খেলে সেটা রোজা হয় না। বরং উপোষ থাকা হয়”। এই কথাটি সঠিক নয়।</p><p>মোট কথা, সাহরি খেতে না পারলেও রমাদানের রোজা রাখতেই হবে।</p><div class="md-ad md-ad--isolated" data-ad="3"><iframe srcdoc="&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;" title="Advertisement" loading="lazy" scrolling="no"></iframe></div><p>The post <a href="https://muslimsday.com/blog/%e0%a6%b8%e0%a6%be%e0%a6%b9%e0%a6%b0%e0%a6%bf-%e0%a6%a8%e0%a6%be-%e0%a6%96%e0%a7%87%e0%a6%b2%e0%a7%87-%e0%a6%95%e0%a6%bf-%e0%a6%b0%e0%a7%8b%e0%a6%9c%e0%a6%be-%e0%a6%b9%e0%a6%ac%e0%a7%87/">সাহরি না খেলে রোজা হবে না – এমন মনে করা ভুল</a> appeared first on <a href="https://muslimsday.com/blog">Muslims Day Blog</a>.</p>
 </article>
 <script>
 (function () {

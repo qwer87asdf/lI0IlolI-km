@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 20 Mar, 2023 – 3:02 PM</p><p>অনেকেই আছেন যারা সিয়ামরত অবস্থায় ভুলে কিছু খেয়ে ফেললে সিয়াম ছেড়ে দেন। অথবা মনে পড়ার পরও খাওয়া চালিয়ে যান। এটা ঠিক নয়।</p><p>সিয়ামরত অবস্থায় ভুলে কিছু খেয়ে ফেললে সিয়ামের কোনো ক্ষতি হয় না। খাওয়া অবস্থায় সিয়ামের কথা মনে পড়লে সাথে সাথে খাওয়া বাদ দিতে হবে। মুখের খাবারও ফেলে দিতে হবে। এবং সিয়ামকে চালিয়ে নিয়ে যেতে হবে।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>তাহলে ইনশাআল্লাহ সিয়াম পরিপূর্ণ হয়ে যাবে। কোনো ক্ষতিই হবে না। কিন্তু মনে পড়ার পরেও যদি খাওয়া চালিয়ে যায় তাহলে সিয়াম ভঙ্গ হয়ে যাবে। এবং পরবর্তীতে রোজাটি কাযাও করতে হবে।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%ad%e0%a7%81%e0%a6%b2%e0%a7%87-%e0%a6%aa%e0%a6%be%e0%a6%a8%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%b0-%e0%a6%95%e0%a6%b0%e0%a6%b2%e0%a7%87-%e0%a6%b0%e0%a7%8b%e0%a6%9c%e0%a6%be/\">ভুলে পানাহার করলে সিয়াম ছেড়ে দেয়া যাবে না</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/249/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "ভুলে পানাহার করলে সিয়াম ছেড়ে দেয়া যাবে না",

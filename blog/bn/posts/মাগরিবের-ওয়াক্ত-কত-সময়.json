@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 20 Jun, 2026 – 8:19 PM</p><p>অনেকেই মনে করেন মাগরিবের ওয়াক্ত খুব কম সময় থাকে। তারা মনে করেন মাগরিবের ওয়াক্ত ১৫-২০ এর বেশি থাকে না। তাই কোনো কারণে মাগরিবের নামাজ আদায় করতে ১৫-২০ মিনিট দেরি হয়ে গেলে তখন আর নামাজ আদায় করেন না। মনে করেন “নামাজ যেহেতু কাজা হয়েই গেছে তাহলে পরে ইশার সাথেই পড়ে নিব”।</p><p>এই ধারণাটি সঠিক নয়।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>মাগরিবের ওয়াক্ত ঋতু ভেদে ১ ঘন্টা ১০ মিনিট থেকে দেড় ঘণ্টার মত থাকতে পারে। কিন্তু ইচ্ছাকৃত মাগরিবের নামাজ দেরি করে পড়া মাকরুহ। তাই ওয়াক্ত হওয়ার পরপরই মাগরিবের নামাজ আদায় করা উচিত। আমাদের অ্যাপে মাগরিবের পুরো সময়টিই দেখানো হয়েছে। এটি সঠিক এবং আলেম-ওলামাদের দ্বারা ভেরিফাইড। যেন ইউজারদের কারো কোনো দিন মাগরিবের নামাজ পড়তে দেরি হলেও সময় থাকা অবস্থায় যেন পড়ে নিতে পারেন। সময় থাকা অবস্থায় যেন কারোর নামাজ কাজা না হয় শুধুমাত্র অজ্ঞতার কারণে।</p><p>বিস্তারিত জানতে <a href=\"https://www.alkawsar.com/bn/article/1263/\">এই লেখাটি পড়ুন</a>।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%ae%e0%a6%be%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%ac%e0%a7%87%e0%a6%b0-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%a4-%e0%a6%95%e0%a6%a4-%e0%a6%b8%e0%a6%ae%e0%a6%af%e0%a6%bc/\">অ্যাপে মাগরিবের ওয়াক্ত এত বেশি সময় দেখানো হচ্ছে কেন?</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/264/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "অ্যাপে মাগরিবের ওয়াক্ত এত বেশি সময় দেখানো হচ্ছে কেন?",

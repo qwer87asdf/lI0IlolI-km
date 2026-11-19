@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 27 Feb, 2026 – 10:44 PM</p><p>আমাদের অ্যাপের সেটিংস অপশনে বেশ কিছু কাস্টমাইজেশনের সুযোগ রয়েছে। আপনি চাইলে সেটিংসগুলো পড়ে, বুঝে নিজের মত অ্যাপটিকে সাজিয়ে নিতে পারেন।</p><p>অ্যাপের একটি ফিচার হচ্ছে: সাহরি-ইফতারের সময়ের কার্ডটিকে স্ক্রিনের উপরের দিকে দেখানো। সেক্ষেত্রে অ্যাপের হোমপেজ স্ক্রল করা ছাড়াই আপনি সাহরি ও ইফতারের সময় দেখতে পাবেন। এজন্য নিচের স্টেপগুলো ফলো করুন:</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><ol><li>মেনু অপশনে ক্লিক করুন</li><li>সেটিংস অপশনে যান</li><li>সেটিংস পেজের ৩ নম্বার অপশনে ক্লিক করুন</li><li><p>দুটি ছবি দেখানো হবে। সেখান থেকে ২য় অপশনটির রেডিও বাটন সিলেক্ট করুন</p><figure class=\"md-image\"><img src=\"https://data.muslimsday.com/appdata/blog/media/2026/11/af664e3c-25fb-4402-b41d-3a2f253d4aa1.jpg\" alt=\"যেভাবে হোমপেজে সাহরি ও ইফতারের সময়ের কার্ডটি উপরের দিকে উঠানো যায়\" width=\"630\" height=\"435\" loading=\"lazy\" decoding=\"async\"></figure></li></ol><p>ব্যস! অ্যাপের হোমপেজে এখন থেকে সালাতের সময় দেখানোর পরপরই সাহরি-ইফতারের সময় দেখাবে। যে কোনো সময় চাইলে এই সেটিংসটি আবার পরিবর্তন করে নিতে পারবেন।</p><p>The post <a href=\"https://muslimsday.com/blog/sahri-iftar-card-reorder/\">সাহরি-ইফতারের সময়ের কার্ডটি উপরের দিকে উঠাবো কিভাবে?</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -52,8 +52,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/247/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "সাহরি-ইফতারের সময়ের কার্ডটি উপরের দিকে উঠাবো কিভাবে?",
