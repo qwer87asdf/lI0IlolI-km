@@ -7,7 +7,7 @@
     "totalPages": 1,
     "updatedAt": null,
     "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/ur/pages/{page}.json",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "ads": {
         "top": null,
         "bottom": null

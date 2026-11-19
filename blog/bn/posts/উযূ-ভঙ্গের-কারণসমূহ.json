@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 24 Feb, 2023 – 4:34 PM</p><p>১। পেশাব-পায়খানার রাস্তা দিয়ে কোনো কিছু বের হলে।<br> ২। শরীরের যে কোনো স্থান থেকে রক্ত, পুঁজ বা পানি বের হয়ে গড়িয়ে<br> পড়লে।<br> ৩। মুখ ভরে বমি হলে।<br> ৪। থুথুর সাথে রক্ত এলে এবং রক্তের পরিমাণ বেশী বা সমান হলে।<br> ৫। চিত হয়ে, কাঁত হয়ে অথবা ঠেস দিয়ে ঘুমালে।<br> ৬। বেহুঁশ হলে।<br> ৭। পাগল হলে।<br> ৮। নেশাগ্রস্থ হলে।<br> ৯। জানাযা নামাজ ব্যতীত অন্য কোন নামাজে অট্টহাসি দিলে।</p><p>সূত্র : ফাতাওয়া আলমগীরী (আরবি) পৃষ্ঠা ৯-১১</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%89%e0%a6%af%e0%a7%82-%e0%a6%ad%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%a3%e0%a6%b8%e0%a6%ae%e0%a7%82%e0%a6%b9/\">ওযু ভঙ্গের কারণসমূহ</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "মাওলানা শিব্বীর আহমদ"
     },
@@ -52,8 +52,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/276/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "ওযু ভঙ্গের কারণসমূহ",

@@ -31,7 +31,7 @@
     "html": "<p>Post Updated at 1 Mar, 2023 – 3:16 PM</p><p>১. সালাতের মধ্যে অল্প হোক বা বেশী হোক, কথা বলা।<br> ২. সালাতের মধ্যে এমন কিছু চাওয়া যা মানুষের কাছে চাওয়া যায়।<br> ৩. মুক্তাদী ছাড়া অন্য কারো লোকমা গ্রহণ করা।<br> ৪. কুরআন মাজীদ দেখে পড়া।<br> ৫. কোনো লেখা দেখে পাঠ করা।<br> ৬. ইচ্ছা-অনিচ্ছায় সালাতের যে কোনো একটি ফরজ ছুটে যাওয়া।<br> ৭. বিনা প্রয়োজনে এমনভাবে গলা পরিষ্কার করা যাতে দু’একটি হরফের মত আওয়াজ হয়।<br> ৮. দুঃখ-কষ্ট বা বেদনার কারণে সালাতের মধ্যে উঃ আঃ ইত্যাদি আওয়াজ করা। অবশ্য আল্লাহর ভয়ে উচ্চস্বরে কান্নাকাটি করলেও সালাত ভঙ্গ হবে না।<br> ৯. ইচ্ছা-অনিচ্ছা বা ভুলবশত সালাত অবস্থায় পানাহার করা।<br> ১০. আমলে কাছীর করা। অর্থাৎ সালাতের মধ্যে এমন কাজ করা, বাইরের কেউ দেখে মনে করবে, আদৌ লোকটি সালাত আদায় করছে না। যেমনঃ দু’হাতে কাপড় ঠিক করা, মহিলাদের সালাতের মধ্যে চুলে ঝুটি বাঁধা বা সালাত অবস্থায় বাচ্চাকে দুধ পান করানো, সালাতের মধ্যে চলাফেরা করা।<br> ১১. প্রাপ্তবয়ষ্কদের সালাতে অট্টহাসি হাসা।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%b8%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%a4-%e0%a6%ad%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%a3%e0%a6%b8%e0%a6%ae%e0%a7%82%e0%a6%b9/\">সালাত ভঙ্গের কারণসমূহ</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
     "toc": [],
     "direction": "ltr",
-    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.f802d51816.css",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
     "author": {
         "name": "Muslims Day Desk"
     },
@@ -57,8 +57,14 @@
         "total": "https://backend.muslimsday.com/api/blog/posts/277/reads"
     },
     "ads": {
-        "left": null,
-        "right": null
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
     },
     "seo": {
         "title": "সালাত ভঙ্গের কারণসমূহ",
