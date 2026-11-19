@@ -2,10 +2,47 @@
     "schemaVersion": 1,
     "language": "en",
     "ads": {
-        "top": null,
-        "bottom": null
+        "top": {
+            "id": 1,
+            "code": "<script async src=\"https://adserve.kahf.to/tag.js\" data-placement=\"pl_cebbd311f0a444b4\" data-formats=\"banner\"></script>\n<div id=\"ad-pl_cebbd311f0a444b4\"></div>"
+        },
+        "bottom": {
+            "id": 2,
+            "code": "<script async src=\"https://adserve.kahf.to/tag.js\" data-placement=\"pl_cebbd311f0a444b4\" data-formats=\"banner\"></script>\n<div id=\"ad-pl_cebbd311f0a444b4\"></div>"
+        }
     },
     "topRead": [
+        {
+            "id": 1,
+            "translationId": 1,
+            "language": "en",
+            "slug": "contributors-impact-on-july-2026",
+            "title": "One Month, 61 Million Reminders: Contributors Impact Throughout the July 2026",
+            "excerpt": "Get the update of contributors impact throughout the month of july 2026. How people from all over the world helped us to reach many muslims and helping us making ummah better everyday.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/ac0a5012-fdc0-44ad-aac0-a6a19d6823cf.png",
+                "alt": "",
+                "width": 1254,
+                "height": 706
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "updates",
+                    "name": "Updates",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-17T07:47:14+00:00",
+            "updatedAt": "2026-11-16T13:19:07+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "29c12fe63f6a683e6edb359ac46e25ee759794515a0fbe0e03ffcfc4fc999110",
+            "url": "https://muslimsday.com/blog/contributors-impact-on-july-2026",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.html",
+            "reads": 3
+        },
         {
             "id": 2,
             "translationId": 2,
@@ -170,49 +207,6 @@
             "url": "https://muslimsday.com/blog/surah-yaseen-heart-of-quran",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html",
-            "reads": 1
-        },
-        {
-            "id": 7,
-            "translationId": 7,
-            "language": "en",
-            "slug": "short-vs-long-dua-qunoot",
-            "title": "Short vs Long Dua Qunoot: Different Versions Explained",
-            "excerpt": "Learn the explanation of short vs long dua qunoot. Learn the benefits of dua qunoot and when to perform it.",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/15a2d732-89a8-4585-bf03-a6f924dd46e3.png",
-                "alt": "",
-                "width": 1536,
-                "height": 1024
-            },
-            "categories": [
-                {
-                    "id": 3,
-                    "slug": "education",
-                    "name": "Education",
-                    "primary": true
-                },
-                {
-                    "id": 4,
-                    "slug": "masnun-dua",
-                    "name": "Masnun Dua",
-                    "primary": false
-                },
-                {
-                    "id": 5,
-                    "slug": "quranic-education",
-                    "name": "Quranic Education",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-07-26T09:07:01+00:00",
-            "updatedAt": "2026-11-16T13:22:00+00:00",
-            "readingTimeMinutes": 9,
-            "contentHash": "6cf8cdc4dab2822f92a0ddc1436f13d0f836ce67aebc4b252020dfb05493dc79",
-            "url": "https://muslimsday.com/blog/short-vs-long-dua-qunoot",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.html",
             "reads": 1
         }
     ]

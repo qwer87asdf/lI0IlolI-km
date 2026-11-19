@@ -9,7 +9,10 @@
     "pagesUrlPattern": "https://dev.data.muslimsday.com/appdata/blog/hi/pages/{page}.json",
     "stylesheetUrl": "https://dev.data.muslimsday.com/appdata/blog/assets/blog-content.64b730fcb4.css",
     "ads": {
-        "top": null,
+        "top": {
+            "id": 1,
+            "code": "<script async src=\"https://adserve.kahf.to/tag.js\" data-placement=\"pl_cebbd311f0a444b4\" data-formats=\"banner\"></script>\n<div id=\"ad-pl_cebbd311f0a444b4\"></div>"
+        },
         "bottom": null
     },
     "featured": []

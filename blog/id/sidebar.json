@@ -2,8 +2,14 @@
     "schemaVersion": 1,
     "language": "id",
     "ads": {
-        "top": null,
-        "bottom": null
+        "top": {
+            "id": 1,
+            "code": "<script async src=\"https://adserve.kahf.to/tag.js\" data-placement=\"pl_cebbd311f0a444b4\" data-formats=\"banner\"></script>\n<div id=\"ad-pl_cebbd311f0a444b4\"></div>"
+        },
+        "bottom": {
+            "id": 2,
+            "code": "<script async src=\"https://adserve.kahf.to/tag.js\" data-placement=\"pl_cebbd311f0a444b4\" data-formats=\"banner\"></script>\n<div id=\"ad-pl_cebbd311f0a444b4\"></div>"
+        }
     },
     "topRead": []
 }

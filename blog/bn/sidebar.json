@@ -2,8 +2,14 @@
     "schemaVersion": 1,
     "language": "bn",
     "ads": {
-        "top": null,
-        "bottom": null
+        "top": {
+            "id": 1,
+            "code": "<script async src=\"https://adserve.kahf.to/tag.js\" data-placement=\"pl_cebbd311f0a444b4\" data-formats=\"banner\"></script>\n<div id=\"ad-pl_cebbd311f0a444b4\"></div>"
+        },
+        "bottom": {
+            "id": 2,
+            "code": "<script async src=\"https://adserve.kahf.to/tag.js\" data-placement=\"pl_cebbd311f0a444b4\" data-formats=\"banner\"></script>\n<div id=\"ad-pl_cebbd311f0a444b4\"></div>"
+        }
     },
     "topRead": [
         {
@@ -118,43 +124,6 @@
             "reads": 1
         },
         {
-            "id": 12,
-            "translationId": 12,
-            "language": "bn",
-            "slug": "yasrib-jokhon-modinatun-nabi",
-            "title": "হিজরতের সেই মাহেন্দ্রক্ষণ : ইয়াসরিব যখন ‘মদিনাতুন নবী’ —আনসার সিরিজ-০৬",
-            "excerpt": "আকাবার শপথের পর ইয়াসরিব কীভাবে হয়ে উঠল মদিনাতুন নবী? পড়ুন ইসলামের ইতিহাসের সেই রুদ্ধশ্বাস হিজরতের গাথা, সাহাবীদের ত্যাগ",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/ed47bccc-36a2-46cb-98a9-437bb0622add.jpg",
-                "alt": "",
-                "width": 800,
-                "height": 450
-            },
-            "categories": [
-                {
-                    "id": 8,
-                    "slug": "আনসার-সাহাবীগণ",
-                    "name": "আনসার সাহাবীগণ",
-                    "primary": false
-                },
-                {
-                    "id": 7,
-                    "slug": "ইসলামের-ইতিহাস",
-                    "name": "ইসলামের ইতিহাস",
-                    "primary": true
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-06-19T05:02:27+00:00",
-            "updatedAt": "2026-11-16T13:23:28+00:00",
-            "readingTimeMinutes": 6,
-            "contentHash": "c956b47beb62b562f60f7c1e4b4bf7d25a587b75bdc7eda4a62098eddebec867",
-            "url": "https://muslimsday.com/bn/blog/yasrib-jokhon-modinatun-nabi",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/yasrib-jokhon-modinatun-nabi.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/yasrib-jokhon-modinatun-nabi.html",
-            "reads": 0
-        },
-        {
             "id": 14,
             "translationId": 14,
             "language": "bn",
@@ -189,7 +158,44 @@
             "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-4",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.html",
-            "reads": 0
+            "reads": 1
+        },
+        {
+            "id": 16,
+            "translationId": 16,
+            "language": "bn",
+            "slug": "story-of-ansar-sahabi-2",
+            "title": "ইয়াসরিবের তপ্ত দীর্ঘশ্বাস : এক শতাব্দী প্রাচীন আগুনের উপাখ্যান—আনসার সিরিজ-০২",
+            "excerpt": "আকাবার প্রথম বাইয়াত সম্পর্কিত সংক্ষিপ্ত ইতিহাস। যা মদিনায় হিজরতের পথ প্রশস্ত করে। আনসার সাহাবিগণের মর্যাদার ভিত্তিপ্রস্তর যেন আকাবার ১ম শপথ",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/9cae6172-ccb4-400f-bc1d-1fee419f3181.avif",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-05-15T00:38:48+00:00",
+            "updatedAt": "2026-11-16T13:23:41+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "58f0e126a82c8686b2fa13bcfc78995f3907d55d1baf4df64d30487b5e127175",
+            "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-2",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-2.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-2.html",
+            "reads": 1
         }
     ]
 }
