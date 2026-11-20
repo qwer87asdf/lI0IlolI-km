@@ -1,0 +1,612 @@
+{
+    "page": 7,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 129,
+            "translationId": 129,
+            "language": "bn",
+            "slug": "থার্টি-ফার্স্ট-নাইট",
+            "title": "থার্টি ফার্স্ট নাইট : আয়োজন, না আগ্রাসন?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-19T16:41:01+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "e3efd095a4353b305d5f51ddb95c5ad7b98236a5ef9cbc122bfd24594b9e5f01",
+            "url": "https://muslimsday.com/bn/blog/থার্টি-ফার্স্ট-নাইট",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/থার্টি-ফার্স্ট-নাইট.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/থার্টি-ফার্স্ট-নাইট.html"
+        },
+        {
+            "id": 130,
+            "translationId": 130,
+            "language": "bn",
+            "slug": "কুরআনের-ভাষায়-সফল-মুমিন-3",
+            "title": "কুরআনের ভাষায় সফল মুমিনের পরিচয় (৩)",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 3:53 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/3aa38029-6fd9-4c02-af0c-bb5ee222682d.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 49,
+                    "slug": "কুরআনের-শিক্ষা",
+                    "name": "কুরআনের শিক্ষা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-11T05:32:05+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "04cdcd92cf3eb9039132f3b8b15af1efa486e9f1a5bfb1d42d1af24d9091912b",
+            "url": "https://muslimsday.com/bn/blog/কুরআনের-ভাষায়-সফল-মুমিন-3",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরআনের-ভাষায়-সফল-মুমিন-3.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরআনের-ভাষায়-সফল-মুমিন-3.html"
+        },
+        {
+            "id": 131,
+            "translationId": 131,
+            "language": "bn",
+            "slug": "কুরআনের-ভাষায়-সফল-মুমিন-2",
+            "title": "কুরআনের ভাষায় সফল মুমিনের পরিচয় (২)",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 3:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5d28a92e-41b4-4b8c-bb36-eda4c5b5ba13.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-02T16:42:29+00:00",
+            "updatedAt": "2026-11-19T08:09:13+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "f16b5e18591dd2baa2bdde5368ae54357528e4b488be8efb619962dde631e0e2",
+            "url": "https://muslimsday.com/bn/blog/কুরআনের-ভাষায়-সফল-মুমিন-2",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরআনের-ভাষায়-সফল-মুমিন-2.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরআনের-ভাষায়-সফল-মুমিন-2.html"
+        },
+        {
+            "id": 132,
+            "translationId": 132,
+            "language": "bn",
+            "slug": "তালাক-অজ্ঞতা-পরিণতি",
+            "title": "তালাক প্রসঙ্গে সামান্য অজ্ঞতার অসামান্য পরিণতি",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 12:34 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/0ada674f-b40e-4d89-9234-1d12ebc6320d.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-12-02T16:08:46+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "985851b657731a8dbaf55df13d5d193123c06fe0da15202fa0e0e6390c37f066",
+            "url": "https://muslimsday.com/bn/blog/তালাক-অজ্ঞতা-পরিণতি",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তালাক-অজ্ঞতা-পরিণতি.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তালাক-অজ্ঞতা-পরিণতি.html"
+        },
+        {
+            "id": 133,
+            "translationId": 133,
+            "language": "bn",
+            "slug": "বইপাঠ-ও-জ্ঞানচর্চা-ইসলাম",
+            "title": "বইপাঠ ও জ্ঞানচর্চা : ইসলামি দৃষ্টিকোণ",
+            "excerpt": "Post Updated at 31 Oct, 2024 – 7:38 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5aa38a67-de92-4418-b703-d28e06664130.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 686
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-10-31T01:36:24+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "305a54d907b456c982a41debd5bbcaa3d54bad05cf457b19ae1f4d6812616701",
+            "url": "https://muslimsday.com/bn/blog/বইপাঠ-ও-জ্ঞানচর্চা-ইসলাম",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বইপাঠ-ও-জ্ঞানচর্চা-ইসলাম.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বইপাঠ-ও-জ্ঞানচর্চা-ইসলাম.html"
+        },
+        {
+            "id": 134,
+            "translationId": 134,
+            "language": "bn",
+            "slug": "কুরআনের-ভাষায়-সফল-মুমিন",
+            "title": "কুরআনের ভাষায় সফল মুমিনের পরিচয় (১)",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 3:46 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/3aa38029-6fd9-4c02-af0c-bb5ee222682d.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 49,
+                    "slug": "কুরআনের-শিক্ষা",
+                    "name": "কুরআনের শিক্ষা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-10-30T02:20:13+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "3bcdaf76293e834d8adce157e23f20fa6cb0c12481c5fd040cda1a978463d34d",
+            "url": "https://muslimsday.com/bn/blog/কুরআনের-ভাষায়-সফল-মুমিন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরআনের-ভাষায়-সফল-মুমিন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরআনের-ভাষায়-সফল-মুমিন.html"
+        },
+        {
+            "id": 135,
+            "translationId": 135,
+            "language": "bn",
+            "slug": "মন্দ-কাজে-প্রতিযোগিতা-না",
+            "title": "মন্দ কাজে প্রতিযোগিতা নয়",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 3:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7608c2b2-adb3-4f5e-96c7-48120771cc02.jpg",
+                "alt": "",
+                "width": 876,
+                "height": 584
+            },
+            "categories": [
+                {
+                    "id": 49,
+                    "slug": "কুরআনের-শিক্ষা",
+                    "name": "কুরআনের শিক্ষা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-09-23T09:16:30+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "b5158156789978a837b548d7a9a43e2a2ecd2f9ecc1105bebe1c6f32409fa119",
+            "url": "https://muslimsday.com/bn/blog/মন্দ-কাজে-প্রতিযোগিতা-না",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মন্দ-কাজে-প্রতিযোগিতা-না.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মন্দ-কাজে-প্রতিযোগিতা-না.html"
+        },
+        {
+            "id": 136,
+            "translationId": 136,
+            "language": "bn",
+            "slug": "তিলাওয়াতে-সিজদা",
+            "title": "তিলাওয়াতে সিজদা: ফাজায়েল ও মাসায়েল",
+            "excerpt": "Post Updated at 8 Oct, 2024 – 9:08 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/5d28a92e-41b4-4b8c-bb36-eda4c5b5ba13.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-09-19T14:06:25+00:00",
+            "updatedAt": "2026-11-17T04:03:13+00:00",
+            "readingTimeMinutes": 13,
+            "contentHash": "70318a184ac794bb979e1de18b24343556c3eda8c1b44670b44a4d6e146af38c",
+            "url": "https://muslimsday.com/bn/blog/তিলাওয়াতে-সিজদা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তিলাওয়াতে-সিজদা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তিলাওয়াতে-সিজদা.html"
+        },
+        {
+            "id": 137,
+            "translationId": 137,
+            "language": "bn",
+            "slug": "নেক-কাজে-প্রতিযোগিতা",
+            "title": "নেক কাজে প্রতিযোগিতা",
+            "excerpt": "Post Updated at 11 Dec, 2024 – 3:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7608c2b2-adb3-4f5e-96c7-48120771cc02.jpg",
+                "alt": "",
+                "width": 876,
+                "height": 584
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-09-10T03:08:57+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "b67e3adfaca714850b4d3d5df7c19516ddbb38b234016963378cbb1eb09f547e",
+            "url": "https://muslimsday.com/bn/blog/নেক-কাজে-প্রতিযোগিতা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নেক-কাজে-প্রতিযোগিতা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নেক-কাজে-প্রতিযোগিতা.html"
+        },
+        {
+            "id": 138,
+            "translationId": 138,
+            "language": "bn",
+            "slug": "আকস্মিক-বন্যায়-সহযোগিতা",
+            "title": "আকস্মিক বন্যা : আসুন, অসহায়দের পাশে দাঁড়াই",
+            "excerpt": "Post Updated at 26 Aug, 2024 – 7:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e1be7445-fd71-4c32-8e4c-27e17beb0a5a.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 360
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-08-26T06:37:36+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "7aeaa9b785a6647829f540d310ae28cd506e05668168327fb5706f4333f4180a",
+            "url": "https://muslimsday.com/bn/blog/আকস্মিক-বন্যায়-সহযোগিতা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আকস্মিক-বন্যায়-সহযোগিতা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আকস্মিক-বন্যায়-সহযোগিতা.html"
+        },
+        {
+            "id": 139,
+            "translationId": 139,
+            "language": "bn",
+            "slug": "নফল-নামাযের-ফযিলত",
+            "title": "নফল নামাযের ফযিলত",
+            "excerpt": "Post Updated at 26 Aug, 2024 – 7:55 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-08-22T03:17:52+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "bd4cf6482727ac3ccbabd2c21c97b1540df7cb6a59bd9fbdbc6b09f9718c7fad",
+            "url": "https://muslimsday.com/bn/blog/নফল-নামাযের-ফযিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নফল-নামাযের-ফযিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নফল-নামাযের-ফযিলত.html"
+        },
+        {
+            "id": 140,
+            "translationId": 140,
+            "language": "bn",
+            "slug": "মুমিনের-বিজয়-উদযাপন",
+            "title": "মুমিনের বিজয় উদযাপন : কী করব, কী করব না?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-08-06T17:26:18+00:00",
+            "updatedAt": "2026-11-17T04:03:13+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "3503176434d350f7c87171d868e31d095615b23e9e6252ef574d05cab76db4ec",
+            "url": "https://muslimsday.com/bn/blog/মুমিনের-বিজয়-উদযাপন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুমিনের-বিজয়-উদযাপন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুমিনের-বিজয়-উদযাপন.html"
+        },
+        {
+            "id": 141,
+            "translationId": 141,
+            "language": "bn",
+            "slug": "স্বৈরাচার-পতনে-শুকরিয়া",
+            "title": "স্বৈরশাসনের পতন – আসুন, কৃতজ্ঞতায় নতশির হই",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:52 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/a0d03a19-1c89-4764-9961-9f5e8182ff1d.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 560
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-08-04T23:40:05+00:00",
+            "updatedAt": "2026-11-17T04:03:17+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "2d90efa65ba73bbb2ca3586bb7db091a4e9324060d564c0939efc964cc617885",
+            "url": "https://muslimsday.com/bn/blog/স্বৈরাচার-পতনে-শুকরিয়া",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/স্বৈরাচার-পতনে-শুকরিয়া.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/স্বৈরাচার-পতনে-শুকরিয়া.html"
+        },
+        {
+            "id": 142,
+            "translationId": 142,
+            "language": "bn",
+            "slug": "টাখনুর-নিচে-কাপড়-পরিধান",
+            "title": "পুরুষের জন্য টাখনুর নিচে কাপড় পরিধান করা হারাম",
+            "excerpt": "Post Updated at 27 Sep, 2024 – 11:54 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/6309d3c6-b63f-4e4d-9132-7d8d59412a27.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-07-06T15:33:08+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "14eba9c82993e134017d55e731c32ac0da9e5150c846c442a1b3da5171fbdd38",
+            "url": "https://muslimsday.com/bn/blog/টাখনুর-নিচে-কাপড়-পরিধান",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/টাখনুর-নিচে-কাপড়-পরিধান.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/টাখনুর-নিচে-কাপড়-পরিধান.html"
+        },
+        {
+            "id": 143,
+            "translationId": 143,
+            "language": "bn",
+            "slug": "যঈফ-হাদীস-নিয়ে-চরমপন্থা",
+            "title": "যঈফ হাদীস নিয়ে চরমপন্থা নয়; মধ্যপন্থী অবস্থানই কাম্য",
+            "excerpt": "Post Updated at 7 Sep, 2024 – 5:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/41b61f0f-f9f1-4287-86ba-a427d2b90814.jpg",
+                "alt": "",
+                "width": 728,
+                "height": 410
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-06-28T14:22:04+00:00",
+            "updatedAt": "2026-11-17T04:03:21+00:00",
+            "readingTimeMinutes": 13,
+            "contentHash": "1661e18e09a701754d18d0516dcddab7aeaad3ab0549192611e1291ed696b050",
+            "url": "https://muslimsday.com/bn/blog/যঈফ-হাদীস-নিয়ে-চরমপন্থা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যঈফ-হাদীস-নিয়ে-চরমপন্থা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যঈফ-হাদীস-নিয়ে-চরমপন্থা.html"
+        },
+        {
+            "id": 144,
+            "translationId": 144,
+            "language": "bn",
+            "slug": "সরকারি-বিদ্যুৎ-ব্যবহার",
+            "title": "সরকারি বিদ্যুৎ ব্যবহার করে ব্যাডমিন্টন খেলা বা ব্যক্তিগত কাজ করা জায়েজ নয়",
+            "excerpt": "Post Updated at 11 Jan, 2025 – 5:32 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6d9ba42-eff8-49bc-83d1-e2fc44a060f6.jpg",
+                "alt": "",
+                "width": 2560,
+                "height": 1707
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-06-27T03:59:44+00:00",
+            "updatedAt": "2026-11-17T04:03:25+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "8f534ea327d5e26ca3f0023932a9fc82269708b27c4bd6b6fca8634cf8929e68",
+            "url": "https://muslimsday.com/bn/blog/সরকারি-বিদ্যুৎ-ব্যবহার",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সরকারি-বিদ্যুৎ-ব্যবহার.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সরকারি-বিদ্যুৎ-ব্যবহার.html"
+        },
+        {
+            "id": 145,
+            "translationId": 145,
+            "language": "bn",
+            "slug": "ঈদুল-আযহার-সুন্নত-আমল",
+            "title": "ঈদ উল আযহার কয়েকটি মাসনূন আমল",
+            "excerpt": "Post Updated at 30 May, 2026 – 12:23 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/153987ee-5ba0-491b-b4e8-3e6317611f34.jpg",
+                "alt": "",
+                "width": 700,
+                "height": 394
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-06-16T13:52:42+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "4888655bc2dcfb280dbb44620cfe23057310d4e2d8b9c22f8e84d046be8afc2b",
+            "url": "https://muslimsday.com/bn/blog/ঈদুল-আযহার-সুন্নত-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদুল-আযহার-সুন্নত-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদুল-আযহার-সুন্নত-আমল.html"
+        },
+        {
+            "id": 146,
+            "translationId": 146,
+            "language": "bn",
+            "slug": "তাকবীরে-তাশরীক-মাসআলা",
+            "title": "তাকবীরে তাশরীক সংক্রান্ত কয়েকটি মাসআলা",
+            "excerpt": "Post Updated at 7 Sep, 2024 – 5:59 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/6309d3c6-b63f-4e4d-9132-7d8d59412a27.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-06-15T06:47:49+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "9053ed51e93923d7787a1c1398ba652e4dab67dd0706cd8a8d58ce8356950da8",
+            "url": "https://muslimsday.com/bn/blog/তাকবীরে-তাশরীক-মাসআলা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তাকবীরে-তাশরীক-মাসআলা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তাকবীরে-তাশরীক-মাসআলা.html"
+        },
+        {
+            "id": 147,
+            "translationId": 147,
+            "language": "bn",
+            "slug": "কুরবানির-গুরুত্ব-ও-ফযিলত",
+            "title": "কুরবানির গুরুত্ব ও ফযিলত",
+            "excerpt": "Post Updated at 27 May, 2026 – 3:59 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T16:18:25+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "087f6203280156583c41d304f150f4c54023a736c2f49f8db12edbf6396f297e",
+            "url": "https://muslimsday.com/bn/blog/কুরবানির-গুরুত্ব-ও-ফযিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানির-গুরুত্ব-ও-ফযিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানির-গুরুত্ব-ও-ফযিলত.html"
+        },
+        {
+            "id": 148,
+            "translationId": 148,
+            "language": "bn",
+            "slug": "কুরবানি-করা-ওয়াজিব",
+            "title": "কুরবানির বিধান (কুরবানি ওয়াজিব নাকি সুন্নত?)",
+            "excerpt": "Post Updated at 27 May, 2026 – 3:59 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-05-26T16:16:08+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "1f44ae7829a66c8148a2f0693a38a4109313f6265589178800c8d68db3581c58",
+            "url": "https://muslimsday.com/bn/blog/কুরবানি-করা-ওয়াজিব",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানি-করা-ওয়াজিব.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানি-করা-ওয়াজিব.html"
+        }
+    ]
+}

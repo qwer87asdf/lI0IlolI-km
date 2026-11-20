@@ -1,0 +1,379 @@
+{
+    "category": "মাসনূন-আমল",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 51,
+            "translationId": 51,
+            "language": "bn",
+            "slug": "জুতা-পরার-সুন্নত",
+            "title": "জুতা পরা সংক্রান্ত ইসলামের নির্দেশনা",
+            "excerpt": "Post Updated at 9 Aug, 2025 – 6:35 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/68376d80-fb48-4ef3-bb08-13753a85ea02.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 563
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-09T00:35:13+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "2ab018df0e5b6d332ef36ac320a0b496710fe7a77b6df34b6effa71a3ca58e09",
+            "url": "https://muslimsday.com/bn/blog/জুতা-পরার-সুন্নত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুতা-পরার-সুন্নত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুতা-পরার-সুন্নত.html"
+        },
+        {
+            "id": 52,
+            "translationId": 52,
+            "language": "bn",
+            "slug": "১২-রাকাত-সুন্নত-নামাজের-ফ",
+            "title": "দৈনিক ১২ রাকাত সালাতে জান্নাতে একটি সুরম্য ঘর পাওয়া যাবে",
+            "excerpt": "Post Updated at 8 Aug, 2025 – 10:06 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2025-08-08T16:06:54+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "1c21cdeba8380b490871cb94d6ca5233fb598a59bb77516dc553d04577f4658f",
+            "url": "https://muslimsday.com/bn/blog/১২-রাকাত-সুন্নত-নামাজের-ফ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রাকাত-সুন্নত-নামাজের-ফ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রাকাত-সুন্নত-নামাজের-ফ.html"
+        },
+        {
+            "id": 145,
+            "translationId": 145,
+            "language": "bn",
+            "slug": "ঈদুল-আযহার-সুন্নত-আমল",
+            "title": "ঈদ উল আযহার কয়েকটি মাসনূন আমল",
+            "excerpt": "Post Updated at 30 May, 2026 – 12:23 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/153987ee-5ba0-491b-b4e8-3e6317611f34.jpg",
+                "alt": "",
+                "width": 700,
+                "height": 394
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-06-16T13:52:42+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "4888655bc2dcfb280dbb44620cfe23057310d4e2d8b9c22f8e84d046be8afc2b",
+            "url": "https://muslimsday.com/bn/blog/ঈদুল-আযহার-সুন্নত-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদুল-আযহার-সুন্নত-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদুল-আযহার-সুন্নত-আমল.html"
+        },
+        {
+            "id": 175,
+            "translationId": 175,
+            "language": "bn",
+            "slug": "শীতকালের-বিশেষ-আমল",
+            "title": "শীতকালের জন্য বিশেষ কিছু আমল",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/ecc4216f-0354-4633-a3ba-591cab936596.jpg",
+                "alt": "",
+                "width": 1020,
+                "height": 613
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-25T05:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "237115de06bdc5674820cbb4b04be46b3725899833d69fc90536f269d58072b6",
+            "url": "https://muslimsday.com/bn/blog/শীতকালের-বিশেষ-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শীতকালের-বিশেষ-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শীতকালের-বিশেষ-আমল.html"
+        },
+        {
+            "id": 193,
+            "translationId": 193,
+            "language": "bn",
+            "slug": "ঘুমের-দুআ-ও-রাতের-আমল",
+            "title": "ঘুমাতে যাওয়ার আগের মাসনূন আমল ও দুআসমূহ",
+            "excerpt": "Post Updated at 4 Sep, 2023 – 5:41 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/63eddc5f-0754-4e6c-b65c-eea0c6403378.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-08-04T10:57:45+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "91e6d94315ec3862c10d0b5facbe35d2ae78eb51fec3d6341c2651586c29afcb",
+            "url": "https://muslimsday.com/bn/blog/ঘুমের-দুআ-ও-রাতের-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.html"
+        },
+        {
+            "id": 195,
+            "translationId": 195,
+            "language": "bn",
+            "slug": "আশুরার-রোজার-ফজিলত",
+            "title": "আশুরার রোজার ফজিলত",
+            "excerpt": "Post Updated at 6 Jul, 2026 – 12:47 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-13T16:35:37+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "54dff2e4e16571843fc7b1defaf6ee479b89fa16811b1509cc0fb760c1c6a971",
+            "url": "https://muslimsday.com/bn/blog/আশুরার-রোজার-ফজিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আশুরার-রোজার-ফজিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আশুরার-রোজার-ফজিলত.html"
+        },
+        {
+            "id": 196,
+            "translationId": 196,
+            "language": "bn",
+            "slug": "মহিমান্বিত-আশুরার-ইতিহাস",
+            "title": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
+            "excerpt": "Post Updated at 6 Jul, 2026 – 12:47 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88868996-a9e5-4b07-8988-2c4591fefcb9.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-13T16:26:54+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "778d70e02a8ca514d711e6e3d314d6b2b4ee977fb50d400c06cb8375c6890cd7",
+            "url": "https://muslimsday.com/bn/blog/মহিমান্বিত-আশুরার-ইতিহাস",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মহিমান্বিত-আশুরার-ইতিহাস.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মহিমান্বিত-আশুরার-ইতিহাস.html"
+        },
+        {
+            "id": 224,
+            "translationId": 224,
+            "language": "bn",
+            "slug": "ঈদ-উল-ফিতর-সুন্নত-আমল",
+            "title": "ঈদ উল ফিতর এর কয়েকটি মাসনুন আমল",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:56 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/df7f9193-65c0-45b2-83eb-d3f520dd03f8.jpg",
+                "alt": "",
+                "width": 1024,
+                "height": 576
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-21T05:57:13+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "5ae85224bc63e63564b8173fd418601e10b8aacca9aed4f872cfdf07b4874f2e",
+            "url": "https://muslimsday.com/bn/blog/ঈদ-উল-ফিতর-সুন্নত-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদ-উল-ফিতর-সুন্নত-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদ-উল-ফিতর-সুন্নত-আমল.html"
+        },
+        {
+            "id": 225,
+            "translationId": 225,
+            "language": "bn",
+            "slug": "শাওয়ালের-ছয়-রোজা",
+            "title": "শাওয়ালের ছয়  রোজা: ঈদ পরবর্তী একটি গুরুত্বপূর্ণ আমল",
+            "excerpt": "Post Updated at 15 May, 2026 – 5:53 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-21T04:27:19+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "68c82bbfc572d56e6365d91748193d37c5847c3bab47127556018916b31ad09e",
+            "url": "https://muslimsday.com/bn/blog/শাওয়ালের-ছয়-রোজা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শাওয়ালের-ছয়-রোজা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শাওয়ালের-ছয়-রোজা.html"
+        },
+        {
+            "id": 255,
+            "translationId": 255,
+            "language": "bn",
+            "slug": "সোম-বৃহস্পতিবার-রোজা",
+            "title": "সোম ও বৃহস্পতিবার সিয়াম পালনের গুরুত্ব",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T00:30:57+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "f5c34ec37b301149f880493fefa0e8207344eb28064f70427183f02d5e032f9f",
+            "url": "https://muslimsday.com/bn/blog/সোম-বৃহস্পতিবার-রোজা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সোম-বৃহস্পতিবার-রোজা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সোম-বৃহস্পতিবার-রোজা.html"
+        },
+        {
+            "id": 256,
+            "translationId": 256,
+            "language": "bn",
+            "slug": "আইয়ামে-বীজ-রোজার-ফজিলত",
+            "title": "আইয়ামে বীজ এর রোজা – ফজিলত, বিধান ও মাসআলা",
+            "excerpt": "Post Updated at 13 Sep, 2026 – 2:15 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8c795cb7-0a48-4caa-8732-9628aa4eb86a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 900
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T00:20:09+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "25883351fb75a47f3b215e41942c5bf21fb0344834097912a8f9be9cb6b6a0f6",
+            "url": "https://muslimsday.com/bn/blog/আইয়ামে-বীজ-রোজার-ফজিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.html"
+        },
+        {
+            "id": 278,
+            "translationId": 278,
+            "language": "bn",
+            "slug": "জুমআর-দিনের-আমল",
+            "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল",
+            "excerpt": "Post Updated at 20 Jun, 2024 – 11:00 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/db49968e-8e1a-4575-9356-8cc28b107a68.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 600
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T08:14:41+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "ecddbb564e5a7fa14ebeae846e8a2ccbfbff9e115749218aae035aef90518a9e",
+            "url": "https://muslimsday.com/bn/blog/জুমআর-দিনের-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুমআর-দিনের-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জুমআর-দিনের-আমল.html"
+        }
+    ]
+}

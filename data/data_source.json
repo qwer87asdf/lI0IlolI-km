@@ -57,7 +57,7 @@
   {
     "name": "selected_articles",
     "url": "appdata/data/{lang}/selected-articles.json",
-    "updated_at": 1794366516000
+    "updated_at": 1794803822000
   },
   {
     "name": "asmaul_husna",
@@ -67,7 +67,7 @@
   {
     "name": "settings",
     "url": "appdata/data/settings.json",
-    "updated_at": 1794229660616
+    "updated_at": 1794734333432
   },
   {
     "name": "hijri_date_v2",
@@ -96,12 +96,12 @@
   {
     "name": "app_banner_v2",
     "url": "appdata/data/{lang}/app_banner_v2.json",
-    "updated_at": 1794366516000
+    "updated_at": 1794821723667
   },
   {
     "name": "home_cards",
     "url": "appdata/data/{lang}/home_cards.json",
-    "updated_at": 1788663456000
+    "updated_at": 1794817403466
   },
   {
     "name": "donation",
@@ -132,5 +132,15 @@
     "name": "dua_exit_dialog",
     "url": "appdata/data/{lang}/dua_exit_dialog.json",
     "updated_at": 1791504000000
+  },
+  {
+    "name": "ramadan_share_templates",
+    "url": "appdata/data/ramadan_share_templates.json",
+    "updated_at": 1794824230000
+  },
+  {
+    "name": "ramadan_share_quotes",
+    "url": "appdata/data/{lang}/ramadan_share_quotes.json",
+    "updated_at": 1794912468000
   }
 ]

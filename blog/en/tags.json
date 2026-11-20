@@ -1,0 +1,26 @@
+[
+    {
+        "id": 5,
+        "slug": "dua",
+        "name": "dua",
+        "count": 1
+    },
+    {
+        "id": 4,
+        "slug": "last-ten-nights",
+        "name": "last ten nights",
+        "count": 1
+    },
+    {
+        "id": 3,
+        "slug": "laylat-al-qadr",
+        "name": "Laylat al-Qadr",
+        "count": 1
+    },
+    {
+        "id": 2,
+        "slug": "ramadan-2027",
+        "name": "Ramadan 2027",
+        "count": 1
+    }
+]

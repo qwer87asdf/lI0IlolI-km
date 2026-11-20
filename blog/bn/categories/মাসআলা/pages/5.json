@@ -1,0 +1,433 @@
+{
+    "category": "মাসআলা",
+    "page": 5,
+    "totalPages": 5,
+    "items": [
+        {
+            "id": 239,
+            "translationId": 239,
+            "language": "bn",
+            "slug": "রোজা-সংক্রান্ত-ভুল-ধারনা",
+            "title": "রোজা-রমজান সংক্রান্ত কয়েকটি সাধারণ ভুল",
+            "excerpt": "Post Updated at 16 Mar, 2026 – 12:11 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:34:02+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "cabc3eba226aa55243c7a49231075194c2c4f8a6baa0be36ffa7ea22e41d8a81",
+            "url": "https://muslimsday.com/bn/blog/রোজা-সংক্রান্ত-ভুল-ধারনা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-সংক্রান্ত-ভুল-ধারনা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-সংক্রান্ত-ভুল-ধারনা.html"
+        },
+        {
+            "id": 240,
+            "translationId": 240,
+            "language": "bn",
+            "slug": "মুসাফিরের-পরিচয়",
+            "title": "মুসাফিরের পরিচয়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/463ac76b-d747-4618-b673-f34e24177f08.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 531
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:08:30+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "0589bbe61b824c7398b0de7e4a25a4ad4a7841bed83a5826fc31c88c0588f8b6",
+            "url": "https://muslimsday.com/bn/blog/মুসাফিরের-পরিচয়",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুসাফিরের-পরিচয়.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুসাফিরের-পরিচয়.html"
+        },
+        {
+            "id": 241,
+            "translationId": 241,
+            "language": "bn",
+            "slug": "যাদের-জন্য-রোযা-না-রাখা",
+            "title": "যাদের জন্য রোযা না রাখার অনুমতি রয়েছে",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:06:22+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "8c9b226c9735b895cd413a8b2eeb3ceb803ee8ceccfa328bafa2f102f890b5a1",
+            "url": "https://muslimsday.com/bn/blog/যাদের-জন্য-রোযা-না-রাখা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যাদের-জন্য-রোযা-না-রাখা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যাদের-জন্য-রোযা-না-রাখা.html"
+        },
+        {
+            "id": 242,
+            "translationId": 242,
+            "language": "bn",
+            "slug": "কসর-নামাজের-বিধান",
+            "title": "কসর নামাজের বিধান",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-18T06:03:21+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "c4afc56078edbcfd962b0f9c7cf3780d4943a57a665c89a089ad28f6f997195c",
+            "url": "https://muslimsday.com/bn/blog/কসর-নামাজের-বিধান",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কসর-নামাজের-বিধান.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কসর-নামাজের-বিধান.html"
+        },
+        {
+            "id": 244,
+            "translationId": 244,
+            "language": "bn",
+            "slug": "রোজা-ভঙ্গের-কারণসমূহ",
+            "title": "রোজা ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:56 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-13T04:04:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "3f8b8d47466338462f0037accd7671e2b834825166a110dbe2ef53b5fba4f161",
+            "url": "https://muslimsday.com/bn/blog/রোজা-ভঙ্গের-কারণসমূহ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণসমূহ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণসমূহ.html"
+        },
+        {
+            "id": 245,
+            "translationId": 245,
+            "language": "bn",
+            "slug": "রোজার-নিয়ত-মাসআলা",
+            "title": "রোজার নিয়ত সংক্রান্ত কয়েকটি মাসআলা",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:56 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-13T03:47:29+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "18635d5645af2a54d47633fbdd8a1ac0021cc2004d0b05899a39a662823212dd",
+            "url": "https://muslimsday.com/bn/blog/রোজার-নিয়ত-মাসআলা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজার-নিয়ত-মাসআলা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজার-নিয়ত-মাসআলা.html"
+        },
+        {
+            "id": 246,
+            "translationId": 246,
+            "language": "bn",
+            "slug": "যেসব-কারণে-রোজা-ভাঙ্গে-না",
+            "title": "রোজা ভঙ্গ হয় না এমন কয়েকটি কাজ (সংক্ষিপ্ত)",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:56 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-12T06:13:03+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "836d2f55d781d5713878c4da3ddaa3f2f213947b6e6c555bc8caa192cc393b99",
+            "url": "https://muslimsday.com/bn/blog/যেসব-কারণে-রোজা-ভাঙ্গে-না",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যেসব-কারণে-রোজা-ভাঙ্গে-না.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যেসব-কারণে-রোজা-ভাঙ্গে-না.html"
+        },
+        {
+            "id": 268,
+            "translationId": 268,
+            "language": "bn",
+            "slug": "যে-কারণে-রোজা-ভঙ্গ-হয়-না",
+            "title": "যে সকল কারণে সাওম (রোজা) ভঙ্গ হয় না",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:57 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-27T16:57:11+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "a708cf810e128137a66be05bfb82218cf18ec0532e07866bdd6cef1a918beed9",
+            "url": "https://muslimsday.com/bn/blog/যে-কারণে-রোজা-ভঙ্গ-হয়-না",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যে-কারণে-রোজা-ভঙ্গ-হয়-না.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যে-কারণে-রোজা-ভঙ্গ-হয়-না.html"
+        },
+        {
+            "id": 269,
+            "translationId": 269,
+            "language": "bn",
+            "slug": "রোজা-ভঙ্গের-কারণ",
+            "title": "সাওম (রোজা) ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:58 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-27T16:40:00+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "4e317899ebce383dd7ed065323501b55301e10c35d442e77dc31bb1441399bb1",
+            "url": "https://muslimsday.com/bn/blog/রোজা-ভঙ্গের-কারণ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজা-ভঙ্গের-কারণ.html"
+        },
+        {
+            "id": 270,
+            "translationId": 270,
+            "language": "bn",
+            "slug": "ঈদের-নামাজের-নিয়ম",
+            "title": "ঈদের নামাজের নিয়ম (অতিরিক্ত ৬ তাকবিরের সাথে)",
+            "excerpt": "Post Updated at 30 May, 2026 – 12:24 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-24T10:14:36+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "2524ad5bc129ed9074e041b15e8f8225bcc149e2a9dd4080b566545300e2258a",
+            "url": "https://muslimsday.com/bn/blog/ঈদের-নামাজের-নিয়ম",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদের-নামাজের-নিয়ম.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদের-নামাজের-নিয়ম.html"
+        },
+        {
+            "id": 274,
+            "translationId": 274,
+            "language": "bn",
+            "slug": "ওযু-করার-ধারাবাহিক-পদ্ধত",
+            "title": "সুন্নত মোতাবেক ওজু করার ধারাবাহিক পদ্ধতি",
+            "excerpt": "ওযুর ধারাবাহিকতা রক্ষা করা সুন্নাহ। বিভিন্ন হাদীস ও সাহাবীগণের আমল থেকে আমরা ওযুর ধারাবাহিকতা জানতে পারি। এখানে ওযুর ধারাবাহিকতা তুলে ধরা হলো\nThe post সুন্নত মোতাবেক ওজু করার ধারাবাহিক পদ্ধতি appeared first on Muslims Day Blog.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-18T07:09:01+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "b9d0535dfe404206a6ff3b5ee2030b9e6c37cd152ac72bf9bdc84f8bd3efb74e",
+            "url": "https://muslimsday.com/bn/blog/ওযু-করার-ধারাবাহিক-পদ্ধত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ওযু-করার-ধারাবাহিক-পদ্ধত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ওযু-করার-ধারাবাহিক-পদ্ধত.html"
+        },
+        {
+            "id": 275,
+            "translationId": 275,
+            "language": "bn",
+            "slug": "যেসব-কারণে-ওযু-ভাঙে-না",
+            "title": "যে সকল কারণে ওজু ভাঙ্গে না",
+            "excerpt": "কিছু বিষয় এমন, অনেকে মনে করেন, এগুলোর কারণে ওজু ভেঙে যাবে। আসলে এতে ওজু ভাঙবে না। এমন কিছু কারণ আমরা আজকের এই পোস্টে জেনে নিব\nThe post যে সকল কারণে ওজু ভাঙ্গে না appeared first on Muslims Day Blog.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-18T07:02:21+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "2b64963fa56dd3643a5ff6f4bb2122de1afe6cfbc1bb5d6fd5831395bf98d6e7",
+            "url": "https://muslimsday.com/bn/blog/যেসব-কারণে-ওযু-ভাঙে-না",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যেসব-কারণে-ওযু-ভাঙে-না.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যেসব-কারণে-ওযু-ভাঙে-না.html"
+        },
+        {
+            "id": 276,
+            "translationId": 276,
+            "language": "bn",
+            "slug": "উযূ-ভঙ্গের-কারণসমূহ",
+            "title": "ওযু ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 24 Feb, 2023 – 4:34 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T16:14:17+00:00",
+            "updatedAt": "2026-11-17T04:06:00+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "78463063a26e600ef5fc2dbaedee8864d3e47a2d6241d7d87f5f30d8f3b21558",
+            "url": "https://muslimsday.com/bn/blog/উযূ-ভঙ্গের-কারণসমূহ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/উযূ-ভঙ্গের-কারণসমূহ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/উযূ-ভঙ্গের-কারণসমূহ.html"
+        },
+        {
+            "id": 277,
+            "translationId": 277,
+            "language": "bn",
+            "slug": "সালাত-ভঙ্গের-কারণসমূহ",
+            "title": "সালাত ভঙ্গের কারণসমূহ",
+            "excerpt": "Post Updated at 1 Mar, 2023 – 3:16 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-10T10:24:57+00:00",
+            "updatedAt": "2026-11-19T08:09:22+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "5f84f0b4ff02a3c7e93a1b195feec68787bb5b032a7ce251c4b76ac4bfbc96d0",
+            "url": "https://muslimsday.com/bn/blog/সালাত-ভঙ্গের-কারণসমূহ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সালাত-ভঙ্গের-কারণসমূহ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সালাত-ভঙ্গের-কারণসমূহ.html"
+        }
+    ]
+}

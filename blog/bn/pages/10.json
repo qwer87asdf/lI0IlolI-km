@@ -1,0 +1,624 @@
+{
+    "page": 10,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 189,
+            "translationId": 189,
+            "language": "bn",
+            "slug": "১২-রবিউল-আউয়াল",
+            "title": "১২ রবিউল আউয়াল কি নবীজি সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের জন্মদিন?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7cb03733-718c-447f-b2ab-23e7edbc0735.png",
+                "alt": "",
+                "width": 1200,
+                "height": 675
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-09-27T04:15:39+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "f8ea5de837dc473c480d423769851e2247526e1afb9e48863ee53bbef1e7a1d6",
+            "url": "https://muslimsday.com/bn/blog/১২-রবিউল-আউয়াল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রবিউল-আউয়াল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/১২-রবিউল-আউয়াল.html"
+        },
+        {
+            "id": 190,
+            "translationId": 190,
+            "language": "bn",
+            "slug": "জানাজা-নামাজ-দুআ-নিয়ম",
+            "title": "জানাজার নামাজের দুআ ও নিয়ম",
+            "excerpt": "Post Updated at 27 Sep, 2023 – 3:36 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/b69362e6-18e1-4b7c-b573-db4775896bba.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 547
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-09-27T00:13:59+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "befa7e148d75845b3babd549a3244dcd0d4bb04df151c1fc8ad9af31e129afc3",
+            "url": "https://muslimsday.com/bn/blog/জানাজা-নামাজ-দুআ-নিয়ম",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জানাজা-নামাজ-দুআ-নিয়ম.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জানাজা-নামাজ-দুআ-নিয়ম.html"
+        },
+        {
+            "id": 191,
+            "translationId": 191,
+            "language": "bn",
+            "slug": "জন্মদিন-পালনের-ইতিহাস",
+            "title": "প্রসঙ্গ মীলাদুন্নবী : জন্মদিন পালনের ইতিহাস ও ইসলামে জন্মদিন পালনের বিধান",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-09-25T02:07:25+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "21c32eba7a96fb5ceabbb48fd22543bf20c9824a220bc56399fba799479c025d",
+            "url": "https://muslimsday.com/bn/blog/জন্মদিন-পালনের-ইতিহাস",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জন্মদিন-পালনের-ইতিহাস.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জন্মদিন-পালনের-ইতিহাস.html"
+        },
+        {
+            "id": 192,
+            "translationId": 192,
+            "language": "bn",
+            "slug": "আখেরী-চাহার-সোম্বা-বিদআত",
+            "title": "আখেরী চাহার সোম্বা ও সফর মাসের অন্যান্য বিদআত",
+            "excerpt": "Post Updated at 14 Jul, 2026 – 5:44 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/a063fc62-32d0-41f9-a0e1-641f41ef714f.jpg",
+                "alt": "",
+                "width": 2500,
+                "height": 1500
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-08-16T03:42:37+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "0ce72d85a6266a042b8b06c2acdf8f7a9f136fd4a5fed3017738053101773164",
+            "url": "https://muslimsday.com/bn/blog/আখেরী-চাহার-সোম্বা-বিদআত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আখেরী-চাহার-সোম্বা-বিদআত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আখেরী-চাহার-সোম্বা-বিদআত.html"
+        },
+        {
+            "id": 193,
+            "translationId": 193,
+            "language": "bn",
+            "slug": "ঘুমের-দুআ-ও-রাতের-আমল",
+            "title": "ঘুমাতে যাওয়ার আগের মাসনূন আমল ও দুআসমূহ",
+            "excerpt": "Post Updated at 4 Sep, 2023 – 5:41 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/63eddc5f-0754-4e6c-b65c-eea0c6403378.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-08-04T10:57:45+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "91e6d94315ec3862c10d0b5facbe35d2ae78eb51fec3d6341c2651586c29afcb",
+            "url": "https://muslimsday.com/bn/blog/ঘুমের-দুআ-ও-রাতের-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.html"
+        },
+        {
+            "id": 194,
+            "translationId": 194,
+            "language": "bn",
+            "slug": "ইসলামে-বৃক্ষরোপন",
+            "title": "ইসলামের দৃষ্টিতে বৃক্ষরোপণ",
+            "excerpt": "Post Updated at 17 Oct, 2024 – 7:59 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/d1c7627f-864d-4a02-a79e-7b59f39572ae.jpg",
+                "alt": "",
+                "width": 700,
+                "height": 400
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-08-03T11:52:20+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "c3e052d3bf9e2f4a9fb4d86927e98639e2a37210768ed0a27b0313afbb86ce40",
+            "url": "https://muslimsday.com/bn/blog/ইসলামে-বৃক্ষরোপন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইসলামে-বৃক্ষরোপন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইসলামে-বৃক্ষরোপন.html"
+        },
+        {
+            "id": 195,
+            "translationId": 195,
+            "language": "bn",
+            "slug": "আশুরার-রোজার-ফজিলত",
+            "title": "আশুরার রোজার ফজিলত",
+            "excerpt": "Post Updated at 6 Jul, 2026 – 12:47 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-13T16:35:37+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "54dff2e4e16571843fc7b1defaf6ee479b89fa16811b1509cc0fb760c1c6a971",
+            "url": "https://muslimsday.com/bn/blog/আশুরার-রোজার-ফজিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আশুরার-রোজার-ফজিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আশুরার-রোজার-ফজিলত.html"
+        },
+        {
+            "id": 196,
+            "translationId": 196,
+            "language": "bn",
+            "slug": "মহিমান্বিত-আশুরার-ইতিহাস",
+            "title": "ইতিহাসের আলোকে মহিমান্বিত আশুরা",
+            "excerpt": "Post Updated at 6 Jul, 2026 – 12:47 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88868996-a9e5-4b07-8988-2c4591fefcb9.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                },
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-13T16:26:54+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "778d70e02a8ca514d711e6e3d314d6b2b4ee977fb50d400c06cb8375c6890cd7",
+            "url": "https://muslimsday.com/bn/blog/মহিমান্বিত-আশুরার-ইতিহাস",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মহিমান্বিত-আশুরার-ইতিহাস.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মহিমান্বিত-আশুরার-ইতিহাস.html"
+        },
+        {
+            "id": 197,
+            "translationId": 197,
+            "language": "bn",
+            "slug": "মুহাররম-শোকের-মাস-নয়",
+            "title": "মুহাররম শোকের মাস নয়",
+            "excerpt": "Post Updated at 6 Jul, 2026 – 12:48 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88868996-a9e5-4b07-8988-2c4591fefcb9.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-13T16:08:31+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "984bbef5886b6800531b492ad088b2048ad14bbfdab6161eec0ef791b06a3fa2",
+            "url": "https://muslimsday.com/bn/blog/মুহাররম-শোকের-মাস-নয়",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুহাররম-শোকের-মাস-নয়.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুহাররম-শোকের-মাস-নয়.html"
+        },
+        {
+            "id": 198,
+            "translationId": 198,
+            "language": "bn",
+            "slug": "শিয়াদের-তাজিয়া-মিছিল",
+            "title": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ : ইসলামি দৃষ্টিকোণ",
+            "excerpt": "Post Updated at 6 Jul, 2026 – 12:49 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1ba8a0b6-ef95-4894-9803-be670c6a0b7e.jpg",
+                "alt": "",
+                "width": 750,
+                "height": 422
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-13T15:55:20+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 9,
+            "contentHash": "a99b0c89d69adf3f5e6fecd154ff37fee50e6f45e5779f29b7736c69e4f243ae",
+            "url": "https://muslimsday.com/bn/blog/শিয়াদের-তাজিয়া-মিছিল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শিয়াদের-তাজিয়া-মিছিল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শিয়াদের-তাজিয়া-মিছিল.html"
+        },
+        {
+            "id": 199,
+            "translationId": 199,
+            "language": "bn",
+            "slug": "মুহাররম-মাস-ফজিলত-ও-আমল",
+            "title": "মুহাররম মাস : ফজিলত ও আমল",
+            "excerpt": "Post Updated at 6 Jul, 2026 – 12:50 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/88868996-a9e5-4b07-8988-2c4591fefcb9.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-13T10:10:12+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "6767c3c7a0c802fa68864fc0b32dd981bc018910e820bba2a49635dd848407f7",
+            "url": "https://muslimsday.com/bn/blog/মুহাররম-মাস-ফজিলত-ও-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুহাররম-মাস-ফজিলত-ও-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মুহাররম-মাস-ফজিলত-ও-আমল.html"
+        },
+        {
+            "id": 200,
+            "translationId": 200,
+            "language": "bn",
+            "slug": "যানবাহনে-নামাজের-পদ্ধতি",
+            "title": "যানবাহনে নামাজ আদায়ের পদ্ধতি",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-07-01T23:54:30+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "4d9ff765dbdba1bca0a079ae062e9d50701de9533e8de63ec9b0329489e27834",
+            "url": "https://muslimsday.com/bn/blog/যানবাহনে-নামাজের-পদ্ধতি",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যানবাহনে-নামাজের-পদ্ধতি.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যানবাহনে-নামাজের-পদ্ধতি.html"
+        },
+        {
+            "id": 201,
+            "translationId": 201,
+            "language": "bn",
+            "slug": "আরাফার-রোজা",
+            "title": "আরাফার দিনের রোজা কবে রাখব? আট জিলহজ, না নয় জিলহজ?",
+            "excerpt": "Post Updated at 13 Jul, 2023 – 8:58 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-06-24T02:22:47+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "3c0c59a54917d5d4fc8bdf3871fb11af2049ee86f956a26d4eeb3493a19fee57",
+            "url": "https://muslimsday.com/bn/blog/আরাফার-রোজা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আরাফার-রোজা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আরাফার-রোজা.html"
+        },
+        {
+            "id": 202,
+            "translationId": 202,
+            "language": "bn",
+            "slug": "কুরবানি-বিষয়ে-জিজ্ঞাসা",
+            "title": "কুরবানি সম্পর্কিত কয়েকটি সাধারণ জিজ্ঞাসা",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-06-20T01:02:09+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "d742dbecc1536c4677d6bb4d924f98131470621f7cd09548795a36545be27141",
+            "url": "https://muslimsday.com/bn/blog/কুরবানি-বিষয়ে-জিজ্ঞাসা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানি-বিষয়ে-জিজ্ঞাসা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানি-বিষয়ে-জিজ্ঞাসা.html"
+        },
+        {
+            "id": 203,
+            "translationId": 203,
+            "language": "bn",
+            "slug": "হাজী-ঈদুল-আজহা-কুরবানি",
+            "title": "হাজীদের জন্য ঈদুল আজহার কুরবানি",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-06-12T06:58:18+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "a4608569e92bd131bed45a70e9d6fdd3eea2b6529118ee47f69f527ac6d0d743",
+            "url": "https://muslimsday.com/bn/blog/হাজী-ঈদুল-আজহা-কুরবানি",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হাজী-ঈদুল-আজহা-কুরবানি.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হাজী-ঈদুল-আজহা-কুরবানি.html"
+        },
+        {
+            "id": 204,
+            "translationId": 204,
+            "language": "bn",
+            "slug": "নারী-ও-পুরুষের-নামাজ",
+            "title": "নারী-পুরুষের নামাজের পার্থক্য",
+            "excerpt": "Post Updated at 20 Aug, 2025 – 5:56 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-06-12T06:12:31+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "48e38c6579cd778ac86278419bada082f01dcb0c03c41c19129259d7e4800307",
+            "url": "https://muslimsday.com/bn/blog/নারী-ও-পুরুষের-নামাজ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নারী-ও-পুরুষের-নামাজ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নারী-ও-পুরুষের-নামাজ.html"
+        },
+        {
+            "id": 205,
+            "translationId": 205,
+            "language": "bn",
+            "slug": "হজের-আধুনিক-কিছু-মাসায়ে",
+            "title": "হজের আধুনিক কিছু মাসায়েল",
+            "excerpt": "Post Updated at 14 Jun, 2023 – 9:22 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-06-06T09:52:16+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "84b30f0e736965696606a4d0fbd8e4aca9e995ddc144d14f925477f2ea0e8d0f",
+            "url": "https://muslimsday.com/bn/blog/হজের-আধুনিক-কিছু-মাসায়ে",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হজের-আধুনিক-কিছু-মাসায়ে.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হজের-আধুনিক-কিছু-মাসায়ে.html"
+        },
+        {
+            "id": 206,
+            "translationId": 206,
+            "language": "bn",
+            "slug": "কুরবানির-ফজিলত-মাসায়েল",
+            "title": "কুরবানির ফজিলত ও মাসায়েল",
+            "excerpt": "Post Updated at 27 May, 2024 – 8:01 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8ce606bc-e01b-452e-803f-1f3a2d69e223.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 767
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-28T08:59:10+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "6d75bf13121f1b6ccd4199cb185def2b83e83b206ed823c63feb7cb75d7dc86c",
+            "url": "https://muslimsday.com/bn/blog/কুরবানির-ফজিলত-মাসায়েল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানির-ফজিলত-মাসায়েল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/কুরবানির-ফজিলত-মাসায়েল.html"
+        },
+        {
+            "id": 207,
+            "translationId": 207,
+            "language": "bn",
+            "slug": "জিলহজের-১ম-দশকের-ফজিলত",
+            "title": "ফজিলতে পূর্ণ জিলহজের প্রথম দশক",
+            "excerpt": "Post Updated at 27 May, 2026 – 4:01 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-09T01:46:17+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "013e07071dba2019039bd730928ac38bc3dca885c49aa12bb37f71094cb25ca1",
+            "url": "https://muslimsday.com/bn/blog/জিলহজের-১ম-দশকের-ফজিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জিলহজের-১ম-দশকের-ফজিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/জিলহজের-১ম-দশকের-ফজিলত.html"
+        },
+        {
+            "id": 208,
+            "translationId": 208,
+            "language": "bn",
+            "slug": "হজ-আদায়ে-কমন-কিছু-ভুল",
+            "title": "হজ আদায়ে যেসব ভুল হয়ে যেতে পারে",
+            "excerpt": "Post Updated at 5 Jun, 2023 – 12:39 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1d054c15-000e-477a-9737-e571d670790e.jpg",
+                "alt": "",
+                "width": 1280,
+                "height": 720
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-05-09T01:42:58+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 12,
+            "contentHash": "58f8ea0a0e013c5f9ea0b89a9e103d52474b33951c94449bdb19f382fbc4f2a3",
+            "url": "https://muslimsday.com/bn/blog/হজ-আদায়ে-কমন-কিছু-ভুল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হজ-আদায়ে-কমন-কিছু-ভুল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/হজ-আদায়ে-কমন-কিছু-ভুল.html"
+        }
+    ]
+}

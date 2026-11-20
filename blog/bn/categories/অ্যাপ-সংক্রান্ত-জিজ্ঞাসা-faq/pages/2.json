@@ -1,0 +1,157 @@
+{
+    "category": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+    "page": 2,
+    "totalPages": 2,
+    "items": [
+        {
+            "id": 266,
+            "translationId": 266,
+            "language": "bn",
+            "slug": "আপনার-এলাকার-মসজিদের-ক্য",
+            "title": "আপনার এলাকার মসজিদের ক্যালেন্ডারের সাথে অ্যাপের সময়ে অমিল থাকার কারণ",
+            "excerpt": "Post Updated at 21 Mar, 2023 – 8:48 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:16:47+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "5c0611a3e75cace820113f0fa27a3481cf6fe5257bdda9f3340613616b6d94e1",
+            "url": "https://muslimsday.com/bn/blog/আপনার-এলাকার-মসজিদের-ক্য",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আপনার-এলাকার-মসজিদের-ক্য.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আপনার-এলাকার-মসজিদের-ক্য.html"
+        },
+        {
+            "id": 267,
+            "translationId": 267,
+            "language": "bn",
+            "slug": "ইফতারে-সতর্কতামূলক-সময়",
+            "title": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:12:54+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "7d62a6461bbc4fd306ed7487f64671da276b82604d76ef34253da8661b1f2905",
+            "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতারে-সতর্কতামূলক-সময়.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতারে-সতর্কতামূলক-সময়.html"
+        },
+        {
+            "id": 280,
+            "translationId": 280,
+            "language": "bn",
+            "slug": "বাংলা-তারিখ-নির্ধারণ",
+            "title": "বঙ্গাব্দ তারিখ নির্ধারণের পদ্ধতি",
+            "excerpt": "Post Updated at 21 Mar, 2023 – 9:10 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-01T14:45:21+00:00",
+            "updatedAt": "2026-11-17T04:06:09+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "9053e438275aa16ff60b4dc2f98fef41c8ead9650ace77234671e4bec541be04",
+            "url": "https://muslimsday.com/bn/blog/বাংলা-তারিখ-নির্ধারণ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বাংলা-তারিখ-নির্ধারণ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/বাংলা-তারিখ-নির্ধারণ.html"
+        },
+        {
+            "id": 281,
+            "translationId": 281,
+            "language": "bn",
+            "slug": "আজকের-হিজরি-তারিখ-কত",
+            "title": "মুসলিমস ডে অ্যাপের হিজরি তারিখ অন্যান্য ক্যালেন্ডারের সাথে মিলে না কেন?",
+            "excerpt": "Post Updated at 4 Aug, 2023 – 9:03 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-01T14:42:38+00:00",
+            "updatedAt": "2026-11-17T04:06:09+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "b19a16ff7516e0202557da09ea2a1c07593c71db483dec5ed3c523ba1c93120b",
+            "url": "https://muslimsday.com/bn/blog/আজকের-হিজরি-তারিখ-কত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আজকের-হিজরি-তারিখ-কত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আজকের-হিজরি-তারিখ-কত.html"
+        },
+        {
+            "id": 282,
+            "translationId": 282,
+            "language": "bn",
+            "slug": "নামাজের-নিষিদ্ধ-সময়-কখন",
+            "title": "নামাজের নিষিদ্ধ সময় নির্ধারণের পদ্ধতি",
+            "excerpt": "Post Updated at 21 Mar, 2023 – 9:11 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-01T14:34:45+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "a3e6be9002aca61e9ec667b8e2b2106aaf4128e4f8e452b1f78cb05e184044c3",
+            "url": "https://muslimsday.com/bn/blog/নামাজের-নিষিদ্ধ-সময়-কখন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-নিষিদ্ধ-সময়-কখন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-নিষিদ্ধ-সময়-কখন.html"
+        }
+    ]
+}

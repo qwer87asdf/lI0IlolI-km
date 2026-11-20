@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "language": "hi",
+    "direction": "ltr",
+    "totalPosts": 0,
+    "pageSize": 20,
+    "totalPages": 1,
+    "updatedAt": null,
+    "pagesUrlPattern": "https://data.muslimsday.com/appdata/blog/hi/pages/{page}.json",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
+    "ads": {
+        "top": null,
+        "bottom": null
+    },
+    "featured": []
+}

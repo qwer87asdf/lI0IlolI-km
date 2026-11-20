@@ -1,5 +1,83 @@
 [
     {
+        "id": 247,
+        "slug": "20261119-winter",
+        "title": "Want to Make Winter the ‘Spring’ of Your Amal?",
+        "subtitle": "Discover 5 special deeds to earn immense rewards with little effort right now.",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Winter_Amal_Comfort_Corner-s30c98LO.jpg",
+        "tags": [],
+        "published_at": "2026-11-19T08:53:33+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261119-winter.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1795078413
+    },
+    {
+        "id": 245,
+        "slug": "20261119-which",
+        "title": "Which Need of Yours Can Allah Not Fulfill?",
+        "subtitle": "To the Lord who parted the sea to make a path, your request is effortless!",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Which_Need_Can_Allah_Fulfill-yCCIbfap.jpg",
+        "tags": [],
+        "published_at": "2026-11-19T06:15:53+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261119-which.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1795068953
+    },
+    {
+        "id": 243,
+        "slug": "20261118-do-you",
+        "title": "Do You Know Who Is Controlling You from the Shadows?",
+        "subtitle": "How your subconscious mind is being imprisoned under the guise of \"freedom.\"",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Controlling_You_from_the_Shadows-GqvO4um6.jpg",
+        "tags": [],
+        "published_at": "2026-11-18T10:49:35+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261118-do-you.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1794998975
+    },
+    {
+        "id": 241,
+        "slug": "20261117-why-should",
+        "title": "Why Should I Be the One to Apologize First?",
+        "subtitle": "The ego that stands in the way of our good deeds and inner peace!",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Kintsugi_Bowl_Inner_Peace-poZlFiv6.jpg",
+        "tags": [],
+        "published_at": "2026-11-17T06:18:50+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261117-why-should.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1794896330
+    },
+    {
+        "id": 233,
+        "slug": "20261112-best",
+        "title": "Could traffic jams be your best investment for your Akhirah?",
+        "subtitle": "The story of a cyclist brother that could change your daily commute.",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Could_Traffic_Jams_Be_Your_Best_Investment-TEu91o3M.jpg",
+        "tags": [],
+        "published_at": "2026-11-12T09:55:04+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261112-best.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1794477304
+    },
+    {
+        "id": 231,
+        "slug": "20261112-does-think",
+        "title": "Does Death Make Us Think?",
+        "subtitle": "We must prepare before time runs out.",
+        "image": "https://data.muslimsday.com/appdata/notification/image/Does_Death_Make_Us_Think-X4kfQhEE.jpg",
+        "tags": [],
+        "published_at": "2026-11-12T06:48:01+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261112-does-think.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1794466081
+    },
+    {
         "id": 227,
         "slug": "20261110-jumadal-akhirah",
         "title": "🌙 The moon of Jumadal Akhirah was not seen in Bangladesh today.",
@@ -9,7 +87,8 @@
         "published_at": "2026-11-10T09:37:56+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261110-jumadal-akhirah.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1794303476
     },
     {
         "id": 223,
@@ -21,7 +100,8 @@
         "published_at": "2026-11-08T10:10:56+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261108-day-of.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1794132656
     },
     {
         "id": 217,
@@ -33,7 +113,8 @@
         "published_at": "2026-11-04T09:09:44+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261104-gambling.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1793953609
     },
     {
         "id": 215,
@@ -45,7 +126,8 @@
         "published_at": "2026-11-04T05:12:09+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261103-self-ruqyah.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1793769129
     },
     {
         "id": 213,
@@ -57,7 +139,8 @@
         "published_at": "2026-11-02T08:42:43+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261102-our-society.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1793608963
     },
     {
         "id": 211,
@@ -69,7 +152,8 @@
         "published_at": "2026-11-01T09:45:32+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261101-tomorrow.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1793526332
     },
     {
         "id": 209,
@@ -81,7 +165,8 @@
         "published_at": "2026-11-01T05:35:17+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261101-negligent.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1793511317
     },
     {
         "id": 207,
@@ -93,7 +178,8 @@
         "published_at": "2026-10-30T08:10:41+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261030-your-home.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1793347841
     },
     {
         "id": 201,
@@ -105,7 +191,8 @@
         "published_at": "2026-10-27T05:06:00+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261027-chaildern.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1793077560
     },
     {
         "id": 199,
@@ -117,7 +204,8 @@
         "published_at": "2026-10-21T09:09:01+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261021-everyone.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792846034
     },
     {
         "id": 195,
@@ -129,7 +217,8 @@
         "published_at": "2026-10-20T06:32:09+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261020-so-called.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792477929
     },
     {
         "id": 193,
@@ -141,7 +230,8 @@
         "published_at": "2026-10-19T05:03:20+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261019-pujar-food.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792386200
     },
     {
         "id": 191,
@@ -153,7 +243,8 @@
         "published_at": "2026-10-18T09:44:07+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261018-so-much.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792316647
     },
     {
         "id": 189,
@@ -165,7 +256,8 @@
         "published_at": "2026-10-18T04:57:45+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261018-during-puja.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792300777
     },
     {
         "id": 185,
@@ -177,7 +269,8 @@
         "published_at": "2026-10-15T07:56:45+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261015-Riziq.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792051005
     },
     {
         "id": 181,
@@ -189,7 +282,8 @@
         "published_at": "2026-10-14T05:02:46+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261014-bridge.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792042248
     },
     {
         "id": 179,
@@ -201,7 +295,8 @@
         "published_at": "2026-10-13T06:59:22+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261013-childhood.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791874762
     },
     {
         "id": 175,
@@ -213,7 +308,8 @@
         "published_at": "2026-10-12T07:03:23+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261012-Deen-practic.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791788633
     },
     {
         "id": 173,
@@ -225,7 +321,8 @@
         "published_at": "2026-10-11T11:27:42+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-Ruling.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1792483656
     },
     {
         "id": 171,
@@ -237,7 +334,8 @@
         "published_at": "2026-10-11T08:24:25+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261011-Product-discount.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791707100
     },
     {
         "id": 169,
@@ -249,7 +347,8 @@
         "published_at": "2026-10-08T15:27:39+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-mission-barakah.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791473275
     },
     {
         "id": 167,
@@ -261,7 +360,8 @@
         "published_at": "2026-10-08T05:19:20+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261008-they-have-come.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791461103
     },
     {
         "id": 165,
@@ -273,7 +373,8 @@
         "published_at": "2026-10-07T09:07:09+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261007-chaild.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791364045
     },
     {
         "id": 163,
@@ -285,7 +386,8 @@
         "published_at": "2026-10-06T10:11:42+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261006-how-to-activated.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791291169
     },
     {
         "id": 161,
@@ -297,7 +399,8 @@
         "published_at": "2026-10-05T06:47:09+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261005-worship.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791182846
     },
     {
         "id": 159,
@@ -309,7 +412,8 @@
         "published_at": "2026-10-04T06:15:01+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261004-return-back.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1791112270
     },
     {
         "id": 155,
@@ -321,7 +425,8 @@
         "published_at": "2026-10-01T11:23:21+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-your-sujood.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790853815
     },
     {
         "id": 153,
@@ -333,7 +438,8 @@
         "published_at": "2026-10-01T08:06:16+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20261001-you-stand-with-us.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790841990
     },
     {
         "id": 149,
@@ -345,7 +451,8 @@
         "published_at": "2026-09-29T08:03:36+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260929-That-Amol.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790695024
     },
     {
         "id": 147,
@@ -357,7 +464,8 @@
         "published_at": "2026-09-28T05:43:13+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260928-heve-you-wondered.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790577458
     },
     {
         "id": 145,
@@ -369,7 +477,21 @@
         "published_at": "2026-09-27T07:36:22+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260927-30-crore.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790501261
+    },
+    {
+        "id": 143,
+        "slug": "20260925-kivabe-sirat-porben-en",
+        "title": "How to Read Seerah?",
+        "subtitle": "Not sure how to benefit from this vast ocean of knowledge?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/kivabe-sirat-porben-en-tZTeoTZd.png",
+        "tags": [],
+        "published_at": "2026-09-25T13:16:40+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260925-kivabe-sirat-porben-en.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790342211
     },
     {
         "id": 141,
@@ -381,7 +503,8 @@
         "published_at": "2026-09-24T10:54:18+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-Companion.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790247276
     },
     {
         "id": 139,
@@ -393,7 +516,8 @@
         "published_at": "2026-09-24T09:17:21+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260924-Prayer-mat.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790243896
     },
     {
         "id": 103,
@@ -405,7 +529,8 @@
         "published_at": "2026-09-23T13:46:53+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-if-you-had-been-in-madina-that-day.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790171240
     },
     {
         "id": 101,
@@ -417,7 +542,8 @@
         "published_at": "2026-09-23T08:26:51+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260923-from-oprotim.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1790844484
     },
     {
         "id": 95,
@@ -429,7 +555,8 @@
         "published_at": "2026-09-20T11:29:10+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260920-Barakah-pass.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1789913140
     },
     {
         "id": 58,
@@ -441,7 +568,21 @@
         "published_at": "2026-09-14T08:41:14+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260914-fajar-can-change.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1789375293
+    },
+    {
+        "id": 56,
+        "slug": "20260913-ayyamul-bid-fast-robius-sani-1448",
+        "title": "Ayyam al-Bid Fasts of Rabi‘ al-Thani Begin on September 25",
+        "subtitle": "Suhoor should be taken on Thursday night",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-hCDI050I.jpg",
+        "tags": [],
+        "published_at": "2026-09-13T08:25:38+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260913-ayyamul-bid-fast-robius-sani-1448.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1789287957
     },
     {
         "id": 49,
@@ -453,7 +594,8 @@
         "published_at": "2026-09-09T09:31:19+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-destination.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788946286
     },
     {
         "id": 47,
@@ -465,7 +607,8 @@
         "published_at": "2026-09-09T06:05:01+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260909-path-everyone.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788933920
     },
     {
         "id": 45,
@@ -477,7 +620,34 @@
         "published_at": "2026-09-08T06:50:08+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260908-Tawakkul-dua.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788879910
+    },
+    {
+        "id": 43,
+        "slug": "20260907-love-for",
+        "title": "The One Who Saved Life’s Greatest Wish Just for Us",
+        "subtitle": "How can we not fall in love with him?",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-9z3T3xXn.jpg",
+        "tags": [],
+        "published_at": "2026-09-07T06:42:30+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260907-love-for.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788763369
+    },
+    {
+        "id": 41,
+        "slug": "20260906-love-for-prophet",
+        "title": "The Greatest Gift of Love for the Prophet ﷺ: Why Is Durood the Best Provision for Our Lives?",
+        "subtitle": "A heartfelt devotion in search of the beloved Prophet’s ﷺ nearness and intercession",
+        "image": "https://data.muslimsday.com/appdata/notification/image/notification-nL5Dbkiv.jpg",
+        "tags": [],
+        "published_at": "2026-09-06T09:18:05+00:00",
+        "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260906-love-for-prophet.json",
+        "author": "Muslims Day",
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788686309
     },
     {
         "id": 35,
@@ -489,7 +659,8 @@
         "published_at": "2026-09-02T10:32:27+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260902-perfect-man.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788345361
     },
     {
         "id": 31,
@@ -501,7 +672,8 @@
         "published_at": "2026-09-01T06:55:48+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260901-nature-warning.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788250664
     },
     {
         "id": 27,
@@ -513,7 +685,8 @@
         "published_at": "2026-08-30T06:07:29+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260830-anger-moments.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788070168
     },
     {
         "id": 25,
@@ -525,7 +698,8 @@
         "published_at": "2026-08-29T13:20:00+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260829-rights-others.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1788009607
     },
     {
         "id": 23,
@@ -537,7 +711,8 @@
         "published_at": "2026-08-27T06:09:07+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260827-your-last-night.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1787847795
     },
     {
         "id": 21,
@@ -549,7 +724,8 @@
         "published_at": "2026-08-25T05:10:06+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260825-how-are-you.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1787634870
     },
     {
         "id": 18,
@@ -561,7 +737,8 @@
         "published_at": "2026-08-23T13:47:15+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260823-productivity-english.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1787565317
     },
     {
         "id": 15,
@@ -573,7 +750,8 @@
         "published_at": "2026-08-22T09:19:05+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260822-your-childs.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1787390355
     },
     {
         "id": 9,
@@ -585,7 +763,8 @@
         "published_at": "2026-08-19T14:38:20+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260819-if-you-had-been-in-madina-that-day.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1787213221
     },
     {
         "id": 5,
@@ -597,7 +776,8 @@
         "published_at": "2026-08-17T04:22:47+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260817-the-trap-of-loneliness.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1787153586
     },
     {
         "id": 3,
@@ -609,6 +789,7 @@
         "published_at": "2026-08-16T09:46:29+00:00",
         "content_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI-km/master/notification/20260816-sunnah-in-final-moments.json",
         "author": "Muslims Day",
-        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png"
+        "author_image_url": "https://data.muslimsday.com/appdata/image/muslims-day-logo.png",
+        "updated_at": 1786949147
     }
 ]

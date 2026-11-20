@@ -1,0 +1,190 @@
+{
+    "schemaVersion": 1,
+    "id": 267,
+    "translationId": 267,
+    "language": "bn",
+    "slug": "ইফতারে-সতর্কতামূলক-সময়",
+    "title": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+    "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+    "featuredImage": {
+        "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+        "alt": "",
+        "width": 640,
+        "height": 427
+    },
+    "categories": [
+        {
+            "id": 8,
+            "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+            "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+            "primary": true
+        }
+    ],
+    "isSticky": false,
+    "publishedAt": "2023-03-01T14:12:54+00:00",
+    "updatedAt": "2026-11-17T04:05:59+00:00",
+    "readingTimeMinutes": 6,
+    "contentHash": "1ab51147b03e88622ea68832e01ff5333d5e421d30c8b64e58e9a4d7708619da",
+    "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়",
+    "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতারে-সতর্কতামূলক-সময়.json",
+    "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতারে-সতর্কতামূলক-সময়.html",
+    "html": "<p>Post Updated at 27 Feb, 2026 – 10:43 PM</p><p>সকলেই এ বিষয়ে একমত যে ইফতার করতে হবে সূর্যাস্ত নিশ্চিত হবার সঙ্গে সঙ্গেই। সূর্যাস্ত হয়ে গেছে এটা নিশ্চিত হবার পর ইফতার করার জন্য আজান শোনা বা আরো বিলম্ব করার সুযোগ নাই। কিন্তু প্রশ্ন হচ্ছে আমরা সূর্যাস্ত নিশ্চিত হই কিভাবে? বর্তমান সময়ে আমরা কেউ আর সূর্যাস্ত অবলোকন করে ইফতার করি না। সকলেই আবহাওয়া অফিস থেকে প্রাপ্ত সূর্যাস্তের সময় কিংবা গুগল বা অ্যাপের সাহায্যে সূর্যাস্তের সময় জানতে পারি।</p><p><strong>বাস্তবতা হচ্ছে: আবহাওয়া অফিস বা গুগল থেকে আপনি সূর্যাস্তের যে সময়টা জানতে পারেন সেটি শতভাগ বিশুদ্ধ নয়। এ সময়গুলো approximate rounded ফরমেটে পাওয়া যায়</strong>। ক্যালেন্ডারে সূর্যাস্ত দেখাবে ৫:৫০, যদিও সত্যিকার সূর্যাস্ত হলো ৫:৫০ বেজে ৩০ সেকেন্ডে। এটাকেই রাউন্ড ফিগার করে ৫:৫০ দেখায়। আবহাওয়া অফিস পুরো জেলার জন্য একটি সূর্যাস্তের সময় প্রকাশ করে। কিন্তু জেলার কেন্দ্র থেকে যত দূরত্বে যাওয়া হবে সূর্যাস্তের সময়ে কম-বেশি হবে। এখানেই আসে আবহাওয়া অফিসের সময়ের সাথে সতর্কতামূলক সময় যোগ করার প্রশ্ন।</p><div class=\"md-ad\" data-ad=\"3\"><script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_7dd2c7f38cc348f5\"></script>\n<div id=\"ad-pl_7dd2c7f38cc348f5\"></div></div><p>আমাদের অ্যাপে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করে ইফতারের সময় দেখার অপশন যেমন রয়েছে। পাশাপাশি আবহাওয়া অফিস থেকে প্রাপ্ত “<strong>সূর্যাস্তের নিকটবর্তী রাউন্ডেড ফিগার</strong>” এর সাথে ইফতারের সময় দেখার অপশনও রয়েছে। ২০২৫ সালে ইসলামিক ফাউন্ডেশন তাদের ক্যালেন্ডার থেকে সতর্কতামূলক সময় বাদ দিয়েছে (<a href=\"https://muslimsday.com/blog/2025-ifa-logic-changed/\">এ বিষয়ে জানতে ক্লিক করুন</a>)।</p><p>যাদের যেই অপশনটা উত্তম মনে হয় সেটি ব্যবহার করতে পারেন। আমরা কেন অ্যাপে সতর্কতামূলক সময় সেট করার ব্যবস্থা রেখেছে তার কারণগুলো নিচে বলা হলো:</p><h3 id=\"প্রথমত\">প্রথমত</h3><p>সূর্যাস্তের “approximate” (আনুমানিক) সময়ের সাথে কিছু সতর্কতামূলক সময় যোগ করার ব্যাপারে এদেশের অনেক আলেমদেরই মত রয়েছে। ইসলামিক ফাউন্ডেশনের ক্যালেন্ডারেও আগে সতর্কতামূলক তিন মিনিট সময় যোগ করা হত। যা ২০২৫ সালে এসে বাদ দেয়া হয়েছে। আমাদের অ্যাপে উভয়টিরই সুযোগ রয়েছে।</p><div class=\"md-ad md-ad--isolated\" data-ad=\"3\"><iframe srcdoc=\"&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;\n&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;\" title=\"Advertisement\" loading=\"lazy\" scrolling=\"no\"></iframe></div><h3 id=\"দ্বিতীয়ত\">দ্বিতীয়ত</h3><p>আবহাওয়া অফিস, গুগল বা কোনো অ্যাপ সূর্যাস্তের সময় হিসাবে যে সময় দেখায় তা সত্যিকার অর্থেই এক্সাক্ট সময় নয়। এজন্য আমরা সূর্যাস্তের সময়কে approximate বা আনুমানিক বলেছি। এখানে কিছু সেকেন্ডের বা মিনিটের হেরফের থাকতে পারে।</p><p>একটা উদাহরণ দিলে বিষয়টি পরিষ্কার হবে। আমি আজ ১৩ ডিসেম্বরের মানিকগঞ্জ জেলার সূর্যাস্তের সময় জানতে সার্চ দিলাম। কোনো একটি ওয়েবসাইট থেকে ক্রল করে গুগল দেখালো মানিকগঞ্জ জেলায় আজকের সূর্যাস্তের সময় ৫:১৪। এর মানে কি সূর্য ৫টা বেজে ১৪ মিনিটে টুপ করে ডুবে যাবে? অথবা একদম মিনিট ধরে ৫ টা ১৪ মিনিটেই সূর্য পূর্ণ ভাবে অস্তমিত হবে? সারা মাসে একদিনও মিনিটের রাউন্ডেড ফিগারে এলোমেলো হবে না? তা নয়!</p><p><a href=\"https://sunrise.maplogs.com/manikganj_bangladesh.415574.html\">MapLogs.Com</a> ওয়েবসাইট থেকে জানলাম প্রকৃত সূর্যাস্তের সময় ৫টা বেজে ১৪ মিনিট ৫৩ সেকেন্ড। এখানেও মিলিসেকেন্ডের হিসাব বাদ দেয়া হয়েছে। সূর্যাস্ত আরো আগে থেকে শুরু হয়ে ৫টা ১৪ মিনিট ৫৩তম সেকেন্ড পূর্ণরূপে অস্তমিত হয়। গুগল বা অন্যান্য অ্যাপ এই সময়টিকেই ৫৩ সেকেন্ড বাদ দিয়ে রাউন্ড ফিগার করে ৫টা ১৪ মিনিট দেখায়। <strong>গুগলের জন্য বা অন্য ধর্মের মানুষদের জন্য এই ৫৩ সেকেন্ড হয়ত ধর্তব্য নয়। কিন্তু একজন রোজাদার কি জেনে শুনে সূর্যাস্তের ৫৩ সেকেন্ড আগে ইফতার করতে পারেন?</strong></p><div class=\"md-ad md-ad--isolated\" data-ad=\"3\"><iframe srcdoc=\"&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;\n&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;\" title=\"Advertisement\" loading=\"lazy\" scrolling=\"no\"></iframe></div><h3 id=\"তৃতীয়ত\">তৃতীয়ত</h3><p>আবহাওয়া অফিস থেকে জেলাভিত্তিক সূর্যাস্তের সময় জানা যায়। সে সময়টা জেলার কেন্দ্র বিন্দু থেকে সূর্যাস্তের সময়, অথবা হতে পারে সমগ্র জেলার সূর্যাস্তের সময়ের একটা গড় মান। কোনো একটা স্থান থেকে প্রতি কিলোমিটার দূরত্ব অতিক্রম করার সাথে সাথে সূর্যাস্তের সময়ের পার্থক্য হতে পারে আড়াই সেকেন্ড। এভাবে আপনার বাড়ি, জেলা শহর থেকে অনেক দূরে হলে। জেলার সূর্যাস্তের সময়ের সাথে আপনার বাড়ির সূর্যাস্তের সময়ে পার্থক্য হতে পারে।</p><p>অ্যাপের একজন ইউজার নক দিয়ে জানালেন তাঁর বাড়ি জেলা শহর থেকে প্রায় ৯০ কিলোমিটার দূরে। তার জন্য আপনার সমাধান কী হবে? তিনি কি জেলার কেন্দ্রের সূর্যাস্তের সময়ে ইফতার করবেন? প্রতি কিলোমিটার দূরত্বের জন্য সূর্যাস্তের সময় ২ সেকেন্ড পরিবর্তন ধরে হিসাব করলে সময়টা আসবে 90*2=180 সেকেন্ড বা ৩ মিনিট। এই ব্যক্তি যদি তার জেলা শহরের সূর্যাস্তের সময়ের সাথে ৩ মিনিট যোগ/বিয়োগ করে ইফতার করেন তাহলে এটাকে কি হাদীস বিরোধী বলব?</p><p>এছাড়াও যারা কোনো জেলার বর্ডারে থাকেন তারা কোন জেলার সময় অনুযায়ী ইফতার করবেন? ঢাকা ও মানিকগঞ্জ পাশাপাশি জেলা। গুগল সার্চে ৪ মার্চ ঢাকার সূর্যাস্ত ৬:০৩ ও মানিকগঞ্জের সূর্যাস্ত ৬:০৪। যারা এই দুই জেলার বর্ডার লাইনের আসেপাশে থাকেন তারা সূর্যাস্তের কোন সময় ফলো করবেন? এরকম সিচুয়েশন এড়ানোর জন্য আমরা রিকমেন্ড করি GPS সেট করে ২-১ মিনিট সতর্কতামূলক সময় সেট করে অ্যাপের সময় অনুসরণ করার। এতে তুলনামূলক নির্ভুল সময়ে ইফতার করা হবে।</p><div class=\"md-ad md-ad--isolated\" data-ad=\"3\"><iframe srcdoc=\"&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;\n&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;\" title=\"Advertisement\" loading=\"lazy\" scrolling=\"no\"></iframe></div><h3 id=\"চতুর্থত\">চতুর্থত</h3><p>সূর্যাস্ত হিসাব করা হয় সমতলের সাপেক্ষে। অর্থাৎ সমতল ভূমিতে দাঁড়িয়ে সূর্যাস্ত হওয়ার সময় হিসাব করা হয়। এখন আপনি যদি ২০ তলা বিল্ডিংয়ের উপরে বসে ইফতার করেন তাহলে কি একই সময়ে ইফতার করবেন? অথবা কয়েক তলা মাটির নিচের আন্ডার গ্রাউন্ডে বসে ইফতার করার সময়ও কি একই সময়ে ইফতার করবেন? সমতল থেকে যখন দেখা যাবে সূর্য অস্ত গিয়েছে, বিল্ডিংয়ের উপর থেকে তখনও সূর্য দেখা যেতে পারে। আন্ডারগ্রাউন্ডের হিসাবও অন্যরকম হতে পারে!</p><p>তাহলে আপনি সূর্যাস্তের সাথে সাথে ইফতারের বিষয়টা কিভাবে নিশ্চিত করবেন?</p><p>একটু খোঁজ নিলেই জানতে পারবেন <strong>দুবাইয়ের বুর্জ আল খলিফার নিচতলা এবং টপ ফ্লোরের ইফতারের সময়ের মাঝে ৩ মিনিটের পার্থক্য হয়ে থাকে</strong>। সেখানকার জন্য ফতোয়া হচ্ছে যারা সমতল থেকে ৮০০ মিটারের বেশি উচ্চতায় থাকবেন তারা ৩ মিনিট পর ইফতার করবেন। অন্যথায় রোজা শুদ্ধ হবে না। কারণ নিচতলার ব্যক্তির জন্য সূর্যাস্ত হয়ে গেলেও, টপ ফ্লোরে যিনি আছেন তিনি তখনও সূর্য দেখতে পাচ্ছেন। যদিও এই কারণটি বাংলাদেশের ক্ষেত্রে প্রযোজ্য না। তবুও তথ্যটা শেয়ার করা রাখা হলো।</p><div class=\"md-ad md-ad--isolated\" data-ad=\"3\"><iframe srcdoc=\"&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;\n&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;\" title=\"Advertisement\" loading=\"lazy\" scrolling=\"no\"></iframe></div><h3 id=\"পঞ্চমত\">পঞ্চমত</h3><p>মোবাইল ফোনের GPS ব্যবহার করে যেই সূর্যাস্তের সময় পাওয়া যায় সেটিও শতভাগ সঠিক আউটপুট দিতে পারে না। এটা সব সময় গ্যারান্টেড নয় যে, আপনার ফোনের জিপিএস সব সময় আপনাকে শতভাগ নির্ভুল আউটপুট দিবে। অ্যাপ থেকে ডিভাইসের কাছে জিপিএস লোকেশন জানতে চাওয়া হয়। আপনার ফোনের অপারেটিং সিস্টেম লোকেশনটা অ্যাপকে প্রোভাইড করে। এসময় last known location ও রিটার্ন করতে পারে।</p><p>ধরুন আপনি কোথাও ট্রাভেল করছেন। আপনার বাড়ি থেকে বেশ কয়েক কিলোমিটার চলে এসেছেন। চট করে ফোনটা বের করে সময় দেখলেন। হতে পারে আপনার ফোন আপনার বাড়ির লোকেশনই রিটার্ন করবে। যদিও আপনি অনেক দূর চলে এসেছেন। এসব কারণে রোজার মত গুরুত্বপূর্ণ ফরজ আমলের ক্ষেত্রে আমরা জিপিএসের উপর শতভাগ আস্থা রাখতে পারি না। দুটি ফোন পাশাপাশি রাখলেও এদের জিপিএস লোকেশনের latitude longitude এর মান ভিন্ন হতে পারে। এই ভিন্নতার ফলে সময়ের হিসাবে সূক্ষ্ম পার্থক্য চলে আসতে পারে।</p><h3 id=\"উপসংহার\">উপসংহার</h3><p>এসকল বাস্তবিক এবং বৈজ্ঞানিক কারণেই অনেক আলেমগণ সূর্যাস্তের যে সময় আবহাওয়া অফিস থেকে পাওয়া যায় তার সাথে সতর্কতার জন্য কিছু সময় যোগ করার পরামর্শ দেন। <strong>তবে এটি শরয়ী নির্দেশনা নয়। শরীয়তের দৃষ্টিতে সরাসরি এরকম সতর্কতামূলক সময়ের অবকাশ নাই।</strong> এটি ব্যক্তিগত ভাবে সতর্কতা নিশ্চিত করার মাধ্যম বলা যেতে পারে। যেন আপনি জেলা শহর থেকে অনেক দূরে থাকলে, কিংবা অনেক উচু বিল্ডিংয়ে অবস্থান করলেও সকল ক্ষেত্রেই ইফতারটা সূর্যাস্তের পরেই হয়।</p><div class=\"md-ad md-ad--isolated\" data-ad=\"3\"><iframe srcdoc=\"&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;base target=&quot;_blank&quot;&gt;&lt;style&gt;html,body{margin:0}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script async src=&quot;https://serve.kahfads.com/tag.js&quot; data-placement=&quot;pl_7dd2c7f38cc348f5&quot;&gt;&lt;/script&gt;\n&lt;div id=&quot;ad-pl_7dd2c7f38cc348f5&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var f=window.frameElement;if(!f)return;function fit(){var h=document.body.offsetHeight;f.style.height=h+&quot;px&quot;;f.style.minHeight=h?&quot;&quot;:&quot;0&quot;;f.parentNode.classList.toggle(&quot;md-ad--empty&quot;,!h)}new ResizeObserver(fit).observe(document.body);fit()})()&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;\" title=\"Advertisement\" loading=\"lazy\" scrolling=\"no\"></iframe></div><p>এসকল বিষয়গুলো বিবেচনায় এনে আমরা সিদ্ধান্ত নিয়েছি অ্যাপে সতর্কতামূলক সময় সেট করার সুযোগ রাখার। বাই ডিফল্ট আমাদের অ্যাপে বর্তমানে ১ মিনিট সতর্কতামূলক সময় সেট করা থাকে। প্রয়োজন অনুযায়ী শূন্য থেকে ৩ মিনিট পর্যন্ত সতর্কতামূলক সময় সেট করে নেয়ার সুযোগ অ্যাপের মাঝে রয়েছে।</p><p>আমি (মুসলিমস ডে অ্যাডমিন) ব্যক্তিগত ভাবে বেশ কয়েক বছর ধরেই ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সাহরি ইফতার করি না। বরং GPS সেট করে নিয়ে ১ মিনিট সতর্কতামূলক সময় সেট করে রাখি। সে অনুযায়ী সাহরি ইফতার করি। এটাই আমার কাছে আমার জন্য অধিকতর সঠিক ও নিরাপদ পদ্ধতি মনে হয়।</p><p>সতর্কতামূলক সময় রাখা এবং না রাখা উভয় দিকেই আলেম ও বিজ্ঞজনদের মত রয়েছে। আপনি যেই আলেমদের অনুসরণ করেন তাদের মত অনুযায়ী আমল করতে পারেন। আল্লাহ আমাদের রোযাগুলোকে সঠিক ভাবে পালন করার তাওফিক দান করুন। আমীন।</p><p>The post <a href=\"https://muslimsday.com/blog/%e0%a6%87%e0%a6%ab%e0%a6%a4%e0%a6%be%e0%a6%b0%e0%a7%87-%e0%a6%b8%e0%a6%a4%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%a4%e0%a6%be%e0%a6%ae%e0%a7%82%e0%a6%b2%e0%a6%95-%e0%a6%b8%e0%a6%ae%e0%a6%af%e0%a6%bc/\">ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?</a> appeared first on <a href=\"https://muslimsday.com/blog\">Muslims Day Blog</a>.</p>",
+    "toc": [
+        {
+            "level": 3,
+            "text": "প্রথমত",
+            "anchor": "প্রথমত"
+        },
+        {
+            "level": 3,
+            "text": "দ্বিতীয়ত",
+            "anchor": "দ্বিতীয়ত"
+        },
+        {
+            "level": 3,
+            "text": "তৃতীয়ত",
+            "anchor": "তৃতীয়ত"
+        },
+        {
+            "level": 3,
+            "text": "চতুর্থত",
+            "anchor": "চতুর্থত"
+        },
+        {
+            "level": 3,
+            "text": "পঞ্চমত",
+            "anchor": "পঞ্চমত"
+        },
+        {
+            "level": 3,
+            "text": "উপসংহার",
+            "anchor": "উপসংহার"
+        }
+    ],
+    "direction": "ltr",
+    "stylesheetUrl": "https://data.muslimsday.com/appdata/blog/assets/blog-content.bfc9ada719.css",
+    "author": {
+        "name": "Muslims Day Desk"
+    },
+    "tags": [],
+    "translations": {},
+    "languageChooser": [
+        {
+            "language": "bn",
+            "name": "Bangla",
+            "nativeName": "বাংলা",
+            "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতারে-সতর্কতামূলক-সময়.json",
+            "current": true
+        }
+    ],
+    "reads": {
+        "record": "https://backend.muslimsday.com/api/blog/posts/267/bn/reads",
+        "total": "https://backend.muslimsday.com/api/blog/posts/267/reads"
+    },
+    "ads": {
+        "left": {
+            "id": 4,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_a70dd802496d487e\"></script>\n<div id=\"ad-pl_a70dd802496d487e\"></div>"
+        },
+        "right": {
+            "id": 5,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_9df5fec0a30049cf\"></script>\n<div id=\"ad-pl_9df5fec0a30049cf\"></div>"
+        }
+    },
+    "seo": {
+        "title": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+        "description": "গুগলে দেখানো সূর্যাস্তের সময়ের সাথে সতর্কতামূলক সময় যোগ করা হয় কেন? ২-১ মিনিট যোগ করলে কি সেটা ইহুদী খৃষ্টানদের অনুসরণ করা হবে?",
+        "canonical": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "openGraph": {
+            "type": "article",
+            "title": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+            "description": "গুগলে দেখানো সূর্যাস্তের সময়ের সাথে সতর্কতামূলক সময় যোগ করা হয় কেন? ২-১ মিনিট যোগ করলে কি সেটা ইহুদী খৃষ্টানদের অনুসরণ করা হবে?",
+            "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়",
+            "siteName": "Muslims Day",
+            "locale": "bn_BD",
+            "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+            "publishedTime": "2023-03-01T14:12:54+00:00",
+            "modifiedTime": "2026-11-17T04:05:59+00:00",
+            "section": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)"
+        },
+        "twitter": {
+            "card": "summary_large_image",
+            "title": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+            "description": "গুগলে দেখানো সূর্যাস্তের সময়ের সাথে সতর্কতামূলক সময় যোগ করা হয় কেন? ২-১ মিনিট যোগ করলে কি সেটা ইহুদী খৃষ্টানদের অনুসরণ করা হবে?",
+            "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg"
+        },
+        "hreflang": [
+            {
+                "lang": "bn",
+                "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়"
+            },
+            {
+                "lang": "x-default",
+                "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়"
+            }
+        ],
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+                "description": "গুগলে দেখানো সূর্যাস্তের সময়ের সাথে সতর্কতামূলক সময় যোগ করা হয় কেন? ২-১ মিনিট যোগ করলে কি সেটা ইহুদী খৃষ্টানদের অনুসরণ করা হবে?",
+                "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়"
+                },
+                "inLanguage": "bn",
+                "wordCount": 1141,
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Muslims Day",
+                    "url": "https://muslimsday.com",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://muslimsday.com/favicon.svg"
+                    }
+                },
+                "datePublished": "2023-03-01T14:12:54+00:00",
+                "dateModified": "2026-11-17T04:05:59+00:00",
+                "image": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "author": {
+                    "@type": "Person",
+                    "name": "Muslims Day Desk"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Muslims Day",
+                        "item": "https://muslimsday.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://muslimsday.com/bn/blog"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                        "item": "https://muslimsday.com/bn/blog/category/অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+                        "item": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়"
+                    }
+                ]
+            }
+        ]
+    }
+}

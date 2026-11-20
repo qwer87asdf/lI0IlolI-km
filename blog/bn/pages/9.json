@@ -1,0 +1,607 @@
+{
+    "page": 9,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 169,
+            "translationId": 169,
+            "language": "bn",
+            "slug": "আল্লাহ-রব্বুল-আলামীন",
+            "title": "আল্লাহ ‘রব্বুল আলামীন’",
+            "excerpt": "Post Updated at 20 Feb, 2024 – 11:44 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7078ac80-689d-48de-bbef-20d4aa69904f.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 632
+            },
+            "categories": [
+                {
+                    "id": 49,
+                    "slug": "কুরআনের-শিক্ষা",
+                    "name": "কুরআনের শিক্ষা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-02-20T17:44:05+00:00",
+            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "b502f1802050850c7380e3a8b519e865fd90fa47a412f7637dc7020cc01c65c0",
+            "url": "https://muslimsday.com/bn/blog/আল্লাহ-রব্বুল-আলামীন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আল্লাহ-রব্বুল-আলামীন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আল্লাহ-রব্বুল-আলামীন.html"
+        },
+        {
+            "id": 170,
+            "translationId": 170,
+            "language": "bn",
+            "slug": "লজ্জাস্থান-স্পর্শ-ও-ওজু",
+            "title": "লজ্জাস্থান স্পর্শ করা ওজু ভঙ্গের কারণ নয়",
+            "excerpt": "Post Updated at 17 Feb, 2024 – 11:10 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-02-16T16:19:45+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "c0bb60d62d96aa82dc79ceb62eb309b0c7bf34bbc6fe0976469a321ba46b00cc",
+            "url": "https://muslimsday.com/bn/blog/লজ্জাস্থান-স্পর্শ-ও-ওজু",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/লজ্জাস্থান-স্পর্শ-ও-ওজু.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/লজ্জাস্থান-স্পর্শ-ও-ওজু.html"
+        },
+        {
+            "id": 171,
+            "translationId": 171,
+            "language": "bn",
+            "slug": "রজব-মাস-করণীয়-ও-বর্জনীয়",
+            "title": "রজব মাস – আমলের স্পৃহায় উজ্জীবিত হোক মুমিনের হৃদয়",
+            "excerpt": "রজব মাস। ফজিলতপূর্ণ এক মহিমান্বিত মাস। আল্লাহ সুবহানাহু তায়ালা এই মাসকে ‘আশহুরে হুরুম’ তথা সম্মানিত মাসসমূহের একটি বলে আখ্যা দিয়েছেন। পবিত্র কোরআনে ইরশাদ হয়েছে,",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/58430f57-df5c-4024-88da-221940a82ab0.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-01-13T17:47:06+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "66e4b049b6a94750d2c7eeeb38155f5caf82be0546f04d4ba390187aefd7a029",
+            "url": "https://muslimsday.com/bn/blog/রজব-মাস-করণীয়-ও-বর্জনীয়",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রজব-মাস-করণীয়-ও-বর্জনীয়.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রজব-মাস-করণীয়-ও-বর্জনীয়.html"
+        },
+        {
+            "id": 172,
+            "translationId": 172,
+            "language": "bn",
+            "slug": "নববর্ষ",
+            "title": "এসেছে নতুন বছর : চলুন অতীত থেকে শিক্ষা নিই",
+            "excerpt": "Post Updated at 31 Dec, 2023 – 4:20 PM",
+            "featuredImage": null,
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-12-31T10:05:41+00:00",
+            "updatedAt": "2026-11-17T04:04:09+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "0aa65016502b58815993d6470f929f324569fd89f969fdb8ed742ea07afbbc32",
+            "url": "https://muslimsday.com/bn/blog/নববর্ষ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নববর্ষ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নববর্ষ.html"
+        },
+        {
+            "id": 173,
+            "translationId": 173,
+            "language": "bn",
+            "slug": "ট্রান্সজেন্ডার-মতবাদ",
+            "title": "ট্রান্সজেন্ডারবাদ: জাতীয় অধঃপতনের এক অশনি সংকেত",
+            "excerpt": "Post Updated at 31 Oct, 2024 – 9:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-12-29T14:45:16+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "fa9f462648ccc95d27d4c5958fe78df6c9abd2778634958888378f6c58c67f06",
+            "url": "https://muslimsday.com/bn/blog/ট্রান্সজেন্ডার-মতবাদ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ট্রান্সজেন্ডার-মতবাদ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ট্রান্সজেন্ডার-মতবাদ.html"
+        },
+        {
+            "id": 174,
+            "translationId": 174,
+            "language": "bn",
+            "slug": "নামাজের-ওয়াক্তসমূহ",
+            "title": "নামাজের সময় – ৫ ওয়াক্ত নামাজের ওয়াক্তসমূহ",
+            "excerpt": "Post Updated at 26 Jan, 2025 – 3:12 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-12-12T09:17:08+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "7c81e63e3c09171103ec75fda2c089cf415e95aae7efa4c3cdb428fba6bfd34c",
+            "url": "https://muslimsday.com/bn/blog/নামাজের-ওয়াক্তসমূহ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-ওয়াক্তসমূহ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-ওয়াক্তসমূহ.html"
+        },
+        {
+            "id": 175,
+            "translationId": 175,
+            "language": "bn",
+            "slug": "শীতকালের-বিশেষ-আমল",
+            "title": "শীতকালের জন্য বিশেষ কিছু আমল",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/ecc4216f-0354-4633-a3ba-591cab936596.jpg",
+                "alt": "",
+                "width": 1020,
+                "height": 613
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-25T05:02:25+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "237115de06bdc5674820cbb4b04be46b3725899833d69fc90536f269d58072b6",
+            "url": "https://muslimsday.com/bn/blog/শীতকালের-বিশেষ-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শীতকালের-বিশেষ-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শীতকালের-বিশেষ-আমল.html"
+        },
+        {
+            "id": 176,
+            "translationId": 176,
+            "language": "bn",
+            "slug": "নামাজের-ওয়াজিবসমূহ",
+            "title": "নামাজের ওয়াজিবসমূহ",
+            "excerpt": "Post Updated at 25 Jan, 2025 – 12:21 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-20T11:43:52+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "885fc49a5e52436b0a8ddacf536ef42d1a8252e9f550314fd86229405cb5c625",
+            "url": "https://muslimsday.com/bn/blog/নামাজের-ওয়াজিবসমূহ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-ওয়াজিবসমূহ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-ওয়াজিবসমূহ.html"
+        },
+        {
+            "id": 177,
+            "translationId": 177,
+            "language": "bn",
+            "slug": "নামাজের-ধারাবাহিক-বিবরণ",
+            "title": "নামাজের ধারাবাহিক বিবরণ (নামাজ পড়ার নিয়ম)",
+            "excerpt": "Post Updated at 25 Jan, 2025 – 12:17 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e43068ef-938c-4c8f-827c-5a0a83e359f2.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": false
+                },
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-19T08:05:18+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "7f6986b35424e41da07f3508420eb467b44230867e9db069d062b38f6c239bd7",
+            "url": "https://muslimsday.com/bn/blog/নামাজের-ধারাবাহিক-বিবরণ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-ধারাবাহিক-বিবরণ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নামাজের-ধারাবাহিক-বিবরণ.html"
+        },
+        {
+            "id": 178,
+            "translationId": 178,
+            "language": "bn",
+            "slug": "অসুস্থ-ব্যক্তির-ওজু-গোসল",
+            "title": "অসুস্থ ব্যক্তির ওজু-গোসল",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 10:17 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-15T09:07:37+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "44e604295e6a24d345e8ee558ce1ad8a5e8002b8f0820c5a5dc7221c332ab1a2",
+            "url": "https://muslimsday.com/bn/blog/অসুস্থ-ব্যক্তির-ওজু-গোসল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/অসুস্থ-ব্যক্তির-ওজু-গোসল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/অসুস্থ-ব্যক্তির-ওজু-গোসল.html"
+        },
+        {
+            "id": 179,
+            "translationId": 179,
+            "language": "bn",
+            "slug": "গোসলের-মাসায়েল",
+            "title": "গোসলের মাসায়েল",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 10:18 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-07T09:38:37+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "c6e073ea2bc1f3460c4427de40549d127f54c56a373b796e1c1dd81e3cfbb881",
+            "url": "https://muslimsday.com/bn/blog/গোসলের-মাসায়েল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/গোসলের-মাসায়েল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/গোসলের-মাসায়েল.html"
+        },
+        {
+            "id": 180,
+            "translationId": 180,
+            "language": "bn",
+            "slug": "তায়াম্মুমের-বিধান",
+            "title": "তায়াম্মুমের বিধান",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 10:20 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-04T05:34:55+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "57e011bb505e624c604faba96e3edde2997fdcd220a5651ac559dab3bb74e3f5",
+            "url": "https://muslimsday.com/bn/blog/তায়াম্মুমের-বিধান",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তায়াম্মুমের-বিধান.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/তায়াম্মুমের-বিধান.html"
+        },
+        {
+            "id": 181,
+            "translationId": 181,
+            "language": "bn",
+            "slug": "মোজার-উপর-মাসেহ-এর-বিধান",
+            "title": "মোজার উপর মাসেহ করার বিধান",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 10:11 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-04T05:17:29+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "ccb623fbaca9507ffc8e8f3bd335c208eb43e6834a3ddac420341c9e7fe2fa32",
+            "url": "https://muslimsday.com/bn/blog/মোজার-উপর-মাসেহ-এর-বিধান",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মোজার-উপর-মাসেহ-এর-বিধান.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মোজার-উপর-মাসেহ-এর-বিধান.html"
+        },
+        {
+            "id": 182,
+            "translationId": 182,
+            "language": "bn",
+            "slug": "পানির-বিধান",
+            "title": "ওজু-গোসলের পানির বিধান",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 10:05 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-02T16:24:28+00:00",
+            "updatedAt": "2026-11-19T08:09:16+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "fc53c59d8257bad0096dcdf7ba60a09d98fdcad02b9bde3cecb7b8b00024a78f",
+            "url": "https://muslimsday.com/bn/blog/পানির-বিধান",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/পানির-বিধান.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/পানির-বিধান.html"
+        },
+        {
+            "id": 183,
+            "translationId": 183,
+            "language": "bn",
+            "slug": "ওজু-কখন-ভাঙে-কখন-ভাঙে-না",
+            "title": "ওজু কখন ভাঙ্গে কখন ভাঙ্গে না",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 10:08 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-02T01:48:37+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "c61aefdcb24cbbe11fead0a54eb004f9de6c3f077ce06d191d864e26227272f0",
+            "url": "https://muslimsday.com/bn/blog/ওজু-কখন-ভাঙে-কখন-ভাঙে-না",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ওজু-কখন-ভাঙে-কখন-ভাঙে-না.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ওজু-কখন-ভাঙে-কখন-ভাঙে-না.html"
+        },
+        {
+            "id": 184,
+            "translationId": 184,
+            "language": "bn",
+            "slug": "ওজু-করার-পদ্ধতি",
+            "title": "ওজু করার ধারাবাহিক পদ্ধতি",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 9:35 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-02T01:02:45+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "4d6602fd79bc725431b6f699a9029c3f3b05caf5aeff666e60898999ca70ff19",
+            "url": "https://muslimsday.com/bn/blog/ওজু-করার-পদ্ধতি",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ওজু-করার-পদ্ধতি.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ওজু-করার-পদ্ধতি.html"
+        },
+        {
+            "id": 185,
+            "translationId": 185,
+            "language": "bn",
+            "slug": "মাজুর-ব্যক্তির-ওজু",
+            "title": "মাজুর বা সমস্যাগ্রস্ত ব্যক্তির ওজুর বিধান",
+            "excerpt": "Post Updated at 29 Feb, 2024 – 10:13 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/39bb5d2a-bf6d-4a57-b48e-1cce9ef5f6e9.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-11-02T00:54:31+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "d0cc4161fc9badb29432e074463b32fe3f38d8528fe9e2b2426a76b6fa1184c0",
+            "url": "https://muslimsday.com/bn/blog/মাজুর-ব্যক্তির-ওজু",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাজুর-ব্যক্তির-ওজু.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাজুর-ব্যক্তির-ওজু.html"
+        },
+        {
+            "id": 186,
+            "translationId": 186,
+            "language": "bn",
+            "slug": "ধর্ম-যার-উৎসব-তার",
+            "title": "পূজামন্ডপে মুসলিম সন্তান: প্রশ্ন কেবল উদারতার নয়, বিশ্বাসেরও",
+            "excerpt": "Post Updated at 6 Oct, 2025 – 10:14 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/60367ee2-1dc3-4e03-8033-fdf0d16a3d93.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-10-22T13:02:54+00:00",
+            "updatedAt": "2026-11-17T04:04:17+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "7b84c9b4eb96090155dc4e67fa19c7bc3e11030951b120ab8f18b4c7fc081063",
+            "url": "https://muslimsday.com/bn/blog/ধর্ম-যার-উৎসব-তার",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ধর্ম-যার-উৎসব-তার.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ধর্ম-যার-উৎসব-তার.html"
+        },
+        {
+            "id": 187,
+            "translationId": 187,
+            "language": "bn",
+            "slug": "পূজা-দেখতে-যাওয়ার-বিধান",
+            "title": "অমুসলিমদের ধর্মীয় অনুষ্ঠানে অংশগ্রহনের বিধান",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/28912a3b-4764-4d48-93d5-10a88ce2cc11.jpg",
+                "alt": "",
+                "width": 2560,
+                "height": 1600
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-10-22T03:19:19+00:00",
+            "updatedAt": "2026-11-17T04:04:22+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "ba9505323e5b0d74756b862e0ceeccb7c13354e6ab57ab2e949d63047dbcc0d0",
+            "url": "https://muslimsday.com/bn/blog/পূজা-দেখতে-যাওয়ার-বিধান",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/পূজা-দেখতে-যাওয়ার-বিধান.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/পূজা-দেখতে-যাওয়ার-বিধান.html"
+        },
+        {
+            "id": 188,
+            "translationId": 188,
+            "language": "bn",
+            "slug": "ঈদে-মীলাদুন্নবীর-ইতিহাস",
+            "title": "ঈদে মীলাদুন্নবীর ইতিহাস ও হাস্যকর কিছু দাবি",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e6febbf3-22c4-4d6b-a8b3-92026058ca4a.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-09-27T04:21:15+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "2eba54990b6ddf19698d471298541d4e5aaa9a2021eb907470a14724b224d818",
+            "url": "https://muslimsday.com/bn/blog/ঈদে-মীলাদুন্নবীর-ইতিহাস",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদে-মীলাদুন্নবীর-ইতিহাস.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঈদে-মীলাদুন্নবীর-ইতিহাস.html"
+        }
+    ]
+}

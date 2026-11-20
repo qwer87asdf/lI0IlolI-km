@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "language": "hi",
+    "ads": {
+        "top": {
+            "id": 2,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_c7e1de5c15b34b00\"></script>\n<div id=\"ad-pl_c7e1de5c15b34b00\"></div>"
+        },
+        "bottom": {
+            "id": 1,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_d9d30b56ba234852\"></script>\n<div id=\"ad-pl_d9d30b56ba234852\"></div>"
+        }
+    },
+    "topRead": []
+}

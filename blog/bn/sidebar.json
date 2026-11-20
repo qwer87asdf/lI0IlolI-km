@@ -1,0 +1,171 @@
+{
+    "schemaVersion": 1,
+    "language": "bn",
+    "ads": {
+        "top": {
+            "id": 2,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_c7e1de5c15b34b00\"></script>\n<div id=\"ad-pl_c7e1de5c15b34b00\"></div>"
+        },
+        "bottom": {
+            "id": 1,
+            "code": "<script async src=\"https://serve.kahfads.com/tag.js\" data-placement=\"pl_d9d30b56ba234852\"></script>\n<div id=\"ad-pl_d9d30b56ba234852\"></div>"
+        }
+    },
+    "topRead": [
+        {
+            "id": 256,
+            "translationId": 256,
+            "language": "bn",
+            "slug": "আইয়ামে-বীজ-রোজার-ফজিলত",
+            "title": "আইয়ামে বীজ এর রোজা – ফজিলত, বিধান ও মাসআলা",
+            "excerpt": "Post Updated at 13 Sep, 2026 – 2:15 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8c795cb7-0a48-4caa-8732-9628aa4eb86a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 900
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T00:20:09+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "25883351fb75a47f3b215e41942c5bf21fb0344834097912a8f9be9cb6b6a0f6",
+            "url": "https://muslimsday.com/bn/blog/আইয়ামে-বীজ-রোজার-ফজিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.html",
+            "reads": 600159
+        },
+        {
+            "id": 193,
+            "translationId": 193,
+            "language": "bn",
+            "slug": "ঘুমের-দুআ-ও-রাতের-আমল",
+            "title": "ঘুমাতে যাওয়ার আগের মাসনূন আমল ও দুআসমূহ",
+            "excerpt": "Post Updated at 4 Sep, 2023 – 5:41 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/63eddc5f-0754-4e6c-b65c-eea0c6403378.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-08-04T10:57:45+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "91e6d94315ec3862c10d0b5facbe35d2ae78eb51fec3d6341c2651586c29afcb",
+            "url": "https://muslimsday.com/bn/blog/ঘুমের-দুআ-ও-রাতের-আমল",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ঘুমের-দুআ-ও-রাতের-আমল.html",
+            "reads": 372821
+        },
+        {
+            "id": 234,
+            "translationId": 234,
+            "language": "bn",
+            "slug": "ফিতরা-কত-টাকা-মাসআলা",
+            "title": "২০২৬ সালের ফিতরার পরিমাণ ও মাসআলা",
+            "excerpt": "Post Updated at 24 Mar, 2026 – 6:57 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/e7bbe678-99ad-40c8-90b0-b6f184418d7a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 1000
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-04-05T03:26:00+00:00",
+            "updatedAt": "2026-11-19T08:09:19+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "1f9cf07eef3d17bd48e407c45215abcacbb940e86ff8a87c93590f34862634ac",
+            "url": "https://muslimsday.com/bn/blog/ফিতরা-কত-টাকা-মাসআলা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফিতরা-কত-টাকা-মাসআলা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফিতরা-কত-টাকা-মাসআলা.html",
+            "reads": 330588
+        },
+        {
+            "id": 156,
+            "translationId": 156,
+            "language": "bn",
+            "slug": "নবজাতকের-উপহার",
+            "title": "নবজাতকের জন্যে ইসলামের উপহার",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:58 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/52d4a977-068c-48ca-b8b8-f9e04e3b8c63.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 668
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2024-04-24T06:27:09+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "46264613a0e28445a8e99ad8cea821a3a3eb11334f406f10b465b74f4dc1742f",
+            "url": "https://muslimsday.com/bn/blog/নবজাতকের-উপহার",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নবজাতকের-উপহার.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/নবজাতকের-উপহার.html",
+            "reads": 244097
+        },
+        {
+            "id": 173,
+            "translationId": 173,
+            "language": "bn",
+            "slug": "ট্রান্সজেন্ডার-মতবাদ",
+            "title": "ট্রান্সজেন্ডারবাদ: জাতীয় অধঃপতনের এক অশনি সংকেত",
+            "excerpt": "Post Updated at 31 Oct, 2024 – 9:50 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/20d0641f-99f1-42d7-9336-23c6e3f14990.jpg",
+                "alt": "",
+                "width": 1000,
+                "height": 667
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-12-29T14:45:16+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "fa9f462648ccc95d27d4c5958fe78df6c9abd2778634958888378f6c58c67f06",
+            "url": "https://muslimsday.com/bn/blog/ট্রান্সজেন্ডার-মতবাদ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ট্রান্সজেন্ডার-মতবাদ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ট্রান্সজেন্ডার-মতবাদ.html",
+            "reads": 242836
+        }
+    ]
+}

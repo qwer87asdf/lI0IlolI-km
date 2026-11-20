@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "type": "feed",
+            "id": "feed_section",
+            "priority": 600,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [
+                "NON_AUTHORIZED",
+                "AUTHORIZED",
+                "PAID"
+            ],
+            "endTimestampInSecond": null
+        }
+    ],
+    "lastUpdated": 1794817400000
+}

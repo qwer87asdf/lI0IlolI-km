@@ -1,0 +1,37 @@
+{
+    "category": "updates",
+    "page": 1,
+    "totalPages": 1,
+    "items": [
+        {
+            "id": 1,
+            "translationId": 1,
+            "language": "en",
+            "slug": "contributors-impact-on-july-2026",
+            "title": "One Month, 61 Million Reminders: Contributors Impact Throughout the July 2026",
+            "excerpt": "Get the update of contributors impact throughout the month of july 2026. How people from all over the world helped us to reach many muslims and helping us making ummah better everyday.",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/7004bc3b-09dd-4c27-8b57-6ce1f60215c4.png",
+                "alt": "",
+                "width": 1254,
+                "height": 706
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "slug": "updates",
+                    "name": "Updates",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-08-17T07:47:14+00:00",
+            "updatedAt": "2026-11-17T03:48:11+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "044c60c20e3d10b2b2cbb242e71dbd43914359fdd8889f6353688258b0ec8c79",
+            "url": "https://muslimsday.com/blog/contributors-impact-on-july-2026",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/contributors-impact-on-july-2026.html"
+        }
+    ]
+}

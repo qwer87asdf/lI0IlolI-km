@@ -1,0 +1,606 @@
+{
+    "page": 13,
+    "totalPages": 14,
+    "items": [
+        {
+            "id": 249,
+            "translationId": 249,
+            "language": "bn",
+            "slug": "ভুলে-পানাহার-করলে-রোজা",
+            "title": "ভুলে পানাহার করলে সিয়াম ছেড়ে দেয়া যাবে না",
+            "excerpt": "Post Updated at 20 Mar, 2023 – 3:02 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-10T03:16:24+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "890db2a5136a205dd6e510394bd737b4deee88a3f2aba598b5dbc86bfe2f96c5",
+            "url": "https://muslimsday.com/bn/blog/ভুলে-পানাহার-করলে-রোজা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ভুলে-পানাহার-করলে-রোজা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ভুলে-পানাহার-করলে-রোজা.html"
+        },
+        {
+            "id": 250,
+            "translationId": 250,
+            "language": "bn",
+            "slug": "রমজানের-প্রস্তুতি-নিন",
+            "title": "রমজান আসার আগেই রমজানের প্রস্তুতি নিন",
+            "excerpt": "Post Updated at 16 Mar, 2026 – 12:16 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-09T05:59:39+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "5f65af6bf9180ae095efa5cb4c4a2b31b10713e50b73e561cccb3f0d9d876c25",
+            "url": "https://muslimsday.com/bn/blog/রমজানের-প্রস্তুতি-নিন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রমজানের-প্রস্তুতি-নিন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রমজানের-প্রস্তুতি-নিন.html"
+        },
+        {
+            "id": 251,
+            "translationId": 251,
+            "language": "bn",
+            "slug": "সাহরি-না-খেলে-কি-রোজা-হবে",
+            "title": "সাহরি না খেলে রোজা হবে না – এমন মনে করা ভুল",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 12:03 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T15:12:17+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "ea971ecc417bdd2ea7554b8a15ec54263f46ea19cb84f925d0e9cfa442443c14",
+            "url": "https://muslimsday.com/bn/blog/সাহরি-না-খেলে-কি-রোজা-হবে",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরি-না-খেলে-কি-রোজা-হবে.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সাহরি-না-খেলে-কি-রোজা-হবে.html"
+        },
+        {
+            "id": 252,
+            "translationId": 252,
+            "language": "bn",
+            "slug": "ইফতার-সময়-মাগরিবের-আজান",
+            "title": "ইফতার করার জন্য মাগরিবের আজান শোনা জরুরি নয়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T14:50:47+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "083f05f026c74963fb80f69bcd6b3ace3dd477c879a2bec283506f4cca249e33",
+            "url": "https://muslimsday.com/bn/blog/ইফতার-সময়-মাগরিবের-আজান",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতার-সময়-মাগরিবের-আজান.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতার-সময়-মাগরিবের-আজান.html"
+        },
+        {
+            "id": 253,
+            "translationId": 253,
+            "language": "bn",
+            "slug": "ফজরের-আজান-পর্যন্ত-সাহরি",
+            "title": "ফজরের আজান পর্যন্ত পানাহার করলে রোজা নষ্ট হয়ে যায়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T14:43:50+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "2308512539d1edf5244fbb4614edcd550d053327ad05ab8cb59893edc4c1d8b4",
+            "url": "https://muslimsday.com/bn/blog/ফজরের-আজান-পর্যন্ত-সাহরি",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফজরের-আজান-পর্যন্ত-সাহরি.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ফজরের-আজান-পর্যন্ত-সাহরি.html"
+        },
+        {
+            "id": 254,
+            "translationId": 254,
+            "language": "bn",
+            "slug": "রোজার-নিয়ত",
+            "title": "মুখে উচ্চারণ করে রোজার নিয়তকে জরুরি মনে করা",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 13,
+                    "slug": "প্রচলিত-ভুল",
+                    "name": "প্রচলিত ভুল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T00:42:45+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "89665c84c35eafbb0343f39e324e1dff156eb473ffe059c4f1d0df18e19afec7",
+            "url": "https://muslimsday.com/bn/blog/রোজার-নিয়ত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজার-নিয়ত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রোজার-নিয়ত.html"
+        },
+        {
+            "id": 255,
+            "translationId": 255,
+            "language": "bn",
+            "slug": "সোম-বৃহস্পতিবার-রোজা",
+            "title": "সোম ও বৃহস্পতিবার সিয়াম পালনের গুরুত্ব",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/c8fb60ff-40d9-4b25-a242-f5d9d6a6eea0.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 800
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T00:30:57+00:00",
+            "updatedAt": "2026-11-19T08:09:14+00:00",
+            "readingTimeMinutes": 4,
+            "contentHash": "f5c34ec37b301149f880493fefa0e8207344eb28064f70427183f02d5e032f9f",
+            "url": "https://muslimsday.com/bn/blog/সোম-বৃহস্পতিবার-রোজা",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সোম-বৃহস্পতিবার-রোজা.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সোম-বৃহস্পতিবার-রোজা.html"
+        },
+        {
+            "id": 256,
+            "translationId": 256,
+            "language": "bn",
+            "slug": "আইয়ামে-বীজ-রোজার-ফজিলত",
+            "title": "আইয়ামে বীজ এর রোজা – ফজিলত, বিধান ও মাসআলা",
+            "excerpt": "Post Updated at 13 Sep, 2026 – 2:15 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/8c795cb7-0a48-4caa-8732-9628aa4eb86a.jpg",
+                "alt": "",
+                "width": 1500,
+                "height": 900
+            },
+            "categories": [
+                {
+                    "id": 26,
+                    "slug": "মাসনূন-আমল",
+                    "name": "মাসনূন আমল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-06T00:20:09+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "25883351fb75a47f3b215e41942c5bf21fb0344834097912a8f9be9cb6b6a0f6",
+            "url": "https://muslimsday.com/bn/blog/আইয়ামে-বীজ-রোজার-ফজিলত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আইয়ামে-বীজ-রোজার-ফজিলত.html"
+        },
+        {
+            "id": 257,
+            "translationId": 257,
+            "language": "bn",
+            "slug": "time-difference-ifa-muslims-day",
+            "title": "ইসলামিক ফাউন্ডেশনের সময়ের সাথে মুসলিমস ডে অ্যাপে দেখানো সময়ের মধ্যে কোনো পার্থক্য আছে কি?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-02T14:00:37+00:00",
+            "updatedAt": "2026-11-17T04:05:33+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "c36f708bb505ca04cdc13c8fb90bf72215ab1677081f4e9f7f6300e24c25ed20",
+            "url": "https://muslimsday.com/bn/blog/time-difference-ifa-muslims-day",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/time-difference-ifa-muslims-day.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/time-difference-ifa-muslims-day.html"
+        },
+        {
+            "id": 258,
+            "translationId": 258,
+            "language": "bn",
+            "slug": "islamic-foundation-calendar-time",
+            "title": "মুসলিমস ডে অ্যাপে কিভাবে ইসলামিক ফাউন্ডেশনের ক্যালেন্ডার অনুযায়ী সময় দেখব?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-02T13:55:12+00:00",
+            "updatedAt": "2026-11-17T04:05:37+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "a6b6ab0e6f5eaca49c98396f2a609af1bc4387b34655de2f08eae909830c6fa5",
+            "url": "https://muslimsday.com/bn/blog/islamic-foundation-calendar-time",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/islamic-foundation-calendar-time.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/islamic-foundation-calendar-time.html"
+        },
+        {
+            "id": 259,
+            "translationId": 259,
+            "language": "bn",
+            "slug": "আজান-রিংটোন-নিষেধ",
+            "title": "মুসলিমস ডে অ্যাপে নামাজের অ্যালার্মে আজান প্লে হয় না কেন?",
+            "excerpt": "Post Updated at 28 Oct, 2025 – 8:24 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T15:36:06+00:00",
+            "updatedAt": "2026-11-17T04:05:37+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "70f2ad7070265db0d4b82b6a42202375f016e4fd283efd284a3085e797ee67c3",
+            "url": "https://muslimsday.com/bn/blog/আজান-রিংটোন-নিষেধ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আজান-রিংটোন-নিষেধ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আজান-রিংটোন-নিষেধ.html"
+        },
+        {
+            "id": 260,
+            "translationId": 260,
+            "language": "bn",
+            "slug": "app-এ-কুরআন-তাফসীর-নাই-কেন",
+            "title": "মুসলিমস ডে অ্যাপে সম্পূর্ণ কুরআন ও তাফসীর নাই কেন?",
+            "excerpt": "Post Updated at 10 Mar, 2025 – 2:31 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T15:27:47+00:00",
+            "updatedAt": "2026-11-17T04:05:37+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "c19fff747f4ff8c648b14b1234abed3a6ad957638c09cd3f2811a022e7e52454",
+            "url": "https://muslimsday.com/bn/blog/app-এ-কুরআন-তাফসীর-নাই-কেন",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/app-এ-কুরআন-তাফসীর-নাই-কেন.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/app-এ-কুরআন-তাফসীর-নাই-কেন.html"
+        },
+        {
+            "id": 261,
+            "translationId": 261,
+            "language": "bn",
+            "slug": "রমজান-২০২৩",
+            "title": "রমজানের প্রস্তুতি, সময়সূচী ও মাসয়ালা – [শবে বরাত ৭ মার্চ, রমজান ২৪ মার্চ ২০২৩]",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/989a41ae-3948-4de4-a7f4-6fc34957da9d.jpg",
+                "alt": "",
+                "width": 1920,
+                "height": 1200
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T15:07:07+00:00",
+            "updatedAt": "2026-11-19T08:09:20+00:00",
+            "readingTimeMinutes": 11,
+            "contentHash": "66cd541e0d15b0cb14bd04378fc40d811169fc632d66fdbb69b487d4d2a62197",
+            "url": "https://muslimsday.com/bn/blog/রমজান-২০২৩",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রমজান-২০২৩.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/রমজান-২০২৩.html"
+        },
+        {
+            "id": 262,
+            "translationId": 262,
+            "language": "bn",
+            "slug": "শবে-বরাত-ফজিলত-আমল-বিদআত",
+            "title": "সুন্নাহর আলোকে শবে বরাতের ফজিলত ও আমল – করণীয় ও বর্জনীয়",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:41 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/eff5a75a-9b56-441c-b241-8b695d2fc112.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 16,
+                    "slug": "আর্টিকেল",
+                    "name": "আর্টিকেল",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:47:51+00:00",
+            "updatedAt": "2026-11-19T08:09:18+00:00",
+            "readingTimeMinutes": 23,
+            "contentHash": "4b51355234d1a48122c7f5ff98178b9088c1c9430b803c09fd62b200a4881226",
+            "url": "https://muslimsday.com/bn/blog/শবে-বরাত-ফজিলত-আমল-বিদআত",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শবে-বরাত-ফজিলত-আমল-বিদআত.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/শবে-বরাত-ফজিলত-আমল-বিদআত.html"
+        },
+        {
+            "id": 263,
+            "translationId": 263,
+            "language": "bn",
+            "slug": "সূর্যাস্তের-সময়-আসর",
+            "title": "সূর্যাস্তের নিষিদ্ধ সময়ে কি আসরের নামাজ পড়া যায়?",
+            "excerpt": "Post Updated at 28 Oct, 2025 – 8:10 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:28:20+00:00",
+            "updatedAt": "2026-11-19T08:09:21+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "d325793f644e61094f28a70c21c439549462d904961780d746a2dcaf21a144a7",
+            "url": "https://muslimsday.com/bn/blog/সূর্যাস্তের-সময়-আসর",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সূর্যাস্তের-সময়-আসর.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/সূর্যাস্তের-সময়-আসর.html"
+        },
+        {
+            "id": 264,
+            "translationId": 264,
+            "language": "bn",
+            "slug": "মাগরিবের-ওয়াক্ত-কত-সময়",
+            "title": "অ্যাপে মাগরিবের ওয়াক্ত এত বেশি সময় দেখানো হচ্ছে কেন?",
+            "excerpt": "Post Updated at 20 Jun, 2026 – 8:19 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:23:06+00:00",
+            "updatedAt": "2026-11-19T08:09:17+00:00",
+            "readingTimeMinutes": 1,
+            "contentHash": "08667389587b3a40033ea077bf9ccd63eb48345434040f8defa21768b45b3398",
+            "url": "https://muslimsday.com/bn/blog/মাগরিবের-ওয়াক্ত-কত-সময়",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাগরিবের-ওয়াক্ত-কত-সময়.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/মাগরিবের-ওয়াক্ত-কত-সময়.html"
+        },
+        {
+            "id": 265,
+            "translationId": 265,
+            "language": "bn",
+            "slug": "আরবির-বাংলা-উচ্চারণ",
+            "title": "দুআগুলোর বাংলা উচ্চারণ না দেয়ার কারণ",
+            "excerpt": "Post Updated at 14 Oct, 2025 – 6:29 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:18:50+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 3,
+            "contentHash": "43fea60645731c54e64c71fc9c471d1abfceea34dbb485ded0239c6413ba0d60",
+            "url": "https://muslimsday.com/bn/blog/আরবির-বাংলা-উচ্চারণ",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আরবির-বাংলা-উচ্চারণ.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আরবির-বাংলা-উচ্চারণ.html"
+        },
+        {
+            "id": 266,
+            "translationId": 266,
+            "language": "bn",
+            "slug": "আপনার-এলাকার-মসজিদের-ক্য",
+            "title": "আপনার এলাকার মসজিদের ক্যালেন্ডারের সাথে অ্যাপের সময়ে অমিল থাকার কারণ",
+            "excerpt": "Post Updated at 21 Mar, 2023 – 8:48 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:16:47+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 2,
+            "contentHash": "5c0611a3e75cace820113f0fa27a3481cf6fe5257bdda9f3340613616b6d94e1",
+            "url": "https://muslimsday.com/bn/blog/আপনার-এলাকার-মসজিদের-ক্য",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আপনার-এলাকার-মসজিদের-ক্য.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/আপনার-এলাকার-মসজিদের-ক্য.html"
+        },
+        {
+            "id": 267,
+            "translationId": 267,
+            "language": "bn",
+            "slug": "ইফতারে-সতর্কতামূলক-সময়",
+            "title": "ইফতারের সময়ে সূর্যাস্তের সাথে সতর্কতামূলক সময় যোগ করার অপশন কেন দেয়া হয়েছে?",
+            "excerpt": "Post Updated at 27 Feb, 2026 – 10:43 PM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/1e7e6080-8d44-413a-b4b1-4d073410eb19.jpg",
+                "alt": "",
+                "width": 640,
+                "height": 427
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
+                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-03-01T14:12:54+00:00",
+            "updatedAt": "2026-11-17T04:05:59+00:00",
+            "readingTimeMinutes": 6,
+            "contentHash": "7d62a6461bbc4fd306ed7487f64671da276b82604d76ef34253da8661b1f2905",
+            "url": "https://muslimsday.com/bn/blog/ইফতারে-সতর্কতামূলক-সময়",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতারে-সতর্কতামূলক-সময়.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/ইফতারে-সতর্কতামূলক-সময়.html"
+        },
+        {
+            "id": 268,
+            "translationId": 268,
+            "language": "bn",
+            "slug": "যে-কারণে-রোজা-ভঙ্গ-হয়-না",
+            "title": "যে সকল কারণে সাওম (রোজা) ভঙ্গ হয় না",
+            "excerpt": "Post Updated at 7 Apr, 2023 – 11:57 AM",
+            "featuredImage": {
+                "url": "https://data.muslimsday.com/appdata/blog/media/2026/11/bf4e13b7-3426-4642-b488-0c80a5046b85.jpg",
+                "alt": "",
+                "width": 1200,
+                "height": 805
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "মাসআলা",
+                    "name": "মাসআলা",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2023-02-27T16:57:11+00:00",
+            "updatedAt": "2026-11-19T08:09:15+00:00",
+            "readingTimeMinutes": 5,
+            "contentHash": "a708cf810e128137a66be05bfb82218cf18ec0532e07866bdd6cef1a918beed9",
+            "url": "https://muslimsday.com/bn/blog/যে-কারণে-রোজা-ভঙ্গ-হয়-না",
+            "jsonUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যে-কারণে-রোজা-ভঙ্গ-হয়-না.json",
+            "htmlUrl": "https://data.muslimsday.com/appdata/blog/bn/posts/যে-কারণে-রোজা-ভঙ্গ-হয়-না.html"
+        }
+    ]
+}
