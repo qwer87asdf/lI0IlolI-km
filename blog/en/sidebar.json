@@ -75,6 +75,49 @@
             "reads": 11
         },
         {
+            "id": 3,
+            "translationId": 3,
+            "language": "en",
+            "slug": "muslim-lifestyle-apps",
+            "title": "10 Must-Have Muslim Lifestyle Apps for New Muslims",
+            "excerpt": "Best muslim lifestyle apps suggestion for the new muslims who are in need ot daily guidance of islamic rules.",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/8f4fea81-246c-400b-b189-402951159f30.png",
+                "alt": "",
+                "width": 1536,
+                "height": 1024
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "slug": "education",
+                    "name": "Education",
+                    "primary": true
+                },
+                {
+                    "id": 4,
+                    "slug": "masnun-dua",
+                    "name": "Masnun Dua",
+                    "primary": false
+                },
+                {
+                    "id": 5,
+                    "slug": "quranic-education",
+                    "name": "Quranic Education",
+                    "primary": false
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-07-30T11:54:37+00:00",
+            "updatedAt": "2026-11-16T13:20:39+00:00",
+            "readingTimeMinutes": 10,
+            "contentHash": "39c967190e3f27b7373b6fb323e645a64b27d1c6de07b8a6c8e2342e042aa2d6",
+            "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.html",
+            "reads": 6
+        },
+        {
             "id": 5,
             "translationId": 5,
             "language": "en",
@@ -116,49 +159,6 @@
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html",
             "reads": 5
-        },
-        {
-            "id": 3,
-            "translationId": 3,
-            "language": "en",
-            "slug": "muslim-lifestyle-apps",
-            "title": "10 Must-Have Muslim Lifestyle Apps for New Muslims",
-            "excerpt": "Best muslim lifestyle apps suggestion for the new muslims who are in need ot daily guidance of islamic rules.",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/8f4fea81-246c-400b-b189-402951159f30.png",
-                "alt": "",
-                "width": 1536,
-                "height": 1024
-            },
-            "categories": [
-                {
-                    "id": 3,
-                    "slug": "education",
-                    "name": "Education",
-                    "primary": true
-                },
-                {
-                    "id": 4,
-                    "slug": "masnun-dua",
-                    "name": "Masnun Dua",
-                    "primary": false
-                },
-                {
-                    "id": 5,
-                    "slug": "quranic-education",
-                    "name": "Quranic Education",
-                    "primary": false
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-07-30T11:54:37+00:00",
-            "updatedAt": "2026-11-16T13:20:39+00:00",
-            "readingTimeMinutes": 10,
-            "contentHash": "39c967190e3f27b7373b6fb323e645a64b27d1c6de07b8a6c8e2342e042aa2d6",
-            "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.html",
-            "reads": 3
         },
         {
             "id": 4,
