@@ -10,7 +10,6 @@
             "isActive": true,
             "priority": 120,
             "supportedCountries": [],
-            "ctaText": "Join now",
             "action": {
                 "type": "web",
                 "url": "https://us06web.zoom.us/j/87155790312?pwd=yBvl7Kl7MZv4srJo0B9FcMJL62ce5m.1"
@@ -46,7 +45,6 @@
             "isActive": true,
             "priority": 120,
             "supportedCountries": [],
-            "ctaText": "Join now",
             "action": {
                 "type": "web",
                 "url": "https://us06web.zoom.us/j/86584243103?pwd=hzid2WuPCyowxOjr8SH7pfh4S8jcOg.1"
@@ -142,7 +140,6 @@
             "isActive": true,
             "priority": 90,
             "supportedCountries": [],
-            "ctaText": "বিস্তারিত",
             "action": {
                 "type": "web",
                 "url": "https://muslimsday.com/blog/আইয়ামে-বীজ-রোজার-ফজিলত/"
