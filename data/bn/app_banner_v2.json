@@ -134,14 +134,15 @@
         },
         {
             "id": "ayame-beez-nov-26-bn-1",
-            "icon": "https://data.muslimsday.com/appdata/image/ramadan_1-NdV8bLSU.png",
+            "icon": "https://data.muslimsday.com/appdata/image/no-8ZDtSbeI.png",
             "title": "আইয়ামে বীজের রোজা রাখছেন তো?",
-            "description": "এ মাসে আইয়ামে বীজের রোজা যথাক্রমে ২৪,২৫ ও ২৬ নভেম্বর",
+            "description": "এ মাসে রোজা যথাক্রমে ২৪,২৫ ও ২৬ নভেম্বর",
             "startTime": 1795307580000,
             "endTime": 1795586100000,
             "isActive": true,
             "priority": 90,
             "supportedCountries": [],
+            "ctaText": "বিস্তারিত",
             "action": {
                 "type": "web",
                 "url": "https://muslimsday.com/blog/আইয়ামে-বীজ-রোজার-ফজিলত/"
