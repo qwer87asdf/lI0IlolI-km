@@ -69,6 +69,22 @@
                 "type": "web",
                 "url": "https://campaign.muslimsday.com/tawhid-oct-26/?ref=H45SZTYF"
             }
+        },
+        {
+            "id": "ayame-beez-nov-26-bn-1",
+            "icon": "https://data.muslimsday.com/appdata/image/no-VVS71bPz.png",
+            "title": "Are you fasting on Ayyam al-Beed?",
+            "description": "This month, the fasting dates are November 24, 25, and 26, respectively.",
+            "startTime": 1795325760000,
+            "endTime": 1795629300000,
+            "isActive": true,
+            "priority": 90,
+            "supportedCountries": [],
+            "ctaText": "Learn More",
+            "action": {
+                "type": "web",
+                "url": "https://muslimsday.com/blog/আইয়ামে-বীজ-রোজার-ফজিলত/"
+            }
         }
     ],
     "maxCards": 10,
