@@ -2,14 +2,15 @@
     "events": [
         {
             "id": "surah-mashq-live-sun-night-bn",
-            "icon": "https://data.muslimsday.com/appdata/image/ramadan_1-NdV8bLSU.png",
-            "title": "🔴 রাত ৯:০০টা থেকে শুরু হতে যাচ্ছে পুরুষদের জন্য লাইভ সূরা মশক ক্লাস",
-            "description": "যুক্ত হতে ট্যাপ করুন",
+            "icon": "https://data.muslimsday.com/appdata/image/flat-quran-icon-with-clean-style-vector-tcymwOGJ.jpg",
+            "title": "🔴 পুরুষদের জন্য সূরা শুদ্ধীকরণ ক্লাস (Free)",
+            "description": "লাইভ ক্লাস শুরু : রাত ৯টা থেকে",
             "startTime": 1794720600000,
             "endTime": 1797357540000,
             "isActive": true,
             "priority": 120,
             "supportedCountries": [],
+            "ctaText": "Join now",
             "action": {
                 "type": "web",
                 "url": "https://us06web.zoom.us/j/87155790312?pwd=yBvl7Kl7MZv4srJo0B9FcMJL62ce5m.1"
@@ -28,7 +29,7 @@
                     "endTime": null,
                     "window": {
                         "startDay": "SUNDAY",
-                        "startTime": "20:50",
+                        "startTime": "19:00",
                         "endDay": "SUNDAY",
                         "endTime": "21:45"
                     }
@@ -37,14 +38,15 @@
         },
         {
             "id": "surah-mashq-live-wed-fajr-bn",
-            "icon": "https://data.muslimsday.com/appdata/image/ramadan_1-NdV8bLSU.png",
-            "title": "🔴 ৬:১৫ মিনিটে শুরু হতে যাচ্ছে পুরুষদের জন্য লাইভ সূরা মশক ক্লাস",
-            "description": "যুক্ত হতে ট্যাপ করুন",
+            "icon": "https://data.muslimsday.com/appdata/image/flat-quran-icon-with-clean-style-vector-hmtqGR9E.jpg",
+            "title": "🔴 পুরুষদের জন্য সূরা শুদ্ধীকরণ ক্লাস (Free)",
+            "description": "লাইভ ক্লাস শুরু : ভোর ৬:১৫",
             "startTime": 1794720600000,
             "endTime": 1797357540000,
             "isActive": true,
             "priority": 120,
             "supportedCountries": [],
+            "ctaText": "Join now",
             "action": {
                 "type": "web",
                 "url": "https://us06web.zoom.us/j/86584243103?pwd=hzid2WuPCyowxOjr8SH7pfh4S8jcOg.1"
@@ -63,9 +65,9 @@
                     "endTime": null,
                     "window": {
                         "startDay": "WEDNESDAY",
-                        "startTime": "05:00",
+                        "startTime": "04:00",
                         "endDay": "WEDNESDAY",
-                        "endTime": "07:00"
+                        "endTime": "06:45"
                     }
                 }
             }
