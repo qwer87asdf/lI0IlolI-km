@@ -161,17 +161,17 @@
             "reads": 6
         },
         {
-            "id": 4,
-            "translationId": 4,
+            "id": 7,
+            "translationId": 7,
             "language": "en",
-            "slug": "sahabi-tree",
-            "title": "The Story of Bahira the Monk and the Sahabi Tree: What Really Happened",
-            "excerpt": "Know the real story of Sahabi tree in Jordan. The 1,500-Year-Old Tree That Sheltered Prophet Muhammad ﷺ",
+            "slug": "short-vs-long-dua-qunoot",
+            "title": "Short vs Long Dua Qunoot: Different Versions Explained",
+            "excerpt": "Learn the explanation of short vs long dua qunoot. Learn the benefits of dua qunoot and when to perform it.",
             "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/32d91ee7-febe-4846-8e13-ea9dd97ed0cb.jpg",
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/15a2d732-89a8-4585-bf03-a6f924dd46e3.png",
                 "alt": "",
-                "width": 1075,
-                "height": 716
+                "width": 1536,
+                "height": 1024
             },
             "categories": [
                 {
@@ -191,23 +191,17 @@
                     "slug": "quranic-education",
                     "name": "Quranic Education",
                     "primary": false
-                },
-                {
-                    "id": 6,
-                    "slug": "story",
-                    "name": "Story",
-                    "primary": false
                 }
             ],
             "isSticky": false,
-            "publishedAt": "2026-07-30T08:36:34+00:00",
-            "updatedAt": "2026-11-16T13:20:44+00:00",
+            "publishedAt": "2026-07-26T09:07:01+00:00",
+            "updatedAt": "2026-11-16T13:22:00+00:00",
             "readingTimeMinutes": 9,
-            "contentHash": "14d9af2b3049cb1ffeb9663a2f166d60a8c025ef4257261d8289a52a76f49622",
-            "url": "https://muslimsday.com/blog/sahabi-tree",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/sahabi-tree.html",
-            "reads": 2
+            "contentHash": "6cf8cdc4dab2822f92a0ddc1436f13d0f836ce67aebc4b252020dfb05493dc79",
+            "url": "https://muslimsday.com/blog/short-vs-long-dua-qunoot",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/en/posts/short-vs-long-dua-qunoot.html",
+            "reads": 3
         }
     ]
 }
