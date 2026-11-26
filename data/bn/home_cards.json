@@ -57,9 +57,7 @@
                 "title": "ঘুম থেকে ওঠার দোয়া",
                 "subtitle": "সকালের দোয়া",
                 "content": "আলহামদুলিল্লাহিল্লাজি আহইয়ানা বা’দা মা আমাতানা ওয়া ইলাহিন নুশুর।",
-                "audioUrls": [
-                    "https://data.muslimsday.com/appdata/audio/dua/1.mp3"
-                ]
+                "audioUrls": []
             }
         },
         {
@@ -108,5 +106,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1795666462000
+    "lastUpdated": 1795666791000
 }

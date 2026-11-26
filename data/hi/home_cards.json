@@ -1,6 +1,37 @@
 {
     "items": [
         {
+            "type": "dua_of_the_moment",
+            "id": "daily_dua",
+            "priority": 400,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "duaContent": {
+                "id": 1,
+                "title": "अज़ान के बाद की दुआ",
+                "subtitle": "अज़ान के बाद दुरूद शरीफ़ और अज़ान की दुआ पढ़ें",
+                "content": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلاَةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَابْعَثْهُ مَقَامًا مَّحْمُوْدًا الَّذِيْ وَعَدْتَهُ",
+                "audioUrls": []
+            }
+        },
+        {
+            "type": "last_read_ayah",
+            "id": "last_read_ayah",
+            "priority": 500,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null
+        },
+        {
             "type": "feed",
             "id": "feed_section",
             "priority": 600,
@@ -17,5 +48,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1795666462000
+    "lastUpdated": 1795666791000
 }
