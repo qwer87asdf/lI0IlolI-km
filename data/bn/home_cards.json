@@ -42,6 +42,39 @@
             }
         },
         {
+            "type": "dua_of_the_moment",
+            "id": "dua_moment",
+            "priority": 400,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "duaContent": {
+                "id": 1,
+                "title": "ঘুম থেকে ওঠার দোয়া",
+                "subtitle": "সকালের দোয়া",
+                "content": "আলহামদুলিল্লাহিল্লাজি আহইয়ানা বা’দা মা আমাতানা ওয়া ইলাহিন নুশুর।",
+                "audioUrls": [
+                    "https://data.muslimsday.com/appdata/audio/dua/1.mp3"
+                ]
+            }
+        },
+        {
+            "type": "last_read_ayah",
+            "id": "last_ayah",
+            "priority": 500,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null
+        },
+        {
             "type": "dynamic_ad",
             "id": "pre-feed-ad",
             "priority": 550,
@@ -75,5 +108,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1794817400000
+    "lastUpdated": 1795666462000
 }

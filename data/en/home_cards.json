@@ -44,6 +44,37 @@
             }
         },
         {
+            "type": "dua_of_the_moment",
+            "id": "daily_dua",
+            "priority": 400,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "duaContent": {
+                "id": 1,
+                "title": "Dua of the Moment",
+                "subtitle": "Sunan Abu Dawood",
+                "content": "Allahumma bika asbahna wa bika amsayna wa bika nahya wa bika namutu wa ilayka-nnushur.",
+                "audioUrls": []
+            }
+        },
+        {
+            "type": "last_read_ayah",
+            "id": "last_read_ayah",
+            "priority": 500,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null
+        },
+        {
             "type": "feed",
             "id": "feed_section",
             "priority": 600,
@@ -60,5 +91,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1794817400000
+    "lastUpdated": 1795666462000
 }
