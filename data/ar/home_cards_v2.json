@@ -29,7 +29,17 @@
             "supportedCountries": [],
             "notSupportedCountries": [],
             "visibleTo": [],
-            "endTimestampInSecond": null
+            "endTimestampInSecond": null,
+            "shareConfig": {
+                "title": "انشر Muslims Day",
+                "message": "لك أجر كل من انضم بدعوتك.\nجزاك الله خيرًا على مساعدتك في نشر Muslims Day.",
+                "buttonText": "مشاركة",
+                "shareText": "استخدم تطبيق Muslims Day لتكون عبدًا أفضل لله كل يوم في هذه الحياة المزدحمة. ستجد فيه مواقيت الصلاة الصحيحة والقرآن والأدعية والتفسير وكل ما تحتاجه.\nوشارك هذه الدعوة مع أحبائك ليشاركوا في رحلة أن نصبح مسلمين أفضل، إن شاء الله. جزاكم الله خيرًا.\nرابط التحميل: https://kahf.to/mdsharecard",
+                "shareSubject": "Muslims Day",
+                "shareCount": 0,
+                "showShareCount": true,
+                "shareCountLabel": "مشاركة"
+            }
         },
         {
             "type": "continue_today",
@@ -47,5 +57,5 @@
             "showDailyAmal": true
         }
     ],
-    "lastUpdated": 1795703273000
+    "lastUpdated": 1795704083000
 }

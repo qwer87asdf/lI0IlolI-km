@@ -101,7 +101,7 @@
   {
     "name": "home_cards",
     "url": "appdata/data/{lang}/home_cards.json",
-    "updated_at": 1795703277428
+    "updated_at": 1795704086955
   },
   {
     "name": "donation",
@@ -146,6 +146,6 @@
   {
     "name": "home_cards_v2",
     "url": "appdata/data/{lang}/home_cards_v2.json",
-    "updated_at": 1795703277428
+    "updated_at": 1795704086955
   }
 ]

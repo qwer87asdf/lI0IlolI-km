@@ -20,6 +20,28 @@
             }
         },
         {
+            "type": "share_app",
+            "id": "share_app_card_01",
+            "priority": 450,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "shareConfig": {
+                "title": "Muslims Day کو پھیلائیں",
+                "message": "آپ کے ذریعے جڑنے والے ہر شخص کا ثواب آپ کو ملے گا۔\nMuslims Day کو پھیلانے میں مدد کرنے کا جزاک اللہ خیراً۔",
+                "buttonText": "شیئر کریں",
+                "shareText": "اس مصروف زندگی میں ہر روز اللہ کا بہتر بندہ بننے کے لیے Muslims Day ایپ استعمال کریں۔ اس میں نماز کے درست اوقات، قرآن، دعا، تفسیر اور ضرورت کی ہر چیز موجود ہے۔\nیہ دعوت اپنے پیاروں تک بھی پہنچائیں تاکہ وہ بھی ایک بہتر مسلمان بننے کے اس سفر میں شامل ہو سکیں، ان شاء اللہ۔ جزاک اللہ خیر۔\nڈاؤن لوڈ لنک: https://kahf.to/mdsharecard",
+                "shareSubject": "Muslims Day",
+                "shareCount": 0,
+                "showShareCount": true,
+                "shareCountLabel": "بار شیئر کیا گیا"
+            }
+        },
+        {
             "type": "last_read_ayah",
             "id": "last_read_ayah",
             "priority": 500,
@@ -48,5 +70,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1795703273000
+    "lastUpdated": 1795704083000
 }

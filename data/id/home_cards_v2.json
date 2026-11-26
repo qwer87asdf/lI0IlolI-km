@@ -29,7 +29,17 @@
             "supportedCountries": [],
             "notSupportedCountries": [],
             "visibleTo": [],
-            "endTimestampInSecond": null
+            "endTimestampInSecond": null,
+            "shareConfig": {
+                "title": "Sebarkan Muslims Day",
+                "message": "Anda akan mendapat pahala untuk setiap orang yang bergabung melalui dukungan Anda.\nJazakallahu Khairan telah membantu menyebarkan Muslims Day.",
+                "buttonText": "Bagikan",
+                "shareText": "Gunakan aplikasi Muslims Day untuk menjadi hamba Allah yang lebih baik setiap hari di tengah kesibukan hidup. Di sini Anda akan menemukan waktu salat yang tepat, Al-Qur'an, doa, tafsir, dan semua yang Anda butuhkan.\nBagikan juga undangan ini kepada orang-orang tercinta agar mereka ikut dalam perjalanan menjadi Muslim yang lebih baik, InsyaAllah. Jazakallahu Khair.\nLink unduhan: https://kahf.to/mdsharecard",
+                "shareSubject": "Muslims Day",
+                "shareCount": 0,
+                "showShareCount": true,
+                "shareCountLabel": "kali dibagikan"
+            }
         },
         {
             "type": "continue_today",
@@ -47,5 +57,5 @@
             "showDailyAmal": true
         }
     ],
-    "lastUpdated": 1795703273000
+    "lastUpdated": 1795704083000
 }

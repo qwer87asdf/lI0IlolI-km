@@ -63,6 +63,28 @@
             }
         },
         {
+            "type": "share_app",
+            "id": "share_app_card_01",
+            "priority": 450,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "shareConfig": {
+                "title": "Spread Muslims Day",
+                "message": "You will be rewarded for everyone who has joined your support.\nJazakallahu Khairan for helping to spread Muslims Day.",
+                "buttonText": "Share",
+                "shareText": "Use the Muslims Day app to be a better servant of Allah every day in this busy life. Here you will find the correct prayer times, Quran, Dua, Tafsir and everything you need.\nAlso, pass on this invitation to your loved ones so that they can participate in this procession of becoming a good Muslim, InshaAllah. Jazakallahu Khair.\nDownload Link: https://kahf.to/mdsharecard",
+                "shareSubject": "Muslims Day",
+                "shareCount": 0,
+                "showShareCount": true,
+                "shareCountLabel": "shares"
+            }
+        },
+        {
             "type": "last_read_ayah",
             "id": "last_read_ayah",
             "priority": 500,
@@ -91,5 +113,5 @@
             "endTimestampInSecond": null
         }
     ],
-    "lastUpdated": 1795703273000
+    "lastUpdated": 1795704083000
 }
