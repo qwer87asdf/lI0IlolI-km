@@ -1,0 +1,51 @@
+{
+    "items": [
+        {
+            "type": "dua_of_the_moment",
+            "id": "daily_dua",
+            "priority": 400,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "duaContent": {
+                "id": 1,
+                "title": "अज़ान के बाद की दुआ",
+                "subtitle": "अज़ान के बाद दुरूद शरीफ़ और अज़ान की दुआ पढ़ें",
+                "content": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلاَةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَابْعَثْهُ مَقَامًا مَّحْمُوْدًا الَّذِيْ وَعَدْتَهُ",
+                "audioUrls": []
+            }
+        },
+        {
+            "type": "share_app",
+            "id": "share_app",
+            "priority": 450,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null
+        },
+        {
+            "type": "continue_today",
+            "id": "continue_today",
+            "priority": 500,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "showLastRead": true,
+            "showTasbeeh": true,
+            "showDailyAmal": true
+        }
+    ],
+    "lastUpdated": 1795703273000
+}

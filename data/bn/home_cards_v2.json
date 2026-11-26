@@ -1,0 +1,51 @@
+{
+    "items": [
+        {
+            "type": "dua_of_the_moment",
+            "id": "daily_dua",
+            "priority": 400,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "duaContent": {
+                "id": 1,
+                "title": "ঘুম থেকে ওঠার দোয়া",
+                "subtitle": "সকালের দোয়া",
+                "content": "আলহামদুলিল্লাহিল্লাজি আহইয়ানা বা’দা মা আমাতানা ওয়া ইলাহিন নুশুর।",
+                "audioUrls": []
+            }
+        },
+        {
+            "type": "share_app",
+            "id": "share_app",
+            "priority": 450,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null
+        },
+        {
+            "type": "continue_today",
+            "id": "continue_today",
+            "priority": 500,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "showLastRead": true,
+            "showTasbeeh": true,
+            "showDailyAmal": true
+        }
+    ],
+    "lastUpdated": 1795703273000
+}

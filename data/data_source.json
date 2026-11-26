@@ -101,7 +101,7 @@
   {
     "name": "home_cards",
     "url": "appdata/data/{lang}/home_cards.json",
-    "updated_at": 1795666795149
+    "updated_at": 1795703277428
   },
   {
     "name": "donation",
@@ -142,5 +142,10 @@
     "name": "ramadan_share_quotes",
     "url": "appdata/data/{lang}/ramadan_share_quotes.json",
     "updated_at": 1794912468000
+  },
+  {
+    "name": "home_cards_v2",
+    "url": "appdata/data/{lang}/home_cards_v2.json",
+    "updated_at": 1795703277428
   }
 ]
