@@ -90,7 +90,7 @@
             "url": "https://muslimsday.com/blog/muslim-lifestyle-apps",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/muslim-lifestyle-apps.html",
-            "reads": 941
+            "reads": 942
         },
         {
             "id": 4,
@@ -213,7 +213,7 @@
             "url": "https://muslimsday.com/blog/surah-yaseen-heart-of-quran",
             "jsonUrl": "https://data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.json",
             "htmlUrl": "https://data.muslimsday.com/appdata/blog/en/posts/surah-yaseen-heart-of-quran.html",
-            "reads": 650
+            "reads": 652
         }
     ]
 }
