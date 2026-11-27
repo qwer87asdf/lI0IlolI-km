@@ -50,6 +50,43 @@
             "reads": 2
         },
         {
+            "id": 14,
+            "translationId": 14,
+            "language": "bn",
+            "slug": "story-of-ansar-sahabi-4",
+            "title": "ইয়াসরিবের হৃদয়ে ঈমানের মহাবিপ্লব—আনসার সিরিজ-০৪",
+            "excerpt": "তলোয়ার হাতে মুসআব (রা.)-কে হত্যা করতে এসে কীভাবে কুরআনের বাণীতে গলে গেল সা'দ ইবনে মুআযের হৃদয়? জানুন ইয়াসরিবের বুকে ইসলামের প্রথম মহাবিপ্লবের সেই রুদ্ধশ্বাস উপাখ্যান।",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/c2b1b43c-91b2-4005-826d-ea1cbb3595b2.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 533
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-05-17T10:17:01+00:00",
+            "updatedAt": "2026-11-16T13:23:36+00:00",
+            "readingTimeMinutes": 8,
+            "contentHash": "7e5106e282e2207c329eb1d11ef21cf9a7eb317afba8745ca01e19894eac2ef4",
+            "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-4",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.html",
+            "reads": 2
+        },
+        {
             "id": 11,
             "translationId": 11,
             "language": "bn",
@@ -121,43 +158,6 @@
             "url": "https://muslimsday.com/bn/blog/ditio-akabar-sopoth",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/ditio-akabar-sopoth.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/ditio-akabar-sopoth.html",
-            "reads": 1
-        },
-        {
-            "id": 14,
-            "translationId": 14,
-            "language": "bn",
-            "slug": "story-of-ansar-sahabi-4",
-            "title": "ইয়াসরিবের হৃদয়ে ঈমানের মহাবিপ্লব—আনসার সিরিজ-০৪",
-            "excerpt": "তলোয়ার হাতে মুসআব (রা.)-কে হত্যা করতে এসে কীভাবে কুরআনের বাণীতে গলে গেল সা'দ ইবনে মুআযের হৃদয়? জানুন ইয়াসরিবের বুকে ইসলামের প্রথম মহাবিপ্লবের সেই রুদ্ধশ্বাস উপাখ্যান।",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/c2b1b43c-91b2-4005-826d-ea1cbb3595b2.jpg",
-                "alt": "",
-                "width": 800,
-                "height": 533
-            },
-            "categories": [
-                {
-                    "id": 8,
-                    "slug": "আনসার-সাহাবীগণ",
-                    "name": "আনসার সাহাবীগণ",
-                    "primary": false
-                },
-                {
-                    "id": 7,
-                    "slug": "ইসলামের-ইতিহাস",
-                    "name": "ইসলামের ইতিহাস",
-                    "primary": true
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-05-17T10:17:01+00:00",
-            "updatedAt": "2026-11-16T13:23:36+00:00",
-            "readingTimeMinutes": 8,
-            "contentHash": "7e5106e282e2207c329eb1d11ef21cf9a7eb317afba8745ca01e19894eac2ef4",
-            "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-4",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.html",
             "reads": 1
         },
         {
