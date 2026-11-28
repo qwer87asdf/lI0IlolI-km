@@ -124,6 +124,43 @@
             "reads": 2
         },
         {
+            "id": 13,
+            "translationId": 13,
+            "language": "bn",
+            "slug": "ditio-akabar-sopoth",
+            "title": "দ্বিতীয় আকাবার শপথ : হিজরতের এক মহাকাব্যিক রূপরেখা—আনসার সিরিজ-০৫",
+            "excerpt": "এই পর্বে আমরা জানতে পারব দ্বিতীয় দফায় আনসার সাহাবিদের বায়াত গ্রহণের সেই",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/84f6db29-af7d-4e3a-b95c-24e5ed58b62a.jpg",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-06-17T05:05:49+00:00",
+            "updatedAt": "2026-11-16T13:23:32+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "bba5c784c339712c90786616c130a93a4df40f1d9e221f3bf32d868567a2139c",
+            "url": "https://muslimsday.com/bn/blog/ditio-akabar-sopoth",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/ditio-akabar-sopoth.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/ditio-akabar-sopoth.html",
+            "reads": 2
+        },
+        {
             "id": 16,
             "translationId": 16,
             "language": "bn",
@@ -158,37 +195,6 @@
             "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-2",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-2.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-2.html",
-            "reads": 2
-        },
-        {
-            "id": 18,
-            "translationId": 18,
-            "language": "bn",
-            "slug": "durud-reminder",
-            "title": "মুসলিমস ডে অ্যাপের নতুন ফিচার: দরূদ রিমাইন্ডার",
-            "excerpt": "একবার দরূদ পড়লে ১০ টি রহমত নাযিল হয়, ১০ টি নেকি লেখা হয়, ১০টি গুনাহ মাফ হয়। নিয়মিত দরূদ পড়তে মুসলিমস ডের দরূদ রিমাইন্ডার ফিচারটি ব্যবহার করুন",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/c5afc27a-df8a-4589-b0d4-a237e1f238eb.png",
-                "alt": "",
-                "width": 800,
-                "height": 598
-            },
-            "categories": [
-                {
-                    "id": 9,
-                    "slug": "অ্যাপ-সংক্রান্ত-জিজ্ঞাসা-faq",
-                    "name": "অ্যাপ সংক্রান্ত জিজ্ঞাসা (FAQ)",
-                    "primary": true
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-03-12T10:04:35+00:00",
-            "updatedAt": "2026-11-16T13:23:53+00:00",
-            "readingTimeMinutes": 2,
-            "contentHash": "03304225b65c45ec2e916e2882b2a1858a3004add721f24a47bbb5248aa3df0b",
-            "url": "https://muslimsday.com/bn/blog/durud-reminder",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/durud-reminder.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/durud-reminder.html",
             "reads": 2
         }
     ]
