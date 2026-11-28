@@ -1,6 +1,109 @@
 {
     "items": [
         {
+            "type": "top_features",
+            "id": "top_features_home",
+            "priority": 150,
+            "isEnabled": true,
+            "supportedLanguages": [],
+            "notSupportedLanguages": [],
+            "supportedCountries": [],
+            "notSupportedCountries": [],
+            "visibleTo": [],
+            "endTimestampInSecond": null,
+            "title": "Top Features",
+            "shortcuts": [
+                {
+                    "id": "habit-tracker",
+                    "title": "Tracker",
+                    "iconId": "SADAKAH_HABIT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ramadan_habit.png",
+                    "tileType": "HABIT_TRACKER",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "habit-tracker"
+                    }
+                },
+                {
+                    "id": "quran",
+                    "title": "Quran",
+                    "iconId": "QURAN_SHORTCUT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/quran.png",
+                    "tileType": "ICON",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "quran-chapter-list"
+                    }
+                },
+                {
+                    "id": "qibla-compass",
+                    "title": "Qibla",
+                    "iconId": "QIBLA_SHORTCUT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/qibla_compass.png",
+                    "tileType": "ICON",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "qibla-compass"
+                    }
+                },
+                {
+                    "id": "ruqyah",
+                    "title": "Ruqyah",
+                    "iconId": "HEART",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/ruqyah.png",
+                    "tileType": "ICON",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "ruqyah-category"
+                    }
+                },
+                {
+                    "id": "quran-reading",
+                    "title": "Tilawat",
+                    "iconId": "QURAN_SHORTCUT",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/tilawat.png",
+                    "tileType": "ICON",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "mushaf-tilawat"
+                    }
+                },
+                {
+                    "id": "quran-tafsir-details",
+                    "title": "Tafsir",
+                    "iconId": "KNOWLEDGE",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/quran_knowledge.png",
+                    "tileType": "ICON",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "tafsir"
+                    }
+                },
+                {
+                    "id": "names-list",
+                    "title": "99 Names",
+                    "iconId": "KNOWLEDGE",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/names_99.png",
+                    "tileType": "ICON",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "names99"
+                    }
+                },
+                {
+                    "id": "tasbeeh",
+                    "title": "Tasbeeh",
+                    "iconId": "TASBEEH",
+                    "iconUrl": "https://data.muslimsday.com/appdata/image/{theme}/tasbeeh.png",
+                    "tileType": "ICON",
+                    "action": {
+                        "type": "screen",
+                        "routeKey": "tasbeeh"
+                    }
+                }
+            ]
+        },
+        {
             "type": "dua_of_the_moment",
             "id": "daily_dua",
             "priority": 400,
@@ -57,5 +160,5 @@
             "showDailyAmal": true
         }
     ],
-    "lastUpdated": 1795704083000
+    "lastUpdated": 1795866432000
 }
