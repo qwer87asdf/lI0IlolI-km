@@ -50,43 +50,6 @@
             "reads": 3
         },
         {
-            "id": 11,
-            "translationId": 11,
-            "language": "bn",
-            "slug": "jokhon-madina-holo_okhondo_pariber",
-            "title": "ভ্রাতৃত্বের এক অনন্য মহাকাব্য : যখন মদিনা হলো এক অখণ্ড পরিবার—আনসার সিরিজ-০৭",
-            "excerpt": "মক্কার মুহাজির ও মদিনার আনসারদের মাঝে কীভাবে গড়ে উঠেছিল রক্তের চেয়েও গাঢ় এক বিশ্বাসের বন্ধন?",
-            "featuredImage": {
-                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/9cae6172-ccb4-400f-bc1d-1fee419f3181.avif",
-                "alt": "",
-                "width": 800,
-                "height": 450
-            },
-            "categories": [
-                {
-                    "id": 8,
-                    "slug": "আনসার-সাহাবীগণ",
-                    "name": "আনসার সাহাবীগণ",
-                    "primary": false
-                },
-                {
-                    "id": 7,
-                    "slug": "ইসলামের-ইতিহাস",
-                    "name": "ইসলামের ইতিহাস",
-                    "primary": true
-                }
-            ],
-            "isSticky": false,
-            "publishedAt": "2026-06-21T09:13:14+00:00",
-            "updatedAt": "2026-11-16T13:24:58+00:00",
-            "readingTimeMinutes": 7,
-            "contentHash": "f560829d610c7e28e9ac2d84e39c643e780fa9ef1b7a1945a86788464ead2c98",
-            "url": "https://muslimsday.com/bn/blog/jokhon-madina-holo_okhondo_pariber",
-            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.json",
-            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.html",
-            "reads": 2
-        },
-        {
             "id": 14,
             "translationId": 14,
             "language": "bn",
@@ -121,6 +84,43 @@
             "url": "https://muslimsday.com/bn/blog/story-of-ansar-sahabi-4",
             "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.json",
             "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/story-of-ansar-sahabi-4.html",
+            "reads": 3
+        },
+        {
+            "id": 11,
+            "translationId": 11,
+            "language": "bn",
+            "slug": "jokhon-madina-holo_okhondo_pariber",
+            "title": "ভ্রাতৃত্বের এক অনন্য মহাকাব্য : যখন মদিনা হলো এক অখণ্ড পরিবার—আনসার সিরিজ-০৭",
+            "excerpt": "মক্কার মুহাজির ও মদিনার আনসারদের মাঝে কীভাবে গড়ে উঠেছিল রক্তের চেয়েও গাঢ় এক বিশ্বাসের বন্ধন?",
+            "featuredImage": {
+                "url": "https://dev.data.muslimsday.com/appdata/blog/media/2026/11/9cae6172-ccb4-400f-bc1d-1fee419f3181.avif",
+                "alt": "",
+                "width": 800,
+                "height": 450
+            },
+            "categories": [
+                {
+                    "id": 8,
+                    "slug": "আনসার-সাহাবীগণ",
+                    "name": "আনসার সাহাবীগণ",
+                    "primary": false
+                },
+                {
+                    "id": 7,
+                    "slug": "ইসলামের-ইতিহাস",
+                    "name": "ইসলামের ইতিহাস",
+                    "primary": true
+                }
+            ],
+            "isSticky": false,
+            "publishedAt": "2026-06-21T09:13:14+00:00",
+            "updatedAt": "2026-11-16T13:24:58+00:00",
+            "readingTimeMinutes": 7,
+            "contentHash": "f560829d610c7e28e9ac2d84e39c643e780fa9ef1b7a1945a86788464ead2c98",
+            "url": "https://muslimsday.com/bn/blog/jokhon-madina-holo_okhondo_pariber",
+            "jsonUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.json",
+            "htmlUrl": "https://dev.data.muslimsday.com/appdata/blog/bn/posts/jokhon-madina-holo_okhondo_pariber.html",
             "reads": 2
         },
         {
